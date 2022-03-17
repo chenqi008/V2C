@@ -3,6 +3,15 @@ Pytorch implementation for “V2C: Visual Voice Cloning”
 
 ### V2C-Animation Dataset Construction
 
+#### Processes of dataset construction
+
+<p align="center">
+<img src="./images/data_collection.png" alt="example" width="40%">
+</p>
+<p align="center">
+Figure: An example of generated 3D house with description using HPGM on the Text--to--3D House Model dataset.
+</p>
+
 #### Run the following code, which can produce and organize the data automatically
 ```
 python DataConstruction/toolkit_data.py --SRT_path (path_of_SRT_files) --movie_path (path_of_movies) --output_path (path_of_output_data)
