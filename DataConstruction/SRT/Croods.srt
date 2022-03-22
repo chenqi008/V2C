@@ -322,7 +322,7 @@ Eep!
 
 75
 00:08:35,880 --> 00:08:38,690
-- Who is hungry?
+Who is hungry?
 -All right! Good one, Dad.
 
 76
@@ -331,7 +331,7 @@ Here you go, Thunk. Drink up.
 
 77
 00:08:44,080 --> 00:08:46,447
-- Sorry, Dad.
+Sorry, Dad.
 -Looks like fast food tonight.
 
 78
@@ -357,8 +357,8 @@ The moon is full. Bath night.
 
 83
 00:09:22,640 --> 00:09:25,041
-- Run for your life!
--You too, Mom.
+Run for your life!
+You too, Mom.
 
 84
 00:09:25,200 --> 00:09:27,441
@@ -416,7 +416,7 @@ Eep!
 
 97
 00:10:51,680 --> 00:10:53,364
-Okay, Okay-
+Okay, Okay
 
 98
 00:10:54,520 --> 00:10:56,090
@@ -428,23 +428,23 @@ Eep! Come down!
 
 100
 00:11:22,280 --> 00:11:24,851
-- That was too close.
--I was watching. I was fine.
+That was too close.
+I was watching. I was fine.
 
 101
 00:11:25,000 --> 00:11:27,241
-- What were you doing up there, Eep?
--I don't know.
+What were you doing up there, Eep?
+I don't know.
 
 102
 00:11:27,400 --> 00:11:29,050
-- What were you looking for?
--Nothing.
+What were you looking for?
+Nothing.
 
 103
 00:11:29,200 --> 00:11:30,850
-- Then why did you go up there?
--I don't know.
+Then why did you go up there?
+I don't know.
 
 104
 00:11:31,040 --> 00:11:32,644
@@ -482,23 +482,23 @@ Nothing is fun.
 
 112
 00:11:52,720 --> 00:11:54,449
-- Would you come down here?
--Grug.
+Would you come down here?
+Grug.
 
 113
 00:11:54,600 --> 00:11:55,601
-- EeP-
-_Gru9-
+EeP
+_Gru9
 
 114
 00:11:55,680 --> 00:11:56,681
-- Yes.
--Off!
+Yes.
+Off!
 
 115
 00:11:56,760 --> 00:11:58,364
-- Yes, I know. Okay, I'm trying to--
--Off.
+Yes, I know. Okay, I'm trying to
+Off.
 
 116
 00:11:58,480 --> 00:12:00,687
@@ -507,8 +507,8 @@ she needs her own ledge, that's all.
 
 117
 00:12:00,840 --> 00:12:02,729
-- That's what this is about.
--She's working through some things...
+That's what this is about.
+She's working through some things...
 
 118
 00:12:02,880 --> 00:12:03,961
@@ -593,7 +593,7 @@ She was filled with... curiosity.
 
 136
 00:12:54,840 --> 00:12:56,569
-- G rug.
+G rug.
 -Yes. yes.
 
 137
@@ -616,7 +616,7 @@ she saw something new and died!
 
 141
 00:13:10,360 --> 00:13:12,203
-- Just like that?
+Just like that?
 -Yes!
 
 142
@@ -708,13 +708,13 @@ Hey! No! It's mine.
 
 163
 00:19:02,640 --> 00:19:04,369
-- Please! Wait.
+Please! Wait.
 -No!
 
 164
 00:19:04,520 --> 00:19:06,249
-- It's dying! <i>I</i> can fix it!
--No! <i>I</i> caught it!
+It's dying! I can fix it!
+No! I caught it!
 
 165
 00:19:06,400 --> 00:19:07,765
@@ -770,8 +770,8 @@ No. No, I make it.
 
 178
 00:19:49,640 --> 00:19:51,051
-- Make some for me.
--Okay.
+Make some for me.
+Okay.
 
 179
 00:19:51,120 --> 00:19:52,087
@@ -840,7 +840,7 @@ Also, keeps my pants up.
 
 195
 00:20:31,480 --> 00:20:33,005
-What are "pants up"?
+What are pants up?
 
 196
 00:20:33,160 --> 00:20:34,491
@@ -861,7 +861,7 @@ What?
 
 200
 00:20:39,600 --> 00:20:41,841
-I'm calling it "The End."
+I'm calling it The End.
 
 201
 00:20:45,120 --> 00:20:46,360
@@ -1006,8 +1006,8 @@ Eep. Stay inside the family kill circle.
 
 235
 00:22:20,880 --> 00:22:22,803
-- It wasn't bad.
--"New" is always bad.
+It wasn't bad.
+-New is always bad.
 
 236
 00:22:22,960 --> 00:22:24,371
@@ -1251,7 +1251,7 @@ Wait.
 
 295
 00:28:37,560 --> 00:28:38,607
-<i>So, Dad...</i>
+So, Dad...
 
 296
 00:28:38,960 --> 00:28:42,521
@@ -1374,8 +1374,8 @@ Eep!
 
 325
 00:33:10,920 --> 00:33:12,490
-- Cavies!
--"Cavies"?
+Cavies!
+-Cavies?
 
 326
 00:33:12,640 --> 00:33:15,166
@@ -1384,7 +1384,7 @@ They're practically animals.
 
 327
 00:33:15,320 --> 00:33:17,926
-- You see their bony, sloping foreheads?
+You see their bony, sloping foreheads?
 -Yeah.
 
 328
@@ -1427,7 +1427,7 @@ The sun is in his hands!
 
 337
 00:33:36,520 --> 00:33:38,921
-No, no. It's "fire."
+No, no. It's fire.
 
 338
 00:33:39,120 --> 00:33:40,406
@@ -1867,11 +1867,11 @@ turn this family around so fast!
 
 442
 00:38:53,400 --> 00:38:55,050
-Dad, <i>I</i> gotta 90!
+Dad, I gotta 90!
 
 443
 00:38:55,200 --> 00:38:57,282
-- Come on, you can hold it.
+Come on, you can hold it.
 -I don't think so.
 
 444
@@ -1880,7 +1880,7 @@ Sandy, take that out of your mouth.
 
 445
 00:38:58,800 --> 00:38:59,926
-- I'm touching--
+I'm touching--
 -Gran.
 
 446
@@ -1894,7 +1894,7 @@ lumpy things and make it fast.
 
 448
 00:39:05,960 --> 00:39:07,883
-- Something bit me!
+Something bit me!
 -I don't blame it.
 
 449
@@ -1907,12 +1907,12 @@ No.
 
 451
 00:39:11,680 --> 00:39:13,205
-- How about now?
+How about now?
 -No.
 
 452
 00:39:13,320 --> 00:39:14,606
-- Now?
+Now?
 -No.
 
 453
@@ -1965,7 +1965,7 @@ An animal you don't eat.
 
 465
 00:39:39,280 --> 00:39:41,282
-We call those "children."
+We call those children.
 
 466
 00:39:42,600 --> 00:39:46,127
@@ -2003,7 +2003,7 @@ My feet hurt.
 
 474
 00:40:09,160 --> 00:40:10,844
-- You look tense.
+You look tense.
 -I'm not tense.
 
 475
@@ -2211,7 +2211,7 @@ Okay.
 
 524
 00:43:06,640 --> 00:43:08,324
-- Yeah, that's yours.
+Yeah, that's yours.
 -Excuse me.
 
 525
@@ -2220,7 +2220,7 @@ Your other hand--
 
 526
 00:43:11,160 --> 00:43:13,561
-- That's my arm.
+That's my arm.
 -Okay, I'm moving it.
 
 527
@@ -2262,7 +2262,7 @@ having any leftovers.
 
 536
 00:44:31,680 --> 00:44:33,603
-What are "left overs"?
+What are left overs?
 
 537
 00:44:33,760 --> 00:44:35,922
@@ -2326,7 +2326,7 @@ she went out anyway.
 
 551
 00:45:26,160 --> 00:45:27,605
-"No!
+No!
 'Yes!
 
 552
@@ -2380,12 +2380,12 @@ with the rest of her family.
 563
 00:46:12,440 --> 00:46:16,206
 Her father and mother told her,
-"You may go anywhere you want...
+You may go anywhere you want...
 
 564
 00:46:16,360 --> 00:46:19,921
-"but never go near the cliff,
-for you could fall."
+but never go near the cliff,
+for you could fall.
 
 565
 00:46:20,080 --> 00:46:22,651
@@ -2525,7 +2525,7 @@ We gotta move faster.
 598
 00:48:31,160 --> 00:48:34,209
 Do you people have any other speed
-aside from "wander"?
+aside from wander?
 
 599
 00:48:34,360 --> 00:48:36,408
@@ -2660,7 +2660,7 @@ Really?
 
 631
 00:50:48,320 --> 00:50:51,529
-Okay, smart "Guy"...
+Okay, smart Guy...
 
 632
 00:50:51,680 --> 00:50:52,966
@@ -2718,7 +2718,7 @@ Where do you get these ideas?
 
 645
 00:51:49,320 --> 00:51:51,402
-I'm calling it a "brain."
+I'm calling it a brain.
 
 646
 00:51:51,560 --> 00:51:53,881
@@ -2810,8 +2810,8 @@ No, no, no. Not cool!
 
 667
 00:55:18,240 --> 00:55:22,086
-So, the bear says, "Your cave? I've been
-dumping my bones here since last week."
+So, the bear says, Your cave? I've been
+dumping my bones here since last week.
 
 668
 00:55:22,280 --> 00:55:23,406
@@ -2827,7 +2827,7 @@ It's not a story. It's a joke.
 
 671
 00:55:28,280 --> 00:55:29,566
-What's a "joke"?
+What's a joke?
 
 672
 00:55:29,760 --> 00:55:32,764
@@ -2836,7 +2836,7 @@ to make you laugh.
 
 673
 00:55:37,960 --> 00:55:39,121
-- One for you.
+One for you.
 -Thanks.
 
 674
@@ -3109,7 +3109,7 @@ Anyone?
 738
 01:01:42,000 --> 01:01:46,085
 And then Torg said,
-"Know it? I drew it."
+Know it? I drew it.
 
 739
 01:01:47,800 --> 01:01:49,643
@@ -3257,15 +3257,15 @@ It's called desperation.
 
 773
 01:04:31,240 --> 01:04:33,641
-I call it a "rug." Rhymes with "Grug."
+I call it a rug. Rhymes with Grug.
 
 774
 01:04:33,800 --> 01:04:36,804
-And this one, I call it a "ride."
+And this one, I call it a ride.
 
 775
 01:04:36,960 --> 01:04:38,121
-Rhymes with "G rug."
+Rhymes with G rug.
 
 776
 01:04:38,280 --> 01:04:39,281
@@ -3290,7 +3290,7 @@ And painting is a thing of the past.
 
 781
 01:04:55,360 --> 01:04:57,806
-I call this a "snapshot."
+I call this a snapshot.
 
 782
 01:04:58,960 --> 01:05:01,201
@@ -3298,7 +3298,7 @@ Let's do it again. I think I blinked.
 
 783
 01:05:02,480 --> 01:05:04,767
-I call them "shades."
+I call them shades.
 
 784
 01:05:04,960 --> 01:05:06,883
@@ -3331,7 +3331,7 @@ See, I got ideas. I got thoughts.
 
 791
 01:05:23,120 --> 01:05:26,124
-Like this. I call it a "mobile home."
+Like this. I call it a mobile home.
 
 792
 01:05:26,280 --> 01:05:28,009
@@ -3339,7 +3339,7 @@ Isn't that something?
 
 793
 01:05:31,040 --> 01:05:33,646
-And I'm calling this one a "lifterator."
+And I'm calling this one a lifterator.
 
 794
 01:05:33,720 --> 01:05:34,721
@@ -3601,19 +3601,19 @@ Last thing my parents told me was...
 
 856
 01:09:37,400 --> 01:09:38,731
-"Don't hide.
+Don't hide.
 
 857
 01:09:39,600 --> 01:09:41,090
-"Live.
+Live.
 
 858
 01:09:42,920 --> 01:09:45,287
-"Follow the sun.
+Follow the sun.
 
 859
 01:09:45,440 --> 01:09:47,568
-"You'll make it to Tomorrow."
+You'll make it to Tomorrow.
 
 860
 01:09:49,920 --> 01:09:51,922
@@ -3733,8 +3733,7 @@ Yes! You did it.
 
 888
 01:12:27,200 --> 01:12:28,201
-{grugl
-'Dad!
+Dad!
 
 889
 01:12:28,400 --> 01:12:30,607
@@ -3896,7 +3895,7 @@ That's a joke, right?
 
 927
 01:16:08,800 --> 01:16:10,689
-What's a "joke"?
+What's a joke?
 
 928
 01:16:41,040 --> 01:16:42,610
@@ -3985,11 +3984,11 @@ What do you call it?
 
 949
 01:18:09,080 --> 01:18:12,402
-I was thinking of calling it a "hug."
+I was thinking of calling it a hug.
 
 950
 01:18:13,520 --> 01:18:15,443
-Because it rhymes with "Grug."
+Because it rhymes with Grug.
 
 951
 01:18:17,560 --> 01:18:19,722
@@ -3997,7 +3996,7 @@ But you can change it if you want.
 
 952
 01:18:20,680 --> 01:18:23,650
-No. I like "hug."
+No. I like hug.
 
 953
 01:18:29,520 --> 01:18:30,885
@@ -4033,7 +4032,7 @@ Hey!
 
 961
 01:20:13,920 --> 01:20:15,331
-Hey, <i>I</i> did it!
+Hey, I did it!
 
 962
 01:21:37,120 --> 01:21:38,963
@@ -4150,8 +4149,7 @@ Everybody out of the way!
 
 990
 01:27:07,800 --> 01:27:09,165
-'Dad!
-{grugl
+Dad!
 
 991
 01:27:10,200 --> 01:27:12,168
@@ -4224,20 +4222,20 @@ Wait!
 
 1008
 01:28:34,920 --> 01:28:37,890
-<i>This is me. My name is Eep.</i>
+This is me. My name is Eep.
 
 1009
 01:28:38,080 --> 01:28:41,289
-<i>And this is my family, the Croods.</i>
+And this is my family, the Croods.
 
 1010
 01:28:41,440 --> 01:28:43,807
-<i>If you weren't clued in
-by the suntans and pets...</i>
+If you weren't clued in
+by the suntans and pets...
 
 1011
 01:28:44,000 --> 01:28:46,651
-<i>we're not exactly cavemen anymore.</i>
+we're not exactly cavemen anymore.
 
 1012
 01:28:50,000 --> 01:28:52,685
@@ -4245,24 +4243,24 @@ Let's do it again. I think I blinked.
 
 1013
 01:28:53,320 --> 01:28:56,244
-<i>Our world is still plenty harsh and hostile...</i>
+Our world is still plenty harsh and hostile...
 
 1014
 01:28:57,680 --> 01:28:59,808
-<i>but now we know the Croods will make it.</i>
+but now we know the Croods will make it.
 
 1015
 01:28:59,960 --> 01:29:02,770
-<i>Because we changed the rules...</i>
+Because we changed the rules...
 
 1016
 01:29:02,920 --> 01:29:04,763
-<i>the ones that kept us in the dark.</i>
+the ones that kept us in the dark.
 
 1017
 01:29:07,760 --> 01:29:11,685
-<i>And because of my dad,
-who taught us that anyone can change.</i>
+And because of my dad,
+who taught us that anyone can change.
 
 1018
 01:29:11,840 --> 01:29:13,524
@@ -4274,9 +4272,9 @@ Sort of.
 
 1020
 01:29:39,000 --> 01:29:42,288
-<i>So, from now on,
-we'll stay out here...</i>
+So, from now on,
+we'll stay out here...
 
 1021
 01:29:42,480 --> 01:29:44,562
-<i>where we can follow the light.</i>
+where we can follow the light.

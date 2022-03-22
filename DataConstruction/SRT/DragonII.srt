@@ -177,8 +177,8 @@ We can still win this thing!
 
 42
 00:03:42,180 --> 00:03:43,639
-- Come on, Barf!
-- Let's go!
+Come on, Barf!
+Let's go!
 
 43
 00:03:44,641 --> 00:03:45,641
@@ -202,8 +202,8 @@ Up, up, up!
 
 48
 00:04:01,950 --> 00:04:03,117
-- No!
-- Yes!
+No!
+Yes!
 
 49
 00:04:03,285 --> 00:04:04,744
@@ -245,8 +245,8 @@ We're attached, genius.
 
 58
 00:04:25,974 --> 00:04:28,476
-- Quit trying to steal all my glory!
-- Hey!
+Quit trying to steal all my glory!
+Hey!
 
 59
 00:04:29,728 --> 00:04:30,728
@@ -254,8 +254,8 @@ Get them, Astrid!
 
 60
 00:04:30,812 --> 00:04:33,064
-- It's my glory!
-- Always ruining everything!
+It's my glory!
+Always ruining everything!
 
 61
 00:04:33,231 --> 00:04:34,231
@@ -425,7 +425,7 @@ So, what should we name it?
 
 101
 00:09:49,214 --> 00:09:51,173
-"Itchy Armpit" it is.
+Itchy Armpit it is.
 
 102
 00:09:52,592 --> 00:09:53,884
@@ -511,12 +511,12 @@ and I get...
 
 121
 00:10:50,025 --> 00:10:51,942
-"Son, we need to talk."
+Son, we need to talk.
 
 122
 00:10:52,193 --> 00:10:56,363
-"Not now, Dad. I got a whole day
-of goofing off to get started."
+Not now, Dad. I got a whole day
+of goofing off to get started.
 
 123
 00:10:56,531 --> 00:10:59,241
@@ -543,16 +543,16 @@ Anyway, he goes...
 
 128
 00:11:10,628 --> 00:11:13,839
-"You're the pride of Berk, son,
-and I couldn't be prouder."
+You're the pride of Berk, son,
+and I couldn't be prouder.
 
 129
 00:11:14,007 --> 00:11:15,507
-"Aw, thanks, Dad.
+Aw, thanks, Dad.
 
 130
 00:11:15,675 --> 00:11:18,260
-I'm pretty impressed with myself, too."
+I'm pretty impressed with myself, too.
 
 131
 00:11:18,511 --> 00:11:21,221
@@ -573,17 +573,17 @@ This is very serious.
 
 135
 00:11:32,108 --> 00:11:33,400
-"You're all grown up...
+You're all grown up...
 
 136
 00:11:33,568 --> 00:11:36,362
-"and since no chief could ask
+and since no chief could ask
 for a better successor...
 
 137
 00:11:36,529 --> 00:11:38,906
-- "I've decided..."
-- To make you chief!
+I've decided...
+To make you chief!
 
 138
 00:11:39,074 --> 00:11:41,867
@@ -639,7 +639,7 @@ I think you're missing the point.
 
 150
 00:12:25,537 --> 00:12:28,414
-I mean, "chief." What an honor.
+I mean, chief. What an honor.
 
 151
 00:12:28,581 --> 00:12:30,457
@@ -960,8 +960,8 @@ Come on, Meatlug!
 
 226
 00:17:11,239 --> 00:17:13,782
-- Hey, there, Stoick!
-- Hey, how are you? Beautiful day.
+Hey, there, Stoick!
+Hey, how are you? Beautiful day.
 
 227
 00:17:13,950 --> 00:17:16,243
@@ -1034,8 +1034,8 @@ so... 41?
 
 243
 00:17:54,198 --> 00:17:56,241
-- Can we just talk in private?
-- Forty...
+Can we just talk in private?
+Forty...
 
 244
 00:17:56,409 --> 00:17:58,618
@@ -1075,8 +1075,8 @@ when it comes to serving your people.
 
 252
 00:18:17,680 --> 00:18:20,265
-- Excuse us, Grump.
-- Dad, can we just talk...
+Excuse us, Grump.
+Dad, can we just talk...
 
 253
 00:18:20,433 --> 00:18:21,600
@@ -1102,8 +1102,8 @@ about this new land we came across.
 
 258
 00:18:40,119 --> 00:18:41,787
-- Another one?
-- Any new dragons?
+Another one?
+Any new dragons?
 
 259
 00:18:41,954 --> 00:18:43,789
@@ -1238,8 +1238,8 @@ Seal the gates!
 
 290
 00:20:05,830 --> 00:20:08,415
-- Lower the storm doors!
-- Wait! What is happening?
+Lower the storm doors!
+Wait! What is happening?
 
 291
 00:20:08,583 --> 00:20:09,291
@@ -1337,8 +1337,8 @@ Latch every stall!
 
 313
 00:21:06,515 --> 00:21:08,433
-- Hiccup, don't!
-- I have to.
+Hiccup, don't!
+I have to.
 
 314
 00:21:08,601 --> 00:21:09,643
@@ -1380,8 +1380,8 @@ It's no time to be picky.
 
 323
 00:21:41,384 --> 00:21:44,010
-- Eret?
-- Not if we want to keep our...
+Eret?
+Not if we want to keep our...
 
 324
 00:21:45,388 --> 00:21:48,431
@@ -1521,8 +1521,8 @@ What game are you playing?
 
 356
 00:23:18,189 --> 00:23:21,357
-- No game. We just wanna meet Drago.
-- Why?
+No game. We just wanna meet Drago.
+Why?
 
 357
 00:23:21,525 --> 00:23:24,402
@@ -1723,8 +1723,8 @@ and follow him.
 
 403
 00:26:02,436 --> 00:26:04,437
-- Stupid.
-- Good one.
+Stupid.
+Good one.
 
 404
 00:26:04,605 --> 00:26:06,689
@@ -1737,7 +1737,7 @@ and cried out...
 
 406
 00:26:09,777 --> 00:26:12,487
-"Then see how well you do without me!"
+Then see how well you do without me!
 
 407
 00:26:13,530 --> 00:26:16,199
@@ -1762,8 +1762,8 @@ cannot be reasoned with.
 
 412
 00:26:37,346 --> 00:26:39,013
-- Maybe.
-- Hiccup!
+Maybe.
+Hiccup!
 
 413
 00:26:39,181 --> 00:26:40,682
@@ -1787,8 +1787,8 @@ Come on.
 
 418
 00:26:53,570 --> 00:26:54,696
-- Let's go.
-- No!
+Let's go.
+No!
 
 419
 00:26:54,863 --> 00:26:56,864
@@ -1982,8 +1982,8 @@ Hold on. Wait just a minute.
 
 465
 00:33:43,855 --> 00:33:44,975
-- This way!
-- Come back here!
+This way!
+Come back here!
 
 466
 00:33:45,107 --> 00:33:45,773
@@ -2103,8 +2103,8 @@ And look, he's your age.
 
 493
 00:36:00,200 --> 00:36:03,160
-- Wow.
-- No wonder you get along so well.
+Wow.
+No wonder you get along so well.
 
 494
 00:36:06,665 --> 00:36:09,291
@@ -2112,8 +2112,8 @@ And retractable teeth!
 
 495
 00:36:10,377 --> 00:36:13,295
-- How did you manage to...
-- I found him in the woods.
+How did you manage to...
+I found him in the woods.
 
 496
 00:36:13,463 --> 00:36:16,590
@@ -2209,8 +2209,8 @@ home had dragons of their own.
 
 518
 00:37:26,369 --> 00:37:28,454
-- If only it were possible.
-- No, really.
+If only it were possible.
+No, really.
 
 519
 00:37:28,622 --> 00:37:30,789
@@ -2231,7 +2231,7 @@ Hoist the torches!
 
 523
 00:37:45,805 --> 00:37:48,974
-Berk was a land of "kill-or-be-killed"...
+Berk was a land of kill-or-be-killed...
 
 524
 00:37:49,142 --> 00:37:51,977
@@ -2417,8 +2417,8 @@ discovering their secrets.
 
 568
 00:40:43,775 --> 00:40:45,776
-- He likes you.
-- Wow.
+He likes you.
+Wow.
 
 569
 00:40:46,694 --> 00:40:48,362
@@ -2426,8 +2426,8 @@ You must be hungry.
 
 570
 00:40:48,530 --> 00:40:52,449
-- Yeah, I could eat.
-- Good. It's feeding time.
+Yeah, I could eat.
+Good. It's feeding time.
 
 571
 00:41:01,626 --> 00:41:03,043
@@ -2729,8 +2729,8 @@ There's no talking to Drago.
 
 642
 00:47:04,447 --> 00:47:05,697
-- But we have to...
-- No.
+But we have to...
+No.
 
 643
 00:47:05,823 --> 00:47:07,532
@@ -2817,8 +2817,8 @@ Drop the ropes!
 
 663
 00:49:40,144 --> 00:49:40,935
-- Hookfang!
-- Hey!
+Hookfang!
+Hey!
 
 664
 00:49:41,103 --> 00:49:42,437
@@ -2838,8 +2838,8 @@ I also caught you their riders.
 
 668
 00:49:52,073 --> 00:49:54,115
-- No extra charge.
-- What?
+No extra charge.
+What?
 
 669
 00:49:54,283 --> 00:49:55,659
@@ -2864,8 +2864,8 @@ Drago doesn't have them after all.
 
 674
 00:50:06,504 --> 00:50:07,754
-- How many?
-- Hundreds.
+How many?
+Hundreds.
 
 675
 00:50:07,922 --> 00:50:09,381
@@ -2901,8 +2901,8 @@ Hiccup is gonna kick...
 
 682
 00:50:24,772 --> 00:50:26,564
-- Hiccup?
-- He's not a problem.
+Hiccup?
+He's not a problem.
 
 683
 00:50:26,732 --> 00:50:28,650
@@ -2928,8 +2928,8 @@ I alone control the dragons!
 
 688
 00:50:42,331 --> 00:50:44,165
-- No.
-- Sorry.
+No.
+Sorry.
 
 689
 00:50:44,834 --> 00:50:47,627
@@ -2951,8 +2951,8 @@ Then they will be crying like babies.
 
 693
 00:50:56,512 --> 00:50:58,596
-- Funny and beautiful.
-- Good one, babe!
+Funny and beautiful.
+Good one, babe!
 
 694
 00:50:59,014 --> 00:51:01,224
@@ -3309,8 +3309,8 @@ Well, you know...
 
 777
 00:56:53,077 --> 00:56:55,703
-- I didn't marry you for your cooking.
-- I hope not.
+I didn't marry you for your cooking.
+I hope not.
 
 778
 00:56:55,871 --> 00:56:59,457
@@ -3422,8 +3422,8 @@ But I would bring you rings of gold
 
 804
 00:59:09,421 --> 00:59:11,714
-- I'd even sing you poetry
-- Oh, would you?
+I'd even sing you poetry
+Oh, would you?
 
 805
 00:59:12,299 --> 00:59:14,467
@@ -3477,8 +3477,8 @@ If you will marry me
 
 817
 00:59:45,415 --> 00:59:46,540
-- I'm still going
-- Gobber!
+I'm still going
+Gobber!
 
 818
 00:59:46,708 --> 00:59:48,042
@@ -3998,8 +3998,8 @@ Toothless!
 
 944
 01:11:19,525 --> 01:11:21,068
-- Don't!
-- Hiccup!
+Don't!
+Hiccup!
 
 945
 01:11:22,528 --> 01:11:23,570
@@ -4007,8 +4007,8 @@ Stop!
 
 946
 01:11:23,738 --> 01:11:25,697
-- Son!
-- Dad!
+Son!
+Dad!
 
 947
 01:11:25,865 --> 01:11:26,865
@@ -4347,8 +4347,8 @@ that I can't wrangle!
 
 1027
 01:20:05,718 --> 01:20:08,052
-- Except for this one!
-- Amateur.
+Except for this one!
+Amateur.
 
 1028
 01:20:09,722 --> 01:20:11,055

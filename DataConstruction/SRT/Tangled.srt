@@ -429,8 +429,8 @@ you can buy your own castle.
 
 97
 00:09:07,806 --> 00:09:09,807
--Hay fever?
--Yeah.
+Hay fever?
+Yeah.
 
 98
 00:09:13,478 --> 00:09:16,397
@@ -585,8 +585,8 @@ Bring back what once was mine
 
 132
 00:11:25,860 --> 00:11:27,611
--Rapunzel!
--So, Mother,
+Rapunzel!
+So, Mother,
 
 133
 00:11:27,696 --> 00:11:30,531
@@ -600,8 +600,8 @@ it's my birthday!
 
 135
 00:11:33,451 --> 00:11:36,370
--Ta-da!
--No, no, no. Can't be.
+Ta-da!
+No, no, no. Can't be.
 
 136
 00:11:36,454 --> 00:11:39,790
@@ -717,8 +717,8 @@ You know why we stay up in this tower
 
 161
 00:13:04,626 --> 00:13:06,210
--I know, but...
--That's right.
+I know, but...
+That's right.
 
 162
 00:13:06,294 --> 00:13:10,172
@@ -779,8 +779,8 @@ Cannibals and snakes, the plague
 
 175
 00:13:45,333 --> 00:13:46,417
--No!
--Yes.
+No!
+Yes.
 
 176
 00:13:46,501 --> 00:13:49,169
@@ -855,8 +855,8 @@ All I have is one request
 
 192
 00:14:47,896 --> 00:14:50,522
--Rapunzel?
--Yes?
+Rapunzel?
+Yes?
 
 193
 00:14:51,900 --> 00:14:55,819
@@ -1071,7 +1071,7 @@ about the stars.
 
 243
 00:22:48,042 --> 00:22:50,460
-"Floating lights,"
+Floating lights,
 and, yes, I'm leading up to that.
 
 244
@@ -1095,18 +1095,18 @@ to handle yourself out there.
 
 248
 00:23:01,222 --> 00:23:04,474
--But if you just...
--We're done talking about this.
+But if you just...
+We're done talking about this.
 
 249
 00:23:04,558 --> 00:23:07,102
--Trust me! I know what I'm...
--Rapunzel.
+Trust me! I know what I'm...
+Rapunzel.
 
 250
 00:23:07,186 --> 00:23:09,729
--Oh, come on!
--Enough with the lights!
+Oh, come on!
+Enough with the lights!
 
 251
 00:23:09,814 --> 00:23:14,234
@@ -1230,8 +1230,8 @@ Flynn Rider?
 
 279
 00:26:40,191 --> 00:26:42,317
--All right, blondie.
--Rapunzel.
+All right, blondie.
+Rapunzel.
 
 280
 00:26:42,401 --> 00:26:44,068
@@ -1275,8 +1275,8 @@ To cut it?
 
 289
 00:27:16,977 --> 00:27:18,228
--What?
--Sell it?
+What?
+Sell it?
 
 290
 00:27:18,312 --> 00:27:21,981
@@ -1302,8 +1302,8 @@ I saw a tower, I climbed it.
 
 295
 00:27:33,118 --> 00:27:35,703
--End of story.
--You're telling the truth?
+End of story.
+You're telling the truth?
 
 296
 00:27:35,829 --> 00:27:37,121
@@ -1329,8 +1329,8 @@ I'm prepared to offer you a deal.
 
 301
 00:28:04,191 --> 00:28:06,025
--Deal?
--Look this way.
+Deal?
+Look this way.
 
 302
 00:28:07,528 --> 00:28:10,405
@@ -1400,7 +1400,7 @@ Call it what you will,
 
 317
 00:28:57,578 --> 00:29:00,413
--fate, destiny...
+fate, destiny...
 A horse.
 
 318
@@ -1601,8 +1601,8 @@ a little at war with yourself here.
 
 362
 00:32:55,148 --> 00:32:57,733
--What?
--I'm only picking up bits and pieces.
+What?
+I'm only picking up bits and pieces.
 
 363
 00:32:57,818 --> 00:33:01,487
@@ -1625,7 +1625,7 @@ You think?
 
 367
 00:33:12,583 --> 00:33:15,751
-I know. You're way over-thinking this,
+I know. You're way overthinking this,
 trust me.
 
 368
@@ -1643,12 +1643,12 @@ But you've got to do it.
 
 371
 00:33:23,886 --> 00:33:25,428
-"Break her heart"?
+Break her heart?
 
 372
 00:33:25,888 --> 00:33:28,514
--In half.
--"Crush her soul"?
+In half.
+Crush her soul?
 
 373
 00:33:29,516 --> 00:33:30,725
@@ -1669,8 +1669,8 @@ but I'm letting you out of the deal.
 
 377
 00:33:42,571 --> 00:33:45,615
--What?
--That's right, but don't thank me.
+What?
+That's right, but don't thank me.
 
 378
 00:33:45,699 --> 00:33:48,910
@@ -1776,8 +1776,8 @@ on this whole endeavour now, do we?
 
 401
 00:37:07,442 --> 00:37:10,903
--Well, I do like ducklings.
--Yay!
+Well, I do like ducklings.
+Yay!
 
 402
 00:37:12,531 --> 00:37:14,865
@@ -1842,8 +1842,8 @@ Is this you?
 
 415
 00:38:03,290 --> 00:38:05,124
--Now they're just being mean.
--It's him, all right.
+Now they're just being mean.
+It's him, all right.
 
 416
 00:38:06,668 --> 00:38:09,295
@@ -1856,8 +1856,8 @@ is going to buy me a new hook.
 
 418
 00:38:12,841 --> 00:38:16,302
--I could use the money.
--What about me? I'm broke!
+I could use the money.
+What about me? I'm broke!
 
 419
 00:38:16,386 --> 00:38:17,386
@@ -1865,13 +1865,13 @@ Get back!
 
 420
 00:38:17,637 --> 00:38:18,762
--Mine!
--Ruffians, stop!
+Mine!
+Ruffians, stop!
 
 421
 00:38:18,847 --> 00:38:21,724
--We can work this out!
--Leave him alone!
+We can work this out!
+Leave him alone!
 
 422
 00:38:21,808 --> 00:38:23,017
@@ -2010,8 +2010,8 @@ I've got a dream
 
 451
 00:40:40,280 --> 00:40:44,116
--I've got a dream
--He's got a dream
+I've got a dream
+He's got a dream
 
 452
 00:40:44,200 --> 00:40:47,536
@@ -2041,8 +2041,8 @@ Gunther does interior design
 
 458
 00:41:02,218 --> 00:41:05,804
--Ulf is into mime
--Attila's cupcakes are sublime
+Ulf is into mime
+Attila's cupcakes are sublime
 
 459
 00:41:05,889 --> 00:41:09,349
@@ -2055,8 +2055,8 @@ And Vladimir collects ceramic unicorns
 
 461
 00:41:16,316 --> 00:41:18,650
--What about you?
--I'm sorry, me?
+What about you?
+I'm sorry, me?
 
 462
 00:41:18,735 --> 00:41:19,985
@@ -2092,8 +2092,8 @@ piles of money
 
 469
 00:41:38,880 --> 00:41:42,591
--I've got a dream
--She's got a dream
+I've got a dream
+She's got a dream
 
 470
 00:41:42,675 --> 00:41:45,969
@@ -2131,13 +2131,13 @@ We're one big team
 
 477
 00:42:05,198 --> 00:42:06,406
--Call us brutal
--Sick
+Call us brutal
+Sick
 
 478
 00:42:06,491 --> 00:42:08,951
--Sadistic
--And grotesquely optimistic
+Sadistic
+And grotesquely optimistic
 
 479
 00:42:09,035 --> 00:42:11,286
@@ -2146,8 +2146,8 @@ we've got a dream
 
 480
 00:42:11,371 --> 00:42:14,206
--I've got a dream
--I've got a dream
+I've got a dream
+I've got a dream
 
 481
 00:42:17,544 --> 00:42:23,048
@@ -2178,8 +2178,8 @@ Go. Live your dream.
 
 487
 00:43:01,921 --> 00:43:04,006
--I will.
--Your dream stinks.
+I will.
+Your dream stinks.
 
 488
 00:43:04,090 --> 00:43:05,883
@@ -2287,18 +2287,18 @@ to mention the hair.
 
 512
 00:44:54,450 --> 00:44:55,992
--Nope.
--Or the mother.
+Nope.
+Or the mother.
 
 513
 00:44:56,077 --> 00:44:58,704
--Uh-uh.
--I'm too scared to ask about the frog.
+Uh-uh.
+I'm too scared to ask about the frog.
 
 514
 00:44:58,871 --> 00:45:00,247
--Chameleon.
--Nuance.
+Chameleon.
+Nuance.
 
 515
 00:45:00,540 --> 00:45:05,043
@@ -2327,13 +2327,13 @@ Run. Run!
 
 521
 00:45:41,289 --> 00:45:43,623
--Who's that?
--They don't like me.
+Who's that?
+They don't like me.
 
 522
 00:45:44,167 --> 00:45:46,960
--Who's that?
--They don't like me either.
+Who's that?
+They don't like me either.
 
 523
 00:45:47,044 --> 00:45:48,128
@@ -2446,8 +2446,8 @@ We made it.
 
 548
 00:50:36,709 --> 00:50:40,170
--Her hair glows.
--We're alive. I'm alive!
+Her hair glows.
+We're alive. I'm alive!
 
 549
 00:50:40,254 --> 00:50:43,840
@@ -2456,8 +2456,8 @@ The hair actually glows.
 
 550
 00:50:43,924 --> 00:50:45,550
--Why does her hair glow?
--Eugene!
+Why does her hair glow?
+Eugene!
 
 551
 00:50:45,634 --> 00:50:46,634
@@ -2770,8 +2770,8 @@ and utter betrayal and followed that.
 
 623
 00:56:39,113 --> 00:56:42,990
--We're going home. Now.
--You don't understand.
+We're going home. Now.
+You don't understand.
 
 624
 00:56:43,075 --> 00:56:47,495
@@ -2859,8 +2859,8 @@ Fine, if you're so sure now
 
 643
 00:57:48,974 --> 00:57:52,351
--Go ahead, then give him this!
--How did you...
+Go ahead, then give him this!
+How did you...
 
 644
 00:57:52,561 --> 00:57:55,938
@@ -2995,8 +2995,8 @@ Sit!
 
 675
 01:00:17,456 --> 01:00:19,457
--What?
--Now drop the boot.
+What?
+Now drop the boot.
 
 676
 01:00:20,000 --> 01:00:21,292
@@ -3013,8 +3013,8 @@ all over the place?
 
 679
 01:00:33,555 --> 01:00:37,433
--Excuse me?
--Nobody appreciates you, do they?
+Excuse me?
+Nobody appreciates you, do they?
 
 680
 01:00:37,517 --> 01:00:38,684
@@ -3360,8 +3360,8 @@ Holding out on us again, eh, Rider?
 
 761
 01:11:52,775 --> 01:11:55,694
--What?
--We heard you found something.
+What?
+We heard you found something.
 
 762
 01:11:55,778 --> 01:11:58,655
@@ -3433,8 +3433,8 @@ Are you all right? Are you hurt?
 
 778
 01:13:22,990 --> 01:13:26,535
--How did you...
--I was so worried about you, dear.
+How did you...
+I was so worried about you, dear.
 
 779
 01:13:26,619 --> 01:13:30,163
@@ -3595,8 +3595,8 @@ for his crimes.
 
 815
 01:18:48,899 --> 01:18:51,317
--No.
--Now, now, it's all right.
+No.
+Now, now, it's all right.
 
 816
 01:18:51,402 --> 01:18:55,989
@@ -3634,13 +3634,13 @@ Open up!
 
 824
 01:19:41,327 --> 01:19:43,369
--What's the password?
--What?
+What's the password?
+What?
 
 825
 01:19:43,454 --> 01:19:45,705
--Nope.
--Open this door!
+Nope.
+Open this door!
 
 826
 01:19:45,790 --> 01:19:47,624
@@ -3664,8 +3664,8 @@ Frying pans! Who knew, right?
 
 831
 01:20:33,128 --> 01:20:34,420
--Head down.
--Head down.
+Head down.
+Head down.
 
 832
 01:20:34,505 --> 01:20:35,588
@@ -3674,8 +3674,8 @@ Arms in.
 
 833
 01:20:35,673 --> 01:20:37,340
--Knees apart.
--Knees apart. Knees apart?
+Knees apart.
+Knees apart. Knees apart?
 
 834
 01:20:38,509 --> 01:20:40,343
@@ -4033,8 +4033,8 @@ I finally said yes.
 
 915
 01:31:00,922 --> 01:31:05,217
--Eugene.
--All right, I asked her.
+Eugene.
+All right, I asked her.
 
 916
 01:31:05,302 --> 01:31:07,761
@@ -4046,5 +4046,5 @@ Yes, we are.
 
 918
 01:40:14,726 --> 01:40:15,726
-English - UK
+(ENDING)
 

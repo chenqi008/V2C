@@ -1,40 +1,40 @@
 1
 00:00:32,879 --> 00:00:48,456
-<<<<<<Subs By SIVACHERRY>>>>>>
+(BEGIN)
 
 2
 00:00:48,500 --> 00:00:50,490
-"The changing
+The changing
 of the seasons
 
 3
 00:00:50,600 --> 00:00:52,500
-"brings wonder to the world
+brings wonder to the world
 
 4
 00:00:53,000 --> 00:00:56,870
-"For ages has the magic
+For ages has the magic
 of the fairies been unfurled
 
 5
 00:00:57,540 --> 00:01:01,910
-"But nature's greatest changes
+But nature's greatest changes
 come beneath the autumn sky
 
 6
 00:01:02,415 --> 00:01:07,115
-"and mysteries reveal themselves
+and mysteries reveal themselves
 as harvest time draws nigh
 
 7
 00:01:07,855 --> 00:01:13,120
-"This year, a shimmering blue moon
+This year, a shimmering blue moon
 will rise before the frost
 
 8
 00:01:13,725 --> 00:01:18,685
-"Perhaps its rays can light the way
-to find what has been lost"
+Perhaps its rays can light the way
+to find what has been lost
 
 9
 00:01:33,810 --> 00:01:38,100
@@ -183,8 +183,8 @@ And fly
 
 43
 00:04:09,401 --> 00:04:11,596
-- Morning, Stone.
-- Hey, Terence.
+Morning, Stone.
+Hey, Terence.
 
 44
 00:04:41,233 --> 00:04:43,394
@@ -229,8 +229,8 @@ Just doing some errands and stuff.
 
 53
 00:05:25,711 --> 00:05:29,647
-- Errands!
-- And stuff!
+Errands!
+And stuff!
 
 54
 00:05:29,748 --> 00:05:31,943
@@ -242,8 +242,8 @@ No reason.
 
 56
 00:05:36,054 --> 00:05:39,421
-- All right.
-- Say hi to Tinker Bell, would you?
+All right.
+Say hi to Tinker Bell, would you?
 
 57
 00:05:39,525 --> 00:05:40,583
@@ -260,8 +260,8 @@ I'm gonna help Tink again.
 
 60
 00:05:50,035 --> 00:05:52,128
-- Is it okay if I take this?
-- Sure.
+Is it okay if I take this?
+Sure.
 
 61
 00:05:52,237 --> 00:05:53,932
@@ -300,13 +300,13 @@ Hmm.
 
 69
 00:06:33,745 --> 00:06:36,213
-- Iridessa?
-- Nope. Try again.
+Iridessa?
+Nope. Try again.
 
 70
 00:06:37,416 --> 00:06:39,213
-- Fawn?
-- Me!
+Fawn?
+Me!
 
 71
 00:06:39,318 --> 00:06:41,343
@@ -367,8 +367,8 @@ Don't worry. I'll be right next to you.
 
 84
 00:07:31,236 --> 00:07:32,794
-- All set?
-- Check.
+All set?
+Check.
 
 85
 00:07:33,005 --> 00:07:34,370
@@ -404,8 +404,8 @@ Ooh!
 
 93
 00:08:33,999 --> 00:08:36,832
-- Are you okay?
-- Yeah. Thanks.
+Are you okay?
+Yeah. Thanks.
 
 94
 00:08:38,403 --> 00:08:40,667
@@ -432,8 +432,8 @@ you're handling this one pretty well.
 
 99
 00:08:51,983 --> 00:08:54,713
-- I drove it into a tree?
-- Never mind.
+I drove it into a tree?
+Never mind.
 
 100
 00:08:56,188 --> 00:08:57,382
@@ -473,8 +473,8 @@ Uh-oh.
 
 108
 00:09:22,881 --> 00:09:26,942
-- Someone's in trouble.
-- Hey, I haven't done anything, lately.
+Someone's in trouble.
+Hey, I haven't done anything, lately.
 
 109
 00:09:27,452 --> 00:09:28,817
@@ -513,8 +513,8 @@ Thank you, Viola.
 
 117
 00:09:55,280 --> 00:09:58,772
-- Fairy Mary, are you certain?
-- Whatever do you mean?
+Fairy Mary, are you certain?
+Whatever do you mean?
 
 118
 00:09:58,884 --> 00:10:02,820
@@ -523,8 +523,8 @@ while undoubtedly talented, also...
 
 119
 00:10:02,921 --> 00:10:06,152
-- Is a hothead? Flies off the handle?
-- Well, yes.
+Is a hothead? Flies off the handle?
+Well, yes.
 
 120
 00:10:06,258 --> 00:10:08,818
@@ -555,8 +555,8 @@ Those stinkbugs were asking for it.
 
 126
 00:10:36,421 --> 00:10:39,879
-- This isn't about the stinkbugs, is it?
-- No.
+This isn't about the stinkbugs, is it?
+No.
 
 127
 00:10:39,991 --> 00:10:42,516
@@ -573,8 +573,8 @@ You do know the Minister of Autumn.
 
 130
 00:10:47,432 --> 00:10:49,263
-- My dear.
-- Hi.
+My dear.
+Hi.
 
 131
 00:10:50,035 --> 00:10:52,697
@@ -611,8 +611,8 @@ Behold, the Hall of Scepters.
 
 138
 00:11:19,764 --> 00:11:23,393
-- They're beautiful.
-- Every scepter is unique.
+They're beautiful.
+Every scepter is unique.
 
 139
 00:11:23,768 --> 00:11:26,202
@@ -634,8 +634,8 @@ And Fairy Mary has recommended you.
 
 143
 00:11:39,050 --> 00:11:44,147
-- Me? But I'm... I'm...
-- A very talented tinker.
+Me? But I'm... I'm...
+A very talented tinker.
 
 144
 00:11:46,791 --> 00:11:49,851
@@ -692,8 +692,8 @@ Fairy Mary, I... I don't know what to say.
 
 156
 00:12:35,674 --> 00:12:38,370
-- Thank you!
-- Careful, Tinker Bell! Fragile!
+Thank you!
+Careful, Tinker Bell! Fragile!
 
 157
 00:12:38,476 --> 00:12:41,877
@@ -702,8 +702,8 @@ six, seven, eight, nine, ten.
 
 158
 00:12:43,949 --> 00:12:47,885
-- Why are you counting?
-- It helps to calm me down.
+Why are you counting?
+It helps to calm me down.
 
 159
 00:12:49,087 --> 00:12:53,490
@@ -805,13 +805,13 @@ Hey! You know what this calls for?
 
 181
 00:14:06,131 --> 00:14:07,996
-- Two cups of...
-- Chamomile tea.
+Two cups of...
+Chamomile tea.
 
 182
 00:14:08,099 --> 00:14:10,363
-- With extra honey and...
-- And some milkweed whip.
+With extra honey and...
+And some milkweed whip.
 
 183
 00:14:11,970 --> 00:14:15,371
@@ -824,8 +824,8 @@ Fairy Gary loves it.
 
 185
 00:14:17,409 --> 00:14:19,969
-- He's so cute.
-- Lf you say so.
+He's so cute.
+Lf you say so.
 
 186
 00:14:20,845 --> 00:14:25,111
@@ -839,8 +839,8 @@ and give you advice.
 
 188
 00:14:28,787 --> 00:14:33,281
-- You will? That's... That's so sweet.
-- Hey, what are friends for?
+You will? That's... That's so sweet.
+Hey, what are friends for?
 
 189
 00:14:33,858 --> 00:14:36,486
@@ -853,8 +853,8 @@ That would be great.
 
 191
 00:14:38,063 --> 00:14:40,623
-- The best dust-keeper fairy.
-- And the best tinker!
+The best dust-keeper fairy.
+And the best tinker!
 
 192
 00:14:40,732 --> 00:14:42,996
@@ -867,8 +867,8 @@ Knock-knock.
 
 194
 00:14:54,045 --> 00:14:56,411
-- Morning.
-- Hi.
+Morning.
+Hi.
 
 195
 00:14:57,248 --> 00:15:02,208
@@ -946,12 +946,12 @@ Just one more. Thank you.
 
 212
 00:16:19,330 --> 00:16:21,298
-- Whoa!
-- One, two, three...
+Whoa!
+One, two, three...
 
 213
 00:16:21,399 --> 00:16:22,457
-- Why are you counting?
+Why are you counting?
 ...four...
 
 214
@@ -997,23 +997,23 @@ the trajectory of the light beam
 
 223
 00:17:47,852 --> 00:17:49,843
-- with the...
-- Got it. Thanks.
+with the...
+Got it. Thanks.
 
 224
 00:17:49,954 --> 00:17:51,444
-- With the...
-- Okay. Yeah, I know.
+With the...
+Okay. Yeah, I know.
 
 225
 00:17:51,556 --> 00:17:52,887
-- With the...
-- Shh!
+With the...
+Shh!
 
 226
 00:17:55,393 --> 00:17:58,658
-- The curvature of the moonstone.
-- Will you please...
+The curvature of the moonstone.
+Will you please...
 
 227
 00:18:07,505 --> 00:18:11,532
@@ -1062,18 +1062,18 @@ Then I tighten the spring, like so.
 
 237
 00:18:49,480 --> 00:18:52,005
-- Oh, dear. Clank...
-- Then you throw the trigger...
+Oh, dear. Clank...
+Then you throw the trigger...
 
 238
 00:18:52,116 --> 00:18:54,243
-- Yes, Clank...
+Yes, Clank...
 ...and the fireworks shoot into the air!
 
 239
 00:18:54,352 --> 00:18:55,910
-- Clank!
-- Like so!
+Clank!
+Like so!
 
 240
 00:19:00,224 --> 00:19:02,215
@@ -1086,13 +1086,13 @@ where I can find a sharp thingy?
 
 242
 00:19:07,198 --> 00:19:09,666
-- A sharp thingy?
-- How about a stick?
+A sharp thingy?
+How about a stick?
 
 243
 00:19:11,102 --> 00:19:16,301
-- No, a sharp thingy-majigy.
-- A stick can be pretty sharp!
+No, a sharp thingy-majigy.
+A stick can be pretty sharp!
 
 244
 00:19:17,008 --> 00:19:19,772
@@ -1105,8 +1105,8 @@ For Tink!
 
 246
 00:19:21,646 --> 00:19:25,673
-- Clank, don't sneak up on me like that.
-- Did you try the cove?
+Clank, don't sneak up on me like that.
+Did you try the cove?
 
 247
 00:19:26,417 --> 00:19:29,284
@@ -1115,8 +1115,8 @@ all the lost things wash up.
 
 248
 00:19:29,387 --> 00:19:33,483
-- Thanks, Bobble. Thanks, Clank.
-- Our pleasure. So long, Terence!
+Thanks, Bobble. Thanks, Clank.
+Our pleasure. So long, Terence!
 
 249
 00:19:35,560 --> 00:19:37,619
@@ -1149,13 +1149,13 @@ There. Perfect.
 
 256
 00:20:21,172 --> 00:20:23,367
-- Finally.
-- Hey, Tink! I'm back!
+Finally.
+Hey, Tink! I'm back!
 
 257
 00:20:29,180 --> 00:20:31,774
-- What is this?
-- It's your sharp thingy.
+What is this?
+It's your sharp thingy.
 
 258
 00:20:31,949 --> 00:20:33,974
@@ -1176,8 +1176,8 @@ It is, in fact, the exact opposite of sharp.
 
 262
 00:20:45,663 --> 00:20:49,724
-- Really, look, if you look inside, it's...
-- I need to work, okay?
+Really, look, if you look inside, it's...
+I need to work, okay?
 
 263
 00:20:50,168 --> 00:20:53,296
@@ -1194,8 +1194,8 @@ Tink, I'm so sorry. I...
 
 266
 00:21:10,354 --> 00:21:13,585
-- Out, Terence! Just go!
-- What?
+Out, Terence! Just go!
+What?
 
 267
 00:21:14,158 --> 00:21:17,719
@@ -1204,13 +1204,13 @@ You broke the scepter.
 
 268
 00:21:17,829 --> 00:21:20,093
-- This is your fault!
-- Tink, I...
+This is your fault!
+Tink, I...
 
 269
 00:21:20,398 --> 00:21:24,926
-- I was just trying to be a good friend. I...
-- Go away! Just leave me alone!
+I was just trying to be a good friend. I...
+Go away! Just leave me alone!
 
 270
 00:21:26,537 --> 00:21:29,734
@@ -1231,7 +1231,7 @@ brought her food, stoked the fire!
 
 274
 00:22:20,758 --> 00:22:23,659
-"Find a sharp thingy."
+Find a sharp thingy.
 Searched high and low,
 
 275
@@ -1313,8 +1313,8 @@ Yeah, you're probably right.
 
 293
 00:23:54,318 --> 00:23:56,582
-- Hello, Tink!
-- Clank! Bobble!
+Hello, Tink!
+Clank! Bobble!
 
 294
 00:23:56,887 --> 00:23:59,788
@@ -1350,8 +1350,8 @@ I can't wait to see that scepter!
 
 301
 00:24:14,639 --> 00:24:17,904
-- Try.
-- Is it as beautiful as I imagine?
+Try.
+Is it as beautiful as I imagine?
 
 302
 00:24:18,209 --> 00:24:19,301
@@ -1359,8 +1359,8 @@ Uh...
 
 303
 00:24:19,477 --> 00:24:22,412
-- No.
-- Terence told us it's amazing.
+No.
+Terence told us it's amazing.
 
 304
 00:24:23,014 --> 00:24:25,107
@@ -1368,8 +1368,8 @@ We're so proud of you.
 
 305
 00:24:26,917 --> 00:24:30,717
-- Look, guys, I really don't have time.
-- Well, not to worry, Tink.
+Look, guys, I really don't have time.
+Well, not to worry, Tink.
 
 306
 00:24:30,821 --> 00:24:33,346
@@ -1378,8 +1378,8 @@ you couldn't make it.
 
 307
 00:24:33,457 --> 00:24:35,391
-- Fairy Mary?
-- Well, sure!
+Fairy Mary?
+Well, sure!
 
 308
 00:24:35,493 --> 00:24:38,621
@@ -1431,8 +1431,8 @@ Tell me you didn't lose it!
 
 319
 00:25:17,802 --> 00:25:20,430
-- I didn't lose it.
-- Good.
+I didn't lose it.
+Good.
 
 320
 00:25:20,538 --> 00:25:24,440
@@ -1472,8 +1472,8 @@ Are you okay? You look sort of pale.
 
 328
 00:25:48,499 --> 00:25:51,991
-- Wait. I know what's going on.
-- You do?
+Wait. I know what's going on.
+You do?
 
 329
 00:25:52,303 --> 00:25:57,036
@@ -1487,8 +1487,8 @@ the whole scepter if you could.
 
 331
 00:26:01,612 --> 00:26:04,445
-- Is that an option?
-- Tinker Bell!
+Is that an option?
+Tinker Bell!
 
 332
 00:26:33,911 --> 00:26:35,344
@@ -1496,13 +1496,13 @@ How exciting!
 
 333
 00:26:44,622 --> 00:26:46,886
-- Hush, fairies! Hush, fairies!
-- Hush, fairies! Hush, fairies!
+Hush, fairies! Hush, fairies!
+Hush, fairies! Hush, fairies!
 
 334
 00:26:46,991 --> 00:26:53,362
-- 'T is the moment for ancient fairy lore
-- 'T is the moment for ancient fairy lore
+'T is the moment for ancient fairy lore
+'T is the moment for ancient fairy lore
 
 335
 00:26:54,331 --> 00:26:56,299
@@ -1514,13 +1514,13 @@ Sorry. Skunk training.
 
 337
 00:27:00,871 --> 00:27:03,169
-- Hush, fairies! Hush!
-- Hush, fairies! Hush!
+Hush, fairies! Hush!
+Hush, fairies! Hush!
 
 338
 00:27:03,274 --> 00:27:09,179
-- For a fairytale of yore!
-- For a fairytale of yore!
+For a fairytale of yore!
+For a fairytale of yore!
 
 339
 00:27:15,186 --> 00:27:16,949
@@ -1581,8 +1581,8 @@ anything precious to your heart.
 
 352
 00:28:03,968 --> 00:28:06,903
-- Fairy Mary, is this true?
-- Every word.
+Fairy Mary, is this true?
+Every word.
 
 353
 00:28:07,605 --> 00:28:09,835
@@ -1614,21 +1614,21 @@ are hidden in this ancient chant.
 
 359
 00:28:39,703 --> 00:28:42,934
-"Journey due north past Neverland
+Journey due north past Neverland
 
 360
 00:28:43,474 --> 00:28:47,308
-"Till a faraway island is close at hand
+Till a faraway island is close at hand
 
 361
 00:28:47,978 --> 00:28:51,880
-"When you're alone
+When you're alone
 But not alone
 
 362
 00:28:52,116 --> 00:28:58,385
-"You will find help
-And an arch of stone"
+You will find help
+And an arch of stone
 
 363
 00:28:59,323 --> 00:29:00,790
@@ -1636,13 +1636,13 @@ Arch of stone.
 
 364
 00:29:03,294 --> 00:29:06,627
-"There's one way across
+There's one way across
 the isle's north ridge
 
 365
 00:29:06,931 --> 00:29:10,594
-"But a price must be paid
-at the old troll bridge"
+But a price must be paid
+at the old troll bridge
 
 366
 00:29:11,502 --> 00:29:12,491
@@ -1655,51 +1655,51 @@ about a toll bridge.
 
 368
 00:29:14,805 --> 00:29:16,170
-- Toll bridge?
-- Yeah.
+Toll bridge?
+Yeah.
 
 369
 00:29:16,273 --> 00:29:18,798
-- But I don't know how much it costs.
-- Oh?
+But I don't know how much it costs.
+Oh?
 
 370
 00:29:20,144 --> 00:29:23,011
-"At journey's end
+At journey's end
 You shall walk the plank
 
 371
 00:29:23,514 --> 00:29:27,951
-"Of the ship that sunk
-But never sank"
+Of the ship that sunk
+But never sank
 
 372
 00:29:29,186 --> 00:29:33,088
-"And in the hold
+And in the hold
 Amidst gems and gold
 
 373
 00:29:33,190 --> 00:29:40,119
-"A wish come true
+A wish come true
 Awaits, we're told
 
 374
 00:29:49,773 --> 00:29:54,335
-"But beware and be warned
+But beware and be warned
 There's a trick to this clue
 
 375
 00:29:54,645 --> 00:29:59,708
-"Wish only goodwill
+Wish only goodwill
 Or no good will come you
 
 376
 00:29:59,817 --> 00:30:02,308
-"For the treasure you seek
+For the treasure you seek
 
 377
 00:30:02,886 --> 00:30:09,815
-"You may yet come to rue!"
+You may yet come to rue!
 
 378
 00:30:15,265 --> 00:30:17,358
@@ -1711,11 +1711,11 @@ Bravo! Bravo!
 
 380
 00:30:23,007 --> 00:30:26,170
-"Faraway island is close at hand
+Faraway island is close at hand
 
 381
 00:30:31,548 --> 00:30:33,982
-"Due north past Neverland"
+Due north past Neverland
 
 382
 00:30:39,590 --> 00:30:41,558
@@ -1747,8 +1747,8 @@ Not enough.
 
 389
 00:31:04,214 --> 00:31:07,012
-- There you go. One cup, dear.
-- Thank you.
+There you go. One cup, dear.
+Thank you.
 
 390
 00:31:07,951 --> 00:31:09,612
@@ -1806,8 +1806,8 @@ Iridessa! Rosetta!
 
 402
 00:31:55,299 --> 00:31:57,824
-- What do you think?
-- Lend you some of our dust?
+What do you think?
+Lend you some of our dust?
 
 403
 00:31:57,935 --> 00:32:00,563
@@ -1833,8 +1833,8 @@ Raffaela, Renato, Redina, Rina...
 
 408
 00:32:19,990 --> 00:32:21,514
-- Hi, Cheese!
-- Hey, Terence!
+Hi, Cheese!
+Hey, Terence!
 
 409
 00:32:21,625 --> 00:32:23,092
@@ -1842,13 +1842,13 @@ Morning, Fawn!
 
 410
 00:32:23,494 --> 00:32:26,258
-- Rina, Rhoda, Rosetta...
-- Terence.
+Rina, Rhoda, Rosetta...
+Terence.
 
 411
 00:32:27,598 --> 00:32:29,429
-- Tink?
-- Hi.
+Tink?
+Hi.
 
 412
 00:32:30,801 --> 00:32:33,929
@@ -2081,8 +2081,8 @@ with my begonias, gardenias and...
 
 464
 00:40:42,559 --> 00:40:44,891
-- Forget-me-nots.
-- Forget-me-nots.
+Forget-me-nots.
+Forget-me-nots.
 
 465
 00:40:45,128 --> 00:40:47,062
@@ -2121,8 +2121,8 @@ Ooh!
 
 473
 00:41:20,563 --> 00:41:22,929
-- There you go.
-- Nicely done, dear.
+There you go.
+Nicely done, dear.
 
 474
 00:41:23,199 --> 00:41:24,257
@@ -2134,13 +2134,13 @@ Fireworks. Is it ready yet?
 
 476
 00:41:27,637 --> 00:41:28,968
-- Yes!
-- Let her rip!
+Yes!
+Let her rip!
 
 477
 00:41:29,072 --> 00:41:30,835
-- Right, Bobble.
-- Dear.
+Right, Bobble.
+Dear.
 
 478
 00:41:34,978 --> 00:41:36,206
@@ -2248,8 +2248,8 @@ Tink?
 
 502
 00:44:43,032 --> 00:44:48,129
-- I'm so sorry...
-- Terence. Terence. How did you...
+I'm so sorry...
+Terence. Terence. How did you...
 
 503
 00:44:48,238 --> 00:44:51,765
@@ -2258,8 +2258,8 @@ You broke the scepter.
 
 504
 00:44:51,875 --> 00:44:54,036
-- This is your fault!
-- Tink, I...
+This is your fault!
+Tink, I...
 
 505
 00:44:54,143 --> 00:44:56,338
@@ -2374,8 +2374,8 @@ Yeah, well, I think it should be Tink.
 
 531
 00:48:42,605 --> 00:48:44,835
-- Who?
-- Tink.
+Who?
+Tink.
 
 532
 00:48:45,374 --> 00:48:47,968
@@ -2384,8 +2384,8 @@ for breaking the scepter.
 
 533
 00:48:48,978 --> 00:48:51,469
-- Who?
-- Tink!
+Who?
+Tink!
 
 534
 00:48:52,048 --> 00:48:53,538
@@ -2424,8 +2424,8 @@ of my kilt again.
 
 542
 00:49:23,079 --> 00:49:25,445
-- Who?
-- The guys at the depot!
+Who?
+The guys at the depot!
 
 543
 00:49:25,715 --> 00:49:27,876
@@ -2469,17 +2469,17 @@ the secret troll bridge.
 552
 00:50:44,594 --> 00:50:48,052
 Troll bridge?
-I thought it was "toll bridge."
+I thought it was toll bridge.
 
 553
 00:50:48,531 --> 00:50:51,967
-- Look, fellas, I don't want any trouble.
-- We are guardians of the secret...
+Look, fellas, I don't want any trouble.
+We are guardians of the secret...
 
 554
 00:50:52,068 --> 00:50:55,003
-- Hey, hey, hey! Hey!
-- What?
+Hey, hey, hey! Hey!
+What?
 
 555
 00:50:55,104 --> 00:50:57,902
@@ -2488,13 +2488,13 @@ the ominous warning, blockhead.
 
 556
 00:50:58,007 --> 00:50:59,269
-- Is not.
-- Is too.
+Is not.
+Is too.
 
 557
 00:50:59,408 --> 00:51:03,936
-- Is not! Not! Not! Not! Not! Not!
-- Is too! Is too! Too! Too! Too! Too! Too!
+Is not! Not! Not! Not! Not! Not!
+Is too! Is too! Too! Too! Too! Too! Too!
 
 558
 00:51:04,046 --> 00:51:05,809
@@ -2519,13 +2519,13 @@ to make our bed.
 
 563
 00:51:23,132 --> 00:51:24,690
-- Bread.
-- What?
+Bread.
+What?
 
 564
 00:51:25,701 --> 00:51:31,367
-The expression is, "Grind your bones
-to make our bread," not "bed."
+The expression is, Grind your bones
+to make our bread, not bed.
 
 565
 00:51:31,707 --> 00:51:33,334
@@ -2560,18 +2560,18 @@ Gravel for brains.
 
 572
 00:51:51,394 --> 00:51:52,793
-- Fuzz face.
-- Thimble head.
+Fuzz face.
+Thimble head.
 
 573
 00:51:52,895 --> 00:51:54,226
-- Stinky breath.
-- Googly eyes.
+Stinky breath.
+Googly eyes.
 
 574
 00:51:54,330 --> 00:51:55,763
-- Waxy ears!
-- Unibrow!
+Waxy ears!
+Unibrow!
 
 575
 00:51:55,865 --> 00:51:57,833
@@ -2631,8 +2631,8 @@ Hang on, hang on, hang on.
 
 587
 00:52:20,256 --> 00:52:22,952
-- Who's Terence?
-- Is he a friend of yours?
+Who's Terence?
+Is he a friend of yours?
 
 588
 00:52:23,559 --> 00:52:24,890
@@ -2644,8 +2644,8 @@ He was my best friend.
 
 590
 00:52:29,365 --> 00:52:32,425
-- You're not very nice.
-- Hey, don't you judge me!
+You're not very nice.
+Hey, don't you judge me!
 
 591
 00:52:32,535 --> 00:52:35,766
@@ -2662,23 +2662,23 @@ You old softie.
 
 594
 00:52:40,643 --> 00:52:45,671
-- Like when I call you "wart face."
-- Yes. Or when I call you "big nose."
+Like when I call you wart face.
+Yes. Or when I call you big nose.
 
 595
 00:52:46,849 --> 00:52:48,714
-- Booger breath.
-- Stinky feet.
+Booger breath.
+Stinky feet.
 
 596
 00:52:48,818 --> 00:52:50,581
-- Weasel toes!
-- Badger brain!
+Weasel toes!
+Badger brain!
 
 597
 00:52:50,720 --> 00:52:54,816
-- Garden gnome!
-- Garden gnome?
+Garden gnome!
+Garden gnome?
 
 598
 00:52:56,092 --> 00:52:59,823
@@ -2687,8 +2687,8 @@ I don't know where that came from.
 
 599
 00:53:00,663 --> 00:53:04,895
-- I crossed the line.
-- Say the magic words. Go on.
+I crossed the line.
+Say the magic words. Go on.
 
 600
 00:53:08,738 --> 00:53:09,727
@@ -2696,13 +2696,13 @@ I'm sorry.
 
 601
 00:53:09,839 --> 00:53:12,330
-- Do you mean it?
-- Absolutely.
+Do you mean it?
+Absolutely.
 
 602
 00:53:12,441 --> 00:53:14,375
-- Do you feel it?
-- Deeply.
+Do you feel it?
+Deeply.
 
 603
 00:53:16,045 --> 00:53:18,946
@@ -2710,33 +2710,33 @@ Well, then, I forgive you.
 
 604
 00:53:21,384 --> 00:53:24,182
-- Friends?
-- Friends.
+Friends?
+Friends.
 
 605
 00:53:28,591 --> 00:53:30,786
-- Come here, buddy.
-- Pal!
+Come here, buddy.
+Pal!
 
 606
 00:53:30,893 --> 00:53:32,827
-- Amigo.
-- Compadre.
+Amigo.
+Compadre.
 
 607
 00:53:33,696 --> 00:53:35,061
-- You're the best.
-- No, you.
+You're the best.
+No, you.
 
 608
 00:53:35,164 --> 00:53:36,961
-- No, you.
-- No, you're right, I am the best.
+No, you.
+No, you're right, I am the best.
 
 609
 00:53:37,066 --> 00:53:39,762
-- So now you think you're the best?
-- I know I'm the best!
+So now you think you're the best?
+I know I'm the best!
 
 610
 00:53:39,869 --> 00:53:41,598
@@ -2874,8 +2874,8 @@ Terence.
 
 641
 00:59:57,107 --> 01:00:00,736
-- I am so sorry.
-- I forgive you.
+I am so sorry.
+I forgive you.
 
 642
 01:00:02,546 --> 01:00:04,241
@@ -2905,8 +2905,8 @@ I was wrong. I wish you were here.
 
 648
 01:00:22,799 --> 01:00:25,700
-- I am here.
-- I know you are.
+I am here.
+I know you are.
 
 649
 01:00:26,403 --> 01:00:29,736
@@ -2945,8 +2945,8 @@ a lot of pressure... Whoa! Hey.
 
 657
 01:00:54,965 --> 01:00:56,592
-- Who's this?
-- This is Blaze.
+Who's this?
+This is Blaze.
 
 658
 01:00:56,700 --> 01:00:58,600
@@ -2955,8 +2955,8 @@ in some tough spots.
 
 659
 01:00:58,702 --> 01:01:01,637
-- Well, it's a pleasure to meet you.
-- How did you...
+Well, it's a pleasure to meet you.
+How did you...
 
 660
 01:01:01,738 --> 01:01:04,138
@@ -2996,8 +2996,8 @@ I, you know, borrowed a little extra.
 
 668
 01:01:20,023 --> 01:01:24,892
-- You broke the rules for me?
-- Hey, I knew you needed my help.
+You broke the rules for me?
+Hey, I knew you needed my help.
 
 669
 01:01:28,999 --> 01:01:30,023
@@ -3013,8 +3013,8 @@ Hold on!
 
 672
 01:02:33,196 --> 01:02:35,687
-- That was kind of fun.
-- What?
+That was kind of fun.
+What?
 
 673
 01:02:41,004 --> 01:02:42,733
@@ -3031,8 +3031,8 @@ Back, you dirty rats!
 
 676
 01:03:32,589 --> 01:03:34,750
-- Are they gone?
-- They're gone.
+Are they gone?
+They're gone.
 
 677
 01:03:41,031 --> 01:03:42,259
@@ -3067,8 +3067,8 @@ Is it enough?
 
 684
 01:04:08,492 --> 01:04:11,893
-- Yeah, it's enough. Anchors up.
-- Aye-aye, Captain.
+Yeah, it's enough. Anchors up.
+Aye-aye, Captain.
 
 685
 01:04:13,897 --> 01:04:17,924
@@ -3125,8 +3125,8 @@ Hey, I've got an idea.
 
 697
 01:05:15,625 --> 01:05:17,616
-- Terence?
-- Right. Right.
+Terence?
+Right. Right.
 
 698
 01:05:17,994 --> 01:05:19,791
@@ -3152,8 +3152,8 @@ You think this would work?
 
 703
 01:05:30,574 --> 01:05:32,838
-- Yeah. Yeah!
-- Okay, okay.
+Yeah. Yeah!
+Okay, okay.
 
 704
 01:05:32,943 --> 01:05:34,205
@@ -3175,8 +3175,8 @@ Yes! You're a genius.
 
 708
 01:05:42,485 --> 01:05:46,581
-- I almost got it. I just need...
-- Like a sharp thingy?
+I almost got it. I just need...
+Like a sharp thingy?
 
 709
 01:05:47,591 --> 01:05:48,649
@@ -3222,8 +3222,8 @@ Fairy Mary, where is Tinker Bell?
 
 719
 01:06:48,785 --> 01:06:50,047
-- I don't know!
-- You...
+I don't know!
+You...
 
 720
 01:06:50,153 --> 01:06:51,814
@@ -3239,13 +3239,13 @@ Is anything the matter?
 
 723
 01:06:54,924 --> 01:06:56,915
-- Yes...
-- No, Your Highness.
+Yes...
+No, Your Highness.
 
 724
 01:06:57,193 --> 01:06:59,684
-- Where is Tinker Bell?
-- Well, we've been...
+Where is Tinker Bell?
+Well, we've been...
 
 725
 01:06:59,796 --> 01:07:00,990
@@ -3261,8 +3261,8 @@ Hi, everybody!
 
 728
 01:07:08,705 --> 01:07:10,002
-- Wow!
-- Wow!
+Wow!
+Wow!
 
 729
 01:07:14,778 --> 01:07:18,236
@@ -3271,8 +3271,8 @@ I made it!
 
 730
 01:07:18,648 --> 01:07:22,106
-- There she is.
-- Now that's an entrance.
+There she is.
+Now that's an entrance.
 
 731
 01:07:23,653 --> 01:07:25,120
@@ -3350,8 +3350,8 @@ Maybe more.
 
 748
 01:09:05,555 --> 01:09:09,514
-- It's more.
-- Yeah. Much more.
+It's more.
+Yeah. Much more.
 
 749
 01:09:10,460 --> 01:09:12,018
@@ -3359,8 +3359,8 @@ This is amazing!
 
 750
 01:09:14,531 --> 01:09:17,295
-- Only Tinker Bell.
-- Pretty good, huh?
+Only Tinker Bell.
+Pretty good, huh?
 
 751
 01:09:18,234 --> 01:09:20,498
@@ -3392,8 +3392,8 @@ And her friend, Terence.
 
 757
 01:09:44,494 --> 01:09:46,792
-- And her new friend.
-- Blaze.
+And her new friend.
+Blaze.
 
 758
 01:09:46,896 --> 01:09:51,333
@@ -3402,8 +3402,8 @@ We owe them all our thanks.
 
 759
 01:09:56,739 --> 01:10:00,072
-- I'm so proud of you.
-- Thank you, Fairy Mary.
+I'm so proud of you.
+Thank you, Fairy Mary.
 
 760
 01:10:00,877 --> 01:10:02,902
@@ -3489,27 +3489,27 @@ And fly
 
 780
 01:11:39,676 --> 01:11:42,372
-"The greatest treasures
+The greatest treasures
 are not gold
 
 781
 01:11:42,478 --> 01:11:45,038
-"Nor jewels, nor works of art
+Nor jewels, nor works of art
 
 782
 01:11:45,481 --> 01:11:50,282
-"They cannot be held in your hands
+They cannot be held in your hands
 They're held within your heart
 
 783
 01:11:51,187 --> 01:11:56,386
-"For worldly things will fade away
+For worldly things will fade away
 as seasons come and go
 
 784
 01:11:57,093 --> 01:12:02,554
-"But the treasure of true friendship
-will never lose its glow"
+But the treasure of true friendship
+will never lose its glow
 
 785
 01:12:26,356 --> 01:12:30,349

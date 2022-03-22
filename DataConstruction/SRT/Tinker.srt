@@ -76,18 +76,18 @@ To the fairies they draw near
 
 18
 00:03:43,417 --> 00:03:44,975
-- Hello.
-- Hello.
+Hello.
+Hello.
 
 19
 00:03:45,086 --> 00:03:46,576
-- Hello.
-- Hi.
+Hello.
+Hi.
 
 20
 00:03:46,687 --> 00:03:48,314
-- Hello.
-- Hello.
+Hello.
+Hello.
 
 21
 00:03:49,023 --> 00:03:50,183
@@ -173,8 +173,8 @@ Glad we had a bath today, eh, Clank?
 
 40
 00:07:24,234 --> 00:07:25,633
-- Excuse us!
-- Coming through!
+Excuse us!
+Coming through!
 
 41
 00:07:25,735 --> 00:07:28,203
@@ -376,8 +376,8 @@ There's your house, Tinker Bell.
 
 86
 00:10:46,933 --> 00:10:48,696
-- It's mine?
-- Sure is.
+It's mine?
+Sure is.
 
 87
 00:10:49,403 --> 00:10:51,529
@@ -394,13 +394,13 @@ We rounded up some work clothes...
 
 90
 00:10:55,641 --> 00:10:58,041
-- We didn't know your size.
-- Yes, our apologies, but...
+We didn't know your size.
+Yes, our apologies, but...
 
 91
 00:10:58,144 --> 00:11:00,772
-- But they might be too big.
-- Yeah, well, that's only...
+But they might be too big.
+Yeah, well, that's only...
 
 92
 00:11:00,880 --> 00:11:03,041
@@ -455,8 +455,8 @@ So pretty.
 
 104
 00:12:24,562 --> 00:12:27,963
-- Who's that, then?
-- It's Tinker Bell, you snail brain.
+Who's that, then?
+It's Tinker Bell, you snail brain.
 
 105
 00:12:31,236 --> 00:12:33,466
@@ -477,33 +477,33 @@ Allow us to elucidate, Miss Bell.
 
 109
 00:12:43,948 --> 00:12:46,916
-- We fiddle and fix.
-- We craft and create.
+We fiddle and fix.
+We craft and create.
 
 110
 00:12:47,017 --> 00:12:49,986
-- We carve acorn buckets.
-- To hold flower paint.
+We carve acorn buckets.
+To hold flower paint.
 
 111
 00:12:50,087 --> 00:12:52,885
-- Weave saddles and satchels.
-- For birdies, you see.
+Weave saddles and satchels.
+For birdies, you see.
 
 112
 00:12:52,990 --> 00:12:55,982
-- Make baskets and bushels.
-- To carry the seeds!
+Make baskets and bushels.
+To carry the seeds!
 
 113
 00:12:56,093 --> 00:12:58,789
-- When preparing for spring.
-- We do all this and more!
+When preparing for spring.
+We do all this and more!
 
 114
 00:12:58,896 --> 00:13:03,060
-- Yes, being a tinker is never a bore!
-- Yes, being a tinker is never a bore!
+Yes, being a tinker is never a bore!
+Yes, being a tinker is never a bore!
 
 115
 00:13:04,601 --> 00:13:05,727
@@ -534,8 +534,8 @@ Yes, Fairy Mary.
 
 121
 00:13:25,255 --> 00:13:28,224
-- Tip-top shape.
-- No wheels missing whatsoever!
+Tip-top shape.
+No wheels missing whatsoever!
 
 122
 00:13:29,660 --> 00:13:31,127
@@ -543,23 +543,23 @@ Then let's see it.
 
 123
 00:13:31,228 --> 00:13:33,662
-- Ah, you see... Well...
-- See,
+Ah, you see... Well...
+See,
 
 124
 00:13:33,764 --> 00:13:36,995
-- with your eyes?
-- Define "see," actually...
+with your eyes?
+Define see, actually...
 
 125
 00:13:37,201 --> 00:13:39,965
-- You have to meet Tinker Bell!
-- What? Who?
+You have to meet Tinker Bell!
+What? Who?
 
 126
 00:13:40,204 --> 00:13:42,967
-- She's new, Fairy Mary.
-- Nice to meet you.
+She's new, Fairy Mary.
+Nice to meet you.
 
 127
 00:13:43,072 --> 00:13:45,939
@@ -589,8 +589,8 @@ Okay.
 
 133
 00:14:02,425 --> 00:14:05,986
-- Now, boys, the deliveries?
-- Aye, we're on it.
+Now, boys, the deliveries?
+Aye, we're on it.
 
 134
 00:14:06,095 --> 00:14:08,962
@@ -599,8 +599,8 @@ we're heading out right this second.
 
 135
 00:14:09,065 --> 00:14:12,933
-- But we've only got one wheel.
-- What was that?
+But we've only got one wheel.
+What was that?
 
 136
 00:14:13,569 --> 00:14:17,403
@@ -613,13 +613,13 @@ If I can go as well!
 
 138
 00:14:20,343 --> 00:14:22,971
-- Yeah! Good one. Very nice.
-- Yes! I wondered that,
+Yeah! Good one. Very nice.
+Yes! I wondered that,
 
 139
 00:14:23,079 --> 00:14:27,539
-- if you could go with us. Yes.
-- That's exactly what he was saying.
+if you could go with us. Yes.
+That's exactly what he was saying.
 
 140
 00:14:28,117 --> 00:14:29,914
@@ -694,8 +694,8 @@ So, what happened to you, anyway?
 
 156
 00:16:20,861 --> 00:16:23,193
-- Well, I...
-- It was sprinting thistles!
+Well, I...
+It was sprinting thistles!
 
 157
 00:16:24,398 --> 00:16:26,559
@@ -721,13 +721,13 @@ of tinker specialties!
 
 162
 00:16:37,977 --> 00:16:39,569
-- All right!
-- Show us, show us!
+All right!
+Show us, show us!
 
 163
 00:16:39,679 --> 00:16:42,705
-- What'd you bring?
-- Your rainbow tubes, Iridessa.
+What'd you bring?
+Your rainbow tubes, Iridessa.
 
 164
 00:16:42,815 --> 00:16:45,477
@@ -808,8 +808,8 @@ have real work to do. Right?
 
 182
 00:17:51,883 --> 00:17:55,114
-- Don't get your wings in a bunch.
-- Don't be like that.
+Don't get your wings in a bunch.
+Don't be like that.
 
 183
 00:17:55,220 --> 00:17:56,653
@@ -817,8 +817,8 @@ Nice to meet you all!
 
 184
 00:17:56,755 --> 00:17:59,986
-- You, too! Fly with you later!
-- Fly with you later!
+You, too! Fly with you later!
+Fly with you later!
 
 185
 00:18:02,294 --> 00:18:03,693
@@ -849,13 +849,13 @@ Can you find your way back?
 
 191
 00:18:29,920 --> 00:18:32,821
-- Yeah, yeah. Sure I can.
-- Well, I...
+Yeah, yeah. Sure I can.
+Well, I...
 
 192
 00:18:33,023 --> 00:18:35,583
-- All right, then.
-- Just be careful!
+All right, then.
+Just be careful!
 
 193
 00:18:39,063 --> 00:18:40,063
@@ -1001,7 +1001,7 @@ No. Excuse me.
 
 226
 00:20:34,877 --> 00:20:36,868
-"Mine is a rare talent."
+Mine is a rare talent.
 
 227
 00:20:37,112 --> 00:20:38,136
@@ -1022,8 +1022,8 @@ Oh.
 
 231
 00:22:19,245 --> 00:22:21,770
-- Hey, Tink, what you got there?
-- Oh, hi.
+Hey, Tink, what you got there?
+Oh, hi.
 
 232
 00:22:23,049 --> 00:22:24,846
@@ -1035,8 +1035,8 @@ Lost things.
 
 234
 00:22:28,722 --> 00:22:30,383
-- Lost things.
-- Aye.
+Lost things.
+Aye.
 
 235
 00:22:30,490 --> 00:22:34,449
@@ -1135,8 +1135,8 @@ to show what we can do, eh?
 
 256
 00:23:33,352 --> 00:23:35,115
-- Oh, indeed.
-- Really?
+Oh, indeed.
+Really?
 
 257
 00:23:35,754 --> 00:23:37,745
@@ -1231,8 +1231,8 @@ these last few days,
 
 277
 00:26:00,096 --> 00:26:02,121
-- because just as fairies...
-- Queen Clarion!
+because just as fairies...
+Queen Clarion!
 
 278
 00:26:03,999 --> 00:26:04,999
@@ -1244,8 +1244,8 @@ Queen Clarion!
 
 280
 00:26:08,270 --> 00:26:10,568
-- Did I miss anything?
-- No, no, no.
+Did I miss anything?
+No, no, no.
 
 281
 00:26:10,739 --> 00:26:12,229
@@ -1292,8 +1292,8 @@ Whoops.
 
 291
 00:26:45,808 --> 00:26:49,539
-- It's kind of a work in progress.
-- Yes, yes, yes. Very clever.
+It's kind of a work in progress.
+Yes, yes, yes. Very clever.
 
 292
 00:26:51,814 --> 00:26:52,814
@@ -1306,8 +1306,8 @@ It's a flower-sprayer.
 
 294
 00:26:55,618 --> 00:26:58,815
-- Tinker Bell, I...
-- Here, allow me to demonstrate.
+Tinker Bell, I...
+Here, allow me to demonstrate.
 
 295
 00:27:08,630 --> 00:27:09,790
@@ -1315,8 +1315,8 @@ Sorry.
 
 296
 00:27:10,298 --> 00:27:14,166
-- But wait till you see this last one.
-- Tinker Bell, sweetheart,
+But wait till you see this last one.
+Tinker Bell, sweetheart,
 
 297
 00:27:14,669 --> 00:27:16,432
@@ -1346,8 +1346,8 @@ Your work is here in Pixie Hollow.
 
 303
 00:27:31,185 --> 00:27:34,382
-- But I thought that...
-- I'm sorry, Tinker Bell.
+But I thought that...
+I'm sorry, Tinker Bell.
 
 304
 00:27:36,791 --> 00:27:40,591
@@ -1415,8 +1415,8 @@ Well, no.
 
 318
 00:28:52,132 --> 00:28:54,565
-- Are you a light fairy?
-- No.
+Are you a light fairy?
+No.
 
 319
 00:28:54,667 --> 00:28:57,431
@@ -1463,8 +1463,8 @@ Just did.
 
 329
 00:29:56,594 --> 00:29:58,459
-- Nice day for flying.
-- Sure is.
+Nice day for flying.
+Sure is.
 
 330
 00:29:58,563 --> 00:29:59,563
@@ -1497,8 +1497,8 @@ Morning, girls!
 
 337
 00:30:14,579 --> 00:30:15,623
-- Tinker Bell?
-- Tinker Bell?
+Tinker Bell?
+Tinker Bell?
 
 338
 00:30:15,647 --> 00:30:19,549
@@ -1507,8 +1507,8 @@ gonna be a tinker fairy anymore.
 
 339
 00:30:19,651 --> 00:30:20,651
-- What?
-- What?
+What?
+What?
 
 340
 00:30:20,752 --> 00:30:23,915
@@ -1556,8 +1556,8 @@ That's just not how it works.
 
 349
 00:30:48,412 --> 00:30:51,210
-- Well, maybe she could.
-- She's right. She could.
+Well, maybe she could.
+She's right. She could.
 
 350
 00:30:51,315 --> 00:30:54,045
@@ -1646,8 +1646,8 @@ Come on. I'll show you how to do it.
 
 369
 00:31:50,973 --> 00:31:53,339
-- Good luck, Tink!
-- You can do it!
+Good luck, Tink!
+You can do it!
 
 370
 00:31:54,944 --> 00:31:56,002
@@ -1760,12 +1760,12 @@ Here we go in the treasure...
 
 395
 00:33:48,288 --> 00:33:50,288
-- Have you seen Tink?
-- No, thank you. Not thirsty!
+Have you seen Tink?
+No, thank you. Not thirsty!
 
 396
 00:33:52,559 --> 00:33:54,527
-No, no. Not "drink," Tink!
+No, no. Not drink, Tink!
 
 397
 00:33:54,862 --> 00:33:57,524
@@ -1789,8 +1789,8 @@ Hey, have you seen Tink?
 
 402
 00:34:11,645 --> 00:34:15,137
-- Fairy Mary's gonna be cross.
-- Aye, Clank.
+Fairy Mary's gonna be cross.
+Aye, Clank.
 
 403
 00:34:15,249 --> 00:34:17,530
@@ -1799,8 +1799,8 @@ off Miss Bell's plate, so...
 
 404
 00:34:17,584 --> 00:34:20,043
-- All right, then.
-- No, no, no! Wait, wait, Clank!
+All right, then.
+No, no, no! Wait, wait, Clank!
 
 405
 00:34:25,793 --> 00:34:28,819
@@ -1809,8 +1809,8 @@ Will you two stop mucking about?
 
 406
 00:34:28,929 --> 00:34:32,194
-- What Clank did was, he took it off...
-- Bobble told me that I should...
+What Clank did was, he took it off...
+Bobble told me that I should...
 
 407
 00:34:32,299 --> 00:34:36,257
@@ -1836,8 +1836,8 @@ she went to get cheese, you see,
 
 412
 00:34:49,048 --> 00:34:52,040
-- the food, for Cheese the mouse...
-- Yes, the food, for Cheese the mouse.
+the food, for Cheese the mouse...
+Yes, the food, for Cheese the mouse.
 
 413
 00:34:52,151 --> 00:34:54,779
@@ -1891,8 +1891,8 @@ Now for the fun part.
 
 425
 00:35:47,973 --> 00:35:51,739
-- Do you think it's heavy?
-- No. It's light.
+Do you think it's heavy?
+No. It's light.
 
 426
 00:36:03,455 --> 00:36:04,820
@@ -1904,8 +1904,8 @@ Stay.
 
 428
 00:36:38,322 --> 00:36:41,348
-- Here, Tink. Let me...
-- No! I almost got it.
+Here, Tink. Let me...
+No! I almost got it.
 
 429
 00:36:41,458 --> 00:36:43,153
@@ -1954,23 +1954,23 @@ Cover your tushy!
 
 440
 00:37:29,472 --> 00:37:31,804
-- We fiddle and fix.
-- Craft and create.
+We fiddle and fix.
+Craft and create.
 
 441
 00:37:31,908 --> 00:37:34,035
-- Carve acorn buckets.
-- To hold flower paint.
+Carve acorn buckets.
+To hold flower paint.
 
 442
 00:37:34,143 --> 00:37:36,703
-- Preparing for spring.
-- We do all this and more.
+Preparing for spring.
+We do all this and more.
 
 443
 00:37:36,813 --> 00:37:40,579
-- Yes, being a tinker is never a bore!
-- Yes, being a tinker is never a bore!
+Yes, being a tinker is never a bore!
+Yes, being a tinker is never a bore!
 
 444
 00:37:43,019 --> 00:37:45,249
@@ -1997,8 +1997,8 @@ And I had such high hopes for you.
 
 449
 00:38:11,514 --> 00:38:13,505
-- You'd do well to listen to her...
-- Why?
+You'd do well to listen to her...
+Why?
 
 450
 00:38:13,616 --> 00:38:15,550
@@ -2188,8 +2188,8 @@ Hawk!
 
 491
 00:41:22,134 --> 00:41:23,499
-- What's happening?
-- Quick, hide!
+What's happening?
+Quick, hide!
 
 492
 00:41:23,602 --> 00:41:24,864
@@ -2201,8 +2201,8 @@ A hawk! Tinker Bell's in trouble!
 
 494
 00:41:47,226 --> 00:41:48,488
-- Hey!
-- Vidia?
+Hey!
+Vidia?
 
 495
 00:41:48,594 --> 00:41:50,494
@@ -2218,13 +2218,13 @@ No!
 
 498
 00:42:09,181 --> 00:42:12,343
-- Get him!
-- Get him!
+Get him!
+Get him!
 
 499
 00:42:17,788 --> 00:42:20,348
-- What?
-- You all right?
+What?
+You all right?
 
 500
 00:42:21,993 --> 00:42:23,153
@@ -2236,13 +2236,13 @@ Are you okay, Vidia?
 
 502
 00:42:35,907 --> 00:42:38,034
-- Let me help you.
-- Don't touch me! I'm fine!
+Let me help you.
+Don't touch me! I'm fine!
 
 503
 00:42:38,142 --> 00:42:41,407
-- But I was only trying to help.
-- Well, stop trying.
+But I was only trying to help.
+Well, stop trying.
 
 504
 00:42:46,250 --> 00:42:47,740
@@ -2288,13 +2288,13 @@ Beautiful.
 
 514
 00:45:41,923 --> 00:45:43,390
-- You fixed it!
-- Wow!
+You fixed it!
+Wow!
 
 515
 00:45:43,558 --> 00:45:45,389
-- Beautiful!
-- Amazing!
+Beautiful!
+Amazing!
 
 516
 00:45:45,493 --> 00:45:46,570
@@ -2538,8 +2538,8 @@ Tink. What happened?
 
 570
 00:51:43,043 --> 00:51:44,442
-- I...
-- Tinker Bell,
+I...
+Tinker Bell,
 
 571
 00:51:44,545 --> 00:51:45,944
@@ -2561,8 +2561,8 @@ who can control those weeds!
 
 575
 00:51:54,588 --> 00:51:57,284
-- What were you trying to prove?
-- I...
+What were you trying to prove?
+I...
 
 576
 00:51:57,391 --> 00:52:00,326
@@ -2661,8 +2661,8 @@ everything in such a short time?
 
 597
 00:53:29,715 --> 00:53:32,115
-- No.
-- Oh, no.
+No.
+Oh, no.
 
 598
 00:53:32,218 --> 00:53:34,743
@@ -2717,8 +2717,8 @@ Oh.
 
 609
 00:54:26,872 --> 00:54:30,968
-- Well, how long you going to be gone?
-- Well, actually, forever.
+Well, how long you going to be gone?
+Well, actually, forever.
 
 610
 00:54:32,811 --> 00:54:34,539
@@ -2776,8 +2776,8 @@ who you are!
 
 622
 00:55:05,309 --> 00:55:08,210
-- You should be proud of it! I mean...
-- I am.
+You should be proud of it! I mean...
+I am.
 
 623
 00:55:16,987 --> 00:55:19,854
@@ -2789,7 +2789,7 @@ Hey, Cheese.
 
 625
 00:56:00,863 --> 00:56:03,593
-"Be proud of your talent." What talent?
+Be proud of your talent. What talent?
 
 626
 00:56:04,100 --> 00:56:07,160
@@ -2900,8 +2900,8 @@ with her dopey little doohickeys.
 
 650
 00:58:20,267 --> 00:58:23,463
-- Hide the squirrels!
-- What is your problem, Vidia?
+Hide the squirrels!
+What is your problem, Vidia?
 
 651
 00:58:23,603 --> 00:58:25,414
@@ -2998,13 +2998,13 @@ Command us, Miss Bell.
 
 672
 00:59:47,579 --> 00:59:49,570
-- I'll help.
-- Show us how, Tink!
+I'll help.
+Show us how, Tink!
 
 673
 00:59:49,681 --> 00:59:51,649
-- I'll help you.
-- Me, too!
+I'll help you.
+Me, too!
 
 674
 00:59:51,917 --> 00:59:57,617
@@ -3026,8 +3026,8 @@ Okay, what have you got?
 
 678
 01:00:15,307 --> 01:00:17,297
-- How about this?
-- Will this do?
+How about this?
+Will this do?
 
 679
 01:00:17,408 --> 01:00:19,501
@@ -3036,13 +3036,13 @@ Miss Bell?
 
 680
 01:00:19,610 --> 01:00:20,975
-- Oh, yeah!
-- It's not fuzzy.
+Oh, yeah!
+It's not fuzzy.
 
 681
 01:00:21,078 --> 01:00:23,512
-- Yes, it is.
-- No, it isn't.
+Yes, it is.
+No, it isn't.
 
 682
 01:00:26,817 --> 01:00:28,045
@@ -3074,8 +3074,8 @@ Oh!
 
 689
 01:00:58,916 --> 01:01:01,316
-- I saw it first.
-- I bumped into it.
+I saw it first.
+I bumped into it.
 
 690
 01:01:02,152 --> 01:01:04,143
@@ -3198,13 +3198,13 @@ You mean, I...
 
 717
 01:04:03,597 --> 01:04:04,974
-- I knew you'd get to go!
-- Oh, Tink!
+I knew you'd get to go!
+Oh, Tink!
 
 718
 01:04:04,998 --> 01:04:07,057
-- We can help, Miss Bell.
-- We can help. I'm strong.
+We can help, Miss Bell.
+We can help. I'm strong.
 
 719
 01:04:07,167 --> 01:04:10,398

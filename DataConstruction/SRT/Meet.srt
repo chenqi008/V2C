@@ -79,7 +79,7 @@ They are gonna love this!
 
 19
 00:02:54,581 --> 00:02:57,459
-Nothing says "adopt me"
+Nothing says adopt me
 like a weird invention.
 
 20
@@ -88,8 +88,8 @@ Lewis!
 
 21
 00:02:58,835 --> 00:03:00,962
-- Lewis, the Harringtons are here!
-- Way ahead of you, Mildred.
+Lewis, the Harringtons are here!
+Way ahead of you, Mildred.
 
 22
 00:03:01,087 --> 00:03:02,880
@@ -166,8 +166,8 @@ So, what's your favourite sport?
 
 39
 00:03:43,461 --> 00:03:45,963
-- Well, does inventing count as a sport?
-- Actually...
+Well, does inventing count as a sport?
+Actually...
 
 40
 00:03:46,088 --> 00:03:48,174
@@ -176,8 +176,8 @@ with this one!
 
 41
 00:03:48,299 --> 00:03:50,718
-- What is that?
-- First, a question.
+What is that?
+First, a question.
 
 42
 00:03:50,843 --> 00:03:53,137
@@ -191,8 +191,8 @@ a peanut butter and jelly sandwich?
 
 44
 00:03:55,097 --> 00:03:57,390
-- Lewis, I don't think we...
-- Portion control.
+Lewis, I don't think we...
+Portion control.
 
 45
 00:03:57,516 --> 00:03:59,434
@@ -272,8 +272,8 @@ Stand back!
 
 63
 00:04:48,981 --> 00:04:51,692
-- Is he gonna be okay?
-- Breathe. Breathe.
+Is he gonna be okay?
+Breathe. Breathe.
 
 64
 00:04:51,817 --> 00:04:53,779
@@ -312,8 +312,8 @@ If you would just...
 
 72
 00:05:18,844 --> 00:05:21,513
-- I made some lunch.
-- Not hungry.
+I made some lunch.
+Not hungry.
 
 73
 00:05:23,974 --> 00:05:25,016
@@ -321,8 +321,8 @@ Poor Mr Harrington.
 
 74
 00:05:25,142 --> 00:05:28,687
-- I killed him?
-- No. No! No, you didn't kill him.
+I killed him?
+No. No! No, you didn't kill him.
 
 75
 00:05:28,812 --> 00:05:30,772
@@ -343,8 +343,8 @@ from that wonderful invention of yours.
 
 79
 00:05:38,821 --> 00:05:40,906
-- Yeah, real wonderful.
-- It's not you.
+Yeah, real wonderful.
+It's not you.
 
 80
 00:05:41,031 --> 00:05:43,534
@@ -439,7 +439,7 @@ who's ever wanted me.
 
 101
 00:06:34,208 --> 00:06:35,960
-Wait. I said "maybe."
+Wait. I said maybe.
 
 102
 00:06:36,085 --> 00:06:38,879
@@ -487,101 +487,101 @@ That's it!
 
 112
 00:07:09,283 --> 00:07:11,034
-<i> Hello </i>
+ Hello 
 
 113
 00:07:11,159 --> 00:07:13,995
-<i> I got something to tell you </i>
+ I got something to tell you 
 
 114
 00:07:14,120 --> 00:07:17,582
-<i> But it's crazy </i>
+ But it's crazy 
 
 115
 00:07:17,707 --> 00:07:21,169
-<i> I got something to show you </i>
+ I got something to show you 
 
 116
 00:07:21,294 --> 00:07:24,714
-<i> So give me just one more chance </i>
+ So give me just one more chance 
 
 117
 00:07:24,840 --> 00:07:28,968
-<i> One more glance 
- And I will make of you </i>
+ One more glance 
+ And I will make of you 
 
 118
 00:07:29,385 --> 00:07:32,597
-<i> Another believer </i>
+ Another believer 
 
 119
 00:07:32,722 --> 00:07:37,810
-<i> Guess what? 
- You got more than you bargained </i>
+ Guess what? 
+ You got more than you bargained 
 
 120
 00:07:37,935 --> 00:07:40,979
-<i> Ain't it crazy? </i>
+ Ain't it crazy? 
 
 121
 00:07:41,105 --> 00:07:44,733
-<i> You got more than you paid for </i>
+ You got more than you paid for 
 
 122
 00:07:44,858 --> 00:07:48,153
-<i> So give me just one more chance </i>
+ So give me just one more chance 
 
 123
 00:07:48,278 --> 00:07:50,864
-<i> One more glance </i>
+ One more glance 
 
 124
 00:07:50,990 --> 00:07:55,952
-<i> One more hand to hold </i>
+ One more hand to hold 
 
 125
 00:07:56,161 --> 00:08:02,959
-<i> You've been on my mind </i>
+ You've been on my mind 
 
 126
 00:08:03,084 --> 00:08:06,587
-<i> Though it may seem I'm fooling </i>
+ Though it may seem I'm fooling 
 
 127
 00:08:06,712 --> 00:08:13,260
-<i> Wasted so much time </i>
+ Wasted so much time 
 
 128
 00:08:13,385 --> 00:08:17,974
-<i> Though it may seem I'm fooling </i>
+ Though it may seem I'm fooling 
 
 129
 00:08:18,307 --> 00:08:20,476
-<i> What are we gonna do? </i>
+ What are we gonna do? 
 
 130
 00:08:20,601 --> 00:08:23,312
-<i> What are we gonna do? </i>
+ What are we gonna do? 
 
 131
 00:08:23,437 --> 00:08:27,316
-<i> What are we gonna do about it? </i>
+ What are we gonna do about it? 
 
 132
 00:08:27,482 --> 00:08:34,113
-<i> You've been on my mind </i>
+ You've been on my mind 
 
 133
 00:08:34,239 --> 00:08:37,658
-<i> One more chance </i>
+ One more chance 
 
 134
 00:08:37,784 --> 00:08:42,998
-<i> Wasted so much time </i>
+ Wasted so much time 
 
 135
 00:08:44,791 --> 00:08:47,460
-<i> One more chance </i>
+ One more chance 
 
 136
 00:08:49,378 --> 00:08:50,755
@@ -602,8 +602,8 @@ Yes! Hey, Goob... I mean, Michael.
 
 140
 00:09:01,389 --> 00:09:03,433
-- Good luck at the big game today.
-- Easy win.
+Good luck at the big game today.
+Easy win.
 
 141
 00:09:03,558 --> 00:09:05,602
@@ -690,8 +690,8 @@ this afternoon.
 
 160
 00:09:58,528 --> 00:10:00,405
-- No, thanks.
-- "No, thanks"?
+No, thanks.
+No, thanks?
 
 161
 00:10:00,530 --> 00:10:02,407
@@ -880,8 +880,8 @@ Move it! Move it! Move it! Go! Go! Go!
 
 202
 00:11:52,261 --> 00:11:53,971
-- Coach!
-- I'm watching you.
+Coach!
+I'm watching you.
 
 203
 00:12:02,396 --> 00:12:06,484
@@ -926,13 +926,13 @@ by a tall man in a bowler hat?
 
 212
 00:12:39,473 --> 00:12:41,684
-- What?
-- Hey, hey, I'll ask the questions here.
+What?
+Hey, hey, I'll ask the questions here.
 
 213
 00:12:41,809 --> 00:12:44,311
-- Okay, goodbye.
-- All right,
+Okay, goodbye.
+All right,
 
 214
 00:12:44,436 --> 00:12:46,480
@@ -946,13 +946,13 @@ of the T.C.T.F.
 
 216
 00:12:48,899 --> 00:12:50,942
-- The what?
-- Time Continuum Task Force.
+The what?
+Time Continuum Task Force.
 
 217
 00:12:51,067 --> 00:12:52,193
-- I'm here to protect you.
-- Well...
+I'm here to protect you.
+Well...
 
 218
 00:12:52,318 --> 00:12:54,738
@@ -977,8 +977,8 @@ What did he steal?
 
 223
 00:13:01,620 --> 00:13:02,913
-- A time machine.
-- A what?
+A time machine.
+A what?
 
 224
 00:13:03,038 --> 00:13:06,166
@@ -996,7 +996,7 @@ haven't figured out a motive yet.
 
 227
 00:13:10,169 --> 00:13:12,129
-And by "HQ," I mean "headquarters."
+And by HQ, I mean headquarters.
 
 228
 00:13:12,254 --> 00:13:13,589
@@ -1017,12 +1017,12 @@ about your little science gizmo
 
 232
 00:13:19,219 --> 00:13:21,347
-and leave the "perp" to me.
+and leave the perp to me.
 
 233
 00:13:21,472 --> 00:13:24,225
-- And by "perp," I mean...
-- I know what it means!
+And by perp, I mean...
+I know what it means!
 
 234
 00:13:24,350 --> 00:13:26,352
@@ -1243,13 +1243,13 @@ that we'll all be proud of tomorrow.
 
 283
 00:16:58,596 --> 00:17:00,389
-- Let's calm down!
-- Mr Willerstein?
+Let's calm down!
+Mr Willerstein?
 
 284
 00:17:00,514 --> 00:17:02,099
-- I didn't mean to...
-- Not now, Lewis!
+I didn't mean to...
+Not now, Lewis!
 
 285
 00:17:02,224 --> 00:17:04,852
@@ -1409,8 +1409,8 @@ Hey, let go of me!
 
 321
 00:20:23,292 --> 00:20:25,335
-- What are you doing? Let go of me!
-- Okay.
+What are you doing? Let go of me!
+Okay.
 
 322
 00:20:45,313 --> 00:20:47,732
@@ -1422,19 +1422,19 @@ To the future!
 
 324
 00:21:10,545 --> 00:21:12,839
-<i> The future has arrived </i>
+ The future has arrived 
 
 325
 00:21:14,007 --> 00:21:16,592
-<i> The future has arrived today </i>
+ The future has arrived today 
 
 326
 00:21:17,218 --> 00:21:19,053
-<i> The future has arrived </i>
+ The future has arrived 
 
 327
 00:21:20,137 --> 00:21:22,933
-<i> The future has arrived today </i>
+ The future has arrived today 
 
 328
 00:22:04,388 --> 00:22:05,347
@@ -1483,8 +1483,8 @@ that stupid Memory Scanner.
 
 338
 00:22:28,453 --> 00:22:31,122
-- What?
-- Wilbur, this is a time machine!
+What?
+Wilbur, this is a time machine!
 
 339
 00:22:31,247 --> 00:22:32,957
@@ -1525,13 +1525,13 @@ what I've lived through.
 
 347
 00:22:52,351 --> 00:22:54,144
-- Lewis, no!
-- Let go!
+Lewis, no!
+Let go!
 
 348
 00:22:54,269 --> 00:22:56,146
-- You let go!
-- You're not the boss of me!
+You let go!
+You're not the boss of me!
 
 349
 00:22:56,271 --> 00:22:59,441
@@ -1575,8 +1575,8 @@ a time machine repair shop
 
 358
 00:23:34,933 --> 00:23:35,976
-- or something?
-- No!
+or something?
+No!
 
 359
 00:23:36,101 --> 00:23:38,186
@@ -1646,8 +1646,8 @@ Good day, madam.
 
 374
 00:24:45,168 --> 00:24:48,629
-- I'm here to change the future.
-- Yes, sir?
+I'm here to change the future.
+Yes, sir?
 
 375
 00:24:48,754 --> 00:24:52,591
@@ -1656,8 +1656,8 @@ in charge immediately.
 
 376
 00:24:52,716 --> 00:24:55,969
-- Yes, sir.
-- I have an appointment with destiny.
+Yes, sir.
+I have an appointment with destiny.
 
 377
 00:24:56,094 --> 00:24:57,762
@@ -1670,13 +1670,13 @@ delivered directly to your suite.
 
 379
 00:25:00,223 --> 00:25:02,267
-- What?
-- Now, what time is your appointment?
+What?
+Now, what time is your appointment?
 
 380
 00:25:04,143 --> 00:25:06,270
-- Are you talking to me?
-- Yes.
+Are you talking to me?
+Yes.
 
 381
 00:25:06,479 --> 00:25:08,064
@@ -1712,13 +1712,13 @@ Marian?
 
 389
 00:25:27,499 --> 00:25:29,626
-- Can that be a boy name?
-- Yes.
+Can that be a boy name?
+Yes.
 
 390
 00:25:30,043 --> 00:25:32,253
-- Then yes.
-- Have a seat.
+Then yes.
+Have a seat.
 
 391
 00:25:32,378 --> 00:25:33,755
@@ -1726,7 +1726,7 @@ Oh, goody!
 
 392
 00:25:42,639 --> 00:25:48,478
-"Pass off invention as my own." Check.
+Pass off invention as my own. Check.
 Oh, I love checklists.
 
 393
@@ -1766,7 +1766,7 @@ I'm so glad I have you!
 
 401
 00:26:17,547 --> 00:26:21,676
-"Prepare to be amazed." Oh, I got it!
+Prepare to be amazed. Oh, I got it!
 
 402
 00:26:22,551 --> 00:26:25,680
@@ -1774,12 +1774,12 @@ Prepare to be amazed!
 
 403
 00:26:26,431 --> 00:26:30,851
-"This is my invention."
+This is my invention.
 
 404
 00:26:30,852 --> 00:26:35,022
-"I doubt any of you have seen
-anything as brilliant as this device."
+I doubt any of you have seen
+anything as brilliant as this device.
 
 405
 00:26:35,147 --> 00:26:36,190
@@ -1799,8 +1799,8 @@ You have two minutes. Please begin.
 
 409
 00:26:47,951 --> 00:26:50,287
-- It's shiny!
-- What is that thing?
+It's shiny!
+What is that thing?
 
 410
 00:26:50,412 --> 00:26:54,957
@@ -1812,8 +1812,8 @@ To call it my...
 
 412
 00:26:57,085 --> 00:27:01,256
-- What are you looking at?
-- No! I... The sun, in my eyes.
+What are you looking at?
+No! I... The sun, in my eyes.
 
 413
 00:27:01,381 --> 00:27:03,174
@@ -2029,8 +2029,8 @@ that's gonna...
 
 461
 00:30:00,680 --> 00:30:02,723
-- Who's that?
-- Wow, a real robot!
+Who's that?
+Wow, a real robot!
 
 462
 00:30:02,848 --> 00:30:03,975
@@ -2112,8 +2112,8 @@ Look at this door bell. Ring it.
 
 480
 00:31:07,995 --> 00:31:10,372
-- Yes!
-- That was accidental.
+Yes!
+That was accidental.
 
 481
 00:31:10,497 --> 00:31:11,956
@@ -2126,8 +2126,8 @@ It's in the rule book. Look it up.
 
 483
 00:31:13,333 --> 00:31:14,792
-- Flat head.
-- Short roots.
+Flat head.
+Short roots.
 
 484
 00:31:14,918 --> 00:31:15,960
@@ -2229,7 +2229,7 @@ But on the slight chance that I do...
 
 506
 00:32:12,931 --> 00:32:16,101
-"On the slight chance," yeah.
+On the slight chance, yeah.
 You know what? I'll run the numbers.
 
 507
@@ -2252,8 +2252,8 @@ that you won't exist.
 
 511
 00:32:33,493 --> 00:32:36,620
-- What?
-- And I didn't want to tell you, but I did.
+What?
+And I didn't want to tell you, but I did.
 
 512
 00:32:36,746 --> 00:32:38,122
@@ -2313,8 +2313,8 @@ Anywho, what's your name, fruit-head?
 
 525
 00:33:17,285 --> 00:33:19,328
-- Well, Lewis, but...
-- Lewis, huh?
+Well, Lewis, but...
+Lewis, huh?
 
 526
 00:33:19,453 --> 00:33:22,540
@@ -2323,8 +2323,8 @@ any teeth around here, have you?
 
 527
 00:33:22,665 --> 00:33:24,291
-- Teeth?
-- Yeah, my teeth.
+Teeth?
+Yeah, my teeth.
 
 528
 00:33:25,042 --> 00:33:28,003
@@ -2347,8 +2347,8 @@ and these monsters...
 
 532
 00:33:33,007 --> 00:33:34,050
-- Monsters?
-- ...attacked me on the porch and...
+Monsters?
+...attacked me on the porch and...
 
 533
 00:33:34,175 --> 00:33:36,053
@@ -2357,8 +2357,8 @@ you ninny.
 
 534
 00:33:36,178 --> 00:33:37,721
-- Listen to me!
-- Of course, I also didn't think
+Listen to me!
+Of course, I also didn't think
 
 535
 00:33:37,846 --> 00:33:39,473
@@ -2405,8 +2405,8 @@ are looking for the garage.
 
 545
 00:33:56,989 --> 00:33:59,241
-- We have a garage?
-- Apparently so.
+We have a garage?
+Apparently so.
 
 546
 00:33:59,366 --> 00:34:01,702
@@ -2428,8 +2428,8 @@ On your mark, get set, go?
 
 550
 00:34:18,885 --> 00:34:21,179
-- 3.7 seconds.
-- I win!
+3.7 seconds.
+I win!
 
 551
 00:34:22,805 --> 00:34:24,807
@@ -2441,8 +2441,8 @@ Lewis?
 
 553
 00:34:27,477 --> 00:34:30,355
-- And five and six and seven and eight.
-- That's Uncle Joe. He works out.
+And five and six and seven and eight.
+That's Uncle Joe. He works out.
 
 554
 00:34:30,480 --> 00:34:31,522
@@ -2467,8 +2467,8 @@ Egads! A very grave matter, indeed.
 
 559
 00:34:41,323 --> 00:34:43,867
-- That's Uncle Art.
-- A real superhero?
+That's Uncle Art.
+A real superhero?
 
 560
 00:34:43,992 --> 00:34:45,911
@@ -2485,8 +2485,8 @@ I'll be there in 30 minutes, or it's free.
 
 563
 00:34:52,543 --> 00:34:54,628
-- He's a...
-- Pizza delivery guy.
+He's a...
+Pizza delivery guy.
 
 564
 00:34:54,753 --> 00:34:56,088
@@ -2494,8 +2494,8 @@ Lewis?
 
 565
 00:34:56,588 --> 00:34:59,215
-- What are we doing up here?
-- Looking for the garage.
+What are we doing up here?
+Looking for the garage.
 
 566
 00:34:59,341 --> 00:35:01,050
@@ -2508,8 +2508,8 @@ or I'm telling Ma!
 
 568
 00:35:11,852 --> 00:35:14,146
-- Lighten up, sis!
-- Lasz, I mean it!
+Lighten up, sis!
+Lasz, I mean it!
 
 569
 00:35:14,479 --> 00:35:17,608
@@ -2522,8 +2522,8 @@ What is all the yelling out here?
 
 571
 00:35:19,819 --> 00:35:20,986
-- He started it!
-- She started it!
+He started it!
+She started it!
 
 572
 00:35:21,112 --> 00:35:22,446
@@ -2531,8 +2531,8 @@ I don't want to hear any more!
 
 573
 00:35:22,571 --> 00:35:26,033
-- Now, sweetie...
-- Don't you "sweetie" me!
+Now, sweetie...
+Don't you sweetie me!
 
 574
 00:35:26,408 --> 00:35:28,452
@@ -2571,8 +2571,8 @@ and there's Uncle Dimitri.
 
 582
 00:35:51,807 --> 00:35:54,143
-- Oh, look, there's...
-- That's the monster!
+Oh, look, there's...
+That's the monster!
 
 583
 00:35:54,268 --> 00:35:57,146
@@ -2593,8 +2593,8 @@ Well, that's true. We didn't ask her yet.
 
 587
 00:36:05,778 --> 00:36:07,865
-- Who?
-- Wilbur's mom, Franny.
+Who?
+Wilbur's mom, Franny.
 
 588
 00:36:07,990 --> 00:36:09,658
@@ -2606,13 +2606,13 @@ Hey, guys!
 
 590
 00:36:15,538 --> 00:36:19,792
-<i> You ask me over 
- And over and over </i>
+ You ask me over 
+ And over and over 
 
 591
 00:36:19,917 --> 00:36:23,004
-<i> Have you seen 
- My peacock-feathered hat? </i>
+ Have you seen 
+ My peacock-feathered hat? 
 
 592
 00:36:23,129 --> 00:36:24,296
@@ -2624,8 +2624,8 @@ Taught them everything they know.
 
 594
 00:36:26,048 --> 00:36:29,009
-- Franny, this is Lewis.
-- Nice to meet you, ma'am.
+Franny, this is Lewis.
+Nice to meet you, ma'am.
 
 595
 00:36:29,134 --> 00:36:32,679
@@ -2634,26 +2634,26 @@ We need someone on maracas.
 
 596
 00:36:33,222 --> 00:36:37,143
-<i> Where is your heart at? 
- Nobody knows that </i>
+ Where is your heart at? 
+ Nobody knows that 
 
 597
 00:36:37,268 --> 00:36:39,353
-<i> Even though you've him, her, me </i>
+ Even though you've him, her, me 
 
 598
 00:36:39,478 --> 00:36:42,064
-<i> And an army searching </i>
+ And an army searching 
 
 599
 00:36:44,107 --> 00:36:47,777
-<i> I've got a feeling 
- You will be reeling </i>
+ I've got a feeling 
+ You will be reeling 
 
 600
 00:36:47,902 --> 00:36:51,489
-<i> When you are bad 
- And the circus comes to town </i>
+ When you are bad 
+ And the circus comes to town 
 
 601
 00:36:51,614 --> 00:36:53,324
@@ -2661,12 +2661,12 @@ Grandpa, I think I found your teeth.
 
 602
 00:36:53,449 --> 00:36:55,242
-<i> And you see me leaving 
- Dressed up as a magician </i>
+ And you see me leaving 
+ Dressed up as a magician 
 
 603
 00:36:55,368 --> 00:36:56,494
-<i> Or something like that </i>
+ Or something like that 
 
 604
 00:36:57,995 --> 00:37:00,874
@@ -2817,12 +2817,12 @@ People call me Goob,
 638
 00:38:44,973 --> 00:38:48,518
 but today, everyone that beat me up
-called me "puke face"
+called me puke face
 
 639
 00:38:48,643 --> 00:38:51,354
-and "butterfingers"
-and "booger breath."
+and butterfingers
+and booger breath.
 
 640
 00:38:51,479 --> 00:38:54,398
@@ -2979,7 +2979,7 @@ Why do you keep saying that?
 675
 00:41:01,562 --> 00:41:03,522
 And don't just say,
-"Keep moving forward."
+Keep moving forward.
 
 676
 00:41:03,647 --> 00:41:04,981
@@ -2988,7 +2988,7 @@ It's my dad's motto.
 677
 00:41:05,107 --> 00:41:07,067
 Why would his motto be
-"keep moving forward"?
+keep moving forward?
 
 678
 00:41:07,192 --> 00:41:08,526
@@ -3018,13 +3018,13 @@ They mass produce his inventions.
 
 684
 00:41:19,704 --> 00:41:23,874
-His motto, "Keep moving forward."
+His motto, Keep moving forward.
 It's what he does.
 
 685
 00:41:23,875 --> 00:41:25,710
-- What has he invented?
-- Everything.
+What has he invented?
+Everything.
 
 686
 00:41:25,835 --> 00:41:27,712
@@ -3064,8 +3064,8 @@ That's a prototype?
 
 694
 00:41:43,477 --> 00:41:46,688
-- The very first, or what's left of it.
-- Yikes.
+The very first, or what's left of it.
+Yikes.
 
 695
 00:41:46,813 --> 00:41:49,024
@@ -3143,8 +3143,8 @@ is in the hands of the Bowler Hat Guy.
 
 712
 00:42:35,360 --> 00:42:37,237
-- Pretty amazing story, huh?
-- Yeah.
+Pretty amazing story, huh?
+Yeah.
 
 713
 00:42:37,362 --> 00:42:39,822
@@ -3165,7 +3165,7 @@ Nice work, my friend.
 717
 00:43:15,272 --> 00:43:17,650
 Well, you know what they say!
-"Keep moving..."
+Keep moving...
 
 718
 00:43:17,775 --> 00:43:19,319
@@ -3290,8 +3290,8 @@ it doesn't count.
 
 747
 00:44:58,454 --> 00:45:00,624
-- Come on. Read your rule book.
-- You know what?
+Come on. Read your rule book.
+You know what?
 
 748
 00:45:00,749 --> 00:45:02,542
@@ -3300,20 +3300,20 @@ and shove it right...
 
 749
 00:45:03,543 --> 00:45:06,129
-<i> I don't believe in fretting or grieving </i>
+ I don't believe in fretting or grieving 
 
 750
 00:45:06,254 --> 00:45:08,339
-<i> Why mess around with strife? </i>
+ Why mess around with strife? 
 
 751
 00:45:09,090 --> 00:45:12,301
-<i> Guess I was cut out 
- To step out and strut out </i>
+ Guess I was cut out 
+ To step out and strut out 
 
 752
 00:45:12,427 --> 00:45:13,719
-<i> Give me the simple life </i>
+ Give me the simple life 
 
 753
 00:45:13,845 --> 00:45:17,765
@@ -3364,8 +3364,8 @@ Thank you for the gravy, Aunt Billie.
 
 764
 00:45:41,746 --> 00:45:43,998
-- We gotta talk.
-- How about some gravy? Over here.
+We gotta talk.
+How about some gravy? Over here.
 
 765
 00:45:44,123 --> 00:45:46,876
@@ -3388,23 +3388,23 @@ a little confidence issue.
 
 769
 00:45:54,008 --> 00:45:55,093
-- You want me to talk to him?
-- No.
+You want me to talk to him?
+No.
 
 770
 00:45:55,218 --> 00:45:56,594
-- I give a mean back rub.
-- No.
+I give a mean back rub.
+No.
 
 771
 00:45:56,719 --> 00:45:57,762
-- Shiatsu?
-- No.
+Shiatsu?
+No.
 
 772
 00:45:57,887 --> 00:45:59,013
-- Feng shui.
-- No.
+Feng shui.
+No.
 
 773
 00:45:59,138 --> 00:46:00,431
@@ -3416,13 +3416,13 @@ So, Lewis, are you in Wilbur's class?
 
 775
 00:46:04,184 --> 00:46:05,269
-- No.
-- Yes.
+No.
+Yes.
 
 776
 00:46:05,394 --> 00:46:06,478
-- Yes.
-- No.
+Yes.
+No.
 
 777
 00:46:06,645 --> 00:46:07,979
@@ -3438,8 +3438,8 @@ Yeah.
 
 780
 00:46:12,400 --> 00:46:14,902
-- Where are you from, Lewis?
-- Canada?
+Where are you from, Lewis?
+Canada?
 
 781
 00:46:15,028 --> 00:46:18,532
@@ -3452,13 +3452,13 @@ Do you know Sam Gundersen?
 
 783
 00:46:21,826 --> 00:46:23,953
-- It's a big country.
-- State.
+It's a big country.
+State.
 
 784
 00:46:24,079 --> 00:46:26,831
-- I wonder if you're related.
-- Maybe if he took his hat off.
+I wonder if you're related.
+Maybe if he took his hat off.
 
 785
 00:46:26,956 --> 00:46:28,249
@@ -3502,8 +3502,8 @@ this isn't gonna stop otherwise.
 
 794
 00:46:45,933 --> 00:46:47,351
-- But... But...
-- And so it begins.
+But... But...
+And so it begins.
 
 795
 00:46:47,476 --> 00:46:48,560
@@ -3511,8 +3511,8 @@ Now, don't be shy.
 
 796
 00:46:48,685 --> 00:46:51,188
-- We're all family here.
-- Ready, aim, fire!
+We're all family here.
+Ready, aim, fire!
 
 797
 00:46:55,775 --> 00:46:58,987
@@ -3687,17 +3687,17 @@ and so smartly dressed! Perfect!
 836
 00:49:09,945 --> 00:49:12,406
 I says,
-"Hey, not with my umbrella, you don't."
+Hey, not with my umbrella, you don't.
 
 837
 00:49:13,658 --> 00:49:15,993
-- Frankie, you're a riot.
-- I gotta go pee!
+Frankie, you're a riot.
+I gotta go pee!
 
 838
 00:49:16,118 --> 00:49:17,661
-- I love it.
-- You bunch of goons.
+I love it.
+You bunch of goons.
 
 839
 00:49:27,379 --> 00:49:29,339
@@ -3713,23 +3713,23 @@ I am now under your control.
 
 842
 00:49:38,013 --> 00:49:39,849
-- Stop laughing.
-- Stop laughing.
+Stop laughing.
+Stop laughing.
 
 843
 00:49:39,974 --> 00:49:42,894
-- Don't repeat everything I say.
-- I won't repeat everything you say.
+Don't repeat everything I say.
+I won't repeat everything you say.
 
 844
 00:49:43,019 --> 00:49:44,854
-- Excellent.
-- Excellent.
+Excellent.
+Excellent.
 
 845
 00:49:45,146 --> 00:49:47,857
-Did you just say, "Excellent,"
-because I said, "Excellent"?
+Did you just say, Excellent,
+because I said, Excellent?
 
 846
 00:49:49,358 --> 00:49:50,442
@@ -3737,13 +3737,13 @@ No.
 
 847
 00:49:50,567 --> 00:49:52,778
-- Excellent.
-- Excellent.
+Excellent.
+Excellent.
 
 848
 00:49:53,946 --> 00:49:57,616
-- So, Mr Fix-it, how's it looking?
-- Pretty good, Mrs Robinson.
+So, Mr Fix-it, how's it looking?
+Pretty good, Mrs Robinson.
 
 849
 00:49:57,741 --> 00:49:59,743
@@ -3814,8 +3814,8 @@ Everybody ready?
 
 864
 00:50:44,661 --> 00:50:46,412
-- Go, Carl.
-- Yeah!
+Go, Carl.
+Yeah!
 
 865
 00:50:49,874 --> 00:50:51,000
@@ -3835,13 +3835,13 @@ I didn't know. I'm sorry. I'm so sorry.
 
 869
 00:51:01,552 --> 00:51:04,013
-- You failed!
-- And it was awesome!
+You failed!
+And it was awesome!
 
 870
 00:51:04,138 --> 00:51:06,390
-- Exceptional!
-- Outstanding!
+Exceptional!
+Outstanding!
 
 871
 00:51:07,391 --> 00:51:08,392
@@ -3876,12 +3876,12 @@ Like my husband always says...
 
 878
 00:51:32,582 --> 00:51:34,083
-<i> Keep moving 
- Keep moving </i>
+ Keep moving 
+ Keep moving 
 
 879
 00:51:34,208 --> 00:51:35,251
-<i> Stop </i>
+ Stop 
 
 880
 00:51:40,172 --> 00:51:43,467
@@ -3970,13 +3970,13 @@ Yeah!
 
 900
 00:52:38,687 --> 00:52:41,356
-- Come on, Lewis!
-- Good show, buddy!
+Come on, Lewis!
+Good show, buddy!
 
 901
 00:52:42,399 --> 00:52:44,526
 What if Louis Armstrong said,
-"I can't"?
+I can't?
 
 902
 00:52:44,651 --> 00:52:45,860
@@ -4001,8 +4001,8 @@ Orphan?
 
 907
 00:53:10,467 --> 00:53:12,260
-- Oh, no!
-- Big boy!
+Oh, no!
+Big boy!
 
 908
 00:53:13,220 --> 00:53:14,888
@@ -4082,8 +4082,8 @@ Oh! He ate Carl!
 
 926
 00:54:35,715 --> 00:54:39,176
-- Help us! Help! Help!
-- Oh, goodness!
+Help us! Help! Help!
+Oh, goodness!
 
 927
 00:54:51,439 --> 00:54:52,440
@@ -4144,8 +4144,8 @@ Him you can eat.
 
 941
 00:55:47,617 --> 00:55:49,827
-- Lewis, run!
-- Wilbur!
+Lewis, run!
+Wilbur!
 
 942
 00:56:08,053 --> 00:56:09,096
@@ -4161,8 +4161,8 @@ Little Doris now sleeps with the fishes.
 
 945
 00:56:41,293 --> 00:56:43,712
-- Nice catch.
-- Nice meatball shooting!
+Nice catch.
+Nice meatball shooting!
 
 946
 00:56:43,837 --> 00:56:45,380
@@ -4175,8 +4175,8 @@ Yeah, guess we did.
 
 948
 00:56:48,091 --> 00:56:50,011
-- Are you boys all right?
-- We're good, Mom.
+Are you boys all right?
+We're good, Mom.
 
 949
 00:56:50,136 --> 00:56:51,887
@@ -4201,8 +4201,8 @@ I'm really happy you're safe.
 
 954
 00:57:05,942 --> 00:57:07,610
-- Your head.
-- What?
+Your head.
+What?
 
 955
 00:57:08,611 --> 00:57:10,196
@@ -4214,8 +4214,8 @@ You all sacrificed so much for me.
 
 957
 00:57:15,118 --> 00:57:18,079
-- Well, of course.
-- You are a special kid.
+Well, of course.
+You are a special kid.
 
 958
 00:57:18,204 --> 00:57:19,414
@@ -4266,13 +4266,13 @@ you just come over.
 
 968
 00:57:49,192 --> 00:57:52,236
-- Mom.
-- The truth is, we love having you.
+Mom.
+The truth is, we love having you.
 
 969
 00:57:52,361 --> 00:57:54,864
-- We really have to go.
-- No.
+We really have to go.
+No.
 
 970
 00:57:55,656 --> 00:57:58,826
@@ -4297,8 +4297,8 @@ You want to adopt me?
 
 975
 00:58:23,433 --> 00:58:25,142
-- Yeah!
-- Yes!
+Yeah!
+Yes!
 
 976
 00:58:34,193 --> 00:58:36,612
@@ -4401,8 +4401,8 @@ I was never gonna do it. I swear!
 
 999
 00:59:40,506 --> 00:59:42,883
-- You lied to me?
-- No!
+You lied to me?
+No!
 
 1000
 00:59:44,218 --> 00:59:45,261
@@ -4454,8 +4454,8 @@ Bowler Hat Guy?
 
 1011
 01:00:41,607 --> 01:00:44,401
-- Hello, Lewis.
-- What do you want?
+Hello, Lewis.
+What do you want?
 
 1012
 01:00:44,526 --> 01:00:47,195
@@ -4522,7 +4522,7 @@ for a very large invention company,
 
 1026
 01:01:41,622 --> 01:01:43,290
-where might one find the "On" switch?
+where might one find the On switch?
 
 1027
 01:01:43,874 --> 01:01:45,459
@@ -4588,7 +4588,7 @@ inventor extraordinaire,
 
 1042
 01:02:14,278 --> 01:02:15,780
-"Keep moving forward"?
+Keep moving forward?
 
 1043
 01:02:15,905 --> 01:02:18,365
@@ -4617,8 +4617,8 @@ so I plan to destroy your destiny.
 
 1049
 01:02:35,966 --> 01:02:39,010
-- Easy peasy, rice and cheesy.
-- Well...
+Easy peasy, rice and cheesy.
+Well...
 
 1050
 01:02:39,552 --> 01:02:41,346
@@ -4656,8 +4656,8 @@ I think you mean our old room.
 
 1058
 01:03:00,406 --> 01:03:03,450
-- What?
-- Yes! Yes, it is I,
+What?
+Yes! Yes, it is I,
 
 1059
 01:03:03,575 --> 01:03:04,868
@@ -4751,18 +4751,18 @@ Cornelius Robinson rebuilds Inventco.
 
 1079
 01:04:01,089 --> 01:04:02,299
-- Robinson reaches out to...
-- It's new name,
+Robinson reaches out to...
+It's new name,
 
 1080
 01:04:02,424 --> 01:04:04,426
-- Robinson Industries.
-- Cornelius Robinson!
+Robinson Industries.
+Cornelius Robinson!
 
 1081
 01:04:04,551 --> 01:04:07,637
-- Cornelius Robinson is now...
-- Now here's another amazing...
+Cornelius Robinson is now...
+Now here's another amazing...
 
 1082
 01:04:07,762 --> 01:04:12,934
@@ -4830,8 +4830,8 @@ her true potential.
 
 1096
 01:05:07,027 --> 01:05:09,029
-- Got it.
-- So you shut her down,
+Got it.
+So you shut her down,
 
 1097
 01:05:15,660 --> 01:05:17,663
@@ -4951,7 +4951,7 @@ or blame you.
 
 1122
 01:06:56,256 --> 01:06:58,801
-"Blame you" wins hands down!
+Blame you wins hands down!
 
 1123
 01:07:02,304 --> 01:07:05,557
@@ -5035,8 +5035,8 @@ You could call him.
 
 1141
 01:08:25,383 --> 01:08:27,761
-- You are my dad.
-- But that's in the future.
+You are my dad.
+But that's in the future.
 
 1142
 01:08:27,886 --> 01:08:30,596
@@ -5062,8 +5062,8 @@ You can do it, Dad.
 
 1147
 01:08:45,027 --> 01:08:50,157
-- Lewis? Lewis!
-- Wilbur? Wilbur!
+Lewis? Lewis!
+Wilbur? Wilbur!
 
 1148
 01:08:54,286 --> 01:08:55,370
@@ -5188,8 +5188,8 @@ No, he's not. He's my roommate.
 
 1177
 01:13:46,232 --> 01:13:47,984
-- What?
-- He's my old roommate,
+What?
+He's my old roommate,
 
 1178
 01:13:48,109 --> 01:13:49,652
@@ -5198,8 +5198,8 @@ you guys should adopt him.
 
 1179
 01:13:49,777 --> 01:13:51,987
-- Are you nuts?
-- Give me one good reason why not.
+Are you nuts?
+Give me one good reason why not.
 
 1180
 01:13:52,112 --> 01:13:53,530
@@ -5227,8 +5227,8 @@ do you want to be a...
 
 1185
 01:14:07,710 --> 01:14:09,796
-- Where'd he go?
-- Goob?
+Where'd he go?
+Goob?
 
 1186
 01:14:10,839 --> 01:14:12,007
@@ -5244,18 +5244,18 @@ Are you hurt? Any broken bones?
 
 1189
 01:14:43,912 --> 01:14:45,497
-- No, I'm...
-- Do you have a temperature?
+No, I'm...
+Do you have a temperature?
 
 1190
 01:14:45,622 --> 01:14:47,082
-- Brain fog?
-- Scurvy?
+Brain fog?
+Scurvy?
 
 1191
 01:14:47,207 --> 01:14:48,291
-- Tapeworm?
-- Cellulite?
+Tapeworm?
+Cellulite?
 
 1192
 01:14:48,416 --> 01:14:51,043
@@ -5273,8 +5273,8 @@ Oh, this is terrible!
 
 1195
 01:14:58,425 --> 01:15:00,178
-- Oh, boy.
-- Well, he's home early.
+Oh, boy.
+Well, he's home early.
 
 1196
 01:15:00,303 --> 01:15:03,806
@@ -5380,13 +5380,13 @@ That's because we are one smart kid.
 
 1219
 01:16:59,416 --> 01:17:00,417
-- So long!
-- Bye-bye, Lewis!
+So long!
+Bye-bye, Lewis!
 
 1220
 01:17:00,542 --> 01:17:03,044
-- Farewell, future brother-in-law.
-- So long! See you later, Lewis!
+Farewell, future brother-in-law.
+So long! See you later, Lewis!
 
 1221
 01:17:03,170 --> 01:17:04,963
@@ -5394,8 +5394,8 @@ Oh, don't forget the mashed potatoes!
 
 1222
 01:17:06,340 --> 01:17:08,384
-- Have a safe trip, little Lewis.
-- I will.
+Have a safe trip, little Lewis.
+I will.
 
 1223
 01:17:08,509 --> 01:17:10,260
@@ -5418,8 +5418,8 @@ hey, don't forget to invent me.
 
 1227
 01:17:21,729 --> 01:17:24,148
-- Are you kidding? No way!
-- I love you.
+Are you kidding? No way!
+I love you.
 
 1228
 01:17:25,316 --> 01:17:27,776
@@ -5433,8 +5433,8 @@ Time travel now, questions later.
 
 1230
 01:17:30,654 --> 01:17:31,656
-- But I...
-- Don't worry.
+But I...
+Don't worry.
 
 1231
 01:17:31,781 --> 01:17:34,617
@@ -5447,13 +5447,13 @@ Oh, right. Right, okay, I will. Bye.
 
 1233
 01:17:38,245 --> 01:17:40,789
-- Goodbye, son.
-- Thanks again for everything!
+Goodbye, son.
+Thanks again for everything!
 
 1234
 01:17:40,915 --> 01:17:43,417
-- Wait. Lewis, one more thing.
-- Yeah?
+Wait. Lewis, one more thing.
+Yeah?
 
 1235
 01:17:43,542 --> 01:17:48,421
@@ -5562,8 +5562,8 @@ till you get it right.
 
 1259
 01:21:55,241 --> 01:21:56,867
-- You got that motto?
-- I got it.
+You got that motto?
+I got it.
 
 1260
 01:21:56,993 --> 01:21:58,244
@@ -5642,8 +5642,8 @@ Perfect!
 
 1278
 01:23:32,751 --> 01:23:35,754
-- You look gorgeous.
-- He's a lucky guy.
+You look gorgeous.
+He's a lucky guy.
 
 1279
 01:23:37,839 --> 01:23:39,632
@@ -5651,8 +5651,8 @@ Oh! It works.
 
 1280
 01:23:39,757 --> 01:23:42,218
-- It works!
-- It works.
+It works!
+It works.
 
 1281
 01:23:42,802 --> 01:23:45,054
@@ -5664,8 +5664,8 @@ Bud?
 
 1283
 01:23:52,770 --> 01:23:54,689
-- Would you look at that?
-- Whoa!
+Would you look at that?
+Whoa!
 
 1284
 01:23:54,814 --> 01:23:56,607
@@ -5673,8 +5673,8 @@ Honey! Honey, you're just in time.
 
 1285
 01:23:56,732 --> 01:23:59,610
-- Lucille!
-- You did it, Lewis! You did it!
+Lucille!
+You did it, Lewis! You did it!
 
 1286
 01:23:59,735 --> 01:24:01,111
@@ -5716,8 +5716,8 @@ about running away?
 
 1295
 01:24:25,802 --> 01:24:28,137
-- Frankie?
-- My star pupil.
+Frankie?
+My star pupil.
 
 1296
 01:24:28,262 --> 01:24:33,142
@@ -5764,7 +5764,7 @@ You've got a bright future ahead of you.
 
 1306
 01:25:05,422 --> 01:25:06,673
-<i> Let it go </i>
+ Let it go 
 
 1307
 01:25:06,800 --> 01:25:07,884
@@ -5772,444 +5772,444 @@ Yeah.
 
 1308
 01:25:08,259 --> 01:25:11,262
-<i> Let it roll right off your shoulder </i>
+ Let it roll right off your shoulder 
 
 1309
 01:25:11,387 --> 01:25:12,847
-<i> Don't you know </i>
+ Don't you know 
 
 1310
 01:25:14,557 --> 01:25:17,059
-<i> The hardest part is over </i>
+ The hardest part is over 
 
 1311
 01:25:17,184 --> 01:25:18,811
-<i> Let it in </i>
+ Let it in 
 
 1312
 01:25:19,895 --> 01:25:22,689
-<i> Let your clarity define you </i>
+ Let your clarity define you 
 
 1313
 01:25:22,814 --> 01:25:24,399
-<i> In the end </i>
+ In the end 
 
 1314
 01:25:25,650 --> 01:25:29,862
-<i> We will only just remember 
- How it feels </i>
+ We will only just remember 
+ How it feels 
 
 1315
 01:25:39,622 --> 01:25:41,666
-<i> Let it slide </i>
+ Let it slide 
 
 1316
 01:25:42,708 --> 01:25:45,628
-<i> Let your troubles fall behind you </i>
+ Let your troubles fall behind you 
 
 1317
 01:25:45,753 --> 01:25:47,546
-<i> Let it shine </i>
+ Let it shine 
 
 1318
 01:25:48,547 --> 01:25:51,216
-<i> Until you feel it all around you </i>
+ Until you feel it all around you 
 
 1319
 01:25:51,383 --> 01:25:54,052
-<i> And I don't mind </i>
+ And I don't mind 
 
 1320
 01:25:54,177 --> 01:25:57,013
-<i> If it's me you need to turn to </i>
+ If it's me you need to turn to 
 
 1321
 01:25:57,138 --> 01:25:59,391
-<i> We'll get by </i>
+ We'll get by 
 
 1322
 01:26:00,017 --> 01:26:04,396
-<i> It's the heart that really matters 
- In the end </i>
+ It's the heart that really matters 
+ In the end 
 
 1323
 01:26:04,980 --> 01:26:07,524
-<i> Our lives are made </i>
+ Our lives are made 
 
 1324
 01:26:07,649 --> 01:26:10,360
-<i> In these small hours </i>
+ In these small hours 
 
 1325
 01:26:10,652 --> 01:26:13,071
-<i> These little wonders </i>
+ These little wonders 
 
 1326
 01:26:13,237 --> 01:26:16,115
-<i> These twists and turns of fate </i>
+ These twists and turns of fate 
 
 1327
 01:26:16,407 --> 01:26:18,743
-<i> Time falls away </i>
+ Time falls away 
 
 1328
 01:26:18,868 --> 01:26:22,079
-<i> But these small hours </i>
+ But these small hours 
 
 1329
 01:26:22,204 --> 01:26:27,543
-<i> These small hours still remain </i>
+ These small hours still remain 
 
 1330
 01:26:27,919 --> 01:26:30,254
-<i> All of my regret </i>
+ All of my regret 
 
 1331
 01:26:30,379 --> 01:26:33,173
-<i> Will wash away somehow </i>
+ Will wash away somehow 
 
 1332
 01:26:33,424 --> 01:26:35,968
-<i> But I cannot forget </i>
+ But I cannot forget 
 
 1333
 01:26:36,093 --> 01:26:39,387
-<i> The way I feel right now </i>
+ The way I feel right now 
 
 1334
 01:27:03,536 --> 01:27:05,245
-<i> The future has arrived </i>
+ The future has arrived 
 
 1335
 01:27:06,538 --> 01:27:08,582
-<i> The future has arrived </i>
+ The future has arrived 
 
 1336
 01:27:09,791 --> 01:27:11,751
-<i> The future has arrived </i>
+ The future has arrived 
 
 1337
 01:27:13,128 --> 01:27:15,422
-<i> The future has arrived </i>
+ The future has arrived 
 
 1338
 01:27:29,644 --> 01:27:31,229
-<i> The future's arrived </i>
+ The future's arrived 
 
 1339
 01:27:31,354 --> 01:27:32,897
-<i> Nobody can doubt </i>
+ Nobody can doubt 
 
 1340
 01:27:33,022 --> 01:27:36,108
-<i> The future is what everything's about </i>
+ The future is what everything's about 
 
 1341
 01:27:36,233 --> 01:27:39,028
-<i> It's better for you 
- And it's better for me </i>
+ It's better for you 
+ And it's better for me 
 
 1342
 01:27:39,487 --> 01:27:42,532
-<i> It's better than what everybody 
- Thought it would be </i>
+ It's better than what everybody 
+ Thought it would be 
 
 1343
 01:27:42,657 --> 01:27:44,617
-<i> The future has arrived </i>
+ The future has arrived 
 
 1344
 01:27:46,077 --> 01:27:48,746
-<i> The future has arrived today </i>
+ The future has arrived today 
 
 1345
 01:27:49,371 --> 01:27:50,956
-<i> The future's alive </i>
+ The future's alive 
 
 1346
 01:27:51,081 --> 01:27:52,583
-<i> Alive as can be </i>
+ Alive as can be 
 
 1347
 01:27:52,708 --> 01:27:54,084
-<i> Just open your eyes </i>
+ Just open your eyes 
 
 1348
 01:27:54,209 --> 01:27:55,835
-<i> It's plain to see </i>
+ It's plain to see 
 
 1349
 01:27:55,961 --> 01:27:57,420
-<i> Just don't be afraid </i>
+ Just don't be afraid 
 
 1350
 01:27:57,545 --> 01:27:59,339
-<i> Just keep going on </i>
+ Just keep going on 
 
 1351
 01:27:59,464 --> 01:28:02,258
-<i> One step at a time 
- And you can't go wrong </i>
+ One step at a time 
+ And you can't go wrong 
 
 1352
 01:28:02,383 --> 01:28:04,928
-<i> It's time to create </i>
+ It's time to create 
 
 1353
 01:28:05,053 --> 01:28:07,055
-<i> Time to grow </i>
+ Time to grow 
 
 1354
 01:28:07,180 --> 01:28:08,682
-<i> If you feel right </i>
+ If you feel right 
 
 1355
 01:28:08,807 --> 01:28:12,060
-<i> The world, yeah 
- She's changing </i>
+ The world, yeah 
+ She's changing 
 
 1356
 01:28:12,185 --> 01:28:14,812
-<i> Don't it make you feel alive? </i>
+ Don't it make you feel alive? 
 
 1357
 01:28:15,855 --> 01:28:17,481
-<i> The future has arrived </i>
+ The future has arrived 
 
 1358
 01:28:18,941 --> 01:28:21,527
-<i> The future has arrived today </i>
+ The future has arrived today 
 
 1359
 01:28:22,444 --> 01:28:23,987
-<i> The future's alive </i>
+ The future's alive 
 
 1360
 01:28:25,530 --> 01:28:28,199
-<i> The future is alive today </i>
+ The future is alive today 
 
 1361
 01:28:35,791 --> 01:28:38,835
-<i> Yeah, yeah, yeah, yeah </i>
+ Yeah, yeah, yeah, yeah 
 
 1362
 01:28:38,960 --> 01:28:41,838
-<i> Yeah, yeah, yeah, yeah </i>
+ Yeah, yeah, yeah, yeah 
 
 1363
 01:28:41,963 --> 01:28:43,548
-<i> The future's arrived </i>
+ The future's arrived 
 
 1364
 01:28:43,673 --> 01:28:45,174
-<i> Nobody can doubt </i>
+ Nobody can doubt 
 
 1365
 01:28:45,300 --> 01:28:48,636
-<i> The future is what everything's about </i>
+ The future is what everything's about 
 
 1366
 01:28:48,761 --> 01:28:51,764
-<i> It's better for you 
- It's better for me </i>
+ It's better for you 
+ It's better for me 
 
 1367
 01:28:51,889 --> 01:28:54,767
-<i> It's better than what everybody 
- Thought it would be </i>
+ It's better than what everybody 
+ Thought it would be 
 
 1368
 01:28:54,893 --> 01:28:57,603
-<i> It's time to create </i>
+ It's time to create 
 
 1369
 01:28:57,729 --> 01:28:59,272
-<i> Time to grow </i>
+ Time to grow 
 
 1370
 01:28:59,564 --> 01:29:01,440
-<i> If you feel right </i>
+ If you feel right 
 
 1371
 01:29:01,565 --> 01:29:04,693
-<i> The world, yeah 
- She's changing </i>
+ The world, yeah 
+ She's changing 
 
 1372
 01:29:04,818 --> 01:29:07,988
-<i> And life's rearranging </i>
+ And life's rearranging 
 
 1373
 01:29:08,113 --> 01:29:10,032
-<i> Don't it make you feel alive? </i>
+ Don't it make you feel alive? 
 
 1374
 01:29:10,157 --> 01:29:11,700
-<i> The future has arrived </i>
+ The future has arrived 
 
 1375
 01:29:11,825 --> 01:29:13,368
-<i> The future has arrived </i>
+ The future has arrived 
 
 1376
 01:29:14,869 --> 01:29:17,372
-<i> The future has arrived today </i>
+ The future has arrived today 
 
 1377
 01:29:18,081 --> 01:29:19,957
-<i> The future's alive </i>
+ The future's alive 
 
 1378
 01:29:21,460 --> 01:29:24,045
-<i> The future is alive today </i>
+ The future is alive today 
 
 1379
 01:29:24,671 --> 01:29:26,548
-<i> The future has arrived </i>
+ The future has arrived 
 
 1380
 01:29:27,924 --> 01:29:30,760
-<i> The future has arrived today </i>
+ The future has arrived today 
 
 1381
 01:29:31,511 --> 01:29:33,220
-<i> The future's alive </i>
+ The future's alive 
 
 1382
 01:29:34,513 --> 01:29:37,516
-<i> The future is alive today </i>
+ The future is alive today 
 
 1383
 01:29:38,100 --> 01:29:39,685
-<i> The future has arrived </i>
+ The future has arrived 
 
 1384
 01:29:41,186 --> 01:29:44,022
-<i> The future has arrived today </i>
+ The future has arrived today 
 
 1385
 01:29:44,439 --> 01:29:46,400
-<i> The future's alive </i>
+ The future's alive 
 
 1386
 01:29:47,735 --> 01:29:50,404
-<i> The future is alive today </i>
+ The future is alive today 
 
 1387
 01:29:51,238 --> 01:29:54,157
-<i> The future has arrived today </i>
+ The future has arrived today 
 
 1388
 01:29:54,282 --> 01:29:57,077
-<i> The future has arrived today </i>
+ The future has arrived today 
 
 1389
 01:29:57,619 --> 01:30:00,413
-<i> The future has arrived today </i>
+ The future has arrived today 
 
 1390
 01:30:00,830 --> 01:30:03,749
-<i> The future has arrived today </i>
+ The future has arrived today 
 
 1391
 01:30:10,214 --> 01:30:15,428
-<i> Waiting to cross the Rubicon </i>
+ Waiting to cross the Rubicon 
 
 1392
 01:30:15,553 --> 01:30:20,266
-<i> Wondering what side I'm on </i>
+ Wondering what side I'm on 
 
 1393
 01:30:20,683 --> 01:30:25,479
-<i> What are these visions 
- Of me as a young man </i>
+ What are these visions 
+ Of me as a young man 
 
 1394
 01:30:25,604 --> 01:30:31,609
-<i> With one arm pointing 
- And the other arm holding your hand? </i>
+ With one arm pointing 
+ And the other arm holding your hand? 
 
 1395
 01:30:31,734 --> 01:30:36,531
-<i> Needing a plan to keep you near </i>
+ Needing a plan to keep you near 
 
 1396
 01:30:36,657 --> 01:30:41,619
-<i> Blowing a horn so you can hear </i>
+ Blowing a horn so you can hear 
 
 1397
 01:30:41,995 --> 01:30:46,791
-<i> If it was only my love and devotion </i>
+ If it was only my love and devotion 
 
 1398
 01:30:46,916 --> 01:30:51,462
-<i> This world would suddenly be 
- In a state of </i>
+ This world would suddenly be 
+ In a state of 
 
 1399
 01:30:51,587 --> 01:30:55,966
-<i> Commotion </i>
+ Commotion 
 
 1400
 01:30:56,466 --> 01:31:00,929
-<i> Emotional commotion </i>
+ Emotional commotion 
 
 1401
 01:31:01,054 --> 01:31:06,185
-<i> Emotional commotion </i>
+ Emotional commotion 
 
 1402
 01:31:07,352 --> 01:31:11,857
-<i> Emotional commotion </i>
+ Emotional commotion 
 
 1403
 01:31:11,982 --> 01:31:14,526
-<i> Emotional commotion </i>
+ Emotional commotion 
 
 1404
 01:31:36,255 --> 01:31:40,300
-<i> I never get around 
- Under the sun and the stars </i>
+ I never get around 
+ Under the sun and the stars 
 
 1405
 01:31:40,425 --> 01:31:46,306
-<i> And I may be always frowning </i>
+ And I may be always frowning 
 
 1406
 01:31:46,431 --> 01:31:50,685
-<i> But one day you will see 
- Under the sun and the stars </i>
+ But one day you will see 
+ Under the sun and the stars 
 
 1407
 01:31:50,810 --> 01:31:56,566
-<i> You will turn around 
- And I'll be </i>
+ You will turn around 
+ And I'll be 
 
 1408
 01:31:56,691 --> 01:32:00,820
-<i> In motion </i>
+ In motion 
 
 1409
 01:32:01,612 --> 01:32:06,158
-<i> Emotional commotion </i>
+ Emotional commotion 
 
 1410
 01:32:06,283 --> 01:32:12,164
-<i> Emotional commotion </i>
+ Emotional commotion 
 
 1411
 01:32:12,539 --> 01:32:16,876
-<i> Emotional commotion </i>
+ Emotional commotion 
 
 1412
 01:32:17,002 --> 01:32:22,633
-<i> Emotional commotion </i>
+ Emotional commotion 
 
 1413
 01:32:23,383 --> 01:32:27,888
-<i> Emotional commotion </i>
+ Emotional commotion 
 
 1414
 01:32:28,013 --> 01:32:34,602
-<i> Emotional motion </i>
+ Emotional motion 
 

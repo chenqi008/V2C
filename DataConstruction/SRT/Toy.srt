@@ -1,6 +1,6 @@
 ﻿1
 00:00:59,393 --> 00:01:02,476
-Boy: All right, everyone!
+All right, everyone!
 This... is a stick-up!
 
 2
@@ -37,7 +37,7 @@ Somebody do something!
 
 9
 00:01:30,173 --> 00:01:33,256
-Voice box: Reach for the sky!
+Reach for the sky!
 
 10
 00:01:33,343 --> 00:01:35,504
@@ -89,16 +89,16 @@ You saved the day again, Woody.
 
 21
 00:02:09,421 --> 00:02:12,003
-Voice box: You're my
+You're my
 favorite deputy.
 
 22
 00:02:12,049 --> 00:02:14,540
-J you've got a friend in me
+you've got a friend in me
 
 23
 00:02:16,428 --> 00:02:18,544
-j you've got a friend in me
+you've got a friend in me
 
 24
 00:02:18,639 --> 00:02:20,379
@@ -107,12 +107,12 @@ let's wrangle up the cattle.
 
 25
 00:02:20,474 --> 00:02:23,591
-J when the road looks
+when the road looks
 rough ahead
 
 26
 00:02:23,685 --> 00:02:27,519
-j and you're miles and miles
+and you're miles and miles
 from your nice, warm bed
 
 27
@@ -121,12 +121,12 @@ round 'em up, cowboy!
 
 28
 00:02:28,899 --> 00:02:31,732
-J just remember
+just remember
 what your old pal said
 
 29
 00:02:31,777 --> 00:02:34,735
-j boy, you've got a friend in me
+boy, you've got a friend in me
 
 30
 00:02:34,780 --> 00:02:35,860
@@ -134,7 +134,7 @@ yee-haw!
 
 31
 00:02:35,906 --> 00:02:38,773
-J yeah, you've got a friend in me
+yeah, you've got a friend in me
 
 32
 00:02:38,867 --> 00:02:40,823
@@ -142,12 +142,12 @@ hey, cowboy!
 
 33
 00:02:40,911 --> 00:02:43,744
-J some other folks might be
+some other folks might be
 a little bit smarter than I am
 
 34
 00:02:44,915 --> 00:02:46,701
-j big and stronger too
+big and stronger too
 
 35
 00:02:46,750 --> 00:02:47,785
@@ -155,11 +155,11 @@ come on, Woody.
 
 36
 00:02:47,876 --> 00:02:48,911
-J maybe
+maybe
 
 37
 00:02:48,960 --> 00:02:54,205
-j but none of them will ever
+but none of them will ever
 love you the way I do
 
 38
@@ -168,7 +168,7 @@ j' it's me and you, boy
 
 39
 00:02:56,802 --> 00:02:58,087
-j and as the years go by
+and as the years go by
 
 40
 00:02:58,136 --> 00:03:00,252
@@ -176,7 +176,7 @@ whoa! Whoa!
 
 41
 00:03:00,305 --> 00:03:03,263
-J our friendship will never die
+our friendship will never die
 
 42
 00:03:04,351 --> 00:03:05,351
@@ -184,12 +184,12 @@ whoo!
 
 43
 00:03:05,435 --> 00:03:07,426
-J you're gonna see
+you're gonna see
 it's our destiny
 
 44
 00:03:09,606 --> 00:03:11,517
-j you've got a friend in me
+you've got a friend in me
 
 45
 00:03:11,608 --> 00:03:12,768
@@ -197,7 +197,7 @@ all right!
 
 46
 00:03:12,818 --> 00:03:15,275
-J yeah, you've got a friend in me
+yeah, you've got a friend in me
 
 47
 00:03:15,320 --> 00:03:16,730
@@ -210,8 +210,8 @@ score!
 
 49
 00:03:20,367 --> 00:03:23,484
-- Mom: What do you think?
-- Oh, this looks great, mom!
+What do you think?
+Oh, this looks great, mom!
 
 50
 00:03:23,578 --> 00:03:24,909
@@ -224,18 +224,18 @@ I asked you for it!
 
 52
 00:03:27,082 --> 00:03:28,893
-- I hope I have enough places.
-- Wow, look at that! That's so...
+I hope I have enough places.
+Wow, look at that! That's so...
 
 53
 00:03:28,917 --> 00:03:30,828
-- One, two... four.
-- Oh, my gosh, you got...
+One, two... four.
+Oh, my gosh, you got...
 
 54
 00:03:30,919 --> 00:03:33,690
-- Yeah, I think that's gonna be enough.
-- Could we leave this up 'til we move?
+Yeah, I think that's gonna be enough.
+Could we leave this up 'til we move?
 
 55
 00:03:33,714 --> 00:03:35,625
@@ -261,7 +261,7 @@ Howdy, little lady.
 
 60
 00:03:55,569 --> 00:03:57,810
-Voice box: Somebody's
+Somebody's
 poisoned the water hole.
 
 61
@@ -300,8 +300,8 @@ Hey, hamm.
 
 69
 00:04:45,786 --> 00:04:48,949
-- Look, I'm Picasso!
-- I don't get it.
+Look, I'm Picasso!
+I don't get it.
 
 70
 00:04:49,498 --> 00:04:53,537
@@ -310,8 +310,8 @@ you lookin' at, ya hockey puck?
 
 71
 00:04:57,964 --> 00:05:00,751
-- Hey, sarge, have you seen slinky?
-- Sir! No, sir!
+Hey, sarge, have you seen slinky?
+Sir! No, sir!
 
 72
 00:05:00,842 --> 00:05:03,754
@@ -328,8 +328,8 @@ I'm red this time.
 
 75
 00:05:09,476 --> 00:05:11,683
-- No. S-slink...
-- Oh, well, all right.
+No. S-slink...
+Oh, well, all right.
 
 76
 00:05:11,728 --> 00:05:12,934
@@ -358,8 +358,8 @@ Got it.
 
 82
 00:05:21,571 --> 00:05:23,687
-- Be happy!
-- Ha, ha, ha, ha!
+Be happy!
+Ha, ha, ha, ha!
 
 83
 00:05:23,740 --> 00:05:26,527
@@ -399,8 +399,8 @@ way over here?
 
 91
 00:05:51,768 --> 00:05:55,602
-- How're you doin', Rex?
-- Were you scared? Tell me honestly.
+How're you doin', Rex?
+Were you scared? Tell me honestly.
 
 92
 00:05:55,689 --> 00:05:57,554
@@ -450,7 +450,7 @@ Smaller toys up front.
 
 102
 00:06:30,098 --> 00:06:31,963
-Slinky: Hey, Woody, come on.
+Hey, Woody, come on.
 
 103
 00:06:34,895 --> 00:06:36,851
@@ -466,8 +466,8 @@ Okay... whoa, whoa. Step back.
 
 106
 00:06:41,693 --> 00:06:44,230
-- Hamm: For crying out loud.
-- Thank you.
+For crying out loud.
+Thank you.
 
 107
 00:06:46,114 --> 00:06:48,651
@@ -490,8 +490,8 @@ Has everyone picked a moving buddy?
 
 111
 00:06:58,376 --> 00:07:00,992
-- Rex: What?
-- Moving buddy? You can't be serious.
+What?
+Moving buddy? You can't be serious.
 
 112
 00:07:01,087 --> 00:07:03,328
@@ -544,7 +544,7 @@ Thank you, Mr. spell.
 
 123
 00:07:29,616 --> 00:07:30,936
-Electronic voice: You're welcome.
+You're welcome.
 
 124
 00:07:31,242 --> 00:07:34,700
@@ -675,13 +675,13 @@ garage sale fodder for sure.
 
 151
 00:08:53,450 --> 00:08:56,317
-- Any dinosaur-shaped ones?
-- Oh, for crying out loud.
+Any dinosaur-shaped ones?
+Oh, for crying out loud.
 
 152
 00:08:56,411 --> 00:08:59,494
-- They're all in boxes, you idiot.
-- Rex: They're getting bigger.
+They're all in boxes, you idiot.
+They're getting bigger.
 
 153
 00:08:59,581 --> 00:09:01,913
@@ -690,12 +690,12 @@ little one over there.
 
 154
 00:09:01,958 --> 00:09:02,993
-Child: Hil
+Hil
 
 155
 00:09:06,296 --> 00:09:08,161
-Mr. spell: Spell, trash can.
-Rex: We're doomed!
+Spell, trash can.
+We're doomed!
 
 156
 00:09:08,256 --> 00:09:09,996
@@ -708,8 +708,8 @@ will you all calm down?
 
 158
 00:09:13,845 --> 00:09:17,713
-- Yes! Yes! We promise!
-- Okay! Save your batteries.
+Yes! Yes! We promise!
+Okay! Save your batteries.
 
 159
 00:09:17,807 --> 00:09:19,798
@@ -723,8 +723,8 @@ a recon post downstairs. Code red!
 
 161
 00:09:26,441 --> 00:09:28,898
-- You know what to do.
-- Yes, sir!
+You know what to do.
+Yes, sir!
 
 162
 00:09:29,819 --> 00:09:31,810
@@ -743,11 +743,11 @@ Move, move, move, move!
 
 165
 00:09:56,179 --> 00:09:58,465
-Children: Yeah!
+Yeah!
 
 166
 00:10:00,350 --> 00:10:01,840
-Mom: Okay, come on, kids.
+Okay, come on, kids.
 
 167
 00:10:01,893 --> 00:10:04,851
@@ -764,7 +764,7 @@ what is in those presents.
 
 170
 00:10:37,971 --> 00:10:40,883
-Mom: Okay, who's hungry?
+Okay, who's hungry?
 
 171
 00:10:41,724 --> 00:10:43,009
@@ -809,7 +809,7 @@ leaves a man behind.
 
 180
 00:11:33,818 --> 00:11:35,778
-Mom: Okay, everybody, come on.
+Okay, everybody, come on.
 
 181
 00:11:35,820 --> 00:11:38,937
@@ -828,18 +828,18 @@ are you gonna open first?
 
 184
 00:11:47,957 --> 00:11:50,118
-Child: Mine!
-Sergeant: There they are.
+Mine!
+There they are.
 
 185
 00:11:51,085 --> 00:11:53,063
-Soldier on monitor: Come in,
+Come in,
 mother bird. This is Alpha bravo.
 
 186
 00:11:53,087 --> 00:11:55,567
-- This is it! This is it! Quiet, quiet!
-- Come in, mother bird.
+This is it! This is it! Quiet, quiet!
+Come in, mother bird.
 
 187
 00:11:58,593 --> 00:12:01,426
@@ -862,13 +862,13 @@ It's a... a lunch box.
 
 191
 00:12:09,270 --> 00:12:11,477
-- We've got a lunch box here.
-- A lunch box?
+We've got a lunch box here.
+A lunch box?
 
 192
 00:12:11,522 --> 00:12:13,308
-- Lunch box?
-- For lunch.
+Lunch box?
+For lunch.
 
 193
 00:12:13,399 --> 00:12:15,936
@@ -886,8 +886,8 @@ Oh! Only one left.
 
 196
 00:12:26,496 --> 00:12:29,033
-- Okay, we're on the last present now.
-- Last present!
+Okay, we're on the last present now.
+Last present!
 
 197
 00:12:29,123 --> 00:12:31,489
@@ -900,12 +900,12 @@ It's a board game! Repeat, battleship!
 
 199
 00:12:34,170 --> 00:12:36,411
-Hamm: Hallelujah!
+Hallelujah!
 
 200
 00:12:36,506 --> 00:12:38,371
-- Yeah! All right!
-- Hey, watch it!
+Yeah! All right!
+Hey, watch it!
 
 201
 00:12:38,466 --> 00:12:40,172
@@ -932,8 +932,8 @@ Wait a minute. Ohl!
 
 206
 00:12:52,438 --> 00:12:56,522
-- What do we have here?
-- Wait! Turn that thing back on!
+What do we have here?
+Wait! Turn that thing back on!
 
 207
 00:12:56,609 --> 00:12:58,395
@@ -952,8 +952,8 @@ He's really excited about this one.
 
 210
 00:13:03,700 --> 00:13:05,928
-- Mom, what is it?
-- Sergeant: It's a huge package.
+Mom, what is it?
+It's a huge package.
 
 211
 00:13:05,952 --> 00:13:08,694
@@ -962,7 +962,7 @@ is in the way. I can't see.
 
 212
 00:13:09,372 --> 00:13:11,738
-It's a... kids together: Wow!
+Wow!
 
 213
 00:13:12,542 --> 00:13:16,285
@@ -978,8 +978,8 @@ Oh, ya big lizard!
 
 216
 00:13:19,299 --> 00:13:21,881
-- Now we'll never know what it is!
-- Way to go, Rex!
+Now we'll never know what it is!
+Way to go, Rex!
 
 217
 00:13:21,968 --> 00:13:23,924
@@ -998,7 +998,7 @@ Oh, let me!
 
 220
 00:13:31,102 --> 00:13:33,343
-Andy:: Let's go to my room, guys!
+Let's go to my room, guys!
 
 221
 00:13:33,396 --> 00:13:36,138
@@ -1007,8 +1007,8 @@ Andy is coming upstairs!
 
 222
 00:13:36,232 --> 00:13:38,268
-- There!
-Soldier: Juvenile intrusion!
+There!
+Juvenile intrusion!
 
 223
 00:13:38,359 --> 00:13:40,145
@@ -1022,7 +1022,7 @@ back to your places! Hurry!
 
 225
 00:13:42,947 --> 00:13:44,707
-Hamm: Get to your places!
+Get to your places!
 Get to your places!
 
 226
@@ -1037,7 +1037,7 @@ Here I come!
 
 228
 00:14:00,882 --> 00:14:04,466
-Andy: Hey, look,
+Hey, look,
 its lasers light up. Take that, zurg!
 
 229
@@ -1052,7 +1052,7 @@ And he does a karate chop action!
 
 231
 00:14:10,183 --> 00:14:13,095
-Mom: Come on down, guys!
+Come on down, guys!
 It's time for games!
 
 232
@@ -1061,22 +1061,22 @@ We've got prizes!
 
 233
 00:14:27,575 --> 00:14:28,594
-- What is it?
-- Can you see it?
+What is it?
+Can you see it?
 
 234
 00:14:28,618 --> 00:14:32,281
-- What the heck is up there?
-- Woody, who's up there with ya?
+What the heck is up there?
+Woody, who's up there with ya?
 
 235
 00:14:32,372 --> 00:14:35,535
-Slinky: Woody?
+Woody?
 
 236
 00:14:35,625 --> 00:14:38,742
-- What are you doing under the bed?
-- Uh, nothin'. Uh, nothin...
+What are you doing under the bed?
+Uh, nothin'. Uh, nothin...
 
 237
 00:14:38,795 --> 00:14:41,457
@@ -1095,8 +1095,8 @@ in your spot, Woody.
 
 240
 00:14:48,179 --> 00:14:51,421
-- Have you been replaced?
-- What did I tell you earlier?
+Have you been replaced?
+What did I tell you earlier?
 
 241
 00:14:51,474 --> 00:14:53,339
@@ -1246,8 +1246,8 @@ Don't shoot! It's okay. Friends.
 
 273
 00:16:47,423 --> 00:16:51,211
-- Do you know these life-forms?
-- Yes! They're Andy's toys.
+Do you know these life-forms?
+Yes! They're Andy's toys.
 
 274
 00:16:51,260 --> 00:16:53,626
@@ -1275,8 +1275,8 @@ for your kind welcome!
 
 279
 00:17:05,024 --> 00:17:07,766
-- Say, what's that button do?
-- I'll show you.
+Say, what's that button do?
+I'll show you.
 
 280
 00:17:07,860 --> 00:17:09,942
@@ -1285,7 +1285,7 @@ Buzz lightyear to the rescue!
 
 281
 00:17:09,987 --> 00:17:10,987
-Toys: Ohl
+Ohl
 
 282
 00:17:11,072 --> 00:17:13,654
@@ -1294,12 +1294,12 @@ His is a pull string.
 
 283
 00:17:13,741 --> 00:17:15,948
-- Only it's...
-- Only it sounds like a car ran over it.
+Only it's...
+Only it sounds like a car ran over it.
 
 284
 00:17:16,035 --> 00:17:19,778
-Hamm: Oh, yeah, but not like this.
+Oh, yeah, but not like this.
 This is a quality sound system.
 
 285
@@ -1384,8 +1384,8 @@ It's a little light bulb that blinks.
 
 302
 00:18:07,128 --> 00:18:08,834
-- What's with him?
-- Laser envy.
+What's with him?
+Laser envy.
 
 303
 00:18:08,879 --> 00:18:10,164
@@ -1398,13 +1398,13 @@ with Andy's new toy.
 
 305
 00:18:13,676 --> 00:18:16,042
-- Toy?
-- T-o-y. Toy!
+Toy?
+T-o-y. Toy!
 
 306
 00:18:16,137 --> 00:18:20,130
 Excuse me, I think the word
-you're searching for is "space ranger."
+you're searching for is space ranger.
 
 307
 00:18:20,182 --> 00:18:24,676
@@ -1440,8 +1440,8 @@ Excuse me.
 
 314
 00:18:40,077 --> 00:18:44,036
-- Toys: Ooh!
-- Oh, impressive wingspan! Very good!
+Ooh!
+Oh, impressive wingspan! Very good!
 
 315
 00:18:44,123 --> 00:18:48,867
@@ -1455,13 +1455,13 @@ and I can fly.
 
 317
 00:18:52,465 --> 00:18:55,753
-- No, you can't.
-- Yes, I can.
+No, you can't.
+Yes, I can.
 
 318
 00:18:55,843 --> 00:18:56,878
-- You can't.
-- Can.
+You can't.
+Can.
 
 319
 00:18:56,969 --> 00:18:58,675
@@ -1474,8 +1474,8 @@ this room with my eyes closed!
 
 321
 00:19:01,223 --> 00:19:05,432
-- Okay, then, Mr. light beer, prove it.
-- All right, then, I will.
+Okay, then, Mr. light beer, prove it.
+All right, then, I will.
 
 322
 00:19:05,519 --> 00:19:07,430
@@ -1487,8 +1487,8 @@ To infinity and beyond!
 
 324
 00:19:44,517 --> 00:19:46,929
-- Can!
-- Rex: Whoa!
+Can!
+Whoa!
 
 325
 00:19:47,478 --> 00:19:50,220
@@ -1515,8 +1515,8 @@ go for you. Can you teach me that?
 
 330
 00:20:01,659 --> 00:20:05,618
-- Golly Bob howdy!
-- Oh, shut up!
+Golly Bob howdy!
+Oh, shut up!
 
 331
 00:20:05,705 --> 00:20:06,765
@@ -1529,7 +1529,7 @@ it was. They'll see.
 
 333
 00:20:09,208 --> 00:20:10,914
-Woody: They'll see.
+They'll see.
 
 334
 00:20:11,252 --> 00:20:14,335
@@ -1537,39 +1537,39 @@ I'm still Andy's favorite toy.
 
 335
 00:20:15,047 --> 00:20:17,584
-J I was on top of the world
+I was on top of the world
 livin' high
 
 336
 00:20:17,633 --> 00:20:19,373
-j it was right in my pocket
+it was right in my pocket
 
 337
 00:20:19,468 --> 00:20:21,550
-Andy: Whoa!
+Whoa!
 
 338
 00:20:22,012 --> 00:20:23,752
-J I was livin' the life
+I was livin' the life
 
 339
 00:20:23,806 --> 00:20:27,219
-j things were just the way
+things were just the way
 they should be
 
 340
 00:20:29,145 --> 00:20:31,807
-j when from out of the sky
+when from out of the sky
 like a bomb
 
 341
 00:20:31,856 --> 00:20:34,142
-j comes some little punk
+comes some little punk
 in a rocket
 
 342
 00:20:36,444 --> 00:20:39,811
-j now all of a sudden some
+now all of a sudden some
 strange things are happening to me
 
 343
@@ -1578,63 +1578,63 @@ buzz lightyear to the rescue!
 
 344
 00:20:43,576 --> 00:20:46,283
-J strange
+strange
 
 345
 00:20:46,328 --> 00:20:48,785
-j things are happening to me
+things are happening to me
 
 346
 00:20:50,624 --> 00:20:54,242
-j strange
+strange
 
 347
 00:20:54,336 --> 00:20:57,578
-j things
+things
 
 348
 00:20:57,673 --> 00:21:02,588
-j strange things
+strange things
 are happening to me
 
 349
 00:21:03,721 --> 00:21:05,803
-j ain't no doubt about it
+ain't no doubt about it
 
 350
 00:21:11,270 --> 00:21:14,933
-J I had friends
+I had friends
 I had lots of friends
 
 351
 00:21:15,024 --> 00:21:18,516
-j now all my friends are gone
+now all my friends are gone
 
 352
 00:21:18,569 --> 00:21:21,777
-j and I'm doin' the best I can
+and I'm doin' the best I can
 
 353
 00:21:21,864 --> 00:21:23,695
-j to carry on
+to carry on
 
 354
 00:21:25,451 --> 00:21:27,191
-- j I had power
-- Chorus: J power
+I had power
+power
 
 355
 00:21:27,244 --> 00:21:29,656
-- j' I was respected
-- &' respected
+j' I was respected
+&' respected
 
 356
 00:21:30,372 --> 00:21:32,738
-j but not any more
+but not any more
 
 357
 00:21:32,833 --> 00:21:35,540
-j and I've lost the love of the one
+and I've lost the love of the one
 
 358
 00:21:35,628 --> 00:21:38,415
@@ -1642,48 +1642,48 @@ j and I've lost the love of the one
 
 359
 00:21:39,006 --> 00:21:42,840
-j let me tell you 'bout it
+let me tell you 'bout it
 strange
 
 360
 00:21:42,885 --> 00:21:45,718
-j things are happenin' to me
+things are happenin' to me
 
 361
 00:21:47,264 --> 00:21:50,882
-j strange
+strange
 
 362
 00:21:50,976 --> 00:21:52,967
-j things
+things
 
 363
 00:21:54,438 --> 00:21:57,100
-j strange
+strange
 
 364
 00:21:57,191 --> 00:21:59,898
-j things are happenin' to me
+things are happenin' to me
 
 365
 00:21:59,985 --> 00:22:02,397
-j ain't no doubt about it
+ain't no doubt about it
 
 366
 00:22:05,157 --> 00:22:08,741
-j strange
+strange
 
 367
 00:22:08,786 --> 00:22:11,243
-j things
+things
 
 368
 00:22:12,414 --> 00:22:15,577
-j strange
+strange
 
 369
 00:22:15,876 --> 00:22:17,707
-j things j
+things j
 
 370
 00:22:19,088 --> 00:22:21,374
@@ -1720,7 +1720,7 @@ inscribed his name on me.
 
 377
 00:22:39,358 --> 00:22:40,438
-Together: Wow!
+Wow!
 
 378
 00:22:40,526 --> 00:22:42,437
@@ -1752,8 +1752,8 @@ a special place for you.
 
 384
 00:23:00,087 --> 00:23:03,955
-- Yeah, like the attic.
-- All right, that's it!
+Yeah, like the attic.
+All right, that's it!
 
 385
 00:23:04,008 --> 00:23:06,966
@@ -1806,8 +1806,8 @@ do it the hard way, huh?
 
 396
 00:23:36,832 --> 00:23:40,620
-- Don't even think about it, cowboy.
-- Oh, yeah, tough guy?
+Don't even think about it, cowboy.
+Oh, yeah, tough guy?
 
 397
 00:23:50,012 --> 00:23:53,721
@@ -1853,11 +1853,11 @@ Where?
 
 406
 00:24:26,173 --> 00:24:28,755
-Boy: Yes!
+Yes!
 
 407
 00:24:28,842 --> 00:24:31,629
-Whoal - uh-oh.
+Whoal uh-oh.
 
 408
 00:24:31,720 --> 00:24:32,755
@@ -1865,7 +1865,7 @@ It's sid!
 
 409
 00:24:32,846 --> 00:24:34,552
-Sid: Don't move!
+Don't move!
 
 410
 00:24:34,598 --> 00:24:36,304
@@ -1878,21 +1878,21 @@ early this year.
 
 412
 00:24:38,560 --> 00:24:40,846
-Rex: Oh, no, not sid!
+Oh, no, not sid!
 
 413
 00:24:40,980 --> 00:24:44,393
-Sid: Incoming!
+Incoming!
 
 414
 00:24:44,483 --> 00:24:47,691
-- Who is it this time?
-- L... I can't... I can't tell.
+Who is it this time?
+L... I can't... I can't tell.
 
 415
 00:24:47,736 --> 00:24:49,897
-- Hey, where's Lenny?
-- Right here, Woody.
+Hey, where's Lenny?
+Right here, Woody.
 
 416
 00:24:49,989 --> 00:24:53,857
@@ -1901,7 +1901,7 @@ one of these again.
 
 417
 00:24:53,909 --> 00:24:57,072
-Woody: Oh, no,
+Oh, no,
 it's a combat Carl.
 
 418
@@ -1919,7 +1919,7 @@ I'd better take a look anyway.
 
 421
 00:25:04,628 --> 00:25:07,085
-Buzz: Why is that soldier
+Why is that soldier
 strapped to an explosive device?
 
 422
@@ -1940,8 +1940,8 @@ That is sid.
 
 426
 00:25:17,766 --> 00:25:20,553
-- You mean that happy child?
-- That ain't no happy child.
+You mean that happy child?
+That ain't no happy child.
 
 427
 00:25:20,602 --> 00:25:23,844
@@ -1959,8 +1959,8 @@ Get down from there!
 
 430
 00:25:31,530 --> 00:25:34,772
-- I'm gonna teach that boy a lesson.
-- Yeah, sure. You go ahead.
+I'm gonna teach that boy a lesson.
+Yeah, sure. You go ahead.
 
 431
 00:25:34,825 --> 00:25:37,157
@@ -1986,8 +1986,8 @@ Yes! He's gone! He's history!
 
 436
 00:25:53,010 --> 00:25:55,877
-- Whoo!
-- I could've stopped him.
+Whoo!
+I could've stopped him.
 
 437
 00:25:55,971 --> 00:25:59,134
@@ -2009,7 +2009,7 @@ Yeah!
 
 441
 00:26:13,489 --> 00:26:15,354
-Andy: To infinity and beyond!
+To infinity and beyond!
 
 442
 00:26:17,242 --> 00:26:18,698
@@ -2027,18 +2027,18 @@ Pizza planet? Oh, cool!
 
 445
 00:26:24,833 --> 00:26:27,495
-Mom: Go wash your hands,
+Go wash your hands,
 and I'll get Molly ready.
 
 446
 00:26:27,586 --> 00:26:30,874
-- Andy: Can I bring some toys?
-- You can bring one toy.
+Can I bring some toys?
+You can bring one toy.
 
 447
 00:26:30,964 --> 00:26:33,922
-- Just one?
-- One toy?
+Just one?
+One toy?
 
 448
 00:26:35,677 --> 00:26:37,338
@@ -2050,7 +2050,7 @@ Will Andy pick me?
 
 450
 00:26:44,937 --> 00:26:46,973
-"Don't count on it"?
+Don't count on it?
 
 451
 00:27:01,787 --> 00:27:03,903
@@ -2067,8 +2067,8 @@ thank goodness. We've got trouble!
 
 454
 00:27:13,215 --> 00:27:15,922
-- Trouble? Where?
-- Down there. Just down there.
+Trouble? Where?
+Down there. Just down there.
 
 455
 00:27:16,009 --> 00:27:18,751
@@ -2098,7 +2098,7 @@ Oh! Whoa, whoa! Oh!
 
 461
 00:27:49,501 --> 00:27:51,583
-Together: Buzz!
+Buzz!
 
 462
 00:27:51,670 --> 00:27:54,161
@@ -2106,13 +2106,13 @@ Buzz!
 
 463
 00:27:54,256 --> 00:27:56,087
-Slinky: I don't see him
+I don't see him
 in the driveway.
 
 464
 00:27:56,175 --> 00:27:59,793
-- I think he bounced into sid's yard!
-- Oh! Buzz!
+I think he bounced into sid's yard!
+Oh! Buzz!
 
 465
 00:28:02,139 --> 00:28:06,098
@@ -2121,13 +2121,13 @@ say something. What is it, boy?
 
 466
 00:28:06,185 --> 00:28:09,928
-- He's saying that this was no accident.
-- What do you mean?
+He's saying that this was no accident.
+What do you mean?
 
 467
 00:28:09,980 --> 00:28:12,437
-- I mean humpty-dumpty was pushed...
-- No!
+I mean humpty-dumpty was pushed...
+No!
 
 468
 00:28:12,482 --> 00:28:13,722
@@ -2135,7 +2135,7 @@ By Woody!
 
 469
 00:28:13,775 --> 00:28:15,606
-All: What? Wait a minute.
+What? Wait a minute.
 
 470
 00:28:15,694 --> 00:28:20,028
@@ -2206,7 +2206,7 @@ give him the chance.
 
 484
 00:28:55,901 --> 00:28:57,857
-Sergeant: There he is, men.
+There he is, men.
 Frag him!
 
 485
@@ -2216,8 +2216,8 @@ by his pull string!
 
 486
 00:28:59,488 --> 00:29:01,900
-Hamm: I got dibs on his hat!
-Bo: Would you boys stop it!
+I got dibs on his hat!
+Would you boys stop it!
 
 487
 00:29:01,990 --> 00:29:03,025
@@ -2230,12 +2230,12 @@ I can explain everything!
 
 489
 00:29:05,827 --> 00:29:08,694
-Andy: Okay, mom, be right down.
+Okay, mom, be right down.
 I've gotta get buzz.
 
 490
 00:29:08,789 --> 00:29:09,904
-Sergeant: Retreat!
+Retreat!
 
 491
 00:29:14,795 --> 00:29:16,786
@@ -2243,13 +2243,13 @@ Mom, do you know where buzz is?
 
 492
 00:29:16,838 --> 00:29:18,328
-- Mom: No, I haven't seen him.
-- Psstl
+No, I haven't seen him.
+Psstl
 
 493
 00:29:20,926 --> 00:29:24,418
-- mom: Andy, I'm heading out the door!
-- But, mom, I can't find him!
+Andy, I'm heading out the door!
+But, mom, I can't find him!
 
 494
 00:29:24,513 --> 00:29:26,970
@@ -2296,13 +2296,13 @@ Oh, where could he be?
 
 503
 00:30:21,570 --> 00:30:24,778
-- Can I help pump the gas?
-- Sure! I'll even let you drive.
+Can I help pump the gas?
+Sure! I'll even let you drive.
 
 504
 00:30:24,865 --> 00:30:26,730
-- Yeah?
-- Yeah, when you're 16.
+Yeah?
+Yeah, when you're 16.
 
 505
 00:30:26,825 --> 00:30:28,861
@@ -2352,8 +2352,8 @@ we promote on my planet.
 
 515
 00:31:03,945 --> 00:31:07,984
-- Oh. Well, that's good.
-- But we're not on my planet, are we?
+Oh. Well, that's good.
+But we're not on my planet, are we?
 
 516
 00:31:08,075 --> 00:31:10,031
@@ -2365,7 +2365,7 @@ Okay, come on!
 
 518
 00:31:18,251 --> 00:31:19,957
-Woody: You want a piece of me?
+You want a piece of me?
 
 519
 00:31:25,300 --> 00:31:26,710
@@ -2373,13 +2373,13 @@ Owww!
 
 520
 00:31:26,802 --> 00:31:29,043
-Voice box: Buzz, buzz,
+Buzz, buzz,
 buzz lightyear to the rescue.
 
 521
 00:31:29,137 --> 00:31:30,377
-- Aah-ouch!
-- Mom: Next stop.
+Aah-ouch!
+Next stop.
 
 522
 00:31:30,472 --> 00:31:31,962
@@ -2417,13 +2417,13 @@ You!
 
 530
 00:32:27,028 --> 00:32:29,314
-- According to my navi-computer, the...
-- Shut up!
+According to my navi-computer, the...
+Shut up!
 
 531
 00:32:29,364 --> 00:32:32,731
-- Just shut up, you idiot!
-- Sheriff, this is no time to panic.
+Just shut up, you idiot!
+Sheriff, this is no time to panic.
 
 532
 00:32:32,826 --> 00:32:36,318
@@ -2529,17 +2529,17 @@ Well, good riddance, ya loony!
 
 553
 00:33:33,720 --> 00:33:36,587
-"Rendezvous with star command."
+Rendezvous with star command.
 
 554
 00:33:37,098 --> 00:33:39,339
-Driver: Hey, gas dude!
-Attendant: You talkin' to me?
+Hey, gas dude!
+You talkin' to me?
 
 555
 00:33:39,434 --> 00:33:41,925
-- Yeah, man. Can you help me?
-- Pizza planet? Andy!
+Yeah, man. Can you help me?
+Pizza planet? Andy!
 
 556
 00:33:41,978 --> 00:33:43,934
@@ -2557,8 +2557,8 @@ in that room without buzz.
 
 559
 00:33:48,443 --> 00:33:51,355
-- Buzz! Buzz, come back!
-- Go away!
+Buzz! Buzz, come back!
+Go away!
 
 560
 00:33:51,780 --> 00:33:54,817
@@ -2580,8 +2580,8 @@ the pizzas are getting cold here!
 
 564
 00:34:08,797 --> 00:34:11,630
-- Attendant: Cutting boulevard, huh?
-- Yeah, yeah. Which way?
+Cutting boulevard, huh?
+Yeah, yeah. Which way?
 
 565
 00:34:11,675 --> 00:34:14,633
@@ -2590,8 +2590,8 @@ will return to its port of origin
 
 566
 00:34:14,678 --> 00:34:17,090
-- once it jettisons its food supply?
-- Uh-huh.
+once it jettisons its food supply?
+Uh-huh.
 
 567
 00:34:17,138 --> 00:34:21,598
@@ -2600,8 +2600,8 @@ to find a way to transport you home.
 
 568
 00:34:21,643 --> 00:34:25,227
-- Well, then, let's climb aboard.
-- No, no, no, wait, buzz! Buzz!
+Well, then, let's climb aboard.
+No, no, no, wait, buzz! Buzz!
 
 569
 00:34:25,313 --> 00:34:27,349
@@ -2615,8 +2615,8 @@ harnesses in the cargo area.
 
 571
 00:34:30,694 --> 00:34:32,980
-- We'll be much safer in the cockpit.
-- Yeah, bu...
+We'll be much safer in the cockpit.
+Yeah, bu...
 
 572
 00:34:33,530 --> 00:34:35,316
@@ -2624,13 +2624,13 @@ Buzz! Buzz!
 
 573
 00:34:35,365 --> 00:34:36,968
-Driver: That's two lefts
+That's two lefts
 and a right, huh?
 
 574
 00:34:36,992 --> 00:34:39,904
-- Thanks for the directions, okay?
-- Yeah. And remember, kid...
+Thanks for the directions, okay?
+Yeah. And remember, kid...
 
 575
 00:34:39,995 --> 00:34:42,361
@@ -2643,7 +2643,7 @@ than the cargo bay. What an idiot.
 
 577
 00:35:21,494 --> 00:35:23,347
-Man on pa: Next shuttle lift-off
+Next shuttle lift-off
 is scheduled for
 
 578
@@ -2652,7 +2652,7 @@ t-minus 30 minutes and counting.
 
 579
 00:35:30,211 --> 00:35:32,372
-Robot: You are clear to enter.
+You are clear to enter.
 
 580
 00:35:32,422 --> 00:35:34,208
@@ -2686,12 +2686,12 @@ I like your thinkin...
 
 587
 00:35:52,442 --> 00:35:55,650
-Robot: You are clear to enter.
+You are clear to enter.
 Welcome to pizza planet.
 
 588
 00:35:55,737 --> 00:35:57,398
-Buzz: Now!
+Now!
 
 589
 00:35:57,447 --> 00:36:00,234
@@ -2700,12 +2700,12 @@ The air lock is closing.
 
 590
 00:36:00,325 --> 00:36:03,032
-Woman on pa: Jones, party
+Jones, party
 of five, your shuttle is now boarding...
 
 591
 00:36:03,078 --> 00:36:05,069
-Boy: Hey, mom,
+Hey, mom,
 can we have some tokens?
 
 592
@@ -2741,18 +2741,18 @@ Please, please, please?
 
 599
 00:36:40,073 --> 00:36:41,938
-- Andy!
-- Now, we need to find a ship
+Andy!
+Now, we need to find a ship
 
 600
 00:36:42,033 --> 00:36:45,446
-- that's headed for sector 12.
-- Wait a minute. No, buzz! This way.
+that's headed for sector 12.
+Wait a minute. No, buzz! This way.
 
 601
 00:36:45,537 --> 00:36:48,950
-- There's a special ship. I just saw it.
-- You mean it has hyperdrive?
+There's a special ship. I just saw it.
+You mean it has hyperdrive?
 
 602
 00:36:49,582 --> 00:36:51,618
@@ -2764,8 +2764,8 @@ And astro... turf!
 
 604
 00:36:54,629 --> 00:36:57,166
-- Where is it? I-I don't see the...
-- Come on. That's it.
+Where is it? I-I don't see the...
+Come on. That's it.
 
 605
 00:36:57,257 --> 00:36:58,667
@@ -2778,8 +2778,8 @@ And...
 
 607
 00:37:03,805 --> 00:37:05,658
-- And the universe explodes!
-- Okay, buzz, when I say go,
+And the universe explodes!
+Okay, buzz, when I say go,
 
 608
 00:37:05,682 --> 00:37:08,389
@@ -2788,8 +2788,8 @@ Buzz!
 
 609
 00:37:10,645 --> 00:37:12,164
-- No!
-- Andy: Mom, if I eat all my pizza,
+No!
+Mom, if I eat all my pizza,
 
 610
 00:37:12,188 --> 00:37:13,678
@@ -2801,13 +2801,13 @@ This cannot be happening to me.
 
 612
 00:37:25,994 --> 00:37:28,076
-- A stranger.
-- From the outside.
+A stranger.
+From the outside.
 
 613
 00:37:28,163 --> 00:37:32,532
-- Aliens together: Ooh!
-- Greetings. I am buzz lightyear.
+Ooh!
+Greetings. I am buzz lightyear.
 
 614
 00:37:32,625 --> 00:37:35,833
@@ -2815,7 +2815,7 @@ I come in peace.
 
 615
 00:37:38,006 --> 00:37:40,668
-Man on pa: Before your
+Before your
 space journey, re-energize yourself
 
 616
@@ -2825,7 +2825,7 @@ now boarding at counter three.
 
 617
 00:37:45,221 --> 00:37:47,303
-Buzz: This is an
+This is an
 intergalactic emergency.
 
 618
@@ -2839,7 +2839,7 @@ Who's in charge here?
 
 620
 00:37:52,395 --> 00:37:55,228
-Aliens: The claw!
+The claw!
 
 621
 00:37:57,192 --> 00:37:58,523
@@ -2852,8 +2852,8 @@ and who will stay.
 
 623
 00:38:00,904 --> 00:38:04,362
-- This is ludicrous.
-- Hey, bozo, you got a brain in there?
+This is ludicrous.
+Hey, bozo, you got a brain in there?
 
 624
 00:38:04,908 --> 00:38:07,365
@@ -2899,7 +2899,7 @@ a buzz lightyear? No way!
 
 634
 00:38:54,415 --> 00:38:56,030
-Sid: Yes!
+Yes!
 
 635
 00:38:56,084 --> 00:38:57,949
@@ -2915,13 +2915,13 @@ He has been chosen!
 
 638
 00:39:04,259 --> 00:39:05,965
-- He must go.
-- Hey!
+He must go.
+Hey!
 
 639
 00:39:06,052 --> 00:39:07,613
-- What are you doing?
-- Do not fight the claw.
+What are you doing?
+Do not fight the claw.
 
 640
 00:39:07,637 --> 00:39:09,753
@@ -2942,13 +2942,13 @@ your dwelling from here.
 
 644
 00:39:37,876 --> 00:39:39,992
-- You're almost home.
-- Nirvana is coming.
+You're almost home.
+Nirvana is coming.
 
 645
 00:39:40,086 --> 00:39:42,623
-- The mystic portal awaits.
-- Will you be quiet?
+The mystic portal awaits.
+Will you be quiet?
 
 646
 00:39:42,714 --> 00:39:44,204
@@ -2969,8 +2969,8 @@ Sit! Good boy.
 
 650
 00:39:52,307 --> 00:39:55,140
-- Hey, I got something for you, boy.
-- Freeze! I
+Hey, I got something for you, boy.
+Freeze! I
 
 651
 00:39:55,560 --> 00:39:59,803
@@ -2982,13 +2982,13 @@ Hannah! Hey, Hannah!
 
 653
 00:40:03,943 --> 00:40:05,899
-- What?
-- Did I get my package in the mail?
+What?
+Did I get my package in the mail?
 
 654
 00:40:05,987 --> 00:40:08,353
-- I don't know.
-- What do you mean you don't know?
+I don't know.
+What do you mean you don't know?
 
 655
 00:40:08,489 --> 00:40:10,650
@@ -2996,13 +2996,13 @@ I don't know!
 
 656
 00:40:11,117 --> 00:40:14,075
-- Oh, no, Hannah! Look, Janie!
-- What? Hey!
+Oh, no, Hannah! Look, Janie!
+What? Hey!
 
 657
 00:40:14,162 --> 00:40:15,948
-- She's sick!
-- No, she's not!
+She's sick!
+No, she's not!
 
 658
 00:40:16,039 --> 00:40:18,496
@@ -3011,8 +3011,8 @@ one of my operations.
 
 659
 00:40:18,583 --> 00:40:21,165
-- Hannah: No!
-- No, not sid's room. Not there.
+No!
+No, not sid's room. Not there.
 
 660
 00:40:21,252 --> 00:40:23,163
@@ -3063,8 +3063,8 @@ Janie's all better now.
 
 671
 00:40:58,539 --> 00:41:02,077
-Hannah: Mom! Mom!
-Sid: She's lying!
+Mom! Mom!
+She's lying!
 
 672
 00:41:02,168 --> 00:41:04,784
@@ -3130,7 +3130,7 @@ attacks us, we can blink 'em to death.
 
 686
 00:43:03,498 --> 00:43:05,534
-Rex: Hey, you guys,
+Hey, you guys,
 I think I found him!
 
 687
@@ -3157,8 +3157,8 @@ Mom, have you seen Woody?
 
 692
 00:43:23,518 --> 00:43:26,430
-- Where was the last place you left him?
-- Right here in the Van.
+Where was the last place you left him?
+Right here in the Van.
 
 693
 00:43:26,521 --> 00:43:29,183
@@ -3194,7 +3194,7 @@ Oh, slink, I hope he's okay.
 
 700
 00:43:50,044 --> 00:43:55,129
-Sid: Oh, a survivor.
+Oh, a survivor.
 Where's the rebel base? Talk!
 
 701
@@ -3271,18 +3271,18 @@ Use your karate chop action!
 
 717
 00:45:06,454 --> 00:45:08,786
-- Get away! Hoo-cha!
-- Hey! Hey! How're you doin' that?
+Get away! Hoo-cha!
+Hey! Hey! How're you doin' that?
 
 718
 00:45:08,831 --> 00:45:11,664
-- Stop that.
-- Back! Back, you savages! Back!
+Stop that.
+Back! Back, you savages! Back!
 
 719
 00:45:11,751 --> 00:45:15,494
-- Woody, stop it!
-- Sorry, guys, but dinner's canceled!
+Woody, stop it!
+Sorry, guys, but dinner's canceled!
 
 720
 00:45:15,796 --> 00:45:18,412
@@ -3300,12 +3300,12 @@ you're gonna get us killed.
 
 723
 00:45:37,610 --> 00:45:40,443
-- Don't tell me what to do.
-- Shh!
+Don't tell me what to do.
+Shh!
 
 724
 00:45:59,298 --> 00:46:02,836
-Voice box: Yee-haw!
+Yee-haw!
 Giddyap, pardner!
 
 725
@@ -3323,18 +3323,18 @@ Hmm?
 
 728
 00:46:32,039 --> 00:46:34,325
-Man: Calling buzz lightyear.
+Calling buzz lightyear.
 Come in, buzz lightyear.
 
 729
 00:46:34,875 --> 00:46:36,957
-- This is star command.
-- Star command!
+This is star command.
+Star command!
 
 730
 00:46:37,044 --> 00:46:39,189
-- Buzz lightyear, do you read me?
-- Boy: Buzz lightyear responding.
+Buzz lightyear, do you read me?
+Buzz lightyear responding.
 
 731
 00:46:39,213 --> 00:46:40,248
@@ -3342,17 +3342,17 @@ Read you loud and clear.
 
 732
 00:46:40,339 --> 00:46:42,876
-Man: Buzz lightyear,
+Buzz lightyear,
 planet earth needs your help.
 
 733
 00:46:42,967 --> 00:46:45,083
-Boy: On the way!
-Chorus: Buzz lightyear!
+On the way!
+Buzz lightyear!
 
 734
 00:46:45,177 --> 00:46:47,213
-Announcer: The world's
+The world's
 greatest superhero!
 
 735
@@ -3366,27 +3366,27 @@ Locking wrist communicator!
 
 737
 00:46:52,852 --> 00:46:55,264
-- Boy: Calling buzz lightyear!
-- Karate chop action!
+Calling buzz lightyear!
+Karate chop action!
 
 738
 00:46:55,354 --> 00:46:57,390
-- Boy: Wow!
-- Pulsating laser light!
+Wow!
+Pulsating laser light!
 
 739
 00:46:57,481 --> 00:47:00,848
-- Boy: Total annihilation!
-- Multi-phrase voice simulator!
+Total annihilation!
+Multi-phrase voice simulator!
 
 740
 00:47:00,901 --> 00:47:03,062
-Voice box: There's a secret mission
+There's a secret mission
 in uncharted space.
 
 741
 00:47:03,154 --> 00:47:05,007
-Voice box: There's a secret mission
+There's a secret mission
 in uncharted space.
 
 742
@@ -3396,18 +3396,18 @@ high pressure space wings!
 
 743
 00:47:08,367 --> 00:47:12,076
-- To infinity and beyond!
-- Announcer 2: Not a flying toy.
+To infinity and beyond!
+Not a flying toy.
 
 744
 00:47:12,163 --> 00:47:13,890
-Announcer 1: Get your
+Get your
 buzz lightyear action figure
 
 745
 00:47:13,914 --> 00:47:17,156
-- and save a galaxy near you!
-- Chorus: Buzz lightyear!
+and save a galaxy near you!
+Buzz lightyear!
 
 746
 00:47:17,251 --> 00:47:20,743
@@ -3426,23 +3426,23 @@ bowling championship.
 
 749
 00:47:28,220 --> 00:47:32,589
-J out among the stars I sail
+out among the stars I sail
 
 750
 00:47:32,641 --> 00:47:35,348
-j way beyond the moon
+way beyond the moon
 
 751
 00:47:36,979 --> 00:47:41,439
-j in my silver ship I sailed
+in my silver ship I sailed
 
 752
 00:47:41,484 --> 00:47:45,602
-j to a dream that ended too soon
+to a dream that ended too soon
 
 753
 00:47:45,654 --> 00:47:48,521
-j now I know exactly
+now I know exactly
 
 754
 00:47:48,616 --> 00:47:50,572
@@ -3450,7 +3450,7 @@ j now I know exactly
 
 755
 00:47:50,618 --> 00:47:53,530
-Woody's voice: You are a toy!
+You are a toy!
 
 756
 00:47:53,621 --> 00:47:55,612
@@ -3458,7 +3458,7 @@ You can't fly!
 
 757
 00:47:57,458 --> 00:48:01,952
-J and I will go sailing
+and I will go sailing
 
 758
 00:48:03,172 --> 00:48:05,629
@@ -3466,23 +3466,23 @@ I no more
 
 759
 00:48:10,346 --> 00:48:14,305
-j but no, it can't be true
+but no, it can't be true
 
 760
 00:48:14,350 --> 00:48:17,513
-j I could fly if I wanted to
+I could fly if I wanted to
 
 761
 00:48:17,603 --> 00:48:20,345
-j like a bird in the sky
+like a bird in the sky
 
 762
 00:48:20,439 --> 00:48:23,306
-j if I believed I could fly
+if I believed I could fly
 
 763
 00:48:23,359 --> 00:48:25,975
-j why, I'd fly
+why, I'd fly
 
 764
 00:48:26,070 --> 00:48:28,857
@@ -3490,15 +3490,15 @@ to infinity and beyond!
 
 765
 00:48:44,630 --> 00:48:48,418
-J clearly, I
+clearly, I
 
 766
 00:48:48,509 --> 00:48:53,173
-j will go sailing
+will go sailing
 
 767
 00:48:53,264 --> 00:48:55,846
-j no more j
+no more j
 
 768
 00:49:09,113 --> 00:49:12,321
@@ -3507,7 +3507,7 @@ my Sally doll?
 
 769
 00:49:12,366 --> 00:49:15,358
-Mom: What, dear? What was that?
+What, dear? What was that?
 
 770
 00:49:15,953 --> 00:49:18,069
@@ -3524,12 +3524,12 @@ Buzz, where are you?
 
 773
 00:49:28,257 --> 00:49:31,749
-Buzz's voice box: There's a secret
+There's a secret
 mission in uncharted space. Let's go.
 
 774
 00:49:31,844 --> 00:49:35,211
-Hannah: Really?
+Really?
 That is so interesting.
 
 775
@@ -3548,8 +3548,8 @@ on such late notice.
 
 778
 00:49:43,606 --> 00:49:47,190
-- Oh, no!
-- What a lovely hat, Mrs. nesbitt.
+Oh, no!
+What a lovely hat, Mrs. nesbitt.
 
 779
 00:49:47,234 --> 00:49:49,395
@@ -3624,8 +3624,8 @@ You see the hat?
 
 795
 00:50:33,489 --> 00:50:38,404
-- I am Mrs. nesbitt! Ha-ha-ha-ha!
-- Snap out of it, buzz!
+I am Mrs. nesbitt! Ha-ha-ha-ha!
+Snap out of it, buzz!
 
 796
 00:50:42,331 --> 00:50:44,572
@@ -3643,13 +3643,13 @@ I can get through this.
 
 799
 00:50:49,713 --> 00:50:51,453
-- Oh, I'm a sham!
-- Shh!
+Oh, I'm a sham!
+Shh!
 
 800
 00:50:51,549 --> 00:50:52,834
-- Look at me.
-- Quiet, buzz.
+Look at me.
+Quiet, buzz.
 
 801
 00:50:52,925 --> 00:50:55,792
@@ -3663,7 +3663,7 @@ Tell me the hat looked good.
 803
 00:50:59,223 --> 00:51:02,056
 The apron is a bit much.
-"Out the window"!
+Out the window!
 
 804
 00:51:02,142 --> 00:51:03,427
@@ -3683,13 +3683,13 @@ Ha, ha. B-3.
 
 808
 00:51:11,610 --> 00:51:13,726
-- Miss! G-6.
-- Oh!
+Miss! G-6.
+Oh!
 
 809
 00:51:13,821 --> 00:51:16,028
-- You sunk it. Are you peeking?
-- Heh, heh!
+You sunk it. Are you peeking?
+Heh, heh!
 
 810
 00:51:16,115 --> 00:51:19,403
@@ -3698,8 +3698,8 @@ No, no, not the ear.
 
 811
 00:51:19,493 --> 00:51:21,905
-- Give me the nose. Come on.
-- How about three out of five?
+Give me the nose. Come on.
+How about three out of five?
 
 812
 00:51:23,330 --> 00:51:26,322
@@ -3707,23 +3707,23 @@ Hey, guys! Guys! Hey!
 
 813
 00:51:27,001 --> 00:51:30,038
-- Son of a building block. It's Woody.
-- He's in the psycho's bedroom.
+Son of a building block. It's Woody.
+He's in the psycho's bedroom.
 
 814
 00:51:30,129 --> 00:51:32,541
-- Ha, ha! Hi!
-- Everyone! It's Woody!
+Ha, ha! Hi!
+Everyone! It's Woody!
 
 815
 00:51:32,631 --> 00:51:33,666
-- Woody?
-- You're kidding!
+Woody?
+You're kidding!
 
 816
 00:51:33,757 --> 00:51:36,840
-- Woody?
-- Ha! We're gonna get outta here, buzz.
+Woody?
+Ha! We're gonna get outta here, buzz.
 
 817
 00:51:37,344 --> 00:51:38,344
@@ -3731,8 +3731,8 @@ Buzz?
 
 818
 00:51:43,434 --> 00:51:45,049
-- Hey, look!
-- Woody!
+Hey, look!
+Woody!
 
 819
 00:51:45,144 --> 00:51:47,260
@@ -3741,8 +3741,8 @@ to see you guys.
 
 820
 00:51:47,354 --> 00:51:50,016
-- I knew you'd come back, Woody.
-- What are you doin' over there?
+I knew you'd come back, Woody.
+What are you doin' over there?
 
 821
 00:51:50,107 --> 00:51:52,564
@@ -3755,12 +3755,12 @@ Herel catch this!
 
 823
 00:51:54,695 --> 00:51:55,695
-Bo: Hal
+Hal
 
 824
 00:51:55,779 --> 00:51:58,236
-- whoa! I've got it, Woody.
-- He got it, Woody.
+whoa! I've got it, Woody.
+He got it, Woody.
 
 825
 00:51:58,324 --> 00:52:01,191
@@ -3774,8 +3774,8 @@ a better idea. How 'bout we don't?
 
 827
 00:52:03,829 --> 00:52:05,194
-- Hey!
-- Potato head.
+Hey!
+Potato head.
 
 828
 00:52:05,247 --> 00:52:07,238
@@ -3804,8 +3804,8 @@ He's with me!
 
 833
 00:52:17,885 --> 00:52:21,218
-- You are a liar!
-- No, I'm not. Buzz, come over here.
+You are a liar!
+No, I'm not. Buzz, come over here.
 
 834
 00:52:21,305 --> 00:52:25,048
@@ -3827,12 +3827,12 @@ That's very funny, buzz.
 
 838
 00:52:35,778 --> 00:52:38,895
-- This is serious!
-- Rex: Hey, Woody! Where'd ya go?
+This is serious!
+Hey, Woody! Where'd ya go?
 
 839
 00:52:38,947 --> 00:52:41,029
-Potato head: He's lying.
+He's lying.
 Buzz ain't there.
 
 840
@@ -3885,23 +3885,23 @@ See? It is buzz.
 
 851
 00:53:09,603 --> 00:53:12,766
-- Now give back the lights, potato head.
-- Wait just a minute.
+Now give back the lights, potato head.
+Wait just a minute.
 
 852
 00:53:12,815 --> 00:53:15,056
-- What are you tryin' to pull?
-- Nothing!
+What are you tryin' to pull?
+Nothing!
 
 853
 00:53:21,490 --> 00:53:23,606
-- No! No, no, no, no, no!
-- You murdering dog!
+No! No, no, no, no, no!
+You murdering dog!
 
 854
 00:53:23,659 --> 00:53:26,071
-- It's not what you think. I swear!
-- Save it for the jury.
+It's not what you think. I swear!
+Save it for the jury.
 
 855
 00:53:26,120 --> 00:53:28,736
@@ -3929,7 +3929,7 @@ Show's over.
 
 860
 00:53:37,965 --> 00:53:40,547
-Woody: Come back! Slink!
+Come back! Slink!
 
 861
 00:53:40,634 --> 00:53:44,593
@@ -3991,21 +3991,21 @@ you know, eat my friend.
 
 874
 00:54:44,198 --> 00:54:46,063
-Woody: Hey, no, no, wait, hey!
+Hey, no, no, wait, hey!
 
 875
 00:54:46,158 --> 00:54:47,568
-- What's wrong?
-- Sid's mom: Sid?
+What's wrong?
+Sid?
 
 876
 00:54:47,659 --> 00:54:49,365
-Sid: Not now, mom! I'm busy!
+Not now, mom! I'm busy!
 
 877
 00:54:49,411 --> 00:54:51,868
-- Sid! Buzz, come on!
-- Mom: You left that door open.
+Sid! Buzz, come on!
+You left that door open.
 
 878
 00:54:51,914 --> 00:54:56,328
@@ -4022,15 +4022,15 @@ Ha, hal
 
 881
 00:55:05,052 --> 00:55:06,713
-"the big one."
+the big one.
 
 882
 00:55:09,681 --> 00:55:12,138
-"Extremely dangerous.
+Extremely dangerous.
 
 883
 00:55:12,226 --> 00:55:14,933
-"Keep out of reach of children."
+Keep out of reach of children.
 
 884
 00:55:16,230 --> 00:55:19,472
@@ -4048,7 +4048,7 @@ to put a spaceman into orbit.
 
 887
 00:55:48,762 --> 00:55:51,469
-Sid: Heh, heh.
+Heh, heh.
 
 888
 00:55:51,557 --> 00:55:53,673
@@ -4086,7 +4086,7 @@ Sweet dreams.
 
 896
 00:56:28,594 --> 00:56:32,132
-Mom: I looked everywhere, honey,
+I looked everywhere, honey,
 but all I could find was your hat.
 
 897
@@ -4105,7 +4105,7 @@ before we leave tomorrow.
 
 900
 00:56:47,321 --> 00:56:49,277
-Rex: I need air!
+I need air!
 
 901
 00:56:49,990 --> 00:56:51,480
@@ -4127,7 +4127,7 @@ Everyone else was picked.
 
 905
 00:57:06,632 --> 00:57:08,042
-Bo: Oh, Woody.
+Oh, Woody.
 
 906
 00:57:09,092 --> 00:57:12,960
@@ -4203,8 +4203,8 @@ than bein' a, a space ranger.
 
 921
 00:58:23,333 --> 00:58:25,619
-- Yeah, right.
-- No, it is.
+Yeah, right.
+No, it is.
 
 922
 00:58:25,711 --> 00:58:28,794
@@ -4428,7 +4428,7 @@ it'll help everybody.
 
 971
 01:02:43,593 --> 01:02:46,380
-Sid: Houston to mission control.
+Houston to mission control.
 Come in, control.
 
 972
@@ -4437,7 +4437,7 @@ Launch pad is being constructed.
 
 973
 01:02:51,101 --> 01:02:52,716
-Woody: All right, listen up.
+All right, listen up.
 
 974
 01:02:52,811 --> 01:02:55,678
@@ -4475,7 +4475,7 @@ all right, let's go!
 
 982
 01:04:14,559 --> 01:04:16,140
-Hannah: I'll get it!
+I'll get it!
 
 983
 01:04:16,227 --> 01:04:17,433
@@ -4499,7 +4499,7 @@ Lean back!
 
 988
 01:04:50,762 --> 01:04:54,300
-Sid: Uh, mission control, is
+Uh, mission control, is
 the launch pad construction complete?
 
 989
@@ -4519,8 +4519,8 @@ momentarily.
 
 992
 01:05:02,941 --> 01:05:05,227
-- Stand by.
-- Let's go.
+Stand by.
+Let's go.
 
 993
 01:05:05,318 --> 01:05:09,527
@@ -4570,7 +4570,7 @@ Uh, Roger. Permission granted.
 1003
 01:05:39,936 --> 01:05:44,054
 You are confirmed
-at "t" minus ten seconds.
+at t minus ten seconds.
 
 1004
 01:05:44,149 --> 01:05:47,892
@@ -4608,8 +4608,8 @@ Somebody's poisoned the water hole.
 
 1012
 01:06:07,213 --> 01:06:11,206
-- It's busted.
-- Who are you callin' busted, buster?
+It's busted.
+Who are you callin' busted, buster?
 
 1013
 01:06:11,468 --> 01:06:13,299
@@ -4629,7 +4629,7 @@ or smashed or ripped apart.
 
 1017
 01:06:22,103 --> 01:06:25,561
-"We"? - That's right! Your toys!
+We? That's right! Your toys!
 
 1018
 01:06:26,524 --> 01:06:27,889
@@ -4718,12 +4718,12 @@ Thanks.
 1038
 01:07:50,441 --> 01:07:52,181
 Mother:
-Everybody say, "bye, house!"
+Everybody say, bye, house!
 
 1039
 01:07:52,277 --> 01:07:54,609
-- Woody! The Van!
-- Andy: Bye, house.
+Woody! The Van!
+Bye, house.
 
 1040
 01:07:57,532 --> 01:07:58,863
@@ -4739,7 +4739,7 @@ Just go. I'll catch up.
 
 1043
 01:08:25,685 --> 01:08:27,676
-Both: Aaah!
+Aaah!
 
 1044
 01:08:32,442 --> 01:08:33,682
@@ -4764,8 +4764,8 @@ you stupid dog! Down!
 
 1049
 01:09:04,682 --> 01:09:07,264
-- Down! Aah! Aah!
-- Hold on, Woody!
+Down! Aah! Aah!
+Hold on, Woody!
 
 1050
 01:09:08,561 --> 01:09:10,973
@@ -4785,18 +4785,18 @@ Buzz!
 
 1054
 01:09:45,723 --> 01:09:47,213
-- Ow!
-- Are we there already?
+Ow!
+Are we there already?
 
 1055
 01:09:47,266 --> 01:09:48,802
-- Woody?
-- How did you...?
+Woody?
+How did you...?
 
 1056
 01:09:48,893 --> 01:09:50,287
-- How'd he get here?
-- Where have you...?
+How'd he get here?
+Where have you...?
 
 1057
 01:09:50,311 --> 01:09:51,551
@@ -4817,8 +4817,8 @@ Hey. What's he doing?
 
 1061
 01:09:59,946 --> 01:10:02,688
-- Aah!
-- He's at it again!
+Aah!
+He's at it again!
 
 1062
 01:10:10,998 --> 01:10:12,704
@@ -4826,8 +4826,8 @@ Ha, ha, ha!
 
 1063
 01:10:14,127 --> 01:10:16,288
-- Get him!
-- Come on!
+Get him!
+Come on!
 
 1064
 01:10:23,219 --> 01:10:26,427
@@ -4856,8 +4856,8 @@ Aaah!
 
 1070
 01:11:04,385 --> 01:11:06,717
-Woman: Get outta that car!
-Man: Move it!
+Get outta that car!
+Move it!
 
 1071
 01:11:07,889 --> 01:11:08,889
@@ -4875,8 +4875,8 @@ We gotta help him.
 
 1074
 01:11:13,144 --> 01:11:15,510
-- Nol!
-- Toss him overboard!
+Nol!
+Toss him overboard!
 
 1075
 01:11:15,563 --> 01:11:17,724
@@ -4884,8 +4884,8 @@ No, no, no! Wait! Aah!
 
 1076
 01:11:19,734 --> 01:11:22,225
-- Hooray!
-- So long, Woody!
+Hooray!
+So long, Woody!
 
 1077
 01:11:24,030 --> 01:11:26,112
@@ -4897,8 +4897,8 @@ Oh! Woody!
 
 1079
 01:11:29,869 --> 01:11:32,827
-- Oh! Well, thanks for the ride.
-- Look out!
+Oh! Well, thanks for the ride.
+Look out!
 
 1080
 01:11:32,872 --> 01:11:35,033
@@ -4926,8 +4926,8 @@ Woody was telling the truth.
 
 1086
 01:11:58,773 --> 01:12:02,231
-- What have we done?
-- Great! Now I have guilt.
+What have we done?
+Great! Now I have guilt.
 
 1087
 01:12:02,276 --> 01:12:04,392
@@ -4947,8 +4947,8 @@ Quick! Hold onto my tail!
 
 1091
 01:12:25,216 --> 01:12:30,256
-- Attaboy, slink!
-- Oh! Woody!
+Attaboy, slink!
+Oh! Woody!
 
 1092
 01:12:30,680 --> 01:12:31,680
@@ -4956,8 +4956,8 @@ Woody! Speed up!
 
 1093
 01:12:31,764 --> 01:12:33,720
-- Speed up!
-- The batteries!
+Speed up!
+The batteries!
 
 1094
 01:12:33,766 --> 01:12:35,427
@@ -4965,7 +4965,7 @@ They're runnin' out!
 
 1095
 01:12:35,601 --> 01:12:37,512
-Slinky: Whoa, whoa, whoa, whoa!
+Whoa, whoa, whoa, whoa!
 
 1096
 01:12:38,771 --> 01:12:42,104
@@ -4974,11 +4974,11 @@ Whoa! Aah!
 1097
 01:12:42,316 --> 01:12:44,022
 Timon and pumbaa:
-J hakuna matata
+hakuna matata
 
 1098
 01:12:44,652 --> 01:12:46,734
-j what a wonderful phrase &
+what a wonderful phrase &
 
 1099
 01:12:46,779 --> 01:12:48,861
@@ -4986,13 +4986,13 @@ aaah!
 
 1100
 01:12:51,450 --> 01:12:55,739
-- I can't hold on much longer.
-- Slink! Hang on!
+I can't hold on much longer.
+Slink! Hang on!
 
 1101
 01:12:56,330 --> 01:12:58,946
-- Aaah!
-- Ouch!
+Aaah!
+Ouch!
 
 1102
 01:13:11,470 --> 01:13:12,755
@@ -5032,8 +5032,8 @@ No!
 
 1111
 01:13:51,302 --> 01:13:54,510
-- Woody! What are you doing?
-- Hold still, buzz!
+Woody! What are you doing?
+Hold still, buzz!
 
 1112
 01:13:56,098 --> 01:13:58,259
@@ -5063,7 +5063,7 @@ Woody!
 
 1118
 01:14:31,550 --> 01:14:33,586
-Rex: Aah! Take cover!
+Aah! Take cover!
 
 1119
 01:14:39,934 --> 01:14:43,051
@@ -5089,7 +5089,7 @@ This is falling with style.
 
 1124
 01:15:03,165 --> 01:15:04,450
-Woody: Ha-ha-hal
+Ha-ha-hal
 
 1125
 01:15:04,542 --> 01:15:08,660
@@ -5109,8 +5109,8 @@ Hey, wow!
 
 1129
 01:15:26,939 --> 01:15:29,100
-- Mother: What? What is it?
-- Woody! Buzz!
+What? What is it?
+Woody! Buzz!
 
 1130
 01:15:29,191 --> 01:15:31,273
@@ -5119,8 +5119,8 @@ Where were they?
 
 1131
 01:15:31,318 --> 01:15:33,400
-- Here in the car!
-- See?
+Here in the car!
+See?
 
 1132
 01:15:33,446 --> 01:15:36,779
@@ -5129,8 +5129,8 @@ Right where you left 'em.
 
 1133
 01:15:45,416 --> 01:15:49,034
-- Which one can I open first?
-- Let's let Molly open one.
+Which one can I open first?
+Let's let Molly open one.
 
 1134
 01:15:54,884 --> 01:15:56,278
@@ -5161,8 +5161,8 @@ Merry Christmas, sheriff.
 
 1140
 01:16:09,815 --> 01:16:12,227
-- Say, isn't that mistletoe?
-- Mm-hmm.
+Say, isn't that mistletoe?
+Mm-hmm.
 
 1141
 01:16:12,318 --> 01:16:14,650
@@ -5184,7 +5184,7 @@ Quiet, everyone! Quiet!
 
 1145
 01:16:22,912 --> 01:16:26,655
-Sergeant: Molly's first
+Molly's first
 present is Mrs. potato head.
 
 1146
@@ -5201,7 +5201,7 @@ Gee, I'd better shave.
 
 1149
 01:16:36,926 --> 01:16:39,133
-Sergeant: Come in, frankincense.
+Come in, frankincense.
 
 1150
 01:16:39,178 --> 01:16:41,214
@@ -5210,18 +5210,18 @@ his first present.
 
 1151
 01:16:41,305 --> 01:16:44,092
-- It's...
-- Buzz. Buzz lightyear,
+It's...
+Buzz. Buzz lightyear,
 
 1152
 01:16:44,183 --> 01:16:46,203
-- you are not worried, are you?
-- Sergeant: I can't quite...
+you are not worried, are you?
+I can't quite...
 
 1153
 01:16:46,227 --> 01:16:47,662
-- Me? No, no. Pfft.
-Sergeant: Make out...
+Me? No, no. Pfft.
+Make out...
 
 1154
 01:16:47,686 --> 01:16:50,393
@@ -5229,12 +5229,12 @@ No. No, no, no, no. Mm-mm.
 
 1155
 01:16:50,481 --> 01:16:52,813
-Sergeant: A large box... it's-it's-it's...
+A large box... it's-it's-it's...
 
 1156
 01:16:52,858 --> 01:16:55,520
-- Are you?
-- Now, buzz,
+Are you?
+Now, buzz,
 
 1157
 01:16:55,569 --> 01:16:59,812
@@ -5243,63 +5243,62 @@ that is worse than you?
 
 1158
 01:17:01,158 --> 01:17:02,878
-Andy on monitor:
 Oh, what is it? What is it?
 
 1159
 01:17:02,952 --> 01:17:04,908
-Andy: Wow! A puppy!
+Wow! A puppy!
 
 1160
 01:17:15,631 --> 01:17:19,874
-J o00, 000, 000, 000
+(MUSIC)
 
 1161
 01:17:19,969 --> 01:17:23,211
-j you've got a friend in me
+you've got a friend in me
 
 1162
 01:17:24,473 --> 01:17:27,510
-j you've got a friend in me
+you've got a friend in me
 
 1163
 01:17:28,727 --> 01:17:31,890
-j when the road looks rough ahead
+when the road looks rough ahead
 
 1164
 01:17:31,981 --> 01:17:36,975
-j and you're miles and miles
+and you're miles and miles
 from your nice, warm bed
 
 1165
 01:17:37,069 --> 01:17:40,402
-j you just remember
+you just remember
 what your old pal said
 
 1166
 01:17:40,447 --> 01:17:43,234
-j boy, you've got a friend in me
+boy, you've got a friend in me
 
 1167
 01:17:44,743 --> 01:17:48,406
-j yeah, you've got a friend in me
+yeah, you've got a friend in me
 
 1168
 01:17:53,794 --> 01:17:56,786
-J you've got a friend in me
+you've got a friend in me
 
 1169
 01:17:58,007 --> 01:18:00,589
-j you've got a friend in me
+you've got a friend in me
 
 1170
 01:18:02,261 --> 01:18:06,300
-- j you got troubles
-- &' and I got 'em too
+you got troubles
+&' and I got 'em too
 
 1171
 01:18:06,390 --> 01:18:10,429
-j there isn't anything
+there isn't anything
 I wouldn't do for you
 
 1172
@@ -5309,55 +5308,55 @@ we can see it through
 
 1173
 01:18:13,606 --> 01:18:16,939
-j 'cause you've got a friend in me
+'cause you've got a friend in me
 
 1174
 01:18:18,736 --> 01:18:21,273
-j you've got a friend in me
+you've got a friend in me
 
 1175
 01:18:23,115 --> 01:18:27,108
-j some other folks might be
+some other folks might be
 a little bit smarter than I am
 
 1176
 01:18:27,161 --> 01:18:30,153
-j bigger and stronger too
+bigger and stronger too
 
 1177
 01:18:30,247 --> 01:18:31,327
-j maybe
+maybe
 
 1178
 01:18:31,415 --> 01:18:37,126
-j but none of them will ever love you
+but none of them will ever love you
 the way I do
 
 1179
 01:18:37,171 --> 01:18:39,787
-together: J it's me and you, boy
+it's me and you, boy
 
 1180
 01:18:39,840 --> 01:18:43,298
-j and as the years go by
+and as the years go by
 
 1181
 01:18:43,344 --> 01:18:46,427
-j our friendship will never die
+our friendship will never die
 
 1182
 01:18:47,973 --> 01:18:52,808
-j you're gonna see it's our destiny
+you're gonna see it's our destiny
 
 1183
 01:18:52,853 --> 01:18:56,812
-j you've got a friend in me
+you've got a friend in me
 
 1184
 01:18:56,899 --> 01:18:59,481
-j you've got a friend in me
+you've got a friend in me
 
 1185
 01:19:01,153 --> 01:19:03,565
-j you've got a friend in me j
+you've got a friend in me j
 

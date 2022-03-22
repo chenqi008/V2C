@@ -5,7 +5,7 @@ at someone and wonder...
 
 2
 00:00:53,520 --> 00:00:55,648
-"What is going on inside their head?"
+What is going on inside their head?
 
 3
 00:00:56,320 --> 00:00:59,403
@@ -101,8 +101,8 @@ Oh, we're good. We're good.
 
 25
 00:03:15,120 --> 00:03:16,576
-- Whew! Good job.
-- Thank you. Thank you very much.
+Whew! Good job.
+Thank you. Thank you very much.
 
 26
 00:03:16,600 --> 00:03:18,045
@@ -118,13 +118,13 @@ Here we go. All right, open.
 
 29
 00:03:24,360 --> 00:03:26,056
-- Hmm. This looks new.
-- You think it's safe?
+Hmm. This looks new.
+You think it's safe?
 
 30
 00:03:26,080 --> 00:03:27,206
-- What is it?
-- Aah.
+What is it?
+Aah.
 
 31
 00:03:27,400 --> 00:03:30,085
@@ -133,8 +133,8 @@ There is a dangerous smell, people.
 
 32
 00:03:30,160 --> 00:03:32,242
-- Hold on. What is that?
-- This is Disgust.
+Hold on. What is that?
+This is Disgust.
 
 33
 00:03:32,320 --> 00:03:34,800
@@ -168,8 +168,8 @@ Well, I just saved our lives.
 
 40
 00:03:45,360 --> 00:03:46,566
-- Whew!
-- Yeah. You're welcome.
+Whew!
+Yeah. You're welcome.
 
 41
 00:03:46,640 --> 00:03:48,080
@@ -218,8 +218,8 @@ We got an airplane, everybody.
 
 51
 00:04:13,320 --> 00:04:14,481
-- Oh!
-- Airplane.
+Oh!
+Airplane.
 
 52
 00:04:23,440 --> 00:04:26,728
@@ -292,8 +292,8 @@ Hey! Would you look at that? Very nice!
 
 68
 00:05:04,400 --> 00:05:06,040
-- We got a future center here!
-- Nice job.
+We got a future center here!
+Nice job.
 
 69
 00:05:18,560 --> 00:05:19,766
@@ -368,8 +368,8 @@ Bing Bong, Bing Bong!
 
 86
 00:06:10,680 --> 00:06:12,444
-- Hey! Very nice!
-- Where'd you learn that?
+Hey! Very nice!
+Where'd you learn that?
 
 87
 00:06:15,600 --> 00:06:17,648
@@ -443,8 +443,8 @@ What could happen?
 
 104
 00:07:24,200 --> 00:07:25,281
-- What...
-- Aah!
+What...
+Aah!
 
 105
 00:07:30,120 --> 00:07:32,043
@@ -535,8 +535,8 @@ the top five daydreams.
 
 125
 00:08:31,440 --> 00:08:33,090
-- Ooh! That looks safe!
-- That one's nice.
+Ooh! That looks safe!
+That one's nice.
 
 126
 00:08:33,240 --> 00:08:34,605
@@ -575,8 +575,8 @@ Maybe it's nice on the inside.
 
 134
 00:09:02,080 --> 00:09:03,920
-- We're supposed to live here?
-- Do we have to?
+We're supposed to live here?
+Do we have to?
 
 135
 00:09:03,960 --> 00:09:05,976
@@ -601,8 +601,8 @@ A dead mouse!
 
 140
 00:09:11,240 --> 00:09:13,096
-- Great. This is just great.
-- I'm gonna be sick.
+Great. This is just great.
+I'm gonna be sick.
 
 141
 00:09:13,120 --> 00:09:14,616
@@ -628,8 +628,8 @@ Let's go check it out!
 
 146
 00:09:20,680 --> 00:09:21,776
-- Let's go!
-- It's gonna be great!
+Let's go!
+It's gonna be great!
 
 147
 00:09:21,800 --> 00:09:22,801
@@ -658,13 +658,13 @@ Riley can't live here.
 
 153
 00:09:29,120 --> 00:09:30,176
-- She's right.
-- It's the worst.
+She's right.
+It's the worst.
 
 154
 00:09:30,200 --> 00:09:31,656
-- Really bad.
-- It's absolutely the worst.
+Really bad.
+It's absolutely the worst.
 
 155
 00:09:31,680 --> 00:09:34,160
@@ -683,8 +683,8 @@ that an empty room is an opportunity.
 
 158
 00:09:39,280 --> 00:09:40,776
-- Where did you read that?
-- It doesn't matter.
+Where did you read that?
+It doesn't matter.
 
 159
 00:09:40,800 --> 00:09:41,800
@@ -738,8 +738,8 @@ won't be here until Thursday.
 
 171
 00:09:57,520 --> 00:09:58,965
-- You're kidding.
-- Mmm-hmm.
+You're kidding.
+Mmm-hmm.
 
 172
 00:09:59,040 --> 00:10:01,327
@@ -764,8 +764,8 @@ Mom and Dad are stressed out!
 
 177
 00:10:07,240 --> 00:10:09,056
-- They're stressed out?
-- What are we going to do?
+They're stressed out?
+What are we going to do?
 
 178
 00:10:09,080 --> 00:10:11,560
@@ -798,8 +798,8 @@ Coming behind you.
 
 185
 00:10:21,360 --> 00:10:23,216
-- Watch out! Watch out!
-- She shoots and she scores!
+Watch out! Watch out!
+She shoots and she scores!
 
 186
 00:10:23,240 --> 00:10:24,810
@@ -807,12 +807,12 @@ Yeah!
 
 187
 00:10:25,880 --> 00:10:27,962
-- Come on, Grandma!
-- Ha!
+Come on, Grandma!
+Ha!
 
 188
 00:10:28,200 --> 00:10:29,200
-"Grandma"?
+Grandma?
 
 189
 00:10:29,240 --> 00:10:31,004
@@ -837,8 +837,8 @@ Hold on. Hold on.
 
 194
 00:10:41,560 --> 00:10:43,562
-- Hello?
-- Wait. Wh...
+Hello?
+Wait. Wh...
 
 195
 00:10:43,720 --> 00:10:44,846
@@ -927,13 +927,13 @@ Pizza sounds delicious.
 
 216
 00:11:22,280 --> 00:11:23,850
-- Pizza? That's good.
-- Yes! Pizza!
+Pizza? That's good.
+Yes! Pizza!
 
 217
 00:11:26,360 --> 00:11:28,760
-- What the heck is that?
-- Who puts broccoli on pizza?
+What the heck is that?
+Who puts broccoli on pizza?
 
 218
 00:11:28,840 --> 00:11:29,921
@@ -971,8 +971,8 @@ Still, it's not as bad as that soup.
 
 226
 00:11:44,320 --> 00:11:46,288
-- At that diner in Nebraska.
-- Oh, yeah.
+At that diner in Nebraska.
+Oh, yeah.
 
 227
 00:11:46,440 --> 00:11:48,761
@@ -1017,8 +1017,8 @@ with the dinosaur?
 
 237
 00:12:02,760 --> 00:12:04,120
-- Oh, that's the one.
-- Definitely!
+Oh, that's the one.
+Definitely!
 
 238
 00:12:04,480 --> 00:12:05,641
@@ -1026,13 +1026,13 @@ Say cheese!
 
 239
 00:12:05,760 --> 00:12:07,250
-- Dad! Dad!
-- Honey!
+Dad! Dad!
+Honey!
 
 240
 00:12:07,320 --> 00:12:08,640
-- Now hold still.
-- The car!
+Now hold still.
+The car!
 
 241
 00:12:09,120 --> 00:12:10,929
@@ -1060,23 +1060,23 @@ She did something to the memory.
 
 247
 00:12:30,520 --> 00:12:32,727
-- What did you do?
-- I just touched it.
+What did you do?
+I just touched it.
 
 248
 00:12:32,840 --> 00:12:34,776
-- That shouldn't make it change.
-- Change it back, Joy!
+That shouldn't make it change.
+Change it back, Joy!
 
 249
 00:12:34,800 --> 00:12:36,136
-- I'm trying.
-- You can't change it back?
+I'm trying.
+You can't change it back?
 
 250
 00:12:36,160 --> 00:12:38,049
-- No! I guess I can't!
-- Good going, Sadness.
+No! I guess I can't!
+Good going, Sadness.
 
 251
 00:12:38,160 --> 00:12:39,856
@@ -1089,8 +1089,8 @@ she's gonna feel sad.
 
 253
 00:12:41,360 --> 00:12:42,805
-- Bravo.
-- I'm sorry, Joy.
+Bravo.
+I'm sorry, Joy.
 
 254
 00:12:42,880 --> 00:12:44,120
@@ -1114,8 +1114,8 @@ until we figure out what's going on.
 
 259
 00:12:54,680 --> 00:12:55,727
-- Okay.
-- All right.
+Okay.
+All right.
 
 260
 00:12:56,000 --> 00:12:58,048
@@ -1164,8 +1164,8 @@ I wanted to maybe hold one.
 
 271
 00:13:29,800 --> 00:13:31,211
-- Joy!
-- Whoa, whoa!
+Joy!
+Whoa, whoa!
 
 272
 00:13:33,400 --> 00:13:35,562
@@ -1201,8 +1201,8 @@ I'm awful.
 
 279
 00:13:48,160 --> 00:13:50,242
-- No, you're not.
-- And annoying.
+No, you're not.
+And annoying.
 
 280
 00:13:50,400 --> 00:13:52,289
@@ -1372,8 +1372,8 @@ some mind manuals, huh?
 
 319
 00:15:17,880 --> 00:15:20,042
-- Sounds fun.
-- I've read most of them.
+Sounds fun.
+I've read most of them.
 
 320
 00:15:20,160 --> 00:15:22,136
@@ -1382,21 +1382,21 @@ This seems interesting.
 
 321
 00:15:22,160 --> 00:15:25,243
-"Long Term Memory Retrieval,
-Volume 47"?
+Long Term Memory Retrieval,
+Volume 47?
 
 322
 00:15:25,360 --> 00:15:27,567
-- No.
-- Ooh, a real page-turner!
+No.
+Ooh, a real page-turner!
 
 323
 00:15:27,920 --> 00:15:29,763
-"Long Term Memory data selection
+Long Term Memory data selection
 
 324
 00:15:29,840 --> 00:15:31,524
-"via channel subgrouping"?
+via channel subgrouping?
 
 325
 00:15:31,600 --> 00:15:34,046
@@ -1437,8 +1437,8 @@ Come kiss me good night!
 
 334
 00:15:57,760 --> 00:15:59,120
-- I know. I know.
-- Be right there!
+I know. I know.
+Be right there!
 
 335
 00:15:59,160 --> 00:16:00,889
@@ -1521,8 +1521,8 @@ our room stinks.
 
 352
 00:16:39,720 --> 00:16:41,696
-- Pizza is weird here.
-- Our friends are back home.
+Pizza is weird here.
+Our friends are back home.
 
 353
 00:16:41,720 --> 00:16:43,440
@@ -1583,8 +1583,8 @@ and scream that curse word we know.
 
 366
 00:17:06,320 --> 00:17:07,970
-- It's a good one!
-- Now hold on!
+It's a good one!
+Now hold on!
 
 367
 00:17:08,320 --> 00:17:10,129
@@ -1592,8 +1592,8 @@ Look, we all have our off days.
 
 368
 00:17:10,200 --> 00:17:12,282
-- You know...
-- Hi, honey.
+You know...
+Hi, honey.
 
 369
 00:17:12,360 --> 00:17:15,045
@@ -1618,8 +1618,8 @@ Toot-toot-toot!
 
 374
 00:17:22,240 --> 00:17:23,969
-- Where's Dad?
-- On the phone.
+Where's Dad?
+On the phone.
 
 375
 00:17:24,560 --> 00:17:26,369
@@ -1651,8 +1651,8 @@ want to say is, thank you.
 
 381
 00:17:39,720 --> 00:17:40,846
-- Huh?
-- You know,
+Huh?
+You know,
 
 382
 00:17:40,960 --> 00:17:43,930
@@ -1699,8 +1699,8 @@ What did we do to deserve you?
 
 392
 00:18:09,800 --> 00:18:11,200
-- Sweet dreams.
-- Good night.
+Sweet dreams.
+Good night.
 
 393
 00:18:12,920 --> 00:18:14,763
@@ -1754,8 +1754,8 @@ Somebody order a broccoli pizza?
 
 405
 00:18:47,640 --> 00:18:49,005
-- Eat me!
-- I'm organic!
+Eat me!
+I'm organic!
 
 406
 00:18:50,520 --> 00:18:53,842
@@ -1790,8 +1790,8 @@ Hello! Did I wake you?
 
 413
 00:20:08,960 --> 00:20:11,167
-- Do you have to play that?
-- Well, I have to practice.
+Do you have to play that?
+Well, I have to practice.
 
 414
 00:20:11,280 --> 00:20:13,965
@@ -1827,7 +1827,7 @@ on the first day at a new school.
 421
 00:20:25,160 --> 00:20:27,296
 Way ahead of you there. Does anyone
-know how to spell "meteor"?
+know how to spell meteor?
 
 422
 00:20:27,320 --> 00:20:29,322
@@ -1850,28 +1850,28 @@ look at their own outfits and barf.
 
 426
 00:20:34,960 --> 00:20:35,961
-"Joy." "Yes, Joy?"
+Joy. Yes, Joy?
 
 427
 00:20:36,040 --> 00:20:37,496
-"You'll be in charge of the console,"
+You'll be in charge of the console,
 
 428
 00:20:37,520 --> 00:20:38,931
-"keeping Riley happy all day long."
+keeping Riley happy all day long.
 
 429
 00:20:39,000 --> 00:20:40,736
-"And may I add I love
-your dress? It's adorable."
+And may I add I love
+your dress? It's adorable.
 
 430
 00:20:40,760 --> 00:20:42,256
-"Oh, this old thing? Thank you so much."
+Oh, this old thing? Thank you so much.
 
 431
 00:20:42,280 --> 00:20:43,406
-"I love the way it twirls."
+I love the way it twirls.
 
 432
 00:20:43,480 --> 00:20:46,086
@@ -1903,13 +1903,13 @@ a super important job just for you.
 
 438
 00:21:01,560 --> 00:21:03,324
-- Really?
-- Mmm-hmm. Follow me.
+Really?
+Mmm-hmm. Follow me.
 
 439
 00:21:05,600 --> 00:21:08,126
-- What are you doing?
-- And there. Perfect!
+What are you doing?
+And there. Perfect!
 
 440
 00:21:08,320 --> 00:21:10,243
@@ -1946,8 +1946,8 @@ See? You're a pro at this! Isn't this fun?
 
 448
 00:21:28,720 --> 00:21:29,801
-- No.
-- Atta girl.
+No.
+Atta girl.
 
 449
 00:21:29,880 --> 00:21:31,176
@@ -2029,8 +2029,8 @@ Are you sure we want to do this?
 
 467
 00:22:09,200 --> 00:22:12,170
-- In we go!
-- Okay! Going in! Yes!
+In we go!
+Okay! Going in! Yes!
 
 468
 00:22:16,720 --> 00:22:17,767
@@ -2043,8 +2043,8 @@ a group of cool girls at two o'clock.
 
 470
 00:22:19,800 --> 00:22:21,216
-- How do you know?
-- Double ears pierced,
+How do you know?
+Double ears pierced,
 
 471
 00:22:21,240 --> 00:22:22,287
@@ -2057,8 +2057,8 @@ wearing eye shadow?
 
 473
 00:22:23,760 --> 00:22:25,816
-- Yeah, we want to be friends with them.
-- Let's go talk to them!
+Yeah, we want to be friends with them.
+Let's go talk to them!
 
 474
 00:22:25,840 --> 00:22:27,604
@@ -2191,8 +2191,8 @@ Or we did, till I moved away.
 
 504
 00:23:35,080 --> 00:23:36,320
-- Hey, what gives?
-- Wait, what?
+Hey, what gives?
+Wait, what?
 
 505
 00:23:36,560 --> 00:23:40,042
@@ -2210,8 +2210,8 @@ What's going on?
 
 508
 00:23:45,160 --> 00:23:47,080
-- Why won't it eject?
-- Get it out of there, Joy.
+Why won't it eject?
+Get it out of there, Joy.
 
 509
 00:23:47,200 --> 00:23:49,567
@@ -2223,8 +2223,8 @@ Cool kids whispering at three o'clock!
 
 511
 00:23:51,480 --> 00:23:52,536
-- Did you see that look?
-- Oh, no.
+Did you see that look?
+Oh, no.
 
 512
 00:23:52,560 --> 00:23:53,561
@@ -2277,13 +2277,13 @@ Joy, no.
 
 524
 00:24:32,000 --> 00:24:33,411
-- That's a Core Memory!
-- Hey!
+That's a Core Memory!
+Hey!
 
 525
 00:24:33,520 --> 00:24:34,726
-- Joy, wait!
-- Stop it! Let go!
+Joy, wait!
+Stop it! Let go!
 
 526
 00:24:35,480 --> 00:24:37,050
@@ -2295,8 +2295,8 @@ No, no, no, no!
 
 528
 00:24:56,560 --> 00:24:58,642
-- Whoa!
-- Whoa!
+Whoa!
+Whoa!
 
 529
 00:25:06,440 --> 00:25:07,771
@@ -2415,8 +2415,8 @@ is not recycling, it's for greens.
 
 557
 00:26:53,360 --> 00:26:54,964
-- Like compost. And eggshells.
-- Mmm.
+Like compost. And eggshells.
+Mmm.
 
 558
 00:26:55,080 --> 00:26:56,684
@@ -2424,8 +2424,8 @@ And the blue one is recycling.
 
 559
 00:26:56,840 --> 00:26:58,776
-- And the black one is trash.
-- Riley is acting so weird.
+And the black one is trash.
+Riley is acting so weird.
 
 560
 00:26:58,800 --> 00:26:59,880
@@ -2476,8 +2476,8 @@ after school. What luck, right?
 
 571
 00:27:21,560 --> 00:27:22,891
-- Hockey?
-- Uh-oh. What do we do?
+Hockey?
+Uh-oh. What do we do?
 
 572
 00:27:22,960 --> 00:27:24,485
@@ -2503,8 +2503,8 @@ That wasn't anything like Joy!
 
 577
 00:27:34,920 --> 00:27:37,082
-- Uh, because I'm not Joy.
-- Yeah, no kidding.
+Uh, because I'm not Joy.
+Yeah, no kidding.
 
 578
 00:27:39,400 --> 00:27:40,640
@@ -2512,8 +2512,8 @@ Did you guys pick up on that?
 
 579
 00:27:40,760 --> 00:27:42,489
-- Mmm-hmm. Something's wrong.
-- Totally.
+Mmm-hmm. Something's wrong.
+Totally.
 
 580
 00:27:42,560 --> 00:27:43,800
@@ -2622,8 +2622,8 @@ Ah! So, Riley, how was school?
 
 605
 00:28:41,080 --> 00:28:42,923
-- You got to be kidding me!
-- Seriously?
+You got to be kidding me!
+Seriously?
 
 606
 00:28:43,040 --> 00:28:45,884
@@ -2661,7 +2661,7 @@ All right, make a show of force.
 614
 00:28:58,840 --> 00:29:00,376
 I don't want to have to
-put "the foot" down.
+put the foot down.
 
 615
 00:29:00,400 --> 00:29:02,323
@@ -2788,8 +2788,8 @@ Just follow my footsteps.
 
 645
 00:30:30,240 --> 00:30:31,651
-- Oh, okay.
-- It's not that high.
+Oh, okay.
+It's not that high.
 
 646
 00:30:31,760 --> 00:30:33,683
@@ -2878,8 +2878,8 @@ I, uh... I don't know.
 
 667
 00:32:36,480 --> 00:32:38,164
-- Oh...
-- But we have to try.
+Oh...
+But we have to try.
 
 668
 00:32:38,360 --> 00:32:39,441
@@ -2887,8 +2887,8 @@ Okay, come on.
 
 669
 00:32:40,840 --> 00:32:42,729
-- Riley's gone to sleep.
-- Oh...
+Riley's gone to sleep.
+Oh...
 
 670
 00:32:42,840 --> 00:32:45,320
@@ -2918,8 +2918,8 @@ Oh, we'll never make it.
 
 676
 00:32:57,440 --> 00:32:58,521
-- Oh, no!
-- No, no, no!
+Oh, no!
+No, no, no!
 
 677
 00:32:58,720 --> 00:33:00,296
@@ -2978,8 +2978,8 @@ The manuals!
 
 689
 00:33:26,720 --> 00:33:28,529
-- You read the manuals!
-- Yeah.
+You read the manuals!
+Yeah.
 
 690
 00:33:28,600 --> 00:33:30,568
@@ -3032,7 +3032,7 @@ No. I mean, go left.
 
 702
 00:33:52,480 --> 00:33:54,323
-I said left was right. Like "correct."
+I said left was right. Like correct.
 
 703
 00:33:54,440 --> 00:33:55,566
@@ -3128,13 +3128,13 @@ They're in her phone.
 
 724
 00:34:48,800 --> 00:34:51,240
-- Excuse me, hi.
-- Just forget all of that. Please. Forget it!
+Excuse me, hi.
+Just forget all of that. Please. Forget it!
 
 725
 00:34:52,440 --> 00:34:54,016
-- I need to find Friendship Island.
-- Look at this.
+I need to find Friendship Island.
+Look at this.
 
 726
 00:34:54,040 --> 00:34:55,690
@@ -3154,8 +3154,8 @@ and Heart and Soul, get rid of the rest.
 
 730
 00:35:00,520 --> 00:35:02,016
-- Are you...
-- US Presidents. What do you think?
+Are you...
+US Presidents. What do you think?
 
 731
 00:35:02,040 --> 00:35:04,080
@@ -3164,8 +3164,8 @@ Washington, Lincoln and the fat one.
 
 732
 00:35:04,200 --> 00:35:05,361
-- Forget 'em!
-- Hey!
+Forget 'em!
+Hey!
 
 733
 00:35:05,480 --> 00:35:06,606
@@ -3178,7 +3178,7 @@ Those are perfectly good memories.
 735
 00:35:08,000 --> 00:35:10,287
 The names of
-every "Cutie Pie Princess" doll?
+every Cutie Pie Princess doll?
 
 736
 00:35:10,360 --> 00:35:12,124
@@ -3212,8 +3212,8 @@ about a memory, it fades.
 
 743
 00:35:27,080 --> 00:35:28,605
-- Fades?
-- Happens to the best of them.
+Fades?
+Happens to the best of them.
 
 744
 00:35:28,760 --> 00:35:32,242
@@ -3371,13 +3371,13 @@ Let's just be calm for one second! Ahhh!
 
 779
 00:36:33,760 --> 00:36:35,376
-- I heard they have parrots...
-- I've got to go.
+I heard they have parrots...
+I've got to go.
 
 780
 00:36:35,400 --> 00:36:36,731
-- What?
-- I got to go!
+What?
+I got to go!
 
 781
 00:36:38,000 --> 00:36:40,000
@@ -3455,8 +3455,8 @@ Oh, wait! Stop!
 
 799
 00:37:57,640 --> 00:37:58,766
-- Excuse me.
-- Ah!
+Excuse me.
+Ah!
 
 800
 00:37:59,600 --> 00:38:02,410
@@ -3464,8 +3464,8 @@ Uh, I was looking for, um... Diversion!
 
 801
 00:38:02,520 --> 00:38:04,363
-- What?
-- Ha-ha! So long, sucker!
+What?
+Ha-ha! So long, sucker!
 
 802
 00:38:05,880 --> 00:38:07,120
@@ -3493,8 +3493,8 @@ Bing Bong! Riley's imaginary friend!
 
 808
 00:38:16,880 --> 00:38:19,326
-- You really do know me?
-- Well, of course!
+You really do know me?
+Well, of course!
 
 809
 00:38:19,480 --> 00:38:21,881
@@ -3521,8 +3521,8 @@ Well, yeah. I'm Joy. This is Sadness.
 
 814
 00:38:29,880 --> 00:38:31,769
-- You're Joy? The Joy?
-- Mmm-hmm.
+You're Joy? The Joy?
+Mmm-hmm.
 
 815
 00:38:31,880 --> 00:38:33,405
@@ -3605,7 +3605,7 @@ Bing Bong Bing Bong
 
 833
 00:39:06,280 --> 00:39:07,680
-His rocket makes you yell "Hooray!"
+His rocket makes you yell Hooray!
 
 834
 00:39:07,760 --> 00:39:09,046
@@ -3679,8 +3679,8 @@ I'll make sure Riley remembers you.
 
 850
 00:39:47,120 --> 00:39:48,451
-- You will?
-- Of course!
+You will?
+Of course!
 
 851
 00:39:48,520 --> 00:39:50,602
@@ -3724,8 +3724,8 @@ Ooh, here, use this.
 
 861
 00:40:06,720 --> 00:40:08,320
-- Thanks!
-- Whoa, hold on, wait a second.
+Thanks!
+Whoa, hold on, wait a second.
 
 862
 00:40:12,040 --> 00:40:13,804
@@ -3784,8 +3784,8 @@ through here. After you.
 
 875
 00:40:45,480 --> 00:40:46,606
-- Joy.
-- What?
+Joy.
+What?
 
 876
 00:40:46,800 --> 00:40:48,404
@@ -3862,8 +3862,8 @@ Well, I guess.
 
 893
 00:41:27,520 --> 00:41:29,363
-- What did you get?
-- I don't know.
+What did you get?
+I don't know.
 
 894
 00:41:43,400 --> 00:41:45,084
@@ -3921,8 +3921,8 @@ My face! My beautiful face! Oh!
 
 907
 00:42:10,440 --> 00:42:12,000
-- What is going on?
-- We're abstracting!
+What is going on?
+We're abstracting!
 
 908
 00:42:12,080 --> 00:42:14,208
@@ -3998,8 +3998,8 @@ We're getting nowhere!
 
 925
 00:42:53,520 --> 00:42:55,841
-- Depth! I'm lacking depth!
-- Come on.
+Depth! I'm lacking depth!
+Come on.
 
 926
 00:42:59,440 --> 00:43:00,726
@@ -4106,8 +4106,8 @@ There's French Fry Forest!
 
 950
 00:44:04,960 --> 00:44:06,803
-- Mmm! Delicious.
-- No way!
+Mmm! Delicious.
+No way!
 
 951
 00:44:08,040 --> 00:44:10,008
@@ -4124,8 +4124,8 @@ I won first place!
 
 954
 00:44:15,280 --> 00:44:18,409
-- Me too!
-- Oh, participation award.
+Me too!
+Oh, participation award.
 
 955
 00:44:18,720 --> 00:44:21,451
@@ -4175,8 +4175,8 @@ Oh, wait. Hang on just a minute.
 
 966
 00:44:47,400 --> 00:44:49,243
-- Your rocket!
-- Yeah.
+Your rocket!
+Yeah.
 
 967
 00:44:49,360 --> 00:44:51,044
@@ -4189,8 +4189,8 @@ take Riley to the moon!
 
 969
 00:44:54,720 --> 00:44:56,165
-- Oh, I'm sorry.
-- Great.
+Oh, I'm sorry.
+Great.
 
 970
 00:44:56,640 --> 00:44:58,688
@@ -4253,8 +4253,8 @@ Okay, Andersen, you're up!
 
 984
 00:45:28,560 --> 00:45:30,085
-- Got to go.
-- Okay.
+Got to go.
+Okay.
 
 985
 00:45:30,200 --> 00:45:31,440
@@ -4287,8 +4287,8 @@ in place of the Core Memory.
 
 992
 00:45:41,080 --> 00:45:42,411
-- She's about to play!
-- Hurry!
+She's about to play!
+Hurry!
 
 993
 00:45:49,480 --> 00:45:52,450
@@ -4317,8 +4317,8 @@ we don't learn anything.
 
 999
 00:46:13,360 --> 00:46:15,328
-- Come on!
-- Let's pick it up out there!
+Come on!
+Let's pick it up out there!
 
 1000
 00:46:15,400 --> 00:46:17,050
@@ -4330,8 +4330,8 @@ Oh!
 
 1002
 00:46:20,480 --> 00:46:21,891
-- That's it!
-- No, no, no! Breathe.
+That's it!
+No, no, no! Breathe.
 
 1003
 00:46:22,000 --> 00:46:23,525
@@ -4343,8 +4343,8 @@ What's her problem?
 
 1005
 00:46:35,560 --> 00:46:37,369
-- Riley. What's wrong?
-- Let's go.
+Riley. What's wrong?
+Let's go.
 
 1006
 00:46:37,560 --> 00:46:38,960
@@ -4352,8 +4352,8 @@ You're not going to finish tryouts?
 
 1007
 00:46:39,000 --> 00:46:40,286
-- What's the point?
-- Hey.
+What's the point?
+Hey.
 
 1008
 00:46:40,400 --> 00:46:42,482
@@ -4382,8 +4382,8 @@ Hey! Look at that!
 
 1014
 00:47:06,120 --> 00:47:07,326
-- Very nice shot!
-- Hey!
+Very nice shot!
+Hey!
 
 1015
 00:47:07,400 --> 00:47:09,084
@@ -4419,13 +4419,13 @@ Sparkle Pony Mountain was right here.
 
 1022
 00:47:19,880 --> 00:47:21,576
-- Hey, what's going on?
-- Yeah, yeah... I don't know...
+Hey, what's going on?
+Yeah, yeah... I don't know...
 
 1023
 00:47:21,600 --> 00:47:23,881
-- We'll have to come back.
-- Princess Dream World!
+We'll have to come back.
+Princess Dream World!
 
 1024
 00:47:26,080 --> 00:47:28,731
@@ -4667,13 +4667,13 @@ Aha!
 
 1080
 00:50:41,040 --> 00:50:42,280
-- What is it?
-- Oh, nothing.
+What is it?
+Oh, nothing.
 
 1081
 00:50:42,640 --> 00:50:44,642
-- Just the best idea ever.
-- What?
+Just the best idea ever.
+What?
 
 1082
 00:50:45,000 --> 00:50:46,286
@@ -4690,8 +4690,8 @@ and make more.
 
 1085
 00:50:50,840 --> 00:50:51,920
-- Ta-da!
-- Wait, wait, wait.
+Ta-da!
+Wait, wait, wait.
 
 1086
 00:50:52,080 --> 00:50:53,844
@@ -4803,8 +4803,8 @@ Oh, we can't wait that long.
 
 1111
 00:51:53,440 --> 00:51:56,205
-- How about we wake her up?
-- Sadness, that's ridiculous!
+How about we wake her up?
+Sadness, that's ridiculous!
 
 1112
 00:51:56,360 --> 00:51:57,930
@@ -4816,8 +4816,8 @@ How about we wake her up?
 
 1114
 00:52:01,080 --> 00:52:02,923
-- Great idea, Joy.
-- Thanks. Come on!
+Great idea, Joy.
+Thanks. Come on!
 
 1115
 00:52:08,120 --> 00:52:10,361
@@ -4929,8 +4929,8 @@ when she has a scary dream.
 
 1140
 00:53:05,720 --> 00:53:07,324
-- We could scare her.
-- Scare her?
+We could scare her.
+Scare her?
 
 1141
 00:53:07,440 --> 00:53:09,124
@@ -4938,8 +4938,8 @@ No, she's been through enough already.
 
 1142
 00:53:09,240 --> 00:53:10,776
-- But, Joy...
-- Sadness, you may know your way
+But, Joy...
+Sadness, you may know your way
 
 1143
 00:53:10,800 --> 00:53:12,609
@@ -4972,8 +4972,8 @@ I don't think that'll work.
 
 1150
 00:53:22,800 --> 00:53:24,000
-- Bing Bong?
-- Yeah?
+Bing Bong?
+Yeah?
 
 1151
 00:53:24,400 --> 00:53:26,641
@@ -5034,8 +5034,8 @@ Would you like to stand up
 
 1164
 00:53:59,280 --> 00:54:00,645
-- and introduce yourself?
-- Camera.
+and introduce yourself?
+Camera.
 
 1165
 00:54:02,480 --> 00:54:04,244
@@ -5055,8 +5055,8 @@ Ew, look! Her teeth are falling out!
 
 1169
 00:54:13,440 --> 00:54:14,576
-- That's disgusting.
-- Ew, gross!
+That's disgusting.
+Ew, gross!
 
 1170
 00:54:14,600 --> 00:54:15,761
@@ -5077,8 +5077,8 @@ She came to school with no pants on!
 
 1174
 00:54:22,520 --> 00:54:24,522
-- Called it!
-- Ready?
+Called it!
+Ready?
 
 1175
 00:54:24,720 --> 00:54:26,688
@@ -5099,8 +5099,8 @@ Bark! Bark! Bark!
 
 1179
 00:54:33,400 --> 00:54:35,687
-- Who is that?
-- Uh, what's going on?
+Who is that?
+Uh, what's going on?
 
 1180
 00:54:42,160 --> 00:54:43,525
@@ -5154,8 +5154,8 @@ Hi, Riley, it's me!
 
 1192
 00:55:14,280 --> 00:55:15,496
-- Who's your friend
-- Bing Bong?
+Who's your friend
+Bing Bong?
 
 1193
 00:55:15,520 --> 00:55:16,856
@@ -5190,8 +5190,8 @@ part of this dream. Get them!
 
 1200
 00:55:28,480 --> 00:55:30,244
-- Stop right there!
-- Ow!
+Stop right there!
+Ow!
 
 1201
 00:55:31,720 --> 00:55:32,767
@@ -5203,8 +5203,8 @@ Boo! Pick a plotline!
 
 1203
 00:55:39,320 --> 00:55:41,049
-- Ow! Careful!
-- Hold still!
+Ow! Careful!
+Hold still!
 
 1204
 00:55:41,200 --> 00:55:42,406
@@ -5289,18 +5289,18 @@ look in the label.
 
 1223
 00:56:23,240 --> 00:56:25,481
-- Yeah, it says, "My hat."
-- Wait, it says, "My hat"?
+Yeah, it says, My hat.
+Wait, it says, My hat?
 
 1224
 00:56:25,560 --> 00:56:27,416
-- My hat, it says.
-- That's what I wrote in my hat.
+My hat, it says.
+That's what I wrote in my hat.
 
 1225
 00:56:27,440 --> 00:56:28,776
-- What are you talking about?
-- You've got my hat on.
+What are you talking about?
+You've got my hat on.
 
 1226
 00:56:28,800 --> 00:56:30,560
@@ -5308,8 +5308,8 @@ Okay, but it's my handwriting.
 
 1227
 00:56:30,800 --> 00:56:32,882
-- Hey! You!
-- Oh! You caught us!
+Hey! You!
+Oh! You caught us!
 
 1228
 00:56:34,080 --> 00:56:35,320
@@ -5362,13 +5362,13 @@ Candy wrappers?
 
 1240
 00:57:32,120 --> 00:57:34,043
-- Bing Bong!
-- Joy?
+Bing Bong!
+Joy?
 
 1241
 00:57:34,360 --> 00:57:36,362
-- There you are.
-- Shhh!
+There you are.
+Shhh!
 
 1242
 00:57:42,400 --> 00:57:43,731
@@ -5480,8 +5480,8 @@ Who's the birthday girl?
 
 1268
 00:59:44,760 --> 00:59:46,330
-- Whoo-hoo!
-- Come on, let's go!
+Whoo-hoo!
+Come on, let's go!
 
 1269
 00:59:53,160 --> 00:59:55,208
@@ -5502,8 +5502,8 @@ Whoo-hoo! JOY: Whoo!
 
 1273
 01:00:06,560 --> 01:00:09,040
-- What is going on?
-- He did it again!
+What is going on?
+He did it again!
 
 1274
 01:00:09,200 --> 01:00:11,601
@@ -5594,8 +5594,8 @@ How do we get money?
 
 1294
 01:01:03,760 --> 01:01:05,728
-- Mom's purse.
-- You wouldn't.
+Mom's purse.
+You wouldn't.
 
 1295
 01:01:05,800 --> 01:01:08,565
@@ -5604,7 +5604,7 @@ Where was it we saw it last?
 
 1296
 01:01:10,240 --> 01:01:11,401
-- TripleDent gum - No!
+TripleDent gum No!
 
 1297
 01:01:11,520 --> 01:01:13,602
@@ -5839,8 +5839,8 @@ Are we really doing this?
 
 1352
 01:04:09,920 --> 01:04:11,445
-- I mean, this is serious.
-- Look.
+I mean, this is serious.
+Look.
 
 1353
 01:04:11,560 --> 01:04:12,607
@@ -6049,7 +6049,7 @@ Who's your friend who likes to play?
 
 1403
 01:10:54,000 --> 01:10:56,810
-His rocket makes you yell "Hooray!"
+His rocket makes you yell Hooray!
 
 1404
 01:11:00,080 --> 01:11:01,650
@@ -6069,7 +6069,7 @@ Bing Bong, Bing Bong
 
 1408
 01:11:06,480 --> 01:11:07,960
-His rocket makes you yell "Hooray!"
+His rocket makes you yell Hooray!
 
 1409
 01:11:22,040 --> 01:11:23,121
@@ -6085,7 +6085,7 @@ Bing Bong, Bing Bong
 
 1412
 01:11:29,440 --> 01:11:30,696
-His rocket makes you yell "Hooray!"
+His rocket makes you yell Hooray!
 
 1413
 01:11:30,720 --> 01:11:31,801
@@ -6106,7 +6106,7 @@ Who's your friend who likes to play?
 1417
 01:11:36,600 --> 01:11:38,800
 Bing Bong, Bing Bong
-His rocket makes you yell "Hooray!"
+His rocket makes you yell Hooray!
 
 1418
 01:11:38,880 --> 01:11:39,881
@@ -6134,7 +6134,7 @@ Bing Bong, Bing Bong
 
 1424
 01:11:53,360 --> 01:11:55,256
-His rocket makes you yell "Hooray!"
+His rocket makes you yell Hooray!
 Bing Bong, Bing Bong
 
 1425
@@ -6165,7 +6165,7 @@ Bing Bong, Bing Bong
 
 1431
 01:12:18,000 --> 01:12:20,136
-His rocket makes you yell "Hooray!"
+His rocket makes you yell Hooray!
 Bing Bong, Bing Bong
 
 1432
@@ -6197,7 +6197,7 @@ Bing Bong, Bing Bong
 
 1438
 01:12:33,400 --> 01:12:35,216
-His rocket makes you yell "Hooray!"
+His rocket makes you yell Hooray!
 Bing Bong, Bing Bong
 
 1439
@@ -6272,8 +6272,8 @@ It's Mom. She's onto us!
 
 1456
 01:14:05,600 --> 01:14:06,776
-- What do we do?
-- Where's my bag?
+What do we do?
+Where's my bag?
 
 1457
 01:14:06,800 --> 01:14:08,450
@@ -6281,8 +6281,8 @@ Riley needs to get Core Memories.
 
 1458
 01:14:08,520 --> 01:14:10,204
-- That's the stuff.
-- We keep going.
+That's the stuff.
+We keep going.
 
 1459
 01:14:13,320 --> 01:14:14,401
@@ -6389,13 +6389,13 @@ We got to get you back to...
 
 1483
 01:15:59,600 --> 01:16:01,204
-- It's stuck!
-- Oh, great.
+It's stuck!
+Oh, great.
 
 1484
 01:16:01,320 --> 01:16:03,004
-- What do you mean it's stuck?
-- Now what?
+What do you mean it's stuck?
+Now what?
 
 1485
 01:16:03,320 --> 01:16:05,322
@@ -6403,8 +6403,8 @@ Oh, no no no no! What is this?
 
 1486
 01:16:14,400 --> 01:16:15,765
-- How do we stop it?
-- I got it!
+How do we stop it?
+I got it!
 
 1487
 01:16:15,920 --> 01:16:17,936
@@ -6413,8 +6413,8 @@ That'll make her change her mind!
 
 1488
 01:16:17,960 --> 01:16:19,724
-- Brilliant!
-- I know it's brilliant! Do it!
+Brilliant!
+I know it's brilliant! Do it!
 
 1489
 01:16:19,840 --> 01:16:21,922
@@ -6423,8 +6423,8 @@ Why isn't it working?
 
 1490
 01:16:22,000 --> 01:16:23,296
-- Let me try.
-- Great! You broke it!
+Let me try.
+Great! You broke it!
 
 1491
 01:16:23,320 --> 01:16:24,456
@@ -6499,13 +6499,13 @@ I am positive this is crazy!
 
 1508
 01:17:54,320 --> 01:17:56,926
-- Now!
-- For Riley!
+Now!
+For Riley!
 
 1509
 01:18:04,760 --> 01:18:06,364
-- Joy?
-- Hang on!
+Joy?
+Hang on!
 
 1510
 01:18:07,920 --> 01:18:09,888
@@ -6535,8 +6535,8 @@ but you're too dumb to understand.
 
 1516
 01:18:28,040 --> 01:18:30,805
-- What?
-- Of course your tiny brain is confused.
+What?
+Of course your tiny brain is confused.
 
 1517
 01:18:30,920 --> 01:18:33,400
@@ -6558,8 +6558,8 @@ Oh, thank goodness you're back!
 
 1521
 01:18:49,080 --> 01:18:51,096
-- Things are really messed up!
-- We found this idea.
+Things are really messed up!
+We found this idea.
 
 1522
 01:18:51,120 --> 01:18:53,088
@@ -6576,8 +6576,8 @@ Sadness, it's up to you.
 
 1525
 01:19:06,200 --> 01:19:08,089
-- Me?
-- Sadness?
+Me?
+Sadness?
 
 1526
 01:19:08,520 --> 01:19:09,681
@@ -6606,13 +6606,13 @@ seen Riley all day.
 
 1532
 01:20:04,680 --> 01:20:05,856
-- What?
-- What was she wearing last?
+What?
+What was she wearing last?
 
 1533
 01:20:05,880 --> 01:20:08,000
-- Do you even remember what...
-- I can't believe this.
+Do you even remember what...
+I can't believe this.
 
 1534
 01:20:08,080 --> 01:20:09,336
@@ -6742,13 +6742,13 @@ is up and runnin'.
 
 1563
 01:24:22,640 --> 01:24:24,005
-- Ooh!
-- Wow!
+Ooh!
+Wow!
 
 1564
 01:24:24,160 --> 01:24:25,491
-- Cool! Upgrade!
-- Ooh!
+Cool! Upgrade!
+Ooh!
 
 1565
 01:24:25,600 --> 01:24:26,681
@@ -6790,8 +6790,8 @@ you be aggressive!
 
 1574
 01:24:46,360 --> 01:24:48,124
-- I know, Dad.
-- But not too aggressive.
+I know, Dad.
+But not too aggressive.
 
 1575
 01:24:48,200 --> 01:24:50,726
@@ -6816,8 +6816,8 @@ Okay! I got to go!
 
 1580
 01:24:58,560 --> 01:24:59,800
-- Aw!
-- They love us.
+Aw!
+They love us.
 
 1581
 01:24:59,880 --> 01:25:01,530
@@ -6878,8 +6878,8 @@ You got this!
 
 1595
 01:25:45,400 --> 01:25:47,164
-- You ready?
-- Yeah.
+You ready?
+Yeah.
 
 1596
 01:25:47,240 --> 01:25:49,607

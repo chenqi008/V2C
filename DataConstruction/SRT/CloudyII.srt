@@ -1000,7 +1000,7 @@ When I'm up on stage getting my vest
 230
 00:13:03,880 --> 00:13:06,531
 you hit the red button
-when I say "celebrate"
+when I say celebrate
 
 231
 00:13:06,800 --> 00:13:07,369
@@ -1640,7 +1640,7 @@ take this on alone?
 
 375
 00:21:51,400 --> 00:21:52,970
-Yes! Wait, did you say "alone"?
+Yes! Wait, did you say alone?
 
 376
 00:21:53,240 --> 00:21:54,571
@@ -2115,7 +2115,7 @@ Bananas!
 
 485
 00:26:57,360 --> 00:26:59,806
-I was gonna say "nuts,"
+I was gonna say nuts,
 but now I'm afraid to
 
 486
@@ -2329,7 +2329,7 @@ I think I'll name him Barry!
 534
 00:31:09,960 --> 00:31:12,725
 Okay, Sam, could you please
-put "Barry" down?
+put Barry down?
 
 535
 00:31:12,960 --> 00:31:15,804
@@ -2988,7 +2988,7 @@ Nwoo?
 
 687
 00:39:32,440 --> 00:39:34,287
-"I'll be back before supper"
+I'll be back before supper
 
 688
 00:39:34,520 --> 00:39:35,965
@@ -3390,8 +3390,8 @@ the ancient Chinese proverb:
 
 781
 00:45:08,040 --> 00:45:11,522
-"Stew offered by a bully
-is poisoned broth"
+Stew offered by a bully
+is poisoned broth
 
 782
 00:45:11,760 --> 00:45:13,091
@@ -3563,8 +3563,8 @@ but you're forgetting that:
 
 822
 00:47:26,920 --> 00:47:30,925
-"A bully turned friend
-will be friend to the end"
+A bully turned friend
+will be friend to the end
 
 823
 00:47:31,960 --> 00:47:34,645
@@ -4489,7 +4489,7 @@ Who's Evel?
 
 1039
 01:00:11,480 --> 01:00:13,910
-Not "Evel" Evil
+Not Evel Evil
 
 1040
 01:00:14,320 --> 01:00:17,070
@@ -4925,7 +4925,7 @@ Nwoo!
 
 1141
 01:09:06,760 --> 01:09:08,410
-Hey, what's with all the "Nwoos"?
+Hey, what's with all the Nwoos?
 
 1142
 01:09:09,640 --> 01:09:11,051
@@ -5298,7 +5298,7 @@ The lifeblood of my company
 1229
 01:15:55,240 --> 01:15:59,290
 I learned your FLDSMDFR food
-is far more delicious than "food" food
+is far more delicious than food food
 
 1230
 01:15:59,520 --> 01:16:01,409
@@ -5901,5 +5901,5 @@ Even better!
 
 1369
 01:29:07,100 --> 01:29:09,410
-<font color="#ffff00">subtitled by</font>  <font color="#ff0080"><b>SELVAHEMA</b></font>
+(ENDING)
 

@@ -1,10 +1,10 @@
 ﻿1
 00:00:59,017 --> 00:01:00,632
-Agnarr: Anna. Elsa.
+Anna. Elsa.
 
 2
 00:01:00,769 --> 00:01:01,975
-Iduna: Bedtime soon.
+Bedtime soon.
 
 3
 00:01:02,187 --> 00:01:03,973
@@ -106,8 +106,8 @@ if you...
 
 26
 00:01:48,734 --> 00:01:50,395
-- Okay. Now.
-- Tell us now.
+Okay. Now.
+Tell us now.
 
 27
 00:01:50,527 --> 00:01:52,017
@@ -178,12 +178,12 @@ northuldra people.
 
 43
 00:02:33,195 --> 00:02:35,527
-Young Elsa: Were the
+Were the
 northuldra magical, like me?
 
 44
 00:02:35,656 --> 00:02:38,238
-Agnarr: No, Elsa.
+No, Elsa.
 They were not magical.
 
 45
@@ -228,7 +228,7 @@ That's a big gift of peace.
 
 54
 00:02:59,721 --> 00:03:01,086
-Agnarr: And I was so honored
+And I was so honored
 
 55
 00:03:01,139 --> 00:03:03,050
@@ -237,11 +237,11 @@ to celebrate it.
 
 56
 00:03:03,183 --> 00:03:04,423
-Runeard: Stand tall, agnarr.
+Stand tall, agnarr.
 
 57
 00:03:05,519 --> 00:03:06,884
-Agnarr: I wasn't at all prepared
+I wasn't at all prepared
 
 58
 00:03:06,937 --> 00:03:08,268
@@ -281,7 +281,7 @@ Get behind me.
 
 67
 00:03:45,642 --> 00:03:47,178
-Agnarr: It was a brutal battle.
+It was a brutal battle.
 
 68
 00:03:48,603 --> 00:03:49,831
@@ -293,7 +293,7 @@ Father!
 
 70
 00:03:50,939 --> 00:03:51,974
-Agnarr: Was lost.
+Was lost.
 
 71
 00:03:52,023 --> 00:03:53,103
@@ -301,16 +301,16 @@ Aah!
 
 72
 00:03:53,150 --> 00:03:55,186
-Agnarr: The fighting
+The fighting
 enraged the spirits.
 
 73
 00:03:56,278 --> 00:03:57,358
-Fighter: Look out!
+Look out!
 
 74
 00:03:57,487 --> 00:03:59,603
-Agnarr: They turned
+They turned
 their magic against us all.
 
 75
@@ -399,7 +399,7 @@ whatever danger it may bring.
 
 95
 00:05:13,480 --> 00:05:14,811
-Iduna: And on that note,
+And on that note,
 
 96
 00:05:14,856 --> 00:05:16,375
@@ -585,8 +585,8 @@ then all is found
 
 138
 00:07:53,348 --> 00:07:54,804
-- your majesty.
-- Oh!
+your majesty.
+Oh!
 
 139
 00:07:54,849 --> 00:07:55,964
@@ -627,8 +627,8 @@ How I wish
 
 148
 00:08:37,058 --> 00:08:38,594
-- this could last forever.
-- Mmm.
+this could last forever.
+Mmm.
 
 149
 00:08:39,728 --> 00:08:42,094
@@ -953,8 +953,8 @@ holding on tight to you
 
 221
 00:12:24,702 --> 00:12:28,991
-- holding on tight to you
-- Holding on tight to you
+holding on tight to you
+Holding on tight to you
 
 222
 00:12:32,210 --> 00:12:36,874
@@ -962,7 +962,7 @@ I'm holding on tight to you
 
 223
 00:12:42,595 --> 00:12:44,711
-Kristoff: Uh, okay. Um, lion?
+Uh, okay. Um, lion?
 
 224
 00:12:44,847 --> 00:12:45,882
@@ -970,18 +970,18 @@ Grizzly bear?
 
 225
 00:12:45,932 --> 00:12:47,012
-- Uh, monster?
-- Brown bear?
+Uh, monster?
+Brown bear?
 
 226
 00:12:47,058 --> 00:12:48,298
-- Angry face?
-- Black bear?
+Angry face?
+Black bear?
 
 227
 00:12:48,351 --> 00:12:49,466
-- Kristoff: Uh...
-- Hans?
+Uh...
+Hans?
 
 228
 00:12:49,519 --> 00:12:51,760
@@ -1001,7 +1001,7 @@ Villain!
 
 232
 00:12:56,693 --> 00:12:58,024
-All: Ohl
+Ohl
 
 233
 00:12:58,069 --> 00:12:59,149
@@ -1022,7 +1022,7 @@ now that I can read.
 
 237
 00:13:03,491 --> 00:13:04,526
-Sven: Mm.
+Mm.
 
 238
 00:13:04,575 --> 00:13:06,657
@@ -1031,7 +1031,7 @@ boys against girls.
 
 239
 00:13:07,787 --> 00:13:09,618
-Kristoff: Okay, I'm ready,
+Okay, I'm ready,
 I'm ready. Go.
 
 240
@@ -1070,8 +1070,8 @@ Two sisters, one mind.
 
 248
 00:13:26,431 --> 00:13:28,046
-- Thank you.
-- Anna: Okay.
+Thank you.
+Okay.
 
 249
 00:13:28,182 --> 00:13:29,422
@@ -1083,7 +1083,7 @@ You got this, Elsa.
 
 251
 00:13:31,352 --> 00:13:33,013
-Elsa: Hmm. Anna: Anytime.
+Anytime.
 
 252
 00:13:33,354 --> 00:13:34,685
@@ -1111,17 +1111,17 @@ Oh! Doing the dishes?
 
 258
 00:13:43,156 --> 00:13:44,191
-- Polar bear?
-- Hey.
+Polar bear?
+Hey.
 
 259
 00:13:44,240 --> 00:13:45,525
-- Sorry.
-- Uh... ugh.
+Sorry.
+Uh... ugh.
 
 260
 00:13:45,575 --> 00:13:46,635
-Anna: You gotta
+You gotta
 give me something.
 
 261
@@ -1130,7 +1130,7 @@ Um...
 
 262
 00:13:48,911 --> 00:13:50,742
-Anna: Oh! Uh, alarmed?
+Oh! Uh, alarmed?
 
 263
 00:13:50,872 --> 00:13:52,612
@@ -1168,7 +1168,7 @@ Are you okay?
 
 271
 00:14:04,802 --> 00:14:06,918
-Elsa: Just... just tired.
+Just... just tired.
 
 272
 00:14:06,971 --> 00:14:08,302
@@ -1202,12 +1202,12 @@ kristoff, and you're like...
 
 279
 00:14:19,650 --> 00:14:21,545
-"I just
+I just
 need to go talk to some rocks
 
 280
 00:14:21,569 --> 00:14:22,934
-"about my childhood and stuff."
+about my childhood and stuff.
 
 281
 00:14:22,987 --> 00:14:24,602
@@ -1227,8 +1227,8 @@ Did Elsa seem weird to you?
 
 285
 00:14:34,957 --> 00:14:37,699
-- She seemed like Elsa.
-- Hmm.
+She seemed like Elsa.
+Hmm.
 
 286
 00:14:37,752 --> 00:14:39,208
@@ -1241,8 +1241,8 @@ What was it?
 
 288
 00:14:41,339 --> 00:14:42,829
-- I don't know. Ahem.
-- No. No.
+I don't know. Ahem.
+No. No.
 
 289
 00:14:42,965 --> 00:14:44,580
@@ -1250,7 +1250,7 @@ I don't know, but... “Ah.
 
 290
 00:14:45,134 --> 00:14:46,169
-"Ice"?
+Ice?
 
 291
 00:14:46,219 --> 00:14:47,880
@@ -1262,13 +1262,13 @@ She couldn't act out ice?
 
 293
 00:14:50,014 --> 00:14:51,675
-- I better go check on her.
-- Uh...
+I better go check on her.
+Uh...
 
 294
 00:14:51,724 --> 00:14:53,555
-- Thanks, honey. Love you.
-- Hmm?
+Thanks, honey. Love you.
+Hmm?
 
 295
 00:14:55,853 --> 00:14:57,434
@@ -1280,7 +1280,7 @@ It's fine.
 
 297
 00:15:03,444 --> 00:15:04,559
-Elsa: Come in.
+Come in.
 
 298
 00:15:06,155 --> 00:15:07,816
@@ -1288,8 +1288,8 @@ Yep. Something's wrong.
 
 299
 00:15:07,949 --> 00:15:09,780
-- With you?
-- No, with you.
+With you?
+No, with you.
 
 300
 00:15:09,826 --> 00:15:11,691
@@ -1369,8 +1369,8 @@ In mama's words,
 
 318
 00:15:54,662 --> 00:15:57,404
-- "cuddle close, scooch in."
-- Mm-hmm.
+cuddle close, scooch in.
+Mm-hmm.
 
 319
 00:16:01,127 --> 00:16:03,368
@@ -1577,7 +1577,7 @@ Air, fire, water, earth.
 
 367
 00:20:30,438 --> 00:20:31,803
-Woman: The water!
+The water!
 
 368
 00:20:40,030 --> 00:20:42,897
@@ -1607,13 +1607,13 @@ I've got you!
 
 374
 00:21:13,355 --> 00:21:15,391
-Kristoff: Yes.
+Yes.
 Everyone's out and safe.
 
 375
 00:21:15,816 --> 00:21:18,023
-- Here. Take one of these.
-- Sven: Huh?
+Here. Take one of these.
+Huh?
 
 376
 00:21:18,068 --> 00:21:19,274
@@ -1625,8 +1625,8 @@ Oh, yeah. We're calling this...
 
 378
 00:21:21,405 --> 00:21:24,647
-"Controlling what you can when
-things feel out of control."
+Controlling what you can when
+things feel out of control.
 
 379
 00:21:25,201 --> 00:21:26,361
@@ -1720,12 +1720,12 @@ Oh, no. What now?
 
 400
 00:22:14,416 --> 00:22:15,997
-Kristoff: The trolls?
+The trolls?
 
 401
 00:22:16,126 --> 00:22:19,038
-- Kristoff! We missed you!
-- Oh!
+Kristoff! We missed you!
+Oh!
 
 402
 00:22:19,672 --> 00:22:20,707
@@ -1816,7 +1816,7 @@ your wagon
 
 422
 00:23:13,726 --> 00:23:14,761
-and sven? Sven: Hmm?
+Hmm?
 
 423
 00:23:14,810 --> 00:23:16,413
@@ -1825,8 +1825,8 @@ with the idea of that.
 
 424
 00:23:16,437 --> 00:23:18,678
-- You are not going alone.
-- Anna, no.
+You are not going alone.
+Anna, no.
 
 425
 00:23:18,731 --> 00:23:21,222
@@ -1909,11 +1909,11 @@ happen to her.
 
 443
 00:23:54,141 --> 00:23:55,597
-Olaf: Hyah!
+Hyah!
 
 444
 00:23:59,104 --> 00:24:00,844
-Olaf: Who's into trivia?
+Who's into trivia?
 
 445
 00:24:00,981 --> 00:24:02,562
@@ -1955,7 +1955,7 @@ wombats poop squares?
 
 453
 00:24:17,247 --> 00:24:18,600
-Kristoff: Did you know
+Did you know
 sleeping quietly
 
 454
@@ -1965,21 +1965,21 @@ prevents insanity?
 
 455
 00:24:21,877 --> 00:24:23,229
-Olaf: Yeah, that's not true.
-Kristoff: Ltis.
+Yeah, that's not true.
+Ltis.
 
 456
 00:24:23,253 --> 00:24:24,481
-Anna: It's true.
-Elsa: Definitely true.
+It's true.
+Definitely true.
 
 457
 00:24:24,505 --> 00:24:26,024
-Anna: No, it's the truth.
+No, it's the truth.
 
 458
 00:24:26,048 --> 00:24:27,458
-Olaf: Well, that was unanimous.
+Well, that was unanimous.
 
 459
 00:24:27,591 --> 00:24:29,422
@@ -2000,13 +2000,13 @@ Sven, keep us steady, will ya?
 
 463
 00:24:43,899 --> 00:24:45,605
-- Hmm...
-- Anna. Ahem.
+Hmm...
+Anna. Ahem.
 
 464
 00:24:45,651 --> 00:24:46,795
-- Anna?
-- Mm-hmm?
+Anna?
+Mm-hmm?
 
 465
 00:24:46,819 --> 00:24:48,525
@@ -2038,8 +2038,8 @@ No. I did.
 
 471
 00:24:58,539 --> 00:25:00,279
-- You were...
-- Sven: Huh?
+You were...
+Huh?
 
 472
 00:25:00,332 --> 00:25:01,447
@@ -2078,8 +2078,8 @@ you're wrong, or crazy.
 
 480
 00:25:19,435 --> 00:25:21,551
-- Kristoff, stop. Please.
-- Good idea.
+Kristoff, stop. Please.
+Good idea.
 
 481
 00:25:21,687 --> 00:25:23,223
@@ -2103,7 +2103,7 @@ Whoa! What the...
 
 486
 00:26:18,202 --> 00:26:19,658
-Anna: Whoa.
+Whoa.
 
 487
 00:26:26,794 --> 00:26:29,501
@@ -2143,18 +2143,18 @@ to each one of us.
 
 495
 00:26:54,571 --> 00:26:55,936
-Elsa: Hey!
-Kristoff: What is this?
+Hey!
+What is this?
 
 496
 00:26:56,073 --> 00:26:57,425
-Anna: No pushing.
-Kristoff: Stop it.
+No pushing.
+Stop it.
 
 497
 00:26:57,449 --> 00:26:59,089
-- Whoa, whoa, whoa!
-- Elsa: It's too fast.
+Whoa, whoa, whoa!
+It's too fast.
 
 498
 00:26:59,326 --> 00:27:00,566
@@ -2162,11 +2162,11 @@ What was that?
 
 499
 00:27:02,538 --> 00:27:03,903
-Anna: No. No, no, no.
+No. No, no, no.
 
 500
 00:27:06,125 --> 00:27:07,831
-Anna: And we're locked in.
+And we're locked in.
 
 501
 00:27:07,876 --> 00:27:09,516
@@ -2179,7 +2179,7 @@ This forest is beautiful.
 
 503
 00:27:14,800 --> 00:27:15,835
-Olaf: Ooh.
+Ooh.
 
 504
 00:27:39,867 --> 00:27:43,451
@@ -2307,28 +2307,28 @@ In case we die...
 
 532
 00:28:36,423 --> 00:28:38,789
-- You think we're gonna die?
-- No! No, no, no.
+You think we're gonna die?
+No! No, no, no.
 
 533
 00:28:38,842 --> 00:28:40,069
-- Where's Elsa?
-- We will die at some point.
+Where's Elsa?
+We will die at some point.
 
 534
 00:28:40,093 --> 00:28:41,321
-Anna: I swore that
+I swore that
 I wouldn't leave her side.
 
 535
 00:28:41,345 --> 00:28:42,572
-Kristoff: Not in any
+Not in any
 recent time will we die.
 
 536
 00:28:42,596 --> 00:28:43,990
-- Anna: Elsa!
-- But way far in the future,
+Elsa!
+But way far in the future,
 
 537
 00:28:44,014 --> 00:28:45,345
@@ -2348,8 +2348,8 @@ there you are.
 
 541
 00:29:02,908 --> 00:29:04,864
-- You okay?
-- I'm fine.
+You okay?
+I'm fine.
 
 542
 00:29:04,993 --> 00:29:06,608
@@ -2503,8 +2503,8 @@ This is fine.
 
 576
 00:31:25,634 --> 00:31:27,545
-- Olaf: Whoa!
-- Olaf!
+Whoa!
+Olaf!
 
 577
 00:31:32,265 --> 00:31:33,380
@@ -2516,7 +2516,7 @@ Meet the wind spirit.
 
 579
 00:31:37,145 --> 00:31:38,430
-Kristoff: Coming through!
+Coming through!
 
 580
 00:31:39,022 --> 00:31:40,353
@@ -2537,11 +2537,11 @@ Elsal
 
 584
 00:32:09,302 --> 00:32:11,008
-Anna: Let her go!
+Let her go!
 
 585
 00:32:15,225 --> 00:32:16,761
-Kristoff: Anna, be careful!
+Anna, be careful!
 
 586
 00:32:17,394 --> 00:32:19,009
@@ -2549,7 +2549,7 @@ That's my sister!
 
 587
 00:32:23,358 --> 00:32:24,768
-Mattias: Prince agnarr!
+Prince agnarr!
 
 588
 00:32:28,488 --> 00:32:29,853
@@ -2557,16 +2557,16 @@ For arendelle.
 
 589
 00:32:32,617 --> 00:32:33,732
-Fighter: Look out!
+Look out!
 
 590
 00:32:35,162 --> 00:32:36,682
-Young agnarr: Father!
+Father!
 
 591
 00:32:45,630 --> 00:32:47,666
-- Are you okay?
-- I'm fine.
+Are you okay?
+I'm fine.
 
 592
 00:32:49,134 --> 00:32:51,090
@@ -2601,8 +2601,8 @@ The one about...
 
 599
 00:33:04,941 --> 00:33:06,181
-- The one about cucumbers?
-- No.
+The one about cucumbers?
+No.
 
 600
 00:33:06,234 --> 00:33:07,269
@@ -2628,7 +2628,7 @@ And/or animals before us.
 
 605
 00:33:16,453 --> 00:33:17,488
-Anna: Hmm.
+Hmm.
 
 606
 00:33:17,829 --> 00:33:20,286
@@ -2652,8 +2652,8 @@ Get out of there. Whoa!
 
 611
 00:33:32,844 --> 00:33:34,709
-- Oh. Hi.
-- Aren't you curious?
+Oh. Hi.
+Aren't you curious?
 
 612
 00:33:36,723 --> 00:33:38,714
@@ -2669,7 +2669,7 @@ This girl.
 
 615
 00:33:55,450 --> 00:33:57,111
-Olaf: She's saving him.
+She's saving him.
 
 616
 00:33:57,619 --> 00:33:59,075
@@ -2681,7 +2681,7 @@ What is that?
 
 618
 00:34:02,874 --> 00:34:04,660
-Elsa: Olaf, get behind me.
+Olaf, get behind me.
 
 619
 00:34:07,295 --> 00:34:08,564
@@ -2719,7 +2719,7 @@ look so familiar?
 
 627
 00:34:36,157 --> 00:34:37,192
-Kristoff: No, no, no.
+No, no, no.
 
 628
 00:34:37,409 --> 00:34:38,444
@@ -2748,11 +2748,11 @@ this whole time?
 
 634
 00:34:56,303 --> 00:34:57,713
-Anna: Yeah. What do we do now?
+Yeah. What do we do now?
 
 635
 00:34:57,887 --> 00:34:58,922
-Olaf: I got this.
+I got this.
 
 636
 00:34:59,431 --> 00:35:00,921
@@ -2967,13 +2967,13 @@ May the truth be found.
 
 685
 00:36:33,942 --> 00:36:36,103
-- Mm...
-- Hi. I'm sorry.
+Mm...
+Hi. I'm sorry.
 
 686
 00:36:36,152 --> 00:36:37,733
-- Uh, what's happening?
-- Hmm.
+Uh, what's happening?
+Hmm.
 
 687
 00:36:37,946 --> 00:36:40,028
@@ -3068,15 +3068,15 @@ make sense when I'm older.
 
 708
 00:37:34,335 --> 00:37:35,575
-Man: Fire spirit!
+Fire spirit!
 
 709
 00:37:37,338 --> 00:37:38,623
-Yelena: Get back, everyone!
+Get back, everyone!
 
 710
 00:37:38,757 --> 00:37:40,622
-Mattias: Head for the river!
+Head for the river!
 
 711
 00:37:50,727 --> 00:37:52,888
@@ -3114,7 +3114,7 @@ Anna!
 
 719
 00:38:33,603 --> 00:38:34,638
-Anna: Ohl
+Ohl
 
 720
 00:38:35,104 --> 00:38:36,184
@@ -3164,13 +3164,13 @@ Elsal
 
 731
 00:40:28,593 --> 00:40:29,799
-- oh, thank goodness!
-- Anna.
+oh, thank goodness!
+Anna.
 
 732
 00:40:29,928 --> 00:40:31,714
-- Are you okay?
-- What were you doing?
+Are you okay?
+What were you doing?
 
 733
 00:40:31,846 --> 00:40:33,006
@@ -3294,8 +3294,8 @@ I get it.
 
 761
 00:42:58,576 --> 00:43:00,362
-- The name's Ryder.
-- Kristoff.
+The name's Ryder.
+Kristoff.
 
 762
 00:43:00,536 --> 00:43:01,867
@@ -3324,7 +3324,7 @@ Honeymaren, we'll do all we can.
 
 768
 00:43:15,218 --> 00:43:16,549
-Olaf: Hey, let me ask you.
+Hey, let me ask you.
 
 769
 00:43:16,677 --> 00:43:17,792
@@ -3397,8 +3397,8 @@ If we start now,
 
 785
 00:43:44,914 --> 00:43:46,266
-- we'll be ready by dawn.
-- Really?
+we'll be ready by dawn.
+Really?
 
 786
 00:43:46,290 --> 00:43:47,325
@@ -3410,11 +3410,11 @@ it involves a lot of reindeer.
 
 788
 00:43:49,210 --> 00:43:50,791
-Kristoff: Whoa.
+Whoa.
 
 789
 00:43:51,129 --> 00:43:52,289
-Mattias: Hey, back at home...
+Hey, back at home...
 
 790
 00:43:52,380 --> 00:43:54,166
@@ -3466,17 +3466,17 @@ the good for granted.
 
 801
 00:44:15,987 --> 00:44:18,319
-He'd say, "be prepared.
+He'd say, be prepared.
 
 802
 00:44:18,447 --> 00:44:19,925
-"Just when you think
+Just when you think
 you've found your way,
 
 803
 00:44:19,949 --> 00:44:22,782
-"life will throw you
-onto a new path."
+life will throw you
+onto a new path.
 
 804
 00:44:23,119 --> 00:44:25,110
@@ -3514,11 +3514,11 @@ water, and earth.
 
 812
 00:44:47,435 --> 00:44:48,470
-Elsa: Yes.
+Yes.
 
 813
 00:44:48,519 --> 00:44:50,430
-Honeymaren: But, look,
+But, look,
 there's a fifth spirit...
 
 814
@@ -3563,7 +3563,7 @@ Dive down deep into her sound
 
 823
 00:45:15,755 --> 00:45:20,044
-both: But not too far
+But not too far
 or you'll be drowned
 
 824
@@ -3690,8 +3690,8 @@ and a bunch of reindeer.
 
 852
 00:47:09,452 --> 00:47:10,783
-- They left?
-- Mm-hmm.
+They left?
+Mm-hmm.
 
 853
 00:47:10,828 --> 00:47:13,240
@@ -3812,8 +3812,8 @@ I'm really sorry that...
 
 880
 00:48:24,693 --> 00:48:26,729
-- No, it's fine.
-- Yeah. Yep.
+No, it's fine.
+Yeah. Yep.
 
 881
 00:48:27,446 --> 00:48:30,609
@@ -3832,8 +3832,8 @@ where you're going, right?
 
 884
 00:48:34,453 --> 00:48:35,863
-- Yeah. Yeah.
-- Yep.
+Yeah. Yeah.
+Yep.
 
 885
 00:48:35,913 --> 00:48:37,153
@@ -3907,7 +3907,7 @@ who's always chasing your heart?
 
 902
 00:50:06,003 --> 00:50:08,460
-Both: Now I turn around and find
+Now I turn around and find
 
 903
 00:50:08,964 --> 00:50:11,831
@@ -4007,13 +4007,13 @@ for a sign
 
 926
 00:51:36,844 --> 00:51:40,587
-- for a sign
-- That I'm your path
+for a sign
+That I'm your path
 
 927
 00:51:40,723 --> 00:51:44,341
-- "cause you are mine
-- You are mine
+cause you are mine
+You are mine
 
 928
 00:51:44,393 --> 00:51:46,304
@@ -4021,8 +4021,8 @@ until then
 
 929
 00:51:46,437 --> 00:51:50,350
-- I'm lost in the woods
-- Lost in the woods
+I'm lost in the woods
+Lost in the woods
 
 930
 00:51:50,399 --> 00:51:52,890
@@ -4067,7 +4067,7 @@ What is it?
 
 940
 00:52:56,674 --> 00:52:58,585
-Anna: Mother and father's ship.
+Mother and father's ship.
 
 941
 00:52:58,717 --> 00:53:01,299
@@ -4079,7 +4079,7 @@ No, it isn't.
 
 943
 00:53:16,568 --> 00:53:18,308
-Elsa: Why is their ship here?
+Why is their ship here?
 
 944
 00:53:19,405 --> 00:53:21,066
@@ -4161,15 +4161,15 @@ this is mother's handwriting.
 
 962
 00:54:15,043 --> 00:54:16,533
-"The end of the ice age.
+The end of the ice age.
 
 963
 00:54:16,670 --> 00:54:18,706
-"The river found, but lost.
+The river found, but lost.
 
 964
 00:54:18,839 --> 00:54:22,502
-"Magic's source. Elsa's source?"
+Magic's source. Elsa's source?
 
 965
 00:54:25,053 --> 00:54:26,634
@@ -4186,7 +4186,7 @@ the dark sea to...
 
 968
 00:54:34,229 --> 00:54:36,094
-Elsa: Ahtohallan.
+Ahtohallan.
 
 969
 00:54:36,231 --> 00:54:37,721
@@ -4212,7 +4212,7 @@ about the past.
 974
 00:54:45,115 --> 00:54:48,357
 Reinforcing my
-"water has memory" theory. Mm.
+water has memory theory. Mm.
 
 975
 00:54:48,827 --> 00:54:50,488
@@ -4229,20 +4229,20 @@ what happened to them.
 
 978
 00:55:09,640 --> 00:55:11,680
-Iduna: Ahtohallan has to be
+Ahtohallan has to be
 the source of her magic.
 
 979
 00:55:11,725 --> 00:55:13,431
-Agnarr: We keep going for Elsa.
+We keep going for Elsa.
 
 980
 00:55:13,560 --> 00:55:14,766
-Iduna: The waves are too high!
+The waves are too high!
 
 981
 00:55:14,895 --> 00:55:16,931
-Agnarr: Iduna! Iduna: Agnarr!
+Agnarr!
 
 982
 00:55:20,400 --> 00:55:21,890
@@ -4356,11 +4356,11 @@ So we go to ahtohallan.
 
 1006
 00:56:37,185 --> 00:56:38,470
-Not "we."
+Not we.
 
 1007
 00:56:39,271 --> 00:56:40,761
-Me. Anna: What?
+What?
 
 1008
 00:56:40,898 --> 00:56:43,105
@@ -4377,8 +4377,8 @@ Remember the song?
 
 1011
 00:56:47,529 --> 00:56:49,611
-"Go too far
-and you'll be drowned."
+Go too far
+and you'll be drowned.
 
 1012
 00:56:49,781 --> 00:56:51,942
@@ -4435,8 +4435,8 @@ I can't lose you either, Anna.
 
 1024
 00:57:21,730 --> 00:57:23,721
-- Come on.
-- Olaf: Mmm.
+Come on.
+Mmm.
 
 1025
 00:57:25,317 --> 00:57:26,557
@@ -4464,12 +4464,12 @@ Give me a hand.
 
 1031
 00:57:40,082 --> 00:57:41,993
-- Hang on!
-- Olaf: Whoa!
+Hang on!
+Whoa!
 
 1032
 00:57:42,042 --> 00:57:43,578
-Anna: Wait. Wait! No! No! No!
+Wait. Wait! No! No! No!
 
 1033
 00:57:43,627 --> 00:57:45,492
@@ -4477,7 +4477,7 @@ Oh, come on!
 
 1034
 00:57:45,629 --> 00:57:47,711
-Olaf: Anna,
+Anna,
 this might sound crazy...
 
 1035
@@ -4571,8 +4571,8 @@ They're huge.
 
 1055
 00:59:06,543 --> 00:59:08,158
-- Hang on, olaf.
-- Huh?
+Hang on, olaf.
+Huh?
 
 1056
 00:59:13,425 --> 00:59:15,165
@@ -4847,7 +4847,7 @@ one moment more
 
 1122
 01:06:02,292 --> 01:06:06,080
-chorus: Where the northwind
+Where the northwind
 
 1123
 01:06:06,212 --> 01:06:09,830
@@ -4875,7 +4875,7 @@ I am found!
 
 1129
 01:06:27,484 --> 01:06:29,816
-Elsa and iduna: Show yourself
+Show yourself
 
 1130
 01:06:29,944 --> 01:06:33,061
@@ -4891,13 +4891,13 @@ into something new
 
 1133
 01:06:39,162 --> 01:06:42,029
-iduna: You are the one
+You are the one
 you've been waiting for
 
 1134
 01:06:42,165 --> 01:06:45,623
-- all of my life
-- Iduna: All of your life
+all of my life
+All of your life
 
 1135
 01:06:45,960 --> 01:06:50,545
@@ -4905,20 +4905,20 @@ oh, show yourself!
 
 1136
 01:07:13,696 --> 01:07:16,403
-Young Elsa: Hi, I'm olaf.
+Hi, I'm olaf.
 And I like warm hugs.
 
 1137
 01:07:16,533 --> 01:07:18,649
-Young Anna: I love you, olaf!
+I love you, olaf!
 
 1138
 01:07:19,786 --> 01:07:21,651
-Iduna: Come on, you can do it.
+Come on, you can do it.
 
 1139
 01:07:22,080 --> 01:07:24,321
-Here I stand - oh.
+Here I stand oh.
 
 1140
 01:07:24,374 --> 01:07:25,454
@@ -4935,7 +4935,7 @@ with the face of a monkey!
 
 1143
 01:07:28,670 --> 01:07:30,470
-Anna: I just wasn't looking
+I just wasn't looking
 where I was going.
 
 1144
@@ -4944,12 +4944,12 @@ But I'm great actually.
 
 1145
 01:07:32,215 --> 01:07:34,456
-Hans: Prince hans
+Prince hans
 of the Southern isles.
 
 1146
 01:07:35,552 --> 01:07:36,587
-Agnarr: I love you.
+I love you.
 
 1147
 01:07:36,719 --> 01:07:38,300
@@ -4979,7 +4979,7 @@ Oh, some new Danish author.
 
 1153
 01:07:53,319 --> 01:07:56,026
-Soldier: King runeard,
+King runeard,
 I'm sorry. I don't understand.
 
 1154
@@ -5051,7 +5051,7 @@ or you'll be drowned
 
 1169
 01:08:43,995 --> 01:08:46,111
-runeard: They will come
+They will come
 in celebration.
 
 1170
@@ -5105,12 +5105,12 @@ Anna!
 
 1181
 01:09:57,610 --> 01:10:01,649
-Olaf: Hmm. Which lucky tunnel
+Hmm. Which lucky tunnel
 do we choose?
 
 1182
 01:10:01,781 --> 01:10:04,238
-Runeard: You see, the dam
+You see, the dam
 will weaken their lands,
 
 1183
@@ -5226,8 +5226,8 @@ through their butts.
 
 1209
 01:11:19,525 --> 01:11:22,733
-- Huh?
-- And I see a way out.
+Huh?
+And I see a way out.
 
 1210
 01:11:24,322 --> 01:11:26,187
@@ -5296,7 +5296,7 @@ No. No.
 
 1226
 01:12:10,701 --> 01:12:11,816
-Olaf: Anna?
+Anna?
 
 1227
 01:12:12,328 --> 01:12:14,364
@@ -5317,8 +5317,8 @@ Come here.
 
 1231
 01:12:21,045 --> 01:12:23,252
-- I've got you.
-- Oh.
+I've got you.
+Oh.
 
 1232
 01:12:23,756 --> 01:12:25,166
@@ -5606,8 +5606,8 @@ I'm here. What do you need?
 
 1300
 01:19:00,778 --> 01:19:02,143
-- To get to the dam.
-- You got it.
+To get to the dam.
+You got it.
 
 1301
 01:19:02,196 --> 01:19:03,231
@@ -5615,12 +5615,12 @@ Thank you.
 
 1302
 01:19:19,380 --> 01:19:21,120
-Kristoff: Come on. Come on.
+Come on. Come on.
 
 1303
 01:19:21,257 --> 01:19:22,977
-- Anna: Help me up!
-- We'll meet you around!
+Help me up!
+We'll meet you around!
 
 1304
 01:19:27,554 --> 01:19:28,669
@@ -5689,12 +5689,12 @@ That's it.
 
 1319
 01:20:52,931 --> 01:20:54,592
-- I've got her!
-- Annal
+I've got her!
+Annal
 
 1320
 01:20:55,225 --> 01:20:56,510
-mattias: Hang on!
+Hang on!
 
 1321
 01:23:15,991 --> 01:23:18,198
@@ -5833,8 +5833,8 @@ or something?
 
 1353
 01:25:54,232 --> 01:25:56,814
-- Or something.
-- Oh.
+Or something.
+Oh.
 
 1354
 01:26:00,405 --> 01:26:03,818
@@ -5883,8 +5883,8 @@ I mean, I presume we're done.
 
 1365
 01:26:51,957 --> 01:26:54,494
-Or is this "putting us
-in mortal danger" situation
+Or is this putting us
+in mortal danger situation
 
 1366
 01:26:54,543 --> 01:26:56,124
@@ -5926,7 +5926,7 @@ Yes! Ah.
 
 1375
 01:27:24,072 --> 01:27:25,687
-_kristofe: Aw.
+Aw.
 
 1376
 01:27:40,213 --> 01:27:41,498
@@ -5965,7 +5965,7 @@ I know just what that is.
 1384
 01:28:00,901 --> 01:28:03,517
 While I still don't know
-what "transformation" means...
+what transformation means...
 
 1385
 01:28:03,653 --> 01:28:07,862
@@ -6003,7 +6003,7 @@ Your majesty.
 
 1393
 01:28:39,815 --> 01:28:41,021
-Anna: Kristoff.
+Kristoff.
 
 1394
 01:28:41,983 --> 01:28:44,690
@@ -6073,8 +6073,8 @@ I'm just kidding.
 
 1409
 01:29:18,436 --> 01:29:20,427
-- How am I doing?
-Anna: Fantastic.
+How am I doing?
+Fantastic.
 
 1410
 01:29:29,030 --> 01:29:33,399
@@ -6096,21 +6096,21 @@ Thank you.
 
 1414
 01:30:09,029 --> 01:30:11,736
-"Charades Friday night.
+Charades Friday night.
 Don't be late.
 
 1415
 01:30:11,865 --> 01:30:14,277
-"And don't worry,
+And don't worry,
 arendelle's doing just fine.
 
 1416
 01:30:14,409 --> 01:30:16,274
-"Keep looking after the forest.
+Keep looking after the forest.
 
 1417
 01:30:16,411 --> 01:30:17,867
-"I love you."
+I love you.
 
 1418
 01:30:18,330 --> 01:30:20,195
@@ -6319,7 +6319,7 @@ ah ah oh oh
 
 1466
 01:33:45,245 --> 01:33:48,203
-ah ah oh oh - ah ah oh oh
+ah ah oh oh ah ah oh oh
 
 1467
 01:33:48,248 --> 01:33:50,079
@@ -6629,13 +6629,13 @@ for a sign
 
 1540
 01:39:46,397 --> 01:39:50,356
-- for a sign
-- That I'm your path
+for a sign
+That I'm your path
 
 1541
 01:39:50,401 --> 01:39:54,064
-- "cause you are mine
-- You are mine
+cause you are mine
+You are mine
 
 1542
 01:39:54,113 --> 01:39:55,819
@@ -6643,8 +6643,8 @@ until then
 
 1543
 01:39:55,907 --> 01:39:59,991
-- I'm lost in the woods
-- Lost in the woods
+I'm lost in the woods
+Lost in the woods
 
 1544
 01:40:00,036 --> 01:40:02,778

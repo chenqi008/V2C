@@ -156,18 +156,18 @@ Summer's just begun
 
 35
 00:03:35,841 --> 00:03:38,552
-- Did you have a nice flight?
-- Incoming!
+Did you have a nice flight?
+Incoming!
 
 36
 00:03:38,636 --> 00:03:42,097
-- Keep her level! Keep her level!
-- Gear it down, Bobble!
+Keep her level! Keep her level!
+Gear it down, Bobble!
 
 37
 00:03:43,724 --> 00:03:46,602
-- Smashing landing, Clanky.
-- Thank you, Bobble.
+Smashing landing, Clanky.
+Thank you, Bobble.
 
 38
 00:03:46,685 --> 00:03:49,480
@@ -176,8 +176,8 @@ have over-packed.
 
 39
 00:03:49,813 --> 00:03:52,608
-- Come on, Tink. Let's go inside.
-- Inside?
+Come on, Tink. Let's go inside.
+Inside?
 
 40
 00:03:53,150 --> 00:03:56,070
@@ -191,8 +191,8 @@ from the humans.
 
 42
 00:03:58,155 --> 00:04:00,157
-- We do?
-- Yeah.
+We do?
+Yeah.
 
 43
 00:04:00,407 --> 00:04:02,826
@@ -219,8 +219,8 @@ is looking beautiful.
 
 48
 00:05:07,057 --> 00:05:10,227
-- How are the looms working?
-- Fine, thanks to you, Tink.
+How are the looms working?
+Fine, thanks to you, Tink.
 
 49
 00:05:10,311 --> 00:05:15,107
@@ -228,13 +228,13 @@ Next. Next. Next.
 
 50
 00:05:15,190 --> 00:05:18,694
-- How's the bee-liner working?
-- Like a dream, Tink. Thanks.
+How's the bee-liner working?
+Like a dream, Tink. Thanks.
 
 51
 00:05:18,777 --> 00:05:22,698
-- Great. Need any help with that wagon?
-- No, thanks. She's running fine.
+Great. Need any help with that wagon?
+No, thanks. She's running fine.
 
 52
 00:05:22,781 --> 00:05:24,658
@@ -278,33 +278,33 @@ the human house, are you?
 
 61
 00:05:50,517 --> 00:05:54,396
-- There's a human house?
-- No! I mean, yes, but no.
+There's a human house?
+No! I mean, yes, but no.
 
 62
 00:05:54,480 --> 00:05:57,274
-- We stay away from humans.
-- Iridessa!
+We stay away from humans.
+Iridessa!
 
 63
 00:05:58,776 --> 00:06:04,239
-- Tinker Bell knows that, don't you?
-- Define "stay away. "
+Tinker Bell knows that, don't you?
+Define stay away. 
 
 64
 00:06:05,115 --> 00:06:07,785
-- It's gonna be a long summer.
-- Grouchy.
+It's gonna be a long summer.
+Grouchy.
 
 65
 00:06:08,744 --> 00:06:14,249
-- That's just Vidia being Vidia.
-- No, the air. It smells grouchy.
+That's just Vidia being Vidia.
+No, the air. It smells grouchy.
 
 66
 00:06:14,833 --> 00:06:17,711
-- We might be in for a storm.
-- Come on, Sil.
+We might be in for a storm.
+Come on, Sil.
 
 67
 00:06:17,961 --> 00:06:22,883
@@ -352,8 +352,8 @@ There's no horse. Seriously, look.
 
 77
 00:08:13,577 --> 00:08:15,704
-- Do you see a horse up there?
-- No.
+Do you see a horse up there?
+No.
 
 78
 00:08:15,787 --> 00:08:19,875
@@ -362,8 +362,8 @@ And do you want to know how it works?
 
 79
 00:08:19,958 --> 00:08:21,752
-- Not really.
-- So do I.
+Not really.
+So do I.
 
 80
 00:08:21,960 --> 00:08:26,215
@@ -422,8 +422,8 @@ and have them here in the garden?
 
 92
 00:09:12,386 --> 00:09:14,972
-- It would be just like a little picnic.
-- Not just now, Lizzy.
+It would be just like a little picnic.
+Not just now, Lizzy.
 
 93
 00:09:15,055 --> 00:09:17,766
@@ -480,8 +480,8 @@ The proof is right here.
 
 104
 00:09:55,887 --> 00:09:59,433
-- Their paint dripped all over its wing.
-- Really, darling.
+Their paint dripped all over its wing.
+Really, darling.
 
 105
 00:09:59,516 --> 00:10:03,520
@@ -490,8 +490,8 @@ a belief in fairies to be quite foolish.
 
 106
 00:10:04,104 --> 00:10:06,106
-- The wings are so fresh.
-- What are you doing?
+The wings are so fresh.
+What are you doing?
 
 107
 00:10:06,189 --> 00:10:08,275
@@ -534,13 +534,13 @@ and I'll be back in time to tuck you in.
 
 115
 00:10:34,092 --> 00:10:36,511
-- Promise?
-- I promise.
+Promise?
+I promise.
 
 116
 00:10:38,055 --> 00:10:40,307
-- Okay.
-- That's a good girl.
+Okay.
+That's a good girl.
 
 117
 00:10:51,360 --> 00:10:52,694
@@ -552,8 +552,8 @@ Come on, Vidia.
 
 119
 00:10:55,906 --> 00:11:00,369
-- I can't fly. My wings are wet.
-- That's right. Sorry.
+I can't fly. My wings are wet.
+That's right. Sorry.
 
 120
 00:11:01,411 --> 00:11:03,747
@@ -619,8 +619,8 @@ to help everybody so much.
 
 133
 00:12:42,220 --> 00:12:46,349
-- The truth hurts, doesn't it?
-- Look! We can use these back at camp!
+The truth hurts, doesn't it?
+Look! We can use these back at camp!
 
 134
 00:12:47,434 --> 00:12:51,188
@@ -652,8 +652,8 @@ this human junk back to camp.
 
 140
 00:13:16,922 --> 00:13:18,715
-- Let's go!
-- Let's go!
+Let's go!
+Let's go!
 
 141
 00:13:22,093 --> 00:13:26,348
@@ -668,7 +668,7 @@ They're a lot bigger.
 143
 00:13:29,226 --> 00:13:31,853
 Besides, the sign says,
-"Fairies welcome. "
+Fairies welcome. 
 
 144
 00:13:31,937 --> 00:13:34,606
@@ -702,8 +702,8 @@ Really?
 
 151
 00:14:16,439 --> 00:14:19,776
-- Vidia.
-- Not so safe now, is it?
+Vidia.
+Not so safe now, is it?
 
 152
 00:14:20,235 --> 00:14:22,988
@@ -734,8 +734,8 @@ You can do better than that.
 
 158
 00:14:38,628 --> 00:14:40,964
-- Tink!
-- I wonder what this part does.
+Tink!
+I wonder what this part does.
 
 159
 00:14:41,047 --> 00:14:44,009
@@ -780,8 +780,8 @@ Father!
 
 169
 00:15:58,375 --> 00:16:00,919
-- Father! Father, Father!
-- Yes, Lizzy.
+Father! Father, Father!
+Yes, Lizzy.
 
 170
 00:16:01,211 --> 00:16:03,046
@@ -790,23 +790,23 @@ what I found.
 
 171
 00:16:03,129 --> 00:16:07,008
-- Maybe later, Lizzy.
-- But Father, Father, Father,
+Maybe later, Lizzy.
+But Father, Father, Father,
 
 172
 00:16:07,092 --> 00:16:08,802
-- Father, Father.
-- Just a moment, dear.
+Father, Father.
+Just a moment, dear.
 
 173
 00:16:08,885 --> 00:16:11,805
-- I'm very busy with my project.
-- Yes, but Father!
+I'm very busy with my project.
+Yes, but Father!
 
 174
 00:16:11,888 --> 00:16:13,390
-- Father!
-- Lizzy, please.
+Father!
+Lizzy, please.
 
 175
 00:16:13,473 --> 00:16:17,227
@@ -905,18 +905,18 @@ been captured by humans!
 
 196
 00:19:22,579 --> 00:19:23,788
-- Oh, no.
-- What happened? Is she okay?
+Oh, no.
+What happened? Is she okay?
 
 197
 00:19:23,872 --> 00:19:25,123
-- Is she all right?
-- What's this? Tinker Bell?
+Is she all right?
+What's this? Tinker Bell?
 
 198
 00:19:25,206 --> 00:19:26,666
-- What happened, Vidia?
-- Is she hurt?
+What happened, Vidia?
+Is she hurt?
 
 199
 00:19:26,749 --> 00:19:30,295
@@ -989,13 +989,13 @@ What are you two talking about?
 
 214
 00:20:08,958 --> 00:20:12,086
-- We're gonna build a boat!
-- We're gonna build a boat!
+We're gonna build a boat!
+We're gonna build a boat!
 
 215
 00:20:21,095 --> 00:20:24,933
-- More mushroom caps, please!
-- Here we go.
+More mushroom caps, please!
+Here we go.
 
 216
 00:20:27,143 --> 00:20:30,688
@@ -1008,8 +1008,8 @@ Righty-o, Bobble.
 
 218
 00:20:47,205 --> 00:20:50,416
-- Right, more reeds over here.
-- This thing had better work.
+Right, more reeds over here.
+This thing had better work.
 
 219
 00:20:50,500 --> 00:20:54,754
@@ -1042,8 +1042,8 @@ Trust...
 
 226
 00:21:32,125 --> 00:21:33,710
-- And pixie dust.
-- Pixie dust.
+And pixie dust.
+Pixie dust.
 
 227
 00:21:40,049 --> 00:21:41,884
@@ -1146,8 +1146,8 @@ This is a water fairy.
 
 249
 00:23:28,574 --> 00:23:31,828
-- You can tell because her skin is blue.
-- Blue?
+You can tell because her skin is blue.
+Blue?
 
 250
 00:23:31,994 --> 00:23:35,248
@@ -1180,13 +1180,13 @@ they turn into a pile of delicious sugar,
 
 256
 00:23:56,185 --> 00:23:57,895
-- and then younger fairies...
-- Wait. Wait a minute.
+and then younger fairies...
+Wait. Wait a minute.
 
 257
 00:23:57,979 --> 00:24:02,358
-- ... must try and turn them back into...
-- Where are you getting all this?
+... must try and turn them back into...
+Where are you getting all this?
 
 258
 00:24:03,025 --> 00:24:06,237
@@ -1208,8 +1208,8 @@ It got a little shaken up.
 
 262
 00:24:24,464 --> 00:24:28,009
-- Did you make this?
-- I don't know what you're saying.
+Did you make this?
+I don't know what you're saying.
 
 263
 00:24:34,307 --> 00:24:38,478
@@ -1286,8 +1286,8 @@ is particularly interesting.
 
 279
 00:26:01,686 --> 00:26:06,148
-- Is there a field journal about fairies?
-- Of course not, Lizzy.
+Is there a field journal about fairies?
+Of course not, Lizzy.
 
 280
 00:26:06,649 --> 00:26:10,278
@@ -1378,8 +1378,8 @@ We'll have so much fun.
 
 299
 00:27:45,414 --> 00:27:49,293
-- We're past the shallows!
-- Aye! Drop the mainsail!
+We're past the shallows!
+Aye! Drop the mainsail!
 
 300
 00:27:49,543 --> 00:27:51,420
@@ -1387,13 +1387,13 @@ Dropping the mainsail!
 
 301
 00:27:52,171 --> 00:27:54,590
-- Trim the sail!
-- Trimming the sail!
+Trim the sail!
+Trimming the sail!
 
 302
 00:27:58,803 --> 00:28:04,266
-- Big thingy, dead ahead! Hard to port!
-- Hard to port! Hard to port!
+Big thingy, dead ahead! Hard to port!
+Hard to port! Hard to port!
 
 303
 00:28:11,607 --> 00:28:14,485
@@ -1402,8 +1402,8 @@ Stay on this course!
 
 304
 00:28:14,735 --> 00:28:18,489
-- Aye, Miss Vidia. Will do.
-- I sure hope Tink is all right.
+Aye, Miss Vidia. Will do.
+I sure hope Tink is all right.
 
 305
 00:28:18,698 --> 00:28:22,201
@@ -1460,7 +1460,7 @@ Perfect!
 
 317
 00:29:16,213 --> 00:29:20,885
-"Scientific fairy research. "
+Scientific fairy research. 
 
 318
 00:29:21,969 --> 00:29:24,388
@@ -1647,8 +1647,8 @@ Well, I'm gonna remain optimistic.
 
 360
 00:32:39,458 --> 00:32:42,670
-- We'll get to Tink in no time.
-- I'm with you, Sil.
+We'll get to Tink in no time.
+I'm with you, Sil.
 
 361
 00:32:44,838 --> 00:32:46,131
@@ -1679,8 +1679,8 @@ Ease the sheets and get ready to jibe!
 
 367
 00:33:11,490 --> 00:33:12,491
-- What?
-- What?
+What?
+What?
 
 368
 00:33:12,574 --> 00:33:15,828
@@ -1688,8 +1688,8 @@ Ease the sheet and get ready to jibe!
 
 369
 00:33:15,911 --> 00:33:17,079
-- What?
-- What did he say?
+What?
+What did he say?
 
 370
 00:33:17,162 --> 00:33:20,916
@@ -1697,8 +1697,8 @@ Loosen the ropes and turn the sail!
 
 371
 00:33:21,583 --> 00:33:23,377
-- Oh, no!
-- Look out!
+Oh, no!
+Look out!
 
 372
 00:33:26,463 --> 00:33:27,881
@@ -1723,8 +1723,8 @@ That's all right,
 
 377
 00:33:47,693 --> 00:33:50,362
-- Rosetta, come grab my feet.
-- What?
+Rosetta, come grab my feet.
+What?
 
 378
 00:33:54,408 --> 00:33:57,119
@@ -1740,8 +1740,8 @@ Brace yourselves!
 
 381
 00:34:26,398 --> 00:34:30,319
-- Who's alive?
-- Not me.
+Who's alive?
+Not me.
 
 382
 00:34:31,278 --> 00:34:34,907
@@ -1762,8 +1762,8 @@ Looks like we're walking from here.
 
 386
 00:34:51,632 --> 00:34:55,719
-- But... Walking where?
-- We could be anywhere.
+But... Walking where?
+We could be anywhere.
 
 387
 00:34:56,386 --> 00:34:59,139
@@ -1805,8 +1805,8 @@ with the Earth's axis
 
 395
 00:35:36,885 --> 00:35:41,223
-- as it rotated around the sun.
-- That's what we wanted you to think.
+as it rotated around the sun.
+That's what we wanted you to think.
 
 396
 00:35:41,932 --> 00:35:47,354
@@ -1879,8 +1879,8 @@ And I'll never forget you, Lizzy.
 
 412
 00:37:53,522 --> 00:37:56,692
-- Father, look!
-- Not just now, Lizzy.
+Father, look!
+Not just now, Lizzy.
 
 413
 00:37:56,775 --> 00:37:58,777
@@ -1893,8 +1893,8 @@ It's just like your field journal.
 
 415
 00:38:03,240 --> 00:38:05,951
-- It's filled with lots of facts.
-- Yes, yes, that sounds wonderful,
+It's filled with lots of facts.
+Yes, yes, that sounds wonderful,
 
 416
 00:38:06,034 --> 00:38:08,745
@@ -1907,8 +1907,8 @@ I can't look at it now.
 
 418
 00:38:10,205 --> 00:38:13,500
-- But Father, it's a field journal, and I...
-- I don't have time.
+But Father, it's a field journal, and I...
+I don't have time.
 
 419
 00:38:13,583 --> 00:38:16,128
@@ -1921,8 +1921,8 @@ before they destroy my work.
 
 421
 00:38:18,171 --> 00:38:23,302
-- When will you be able to look at it?
-- I don't know. Maybe later.
+When will you be able to look at it?
+I don't know. Maybe later.
 
 422
 00:38:24,428 --> 00:38:26,221
@@ -1985,13 +1985,13 @@ Yeah, no. I don't really do mud.
 
 436
 00:40:10,575 --> 00:40:15,205
-- But you're a garden fairy!
-- Ironic, isn't it?
+But you're a garden fairy!
+Ironic, isn't it?
 
 437
 00:40:15,414 --> 00:40:16,540
-- Rosetta!
-- Rosetta!
+Rosetta!
+Rosetta!
 
 438
 00:40:16,623 --> 00:40:18,750
@@ -2020,8 +2020,8 @@ to grab onto.
 
 444
 00:40:45,527 --> 00:40:50,323
-- Got it! Clanky, rescue device.
-- Right, Bobble. You can count on us!
+Got it! Clanky, rescue device.
+Right, Bobble. You can count on us!
 
 445
 00:40:52,075 --> 00:40:54,661
@@ -2038,8 +2038,8 @@ I don't think so.
 
 448
 00:41:07,048 --> 00:41:09,885
-- Come on, hurry!
-- Pull! Pull!
+Come on, hurry!
+Pull! Pull!
 
 449
 00:41:11,928 --> 00:41:13,054
@@ -2059,8 +2059,8 @@ Anyone?
 
 453
 00:41:45,712 --> 00:41:48,715
-- Grab this! Hurry!
-- Are you kidding me?
+Grab this! Hurry!
+Are you kidding me?
 
 454
 00:41:49,049 --> 00:41:51,092
@@ -2076,8 +2076,8 @@ We got the...
 
 457
 00:42:09,569 --> 00:42:13,698
-- ... rescue device.
-- You scared the petals right off of me!
+... rescue device.
+You scared the petals right off of me!
 
 458
 00:42:15,242 --> 00:42:17,035
@@ -2085,17 +2085,17 @@ Did we miss anything?
 
 459
 00:42:18,245 --> 00:42:22,958
-"My, what a splendid tea service.
-I am really quite impressed. "
+My, what a splendid tea service.
+I am really quite impressed. 
 
 460
 00:42:23,500 --> 00:42:28,046
 Then I say,
-"Why, thank you, Tinker Bell.
+Why, thank you, Tinker Bell.
 
 461
 00:42:29,005 --> 00:42:30,757
-"You are too kind. "
+You are too kind. 
 
 462
 00:42:31,758 --> 00:42:34,803
@@ -2140,8 +2140,8 @@ to your father.
 
 471
 00:45:59,424 --> 00:46:01,509
-- Lizzy?
-- Yes, Father?
+Lizzy?
+Yes, Father?
 
 472
 00:46:01,843 --> 00:46:05,513
@@ -2182,8 +2182,8 @@ Well, I'm sure you'll think of it, Father.
 
 480
 00:46:32,373 --> 00:46:34,000
-- Off we go.
-- Perhaps down in your study.
+Off we go.
+Perhaps down in your study.
 
 481
 00:46:34,083 --> 00:46:36,628
@@ -2192,8 +2192,8 @@ I wish you luck.
 
 482
 00:46:36,711 --> 00:46:40,590
-- Okay, well, play nicely.
-- Yes, of course. Bye, Father.
+Okay, well, play nicely.
+Yes, of course. Bye, Father.
 
 483
 00:46:43,635 --> 00:46:44,803
@@ -2232,8 +2232,8 @@ my scientific research.
 
 491
 00:47:20,129 --> 00:47:22,966
-- The butterfly. It's gone!
-- What?
+The butterfly. It's gone!
+What?
 
 492
 00:47:23,258 --> 00:47:26,010
@@ -2252,8 +2252,8 @@ and now it's gone.
 
 495
 00:47:33,059 --> 00:47:36,813
-- Elizabeth, did you release it?
-- No.
+Elizabeth, did you release it?
+No.
 
 496
 00:47:38,106 --> 00:47:39,941
@@ -2270,8 +2270,8 @@ there is only one logical explanation.
 
 499
 00:47:46,573 --> 00:47:49,659
-- It must have been you.
-- I didn't do it, Father.
+It must have been you.
+I didn't do it, Father.
 
 500
 00:47:50,118 --> 00:47:54,289
@@ -2295,8 +2295,8 @@ if Tink were here,
 
 504
 00:48:19,230 --> 00:48:22,859
-- how not quiet it would be right now.
-- You can say that again.
+how not quiet it would be right now.
+You can say that again.
 
 505
 00:48:22,942 --> 00:48:25,820
@@ -2323,8 +2323,8 @@ to be caught with her guard down.
 
 510
 00:48:45,840 --> 00:48:49,135
-- I wonder what really happened.
-- Well, we'll find out soon.
+I wonder what really happened.
+Well, we'll find out soon.
 
 511
 00:48:49,218 --> 00:48:53,681
@@ -2384,13 +2384,13 @@ I don't know what to say.
 
 523
 00:49:35,348 --> 00:49:39,060
-- How about faith...
-- Trust...
+How about faith...
+Trust...
 
 524
 00:49:39,394 --> 00:49:40,728
-- And...
-- And...
+And...
+And...
 
 525
 00:49:40,853 --> 00:49:42,814
@@ -2398,8 +2398,8 @@ And pixie dust.
 
 526
 00:49:42,939 --> 00:49:44,941
-- And pixie dust!
-- And pixie dust!
+And pixie dust!
+And pixie dust!
 
 527
 00:49:45,024 --> 00:49:47,026
@@ -2407,8 +2407,8 @@ Can you reach it, Clanky?
 
 528
 00:49:47,735 --> 00:49:50,571
-- Almost. Just a little more.
-- Here, let me.
+Almost. Just a little more.
+Here, let me.
 
 529
 00:49:51,406 --> 00:49:53,741
@@ -2425,13 +2425,13 @@ Clanky! We've got it!
 
 532
 00:50:02,959 --> 00:50:05,211
-- What've we got?
-- House! Get off.
+What've we got?
+House! Get off.
 
 533
 00:50:05,294 --> 00:50:07,547
-- I'm sorry.
-- I can't feel my legs.
+I'm sorry.
+I can't feel my legs.
 
 534
 00:50:12,260 --> 00:50:17,515
@@ -2499,23 +2499,23 @@ All clear!
 
 549
 00:53:26,370 --> 00:53:27,747
-- Sorry.
-- Careful.
+Sorry.
+Careful.
 
 550
 00:53:27,830 --> 00:53:29,040
-- That's my ear.
-- Sorry.
+That's my ear.
+Sorry.
 
 551
 00:53:29,123 --> 00:53:30,499
-- Sorry.
-- That's the nose. Careful.
+Sorry.
+That's the nose. Careful.
 
 552
 00:53:30,583 --> 00:53:32,251
-- Sorry.
-- Can't see!
+Sorry.
+Can't see!
 
 553
 00:53:32,460 --> 00:53:36,255
@@ -2538,8 +2538,8 @@ He pins them up in display cases.
 
 557
 00:53:45,264 --> 00:53:48,976
-- Great. Anything else?
-- Yes. The cat.
+Great. Anything else?
+Yes. The cat.
 
 558
 00:53:49,143 --> 00:53:50,811
@@ -2547,8 +2547,8 @@ Cat! What cat?
 
 559
 00:53:51,395 --> 00:53:53,147
-- That cat!
-- That cat!
+That cat!
+That cat!
 
 560
 00:53:57,318 --> 00:54:00,988
@@ -2557,13 +2557,13 @@ What are we supposed to do?
 
 561
 00:54:02,949 --> 00:54:04,992
-- Fawn?
-- Fly!
+Fawn?
+Fly!
 
 562
 00:54:05,076 --> 00:54:07,495
-- Our wings are wet.
-- And who knows when they'll be dry.
+Our wings are wet.
+And who knows when they'll be dry.
 
 563
 00:54:07,578 --> 00:54:09,413
@@ -2571,13 +2571,13 @@ Okay, okay. Run!
 
 564
 00:54:22,176 --> 00:54:24,220
-- Clank!
-- Come on!
+Clank!
+Come on!
 
 565
 00:54:28,641 --> 00:54:32,019
-- Clank!
-- I'm okay.
+Clank!
+I'm okay.
 
 566
 00:54:33,729 --> 00:54:36,607
@@ -2591,13 +2591,13 @@ or something.
 
 568
 00:54:38,776 --> 00:54:41,696
-- That's it. A bridge!
-- Guys? Guys?
+That's it. A bridge!
+Guys? Guys?
 
 569
 00:54:41,862 --> 00:54:44,240
-- A bridge made out of what?
-- Guys!
+A bridge made out of what?
+Guys!
 
 570
 00:54:46,117 --> 00:54:48,119
@@ -2613,8 +2613,8 @@ All right. Let's do this.
 
 573
 00:55:08,472 --> 00:55:12,893
-- We need some more plates!
-- Okay. Start passing them up, Clanky.
+We need some more plates!
+Okay. Start passing them up, Clanky.
 
 574
 00:55:13,311 --> 00:55:16,772
@@ -2660,18 +2660,18 @@ Got it!
 
 584
 00:56:17,041 --> 00:56:19,126
-- Lizzy?
-- Coming, Father!
+Lizzy?
+Coming, Father!
 
 585
 00:56:19,460 --> 00:56:23,297
-- Lizzy?
-- Why, hello, Father. May I help you?
+Lizzy?
+Why, hello, Father. May I help you?
 
 586
 00:56:23,506 --> 00:56:25,716
-- What's going on in here?
-- Nothing.
+What's going on in here?
+Nothing.
 
 587
 00:56:25,800 --> 00:56:29,970
@@ -2685,8 +2685,8 @@ It looks like a cyclone hit it.
 
 589
 00:56:36,268 --> 00:56:38,979
-- It's not that bad.
-- Not that bad?
+It's not that bad.
+Not that bad?
 
 590
 00:56:39,730 --> 00:56:42,441
@@ -2781,8 +2781,8 @@ Lizzy. You have such talent.
 
 610
 00:57:49,049 --> 00:57:54,138
-- Why would you waste it this way?
-- Why can't you just believe me?
+Why would you waste it this way?
+Why can't you just believe me?
 
 611
 00:57:54,221 --> 00:57:56,098
@@ -2808,8 +2808,8 @@ but this is all make-believe.
 
 616
 00:58:06,734 --> 00:58:09,987
-- No! They're real!
-- Elizabeth, this discussion is over.
+No! They're real!
+Elizabeth, this discussion is over.
 
 617
 00:58:11,572 --> 00:58:12,907
@@ -2847,8 +2847,8 @@ to the cranial radius.
 
 625
 00:58:53,155 --> 00:58:55,491
-- Fascinating!
-- Isn't she magical?
+Fascinating!
+Isn't she magical?
 
 626
 00:58:55,991 --> 00:58:59,036
@@ -2861,8 +2861,8 @@ She's not a bug, she's a person.
 
 628
 00:59:01,539 --> 00:59:02,873
-- Exactly!
-- Tinker Bell!
+Exactly!
+Tinker Bell!
 
 629
 00:59:02,957 --> 00:59:04,875
@@ -2875,8 +2875,8 @@ Tink, watch out!
 
 631
 00:59:06,210 --> 00:59:08,295
-- Vidia?
-- Get out of the way!
+Vidia?
+Get out of the way!
 
 632
 00:59:11,382 --> 00:59:14,093
@@ -2893,8 +2893,8 @@ Please, Father! Wait!
 
 635
 00:59:21,308 --> 00:59:24,311
-- You can't do this!
-- Lizzy, I don't have much time.
+You can't do this!
+Lizzy, I don't have much time.
 
 636
 00:59:24,812 --> 00:59:27,231
@@ -2921,13 +2921,13 @@ to the city!
 
 641
 00:59:45,666 --> 00:59:48,377
-- Step, step, Step-
-- Step, step, Step-
+Step, step, Step-
+Step, step, Step-
 
 642
 00:59:48,919 --> 00:59:50,462
-- Tinker Bell?
-- Tinker Bell!
+Tinker Bell?
+Tinker Bell!
 
 643
 00:59:50,754 --> 00:59:52,631
@@ -2935,8 +2935,8 @@ Look, it's your friends.
 
 644
 00:59:53,507 --> 00:59:57,386
-- Hurry.
-- That's it. Good kitty.
+Hurry.
+That's it. Good kitty.
 
 645
 01:00:02,016 --> 01:00:05,227
@@ -2945,13 +2945,13 @@ in a jar while she was saving me.
 
 646
 01:00:05,311 --> 01:00:08,105
-- We have to hurry and rescue her.
-- Here we go again!
+We have to hurry and rescue her.
+Here we go again!
 
 647
 01:00:08,188 --> 01:00:10,941
-- How are we gonna get there?
-- Yeah, it's still raining.
+How are we gonna get there?
+Yeah, it's still raining.
 
 648
 01:00:11,025 --> 01:00:15,487
@@ -3048,8 +3048,8 @@ Come on, please, let them still be there.
 
 670
 01:04:37,457 --> 01:04:40,752
-- Father!
-- What in the world?
+Father!
+What in the world?
 
 671
 01:04:41,128 --> 01:04:44,798
@@ -3113,8 +3113,8 @@ Vidia!
 
 686
 01:06:09,925 --> 01:06:12,427
-- Let's go home, Father.
-- But how?
+Let's go home, Father.
+But how?
 
 687
 01:06:17,849 --> 01:06:19,643
@@ -3122,8 +3122,8 @@ Think happy thoughts.
 
 688
 01:06:25,107 --> 01:06:28,610
-- Lift your arms and kick your feet!
-- Careful!
+Lift your arms and kick your feet!
+Careful!
 
 689
 01:06:32,239 --> 01:06:36,243
@@ -3132,8 +3132,8 @@ Why, I'm flying!
 
 690
 01:06:36,326 --> 01:06:42,916
-- You're doing it, Father! You're doing it!
-- I could get used to this! Just a second.
+You're doing it, Father! You're doing it!
+I could get used to this! Just a second.
 
 691
 01:06:43,458 --> 01:06:46,545
@@ -3142,8 +3142,8 @@ I've always wanted to do. Follow me!
 
 692
 01:07:16,658 --> 01:07:18,577
-- Hey, Tink.
-- Hey, Vidia.
+Hey, Tink.
+Hey, Vidia.
 
 693
 01:07:18,952 --> 01:07:21,496
@@ -3156,23 +3156,23 @@ Yeah. It's pretty fun.
 
 695
 01:07:23,290 --> 01:07:27,044
-- What are you supposed to do?
-- It's easy. You just pick this up.
+What are you supposed to do?
+It's easy. You just pick this up.
 
 696
 01:07:27,127 --> 01:07:29,671
-- Like this?
-- Yeah. And then you hold it out.
+Like this?
+Yeah. And then you hold it out.
 
 697
 01:07:29,755 --> 01:07:32,924
-- Got it!
-- Now, just raise your pinkie, like this.
+Got it!
+Now, just raise your pinkie, like this.
 
 698
 01:07:33,967 --> 01:07:38,013
-And then you say, "Excuse me, miss,
-but may I have a spot of tea?"
+And then you say, Excuse me, miss,
+but may I have a spot of tea?
 
 699
 01:07:38,472 --> 01:07:41,975
@@ -3194,13 +3194,13 @@ Why, of course, Doctor.
 
 703
 01:07:51,818 --> 01:07:54,237
-- It's my pleasure, I'm sure.
-- Thank you.
+It's my pleasure, I'm sure.
+Thank you.
 
 704
 01:07:54,321 --> 01:07:58,283
-- And would you like one lump or two?
-- Make mine three.
+And would you like one lump or two?
+Make mine three.
 
 705
 01:07:59,117 --> 01:08:00,327
@@ -3212,8 +3212,8 @@ Thank you.
 
 707
 01:08:08,043 --> 01:08:12,005
-- Isn't this pleasant, Father?
-- I can't imagine anything better.
+Isn't this pleasant, Father?
+I can't imagine anything better.
 
 708
 01:08:12,089 --> 01:08:14,800
@@ -3222,8 +3222,8 @@ comes a close second.
 
 709
 01:08:15,717 --> 01:08:17,886
-- Oh, my goodness.
-- Scrumptious.
+Oh, my goodness.
+Scrumptious.
 
 710
 01:08:28,480 --> 01:08:30,524
@@ -3235,13 +3235,13 @@ So, where were we? Yes.
 
 712
 01:08:44,037 --> 01:08:48,291
-"Fairies have many magical talents.
+Fairies have many magical talents.
 They can talk to animals,
 
 713
 01:08:48,959 --> 01:08:53,046
-"make the flowers bloom,
-create warm summer breezes. "
+make the flowers bloom,
+create warm summer breezes. 
 
 714
 01:08:54,881 --> 01:08:56,800
@@ -3249,8 +3249,8 @@ Lizzy, what a beautiful drawing.
 
 715
 01:08:59,594 --> 01:09:02,764
-"And some invent
-the most clever little gadgets. "
+And some invent
+the most clever little gadgets. 
 
 716
 01:09:03,014 --> 01:09:06,184
@@ -3263,13 +3263,13 @@ Yeah. I guess I did.
 
 718
 01:09:08,728 --> 01:09:12,858
-"They bring the change of seasons,
+They bring the change of seasons,
 and help nature in many ways.
 
 719
 01:09:14,151 --> 01:09:19,281
-"But the best talent a fairy can have
-is simply being a friend. "
+But the best talent a fairy can have
+is simply being a friend. 
 
 720
 01:09:20,907 --> 01:09:24,035

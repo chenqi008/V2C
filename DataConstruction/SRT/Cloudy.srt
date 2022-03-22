@@ -1,7 +1,6 @@
 1
 00:00:01,000 --> 00:00:23,354
-http://subscene.com/u/659433
-Improved by: @Ivandrofly
+(BEGIN)
 
 2
 00:00:23,356 --> 00:00:25,347
@@ -9,7 +8,7 @@ Improved by: @Ivandrofly
 
 3
 00:00:47,447 --> 00:00:52,350
-FLINT: Have you ever felt like
+Have you ever felt like
 you were a little bit different?
 
 4
@@ -33,7 +32,7 @@ to be me.
 
 8
 00:01:06,566 --> 00:01:07,760
-TEACHER: Go ahead, Flint.
+Go ahead, Flint.
 
 9
 00:01:08,101 --> 00:01:09,363
@@ -63,8 +62,8 @@ Spray-On Shoes.
 
 15
 00:01:28,154 --> 00:01:30,122
-- Voilà.
-- GIRL: They're so nifty.
+Voilà.
+They're so nifty.
 
 16
 00:01:30,590 --> 00:01:32,990
@@ -98,7 +97,7 @@ Oh.
 
 23
 00:01:46,873 --> 00:01:49,467
-FLINT: I wanted to
+I wanted to
 run away that day.
 
 24
@@ -126,8 +125,8 @@ fishing metaphors.
 
 29
 00:02:09,929 --> 00:02:11,191
-- DAD: What did I say?
-- MOM: Don't worry.
+What did I say?
+Don't worry.
 
 30
 00:02:11,397 --> 00:02:13,865
@@ -201,7 +200,7 @@ From that moment on,
 
 46
 00:03:17,964 --> 00:03:21,263
-FLINT: I was determined to
+I was determined to
 invent something great.
 
 47
@@ -210,13 +209,13 @@ Remote Control Television.
 
 48
 00:03:25,605 --> 00:03:28,096
-TV ANNOUNCER: And,
+And,
 the pitch is in.
 
 49
 00:03:28,474 --> 00:03:30,271
-- FLINT: Eventually.
-- BOY: Ow, ow, ow.
+Eventually.
+Ow, ow, ow.
 
 50
 00:03:30,476 --> 00:03:32,603
@@ -228,7 +227,7 @@ Hair Un-Balder.
 
 52
 00:03:34,881 --> 00:03:37,475
-FLINT: Flying Car.
+Flying Car.
 
 53
 00:03:38,284 --> 00:03:40,047
@@ -236,7 +235,7 @@ Monkey Thought Translator.
 
 54
 00:03:40,220 --> 00:03:41,949
-VOICE: Hungry. Hungry.
+Hungry. Hungry.
 Hungry. How wise.
 
 55
@@ -246,7 +245,7 @@ No, please! Leave it...
 
 56
 00:03:46,192 --> 00:03:48,626
-TIM: Ah! Ratbirds.
+Ah! Ratbirds.
 
 57
 00:03:48,795 --> 00:03:50,888
@@ -255,17 +254,17 @@ Ah!
 
 58
 00:03:51,064 --> 00:03:53,055
-EARL: Flint Lockwood.
+Flint Lockwood.
 
 59
 00:03:54,133 --> 00:03:56,795
-FLINT: My dream was
+My dream was
 to help my hometown,
 
 60
 00:03:57,003 --> 00:04:00,632
 a tiny island hidden under
-the "A " in "Atlantic"
+the A  in Atlantic
 
 61
 00:04:01,074 --> 00:04:03,736
@@ -426,7 +425,7 @@ Uploading cool machine voice.
 
 98
 00:06:22,794 --> 00:06:25,160
-COMPUTER: Cheeseburger.
+Cheeseburger.
 
 99
 00:06:26,097 --> 00:06:29,692
@@ -438,7 +437,7 @@ Everyone is going to love this.
 
 101
 00:06:51,156 --> 00:06:52,350
-FLINT: Whoo-hoo-hoo!
+Whoo-hoo-hoo!
 
 102
 00:06:53,558 --> 00:06:55,185
@@ -450,7 +449,7 @@ Flint!
 
 104
 00:06:57,295 --> 00:06:58,762
-FLINT: Sorry, Dad.
+Sorry, Dad.
 
 105
 00:06:59,264 --> 00:07:01,198
@@ -554,7 +553,7 @@ problem and disposed of them.
 
 129
 00:08:06,464 --> 00:08:08,022
-CAL: Billy, just play dead.
+Billy, just play dead.
 
 130
 00:08:08,199 --> 00:08:12,431
@@ -605,7 +604,7 @@ I'm sorry, son.
 
 140
 00:08:36,494 --> 00:08:38,086
-STEVE: Ouch. No more inventing.
+Ouch. No more inventing.
 
 141
 00:08:38,263 --> 00:08:41,391
@@ -621,7 +620,7 @@ And Mom did too.
 
 144
 00:08:45,470 --> 00:08:48,564
-FLINT: It had been almost
+It had been almost
 10 years since Mom died,
 
 145
@@ -648,7 +647,7 @@ Mm-hm.
 
 150
 00:09:08,026 --> 00:09:10,824
-KIDS ON TV: Look
+Look
 out, Baby Brent!
 
 151
@@ -662,7 +661,7 @@ Baby Brent Sardines.
 
 153
 00:09:14,599 --> 00:09:17,193
-FEMALE ANNOUNCER: Hand-packed
+Hand-packed
 in Swallow Falls.
 
 154
@@ -704,7 +703,7 @@ by Baby Brent himself.
 
 162
 00:09:43,728 --> 00:09:47,061
-BRENT: What is up, everybody?
+What is up, everybody?
 
 163
 00:09:47,232 --> 00:09:49,166
@@ -804,7 +803,7 @@ I wanna be big.
 184
 00:10:47,225 --> 00:10:51,685
 I want people to look at me and
-say, "That is one big mayor."
+say, That is one big mayor.
 
 185
 00:10:51,863 --> 00:10:53,728
@@ -857,7 +856,7 @@ more gigajoules.
 
 196
 00:11:23,528 --> 00:11:25,257
-MAYOR: An attraction so...
+An attraction so...
 Go, go, go.
 
 197
@@ -951,7 +950,7 @@ professional reporter.
 
 216
 00:12:14,879 --> 00:12:18,542
-WOMAN: Oh, just send the intern.
+Oh, just send the intern.
 She's cute and she's super perky.
 
 217
@@ -1011,16 +1010,16 @@ On my way across the ocean.
 
 229
 00:12:51,115 --> 00:12:55,711
-MAYOR: Now, when she gets here, I
+Now, when she gets here, I
 wanna see a lot of smiling faces.
 
 230
 00:12:55,887 --> 00:12:57,548
-Act like, "Hey, whoa."
+Act like, Hey, whoa.
 
 231
 00:12:58,256 --> 00:13:01,555
-FLINT: This is a great idea.
+This is a great idea.
 
 232
 00:13:02,143 --> 00:13:03,903
@@ -1162,7 +1161,7 @@ splash zone, look out.
 
 263
 00:14:32,016 --> 00:14:33,142
-MAN: Yeah!
+Yeah!
 
 264
 00:14:35,319 --> 00:14:37,344
@@ -1170,11 +1169,11 @@ MAN: Yeah!
 
 265
 00:14:40,358 --> 00:14:42,019
-MACHINE: Cheeseburger.
+Cheeseburger.
 
 266
 00:14:42,226 --> 00:14:43,250
-EARL: Flint Lockwood.
+Flint Lockwood.
 
 267
 00:14:43,427 --> 00:14:45,793
@@ -1247,12 +1246,12 @@ Aw, come on.
 
 283
 00:15:51,796 --> 00:15:54,287
-BRENT: I really shouldn't
+I really shouldn't
 be running with these.
 
 284
 00:15:57,702 --> 00:16:00,364
-STEVE: Jump, jump, jump,
+Jump, jump, jump,
 run, run, jump, jump, run.
 
 285
@@ -1269,12 +1268,12 @@ Yippee!
 
 288
 00:16:22,244 --> 00:16:24,804
-- MAN: It's a good thing no one got hurt!
-- EARL: Flint Lockwood!
+It's a good thing no one got hurt!
+Flint Lockwood!
 
 289
 00:16:24,829 --> 00:16:29,027
-WOMAN: I didn't get hurt, but that does
+I didn't get hurt, but that does
 not mean that I'm not still mad at you.
 
 290
@@ -1315,7 +1314,7 @@ not mean that I'm not still mad at you.
 
 299
 00:17:33,097 --> 00:17:34,121
-FLINT: Ah!
+Ah!
 
 300
 00:17:34,298 --> 00:17:36,528
@@ -1390,8 +1389,8 @@ Thought Translator?
 
 316
 00:18:15,539 --> 00:18:17,564
-- Steve.
-- SAM: Hah!
+Steve.
+Hah!
 
 317
 00:18:17,742 --> 00:18:22,076
@@ -1423,7 +1422,7 @@ You get one shot at the show.
 
 323
 00:18:38,596 --> 00:18:40,723
-SAM: And if you don't make it,
+And if you don't make it,
 
 324
 00:18:40,898 --> 00:18:44,390
@@ -1488,7 +1487,7 @@ But that could only mean...
 
 339
 00:19:48,432 --> 00:19:51,333
-STEVE: Excited. Excited.
+Excited. Excited.
 
 340
 00:19:54,171 --> 00:19:56,537
@@ -1538,15 +1537,15 @@ Hey, aren't you a weathergirl?
 
 351
 00:20:31,075 --> 00:20:33,009
-SAM: Manny, get your camera.
+Manny, get your camera.
 
 352
 00:20:46,090 --> 00:20:47,614
-KIDS: Whoa.
+Whoa.
 
 353
 00:20:48,592 --> 00:20:53,029
-THIS JUST IN: Our humiliated weather
+Our humiliated weather
 intern is apparently back for more.
 
 354
@@ -1576,7 +1575,7 @@ this is totally manna from heaven.
 
 359
 00:21:11,348 --> 00:21:14,340
-JOE: This tastes significantly
+This tastes significantly
 better than sardines.
 
 360
@@ -1593,7 +1592,7 @@ This is going to be big.
 
 363
 00:21:24,194 --> 00:21:26,395
-SAM ON TV: This food weather
+This food weather
 was created intentionally
 
 364
@@ -1603,7 +1602,7 @@ tinkerer Flint Lockwood.
 
 365
 00:21:29,133 --> 00:21:31,829
-ALL: Huh?
+Huh?
 Flint Lockwood?
 
 366
@@ -1617,13 +1616,13 @@ ruining Sardine Land.
 
 368
 00:21:35,439 --> 00:21:37,031
-SAM: Flint, those
+Flint, those
 burgers were awesome.
 
 369
 00:21:37,207 --> 00:21:40,574
 The producer called and he was like,
-"Everybody loves that food weather."
+Everybody loves that food weather.
 
 370
 00:21:40,744 --> 00:21:41,938
@@ -1636,8 +1635,8 @@ than Sardine Land.
 
 372
 00:21:44,081 --> 00:21:45,961
-- Can you make it rain food again?
-- EARL: No...
+Can you make it rain food again?
+No...
 
 373
 00:21:46,016 --> 00:21:48,211
@@ -1754,7 +1753,7 @@ Lick. Lick. Lick.
 
 399
 00:23:02,726 --> 00:23:04,125
-COMPUTER: Welcome, Flint.
+Welcome, Flint.
 
 400
 00:23:04,862 --> 00:23:09,026
@@ -1993,15 +1992,15 @@ hilarious Internet video.
 
 452
 00:24:58,742 --> 00:24:59,766
-SAM: What?
+What?
 
 453
 00:24:59,943 --> 00:25:01,264
-CAT ON MONITOR: Fight the power!
+Fight the power!
 
 454
 00:25:01,278 --> 00:25:03,246
-SAM: What is this?
+What is this?
 
 455
 00:25:04,615 --> 00:25:06,139
@@ -2013,7 +2012,7 @@ It's so cute.
 
 457
 00:25:09,153 --> 00:25:10,984
-FLINT: Pushing. Folding.
+Pushing. Folding.
 Connecting.
 
 458
@@ -2044,7 +2043,7 @@ for three hours. I know. Ha-ha.
 
 464
 00:25:31,008 --> 00:25:32,168
-FLINT: It's working.
+It's working.
 
 465
 00:25:32,376 --> 00:25:34,344
@@ -2074,7 +2073,7 @@ Orange juice. And.
 
 471
 00:25:43,821 --> 00:25:45,516
-BOTH: Bacon.
+Bacon.
 
 472
 00:25:46,523 --> 00:25:47,854
@@ -2094,7 +2093,7 @@ To the computer.
 
 476
 00:25:55,599 --> 00:25:58,033
-SAM: So you're
+So you're
 sure this is safe?
 
 477
@@ -2109,12 +2108,12 @@ to over-mutate.
 
 479
 00:26:03,173 --> 00:26:05,038
-SAM: What happens if
+What happens if
 the food over-mutates?
 
 480
 00:26:05,209 --> 00:26:07,643
-FLINT: I don't know.
+I don't know.
 But that'll never happen.
 
 481
@@ -2132,7 +2131,7 @@ What?
 
 484
 00:26:18,055 --> 00:26:19,716
-MACHINE: Bacon.
+Bacon.
 
 485
 00:26:26,330 --> 00:26:28,389
@@ -2154,8 +2153,8 @@ Sunny side up.
 
 489
 00:26:35,005 --> 00:26:36,996
-(LESLEY GORE'S "SUNSHINE
-AND LOLLIPOPS" PLAYING)
+(LESLEY GORE'S SUNSHINE
+AND LOLLIPOPS PLAYING)
 
 490
 00:26:42,212 --> 00:26:44,680
@@ -2235,8 +2234,8 @@ I know so.
 
 507
 00:27:32,729 --> 00:27:36,256
-(LESLEY GORE'S "SUNSHINE
-AND LOLLIPOPS" PLAYING)
+(LESLEY GORE'S SUNSHINE
+AND LOLLIPOPS PLAYING)
 
 508
 00:27:36,433 --> 00:27:39,425
@@ -2281,7 +2280,7 @@ Huh?
 
 517
 00:28:16,974 --> 00:28:18,635
-KIDS: Jellybeans!
+Jellybeans!
 
 518
 00:28:18,809 --> 00:28:19,833
@@ -2289,8 +2288,8 @@ Awesome.
 
 519
 00:28:20,043 --> 00:28:22,341
-- BLT.
-- MAN 1: Doughnuts.
+BLT.
+Doughnuts.
 
 520
 00:28:23,180 --> 00:28:24,511
@@ -2302,8 +2301,8 @@ Gummi bears.
 
 522
 00:28:25,949 --> 00:28:28,179
-- Fish.
-- MAN 2: Creme brulee!
+Fish.
+Creme brulee!
 
 523
 00:28:28,585 --> 00:28:30,450
@@ -2337,8 +2336,8 @@ Thank you for noticing.
 
 530
 00:28:44,501 --> 00:28:48,335
-(LESLEY GORE'S "SUNSHINE
-AND LOLLIPOPS" PLAYING)
+(LESLEY GORE'S SUNSHINE
+AND LOLLIPOPS PLAYING)
 
 531
 00:28:51,274 --> 00:28:52,832
@@ -2346,17 +2345,17 @@ AND LOLLIPOPS" PLAYING)
 
 532
 00:28:52,949 --> 00:28:53,949
-- I love you, kid.
-- BOY 1: Thanks, Dad. I love you.
+I love you, kid.
+Thanks, Dad. I love you.
 
 533
 00:28:53,974 --> 00:28:54,868
-- I love you, kid.
-- BOY 1: Thanks, Dad. I love you.
+I love you, kid.
+Thanks, Dad. I love you.
 
 534
 00:28:55,078 --> 00:28:56,718
-BOY 2: I love spending
+I love spending
 time with you, Dad.
 
 535
@@ -2415,7 +2414,7 @@ Flint Lockwood?
 
 547
 00:29:39,623 --> 00:29:41,250
-FLINT: Yeah?
+Yeah?
 Uh...
 
 548
@@ -2532,17 +2531,17 @@ This is your day. Go have fun.
 
 574
 00:31:07,144 --> 00:31:10,671
-- I love you guys. You're awesome.
-- EARL: I love you too, son.
+I love you guys. You're awesome.
+I love you too, son.
 
 575
 00:31:10,847 --> 00:31:12,246
-- CAL: Whoo!
-- REGINA: Have a good time, baby.
+Whoo!
+Have a good time, baby.
 
 576
 00:31:12,415 --> 00:31:14,474
-KIDS: Ice cream!
+Ice cream!
 
 577
 00:31:15,352 --> 00:31:18,446
@@ -2550,7 +2549,7 @@ Yeah! Cool.
 
 578
 00:31:20,590 --> 00:31:22,785
-BOY: Strawberry's my favorite.
+Strawberry's my favorite.
 
 579
 00:31:22,959 --> 00:31:24,927
@@ -2562,7 +2561,7 @@ BOY: Strawberry's my favorite.
 
 581
 00:31:35,005 --> 00:31:36,029
-CAL: Come on, Dad.
+Come on, Dad.
 
 582
 00:31:36,239 --> 00:31:37,706
@@ -2617,7 +2616,7 @@ Maybe with hot fudge.
 
 594
 00:32:08,572 --> 00:32:09,664
-CAL: Hey, Flint.
+Hey, Flint.
 
 595
 00:32:09,839 --> 00:32:11,864
@@ -2709,7 +2708,7 @@ Snowball and snowball.
 
 615
 00:33:02,926 --> 00:33:04,047
-WOMAN: Kids?
+Kids?
 What's going on?
 
 616
@@ -2722,12 +2721,12 @@ Snowball. Ha-ha-ha.
 
 618
 00:33:07,597 --> 00:33:09,317
-- BOY: Snowball.
-- GIRL: Snowball. Snowball.
+Snowball.
+Snowball. Snowball.
 
 619
 00:33:09,466 --> 00:33:10,797
-SAM ON TV: I
+I
 scream, you scream,
 
 620
@@ -2772,7 +2771,7 @@ a town that is truly à la mode.
 
 629
 00:33:39,362 --> 00:33:42,422
-WOMAN 3 IN BRITISH ACCENT: A town
+A town
 that is truly topped with ice cream.
 
 630
@@ -2786,7 +2785,7 @@ I'm Sam Sparks.
 
 632
 00:33:48,238 --> 00:33:51,969
-CAL: Flint, this is the
+Flint, this is the
 best breakfast ever!
 
 633
@@ -2819,13 +2818,13 @@ Saying what I'm doing.
 
 640
 00:34:13,530 --> 00:34:15,589
-Flint? "Hi, Sam, how are you?
-That's nice."
+Flint? Hi, Sam, how are you?
+That's nice.
 
 641
 00:34:15,765 --> 00:34:18,029
 I was wondering if you would
-like to go on a da..."
+like to go on a da...
 
 642
 00:34:18,201 --> 00:34:19,532
@@ -2867,11 +2866,11 @@ And nobody out.
 
 651
 00:34:38,188 --> 00:34:39,655
-SAM: Where are we going?
+Where are we going?
 
 652
 00:34:39,823 --> 00:34:42,053
-FLINT: Oh, nowhere.
+Oh, nowhere.
 I just thought it'd be nice
 
 653
@@ -2921,7 +2920,7 @@ Flint?
 
 664
 00:35:15,325 --> 00:35:16,952
-FLINT: Join me.
+Join me.
 
 665
 00:35:18,862 --> 00:35:20,193
@@ -3013,7 +3012,7 @@ Whoo! Yeah.
 
 685
 00:36:07,710 --> 00:36:11,043
-SAM: Hee-hee. Boing,
+Hee-hee. Boing,
 boing, boing, whoo!
 
 686
@@ -3118,7 +3117,7 @@ with the science of weather.
 
 709
 00:37:28,291 --> 00:37:30,282
-SAM: Other girls
+Other girls
 wanted a Barbie.
 
 710
@@ -3137,7 +3136,7 @@ It wasn't even clever.
 
 713
 00:37:38,835 --> 00:37:40,735
-KIDS SINGING: Four-eyes, four-eyes.
+Four-eyes, four-eyes.
 
 714
 00:37:40,904 --> 00:37:42,997
@@ -3330,7 +3329,7 @@ Ah!
 
 758
 00:39:47,296 --> 00:39:49,423
-FLINT: Dad, you came.
+Dad, you came.
 I have so much to tell you.
 
 759
@@ -3348,17 +3347,17 @@ Come on, let's go. Ah!
 
 762
 00:39:54,003 --> 00:39:55,364
-FLINT: Dad, I almost
+Dad, I almost
 kissed a girl.
 
 763
 00:39:55,371 --> 00:39:57,931
-- It's Baby Brent, you know?
-- FLINT: It was the coolest thing... Hi.
+It's Baby Brent, you know?
+It was the coolest thing... Hi.
 
 764
 00:39:57,974 --> 00:40:01,842
-"Uh-oh. " I should be on the list.
+Uh-oh.  I should be on the list.
 Hey, Brian.
 
 765
@@ -3372,7 +3371,7 @@ That guy's a nerd.
 
 767
 00:40:09,252 --> 00:40:10,344
-FLINT: Hey, how's it going?
+Hey, how's it going?
 
 768
 00:40:10,520 --> 00:40:11,544
@@ -3407,7 +3406,7 @@ Flint Lockwood. Earl.
 
 775
 00:40:31,274 --> 00:40:32,571
-TIM: So, uh, no roof.
+So, uh, no roof.
 
 776
 00:40:32,775 --> 00:40:35,073
@@ -3537,7 +3536,7 @@ out of your way.
 
 804
 00:42:25,421 --> 00:42:26,661
-FLINT: Get with the times, man.
+Get with the times, man.
 
 805
 00:42:26,823 --> 00:42:29,485
@@ -3585,7 +3584,7 @@ I don't know what to do.
 
 815
 00:43:08,831 --> 00:43:10,423
-MAYOR: I do:
+I do:
 
 816
 00:43:11,167 --> 00:43:13,727
@@ -3668,12 +3667,12 @@ food is getting bigger.
 
 833
 00:44:02,752 --> 00:44:04,549
-Here's what I heard: "Blah, blah, blah."
+Blah, blah, blah.
 
 834
 00:44:04,720 --> 00:44:06,915
 Science, science,
-science, bigger."
+science, bigger.
 
 835
 00:44:07,089 --> 00:44:08,750
@@ -3825,7 +3824,7 @@ Oh, yeah.
 
 869
 00:45:45,779 --> 00:45:48,099
-MACHINE OVERLAPPING VOICES: Spaghetti.
+Spaghetti.
 Asparagus. Celery.
 
 870
@@ -3842,8 +3841,8 @@ Garlic bread. Meatball. Shrimp.
 
 873
 00:46:03,005 --> 00:46:05,974
-- MAN 1: Looks safe to me.
-- MAN 2: And sanitary too.
+Looks safe to me.
+And sanitary too.
 
 874
 00:46:11,414 --> 00:46:13,405
@@ -3871,7 +3870,7 @@ Whoa.
 
 880
 00:46:39,708 --> 00:46:42,871
-MAYOR: Who's hungry?
+Who's hungry?
 
 881
 00:46:43,045 --> 00:46:47,607
@@ -3899,7 +3898,7 @@ unsupervised Kid Zone!
 
 886
 00:47:00,262 --> 00:47:02,287
-CAL: I've got
+I've got
 jellybeans for teeth.
 
 887
@@ -3977,7 +3976,7 @@ Jeez.
 
 902
 00:47:45,608 --> 00:47:46,973
-MAYOR: And without further ado,
+And without further ado,
 
 903
 00:47:47,143 --> 00:47:51,079
@@ -3990,7 +3989,7 @@ Flint Lockwood.
 
 905
 00:47:53,816 --> 00:47:55,147
-MAN 1: Yeah, Flint.
+Yeah, Flint.
 
 906
 00:47:55,317 --> 00:47:57,342
@@ -3998,13 +3997,13 @@ Thank you. Thank you, everyone.
 
 907
 00:47:57,520 --> 00:47:59,240
-- MAN 2: Sign my shrimp.
-- FLINT: Thank you.
+Sign my shrimp.
+Thank you.
 
 908
 00:47:59,321 --> 00:48:01,915
-- MAN 3: Yeah. Yeah. Whoo!
-- MAN 4: I love you.
+Yeah. Yeah. Whoo!
+I love you.
 
 909
 00:48:02,091 --> 00:48:03,854
@@ -4058,7 +4057,7 @@ Everybody loves you.
 
 921
 00:48:31,887 --> 00:48:34,549
-CROWD CHANTING: Lockwood!
+Lockwood!
 Lockwood! Lockwood!
 
 922
@@ -4071,7 +4070,7 @@ Lockwood! Lockwood! Lockwood!
 
 924
 00:48:49,505 --> 00:48:50,972
-CROWD: Lockwood! Lockwood!
+Lockwood! Lockwood!
 Lockwood!
 
 925
@@ -4084,7 +4083,7 @@ Lockwood!
 
 927
 00:48:59,882 --> 00:49:01,873
-CROWD: Lockwood! Lockwood!
+Lockwood! Lockwood!
 Lockwood!
 
 928
@@ -4097,7 +4096,7 @@ Lockwood!
 
 930
 00:49:10,793 --> 00:49:13,853
-STEVE: Danger. Danger. Danger.
+Danger. Danger. Danger.
 
 931
 00:49:17,533 --> 00:49:20,229
@@ -4139,7 +4138,7 @@ I can turn it off.
 
 940
 00:50:03,245 --> 00:50:05,046
-FLINT: All right, kid,
+All right, kid,
 it's all gonna be okay.
 
 941
@@ -4156,7 +4155,7 @@ Pardon me. Pardon me.
 
 944
 00:50:16,158 --> 00:50:18,718
-FLINT: Excuse me.
+Excuse me.
 Oh. No problem.
 
 945
@@ -4181,7 +4180,7 @@ Gummi Bears. Not now, Steve.
 
 950
 00:50:40,282 --> 00:50:43,251
-MAN: Condiments?
+Condiments?
 Salt? Pepper?
 
 951
@@ -4296,7 +4295,7 @@ Sending kill code. I'm back.
 
 975
 00:51:56,959 --> 00:51:59,018
-FLINT: Got to get the button.
+Got to get the button.
 
 976
 00:51:59,395 --> 00:52:00,419
@@ -4308,12 +4307,12 @@ Play. Fun. Fun. Play.
 
 978
 00:52:01,897 --> 00:52:06,527
-MAYOR: Hey, Flint.
+Hey, Flint.
 It's been nice to beet you. Ha.
 
 979
 00:52:07,336 --> 00:52:09,861
-FLINT: That's a radish.
+That's a radish.
 
 980
 00:52:14,676 --> 00:52:16,234
@@ -4335,7 +4334,7 @@ all-you-can-eat buffet.
 
 984
 00:52:44,239 --> 00:52:47,731
-MACHINE: Jellybean. Watermelon.
+Jellybean. Watermelon.
 Marshmallow. Pretzel. Sushi.
 
 985
@@ -4357,12 +4356,12 @@ Strawberry.
 
 989
 00:53:02,257 --> 00:53:04,589
-- JOE: Is everyone okay?
-- PEOPLE: Yeah.
+Is everyone okay?
+Yeah.
 
 990
 00:53:11,266 --> 00:53:13,427
-EARL: Help, somebody.
+Help, somebody.
 
 991
 00:53:13,735 --> 00:53:15,669
@@ -4383,7 +4382,7 @@ Anyone?
 
 995
 00:53:22,778 --> 00:53:24,643
-MANNY: I am a doctor.
+I am a doctor.
 
 996
 00:53:24,813 --> 00:53:25,837
@@ -4449,7 +4448,7 @@ turned out okay.
 
 1011
 00:54:03,719 --> 00:54:04,845
-SAM: Not yet, it hasn't.
+Not yet, it hasn't.
 
 1012
 00:54:05,020 --> 00:54:08,353
@@ -4458,7 +4457,7 @@ compared to what's on the way.
 
 1013
 00:54:08,524 --> 00:54:09,724
-WOMAN: What's an amuse-bouche?
+What's an amuse-bouche?
 
 1014
 00:54:09,725 --> 00:54:11,090
@@ -4675,7 +4674,7 @@ Now with wings.
 
 1064
 00:57:33,662 --> 00:57:35,289
-BOTH: Whoa!
+Whoa!
 
 1065
 00:57:36,932 --> 00:57:39,924
@@ -4684,16 +4683,16 @@ dream like this once.
 
 1066
 00:57:40,402 --> 00:57:42,927
-MAN: I have a macaroni on my head.
+I have a macaroni on my head.
 Ah!
 
 1067
 00:57:44,306 --> 00:57:45,830
-GIRL: Run.
+Run.
 
 1068
 00:57:51,179 --> 00:57:52,271
-ALL: No school!
+No school!
 
 1069
 00:57:52,447 --> 00:57:54,039
@@ -4705,7 +4704,7 @@ ALL: No school!
 
 1071
 00:57:57,385 --> 00:58:01,549
-ANNOUNCER ON TV: Still nothing, nothing
+Still nothing, nothing
 in the bottom of the third inning.
 
 1072
@@ -4749,25 +4748,25 @@ the island, using brea...
 
 1081
 00:58:31,486 --> 00:58:33,283
-MAYOR: This is all his fault.
+This is all his fault.
 Get him.
 
 1082
 00:58:33,455 --> 00:58:34,576
-MAN 1: There he is! Get him!
+There he is! Get him!
 
 1083
 00:58:34,656 --> 00:58:35,714
-MAN 2: Get Flint.
+Get Flint.
 
 1084
 00:58:35,891 --> 00:58:38,951
-JOE: Let's rock his
+Let's rock his
 car back and forth.
 
 1085
 00:58:43,865 --> 00:58:45,799
-EARL: Hey!
+Hey!
 
 1086
 00:58:46,368 --> 00:58:49,235
@@ -4813,16 +4812,16 @@ Sorry. It's okay.
 
 1095
 00:59:23,505 --> 00:59:27,498
-- Let's go build some boats.
-- CROWD: Yeah.
+Let's go build some boats.
+Yeah.
 
 1096
 00:59:28,043 --> 00:59:29,840
-MAN: I'm gonna go build a boat.
+I'm gonna go build a boat.
 
 1097
 00:59:31,446 --> 00:59:32,470
-SAM: I'm coming with you.
+I'm coming with you.
 
 1098
 00:59:33,415 --> 00:59:36,714
@@ -4849,7 +4848,7 @@ Okay.
 
 1103
 00:59:45,427 --> 00:59:48,191
-MANNY: You'll need a co-pilot.
+You'll need a co-pilot.
 You're a pilot too?
 
 1104
@@ -4872,8 +4871,8 @@ I am also a comedian.
 
 1108
 00:59:57,005 --> 00:59:59,872
-- Let's do this thing.
-- BRENT: I'm coming too.
+Let's do this thing.
+I'm coming too.
 
 1109
 01:00:00,041 --> 01:00:02,134
@@ -4928,19 +4927,19 @@ Good luck, son.
 
 1121
 01:00:47,522 --> 01:00:49,922
-STEVE IN WAVERING VOICE: Steve.
+Steve.
 
 1122
 01:00:51,293 --> 01:00:52,624
-SAM: Pea-soup fog.
+Pea-soup fog.
 
 1123
 01:00:52,794 --> 01:00:55,354
-FLINT: Manny, hit the wipers.
+Manny, hit the wipers.
 
 1124
 01:00:55,730 --> 01:00:56,754
-FLINT & SAM: Oh!
+Oh!
 
 1125
 01:00:56,932 --> 01:00:58,092
@@ -4970,7 +4969,7 @@ out the bottom.
 
 1131
 01:01:19,254 --> 01:01:21,119
-BRENT: Glad I'm
+Glad I'm
 wearing a diaper.
 
 1132
@@ -4984,7 +4983,7 @@ Oh!
 
 1134
 01:01:40,475 --> 01:01:42,500
-FLINT: Hold on.
+Hold on.
 
 1135
 01:01:42,677 --> 01:01:44,611
@@ -5002,17 +5001,17 @@ mutated into super food!
 
 1138
 01:01:49,951 --> 01:01:53,352
-BOTH: That's been genetically
+That's been genetically
 engineered to protect the FLDSMDFR.
 
 1139
 01:01:53,555 --> 01:01:55,182
-- STEVE: Pizza.
-- ALL: Ah!
+Pizza.
+Ah!
 
 1140
 01:01:55,357 --> 01:01:57,621
-STEVE: Pizza. Pizza. Pizza.
+Pizza. Pizza. Pizza.
 
 1141
 01:01:57,792 --> 01:01:59,783
@@ -5033,8 +5032,8 @@ Uh-oh.
 
 1145
 01:02:11,639 --> 01:02:12,960
-- Tim's Tackle Shop.
-- FLINT: Dad.
+Tim's Tackle Shop.
+Dad.
 
 1146
 01:02:13,074 --> 01:02:14,701
@@ -5073,8 +5072,8 @@ All right.
 
 1154
 01:02:38,099 --> 01:02:40,090
-- MANNY: Want me to drive?
-- FLINT: Yeah, okay.
+Want me to drive?
+Yeah, okay.
 
 1155
 01:02:42,670 --> 01:02:44,865
@@ -5087,7 +5086,7 @@ Uh-huh.
 
 1157
 01:03:01,122 --> 01:03:02,282
-FLINT: Okay, here's the plan:
+Okay, here's the plan:
 
 1158
 01:03:02,390 --> 01:03:05,188
@@ -5163,7 +5162,7 @@ Great. Okay, I'm good.
 
 1174
 01:03:48,436 --> 01:03:51,316
-SAM: As long as we stay on course, it
+As long as we stay on course, it
 should be a straight shot to the...
 
 1175
@@ -5180,7 +5179,7 @@ Yeah!
 
 1178
 01:03:59,681 --> 01:04:01,672
-BRENT: We're a team.
+We're a team.
 
 1179
 01:04:11,326 --> 01:04:12,691
@@ -5226,11 +5225,11 @@ Huh. Oh.
 
 1189
 01:04:46,161 --> 01:04:48,493
-COMPUTER: Welcome, Flint.
+Welcome, Flint.
 
 1190
 01:04:57,672 --> 01:04:59,731
-FLINT: That's fry oil.
+That's fry oil.
 
 1191
 01:05:01,242 --> 01:05:03,233
@@ -5252,11 +5251,11 @@ Ah! Dad. Oh, okay, great.
 1195
 01:05:11,052 --> 01:05:13,816
 On the screen there's a
-file marked "kill code."
+file marked kill code.
 
 1196
 01:05:13,988 --> 01:05:15,683
-TIM: Wha...?
+Wha...?
 Move that into
 
 1197
@@ -5319,7 +5318,7 @@ Ah!
 
 1210
 01:05:47,055 --> 01:05:48,079
-EARL: Go, go, go.
+Go, go, go.
 
 1211
 01:05:48,289 --> 01:05:50,553
@@ -5350,7 +5349,7 @@ Everybody head to the docks.
 
 1217
 01:06:10,945 --> 01:06:12,276
-MAYOR: Wait, wait.
+Wait, wait.
 
 1218
 01:06:12,447 --> 01:06:14,915
@@ -5379,17 +5378,17 @@ And bon appétit.
 
 1224
 01:06:31,933 --> 01:06:34,060
-- EARL: Cal.
-- REGINA: Calvin.
+Cal.
+Calvin.
 
 1225
 01:06:43,544 --> 01:06:45,136
-EARL: Cal, get back here.
+Cal, get back here.
 
 1226
 01:06:51,486 --> 01:06:54,148
-- CAL: Foodalanche.
-- EARL: Cal.
+Foodalanche.
+Cal.
 
 1227
 01:06:54,355 --> 01:06:55,982
@@ -5435,7 +5434,7 @@ stay ahead of that storm.
 1237
 01:07:44,305 --> 01:07:45,863
 Now what?
-Just click "send."
+Just click send.
 
 1238
 01:07:46,040 --> 01:07:48,508
@@ -5444,8 +5443,8 @@ right down there!
 
 1239
 01:07:48,710 --> 01:07:52,009
-- Dad, hurry.
-- TIM: Send. Send.
+Dad, hurry.
+Send. Send.
 
 1240
 01:07:52,180 --> 01:07:53,545
@@ -5506,7 +5505,7 @@ man-eating chickens right now.
 
 1253
 01:08:35,490 --> 01:08:36,752
-FLINT: So if this is goodbye,
+So if this is goodbye,
 
 1254
 01:08:38,226 --> 01:08:40,592
@@ -5552,7 +5551,7 @@ Hey, give me that phone back.
 
 1264
 01:09:20,435 --> 01:09:23,598
-BRENT: Uh-oh!
+Uh-oh!
 
 1265
 01:09:26,507 --> 01:09:28,532
@@ -5560,7 +5559,7 @@ Ah! Ha-ha-ha!
 
 1266
 01:09:28,709 --> 01:09:29,903
-FLINT: Baby Brent?
+Baby Brent?
 
 1267
 01:09:30,077 --> 01:09:33,103
@@ -5652,13 +5651,13 @@ Mus... Mmp!
 
 1287
 01:10:37,144 --> 01:10:39,635
-- Sesame bagel.
-- MAN 1: Hey, taxi.
+Sesame bagel.
+Hey, taxi.
 
 1288
 01:10:39,814 --> 01:10:41,645
-- MAN 2: Taxi.
-- MAN 3: Taxi.
+Taxi.
+Taxi.
 
 1289
 01:10:41,816 --> 01:10:44,478
@@ -5687,12 +5686,12 @@ Hot tea?
 
 1295
 01:11:03,671 --> 01:11:05,696
-MAN: Did he say hot tea?
+Did he say hot tea?
 
 1296
 01:11:07,008 --> 01:11:10,637
-WOMAN: "You are about to be
-crushed by a giant corn."
+You are about to be
+crushed by a giant corn.
 
 1297
 01:11:10,811 --> 01:11:11,903
@@ -5727,7 +5726,7 @@ Hurry up, guys.
 
 1304
 01:11:28,930 --> 01:11:31,763
-FLINT: After I plug my phone into
+After I plug my phone into
 the FLDSMDFR and destroy it,
 
 1305
@@ -5749,7 +5748,7 @@ Ah!
 
 1309
 01:11:48,282 --> 01:11:49,544
-SAM: Oh, no.
+Oh, no.
 
 1310
 01:11:51,752 --> 01:11:53,947
@@ -5823,7 +5822,7 @@ No.
 
 1326
 01:12:36,464 --> 01:12:39,126
-Like, "like you" like you.
+Like, like you like you.
 
 1327
 01:12:41,836 --> 01:12:43,497
@@ -5843,7 +5842,7 @@ Flint. No!
 
 1331
 01:12:56,517 --> 01:12:57,814
-BRENT: Hang on, Sam.
+Hang on, Sam.
 
 1332
 01:12:57,985 --> 01:13:00,852
@@ -5856,7 +5855,7 @@ medicine for your face.
 
 1334
 01:13:06,360 --> 01:13:08,021
-MACHINE: Pickles.
+Pickles.
 
 1335
 01:13:08,295 --> 01:13:09,319
@@ -5880,8 +5879,8 @@ Strawberry.
 
 1340
 01:13:27,381 --> 01:13:30,373
-- SAM: Manny, we're on our way. Hurry.
-- MANNY: Hang on, Sam.
+Manny, we're on our way. Hurry.
+Hang on, Sam.
 
 1341
 01:13:30,551 --> 01:13:32,883
@@ -5909,12 +5908,12 @@ Gummi Bears.
 
 1347
 01:13:50,204 --> 01:13:52,695
-GUMMI BEAR: Play with us, play with us.
+Play with us, play with us.
 Eat us, eat us.
 
 1348
 01:13:53,841 --> 01:13:55,206
-STEVE: Hungry!
+Hungry!
 
 1349
 01:13:55,976 --> 01:13:59,173
@@ -5936,7 +5935,7 @@ Whoa!
 
 1353
 01:14:08,089 --> 01:14:10,284
-BRENT: Manny. Where are you?
+Manny. Where are you?
 
 1354
 01:14:14,061 --> 01:14:15,790
@@ -5977,7 +5976,7 @@ Oh, boy.
 
 1363
 01:14:46,594 --> 01:14:49,620
-MACHINE: Corn. Yikes!
+Corn. Yikes!
 
 1364
 01:15:19,160 --> 01:15:21,151
@@ -5985,7 +5984,7 @@ MACHINE: Corn. Yikes!
 
 1365
 01:15:22,730 --> 01:15:23,851
-FLINT WHISPERING: Grabbing.
+Grabbing.
 
 1366
 01:15:24,298 --> 01:15:26,266
@@ -6018,7 +6017,7 @@ Yah!
 
 1373
 01:15:49,690 --> 01:15:51,920
-CAT ON MONITOR: Fight the power!
+Fight the power!
 
 1374
 01:15:52,393 --> 01:15:53,451
@@ -6058,7 +6057,7 @@ Yeah.
 
 1383
 01:17:02,263 --> 01:17:03,821
-SAM: Just...
+Just...
 There were chickens...
 
 1384
@@ -6087,8 +6086,8 @@ I know.
 
 1390
 01:17:24,485 --> 01:17:26,749
-- CAL: Cool.
-- EARL: Yeah. All right.
+Cool.
+Yeah. All right.
 
 1391
 01:17:45,506 --> 01:17:47,497
@@ -6148,13 +6147,13 @@ Steve. Flint.
 
 1405
 01:19:04,585 --> 01:19:05,813
-- Earl.
-- MAN: Flint.
+Earl.
+Flint.
 
 1406
 01:19:05,986 --> 01:19:08,318
-- You guy.
-- STEVE: Steve.
+You guy.
+Steve.
 
 1407
 01:19:08,489 --> 01:19:09,956
@@ -6199,7 +6198,7 @@ if it's not straight... Um...
 
 1417
 01:19:33,180 --> 01:19:35,080
-SAM: Oh, for crying out loud.
+Oh, for crying out loud.
 
 1418
 01:19:35,249 --> 01:19:36,614
@@ -6241,7 +6240,7 @@ today, she'd tell us both:
 
 1426
 01:20:01,642 --> 01:20:04,543
-"I told you so. " Ha-ha.
+I told you so.  Ha-ha.
 
 1427
 01:20:04,711 --> 01:20:07,771
@@ -6313,7 +6312,7 @@ Just kiss me. You know...
 
 1443
 01:20:53,327 --> 01:20:56,490
-BRENT: Yeah! I'm a chicken!
+Yeah! I'm a chicken!
 
 1444
 01:20:59,800 --> 01:21:01,791
@@ -6326,7 +6325,7 @@ This was not well thought out.
 1446
 01:21:20,721 --> 01:21:24,248
 (MIRANDA COSGROVE'S
-"RAINING SUNSHINE" PLAYING)
+RAINING SUNSHINE PLAYING)
 
 1447
 01:24:53,333 --> 01:24:56,791
@@ -6334,5 +6333,4 @@ This was not well thought out.
 
 1448
 01:24:56,891 --> 01:25:01,891
-http://subscene.com/u/659433
-Improved by: @Ivandrofly
+(ENDING)

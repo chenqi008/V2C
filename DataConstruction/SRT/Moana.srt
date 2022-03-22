@@ -1,6 +1,6 @@
 1
 00:00:42,139 --> 00:00:54,139
-Fixed & Synced by bozxphd. Enjoy The Flick
+(BEGIN)
 
 2
 00:00:55,140 --> 00:00:56,683
@@ -232,8 +232,8 @@ Monsters!
 
 56
 00:04:21,971 --> 00:04:24,015
-- There's no monsters, no monsters...
-- it's the darkness!
+There's no monsters, no monsters...
+it's the darkness!
 
 57
 00:04:24,515 --> 00:04:28,186
@@ -393,8 +393,8 @@ Our people will need a chief
 
 94
 00:08:38,769 --> 00:08:40,688
-- And there you are
-- There you are
+And there you are
+There you are
 
 95
 00:08:40,855 --> 00:08:42,732
@@ -415,8 +415,8 @@ Consider the coconut
 
 99
 00:08:50,573 --> 00:08:52,742
-- The what
-- Consider its tree
+The what
+Consider its tree
 
 100
 00:08:52,909 --> 00:08:56,287
@@ -523,8 +523,8 @@ is who you are
 
 123
 00:10:14,573 --> 00:10:16,534
-- Uh-huh.
-- Dad!
+Uh-huh.
+Dad!
 
 124
 00:10:16,701 --> 00:10:20,162
@@ -597,28 +597,28 @@ It's time to be who they need you to be.
 
 140
 00:11:13,299 --> 00:11:15,509
-- We make our nets from the fibers
-- We weave our nets from the fibers
+We make our nets from the fibers
+We weave our nets from the fibers
 
 141
 00:11:15,593 --> 00:11:17,678
-- The water is sweet inside
-- A real tasty treat inside
+The water is sweet inside
+A real tasty treat inside
 
 142
 00:11:17,803 --> 00:11:20,014
-- We use the leaves to build fires
-- We sing these songs in our choirs
+We use the leaves to build fires
+We sing these songs in our choirs
 
 143
 00:11:20,097 --> 00:11:21,932
-- To cook up the meat inside
-- We have mouths to feed inside
+To cook up the meat inside
+We have mouths to feed inside
 
 144
 00:11:22,099 --> 00:11:23,934
-- The village believes in us
-- That's right
+The village believes in us
+That's right
 
 145
 00:11:24,101 --> 00:11:25,603
@@ -696,8 +696,8 @@ Not the fronds.
 
 163
 00:12:09,271 --> 00:12:11,232
-- Wind shifted the post.
-- Ah!
+Wind shifted the post.
+Ah!
 
 164
 00:12:11,690 --> 00:12:14,360
@@ -885,8 +885,8 @@ in the lagoon...
 
 207
 00:14:35,125 --> 00:14:36,835
-- Moana.
-- And there's a whole ocean.
+Moana.
+And there's a whole ocean.
 
 208
 00:14:37,211 --> 00:14:38,629
@@ -898,8 +898,8 @@ An old rule, when there were fish.
 
 210
 00:14:40,381 --> 00:14:42,091
-- A rule that keeps us safe...
-- But Dad, I...
+A rule that keeps us safe...
+But Dad, I...
 
 211
 00:14:42,216 --> 00:14:46,178
@@ -934,8 +934,8 @@ But you still do.
 
 218
 00:15:20,754 --> 00:15:23,215
-- He's hard on you because...
-- Because he doesn't get me.
+He's hard on you because...
+Because he doesn't get me.
 
 219
 00:15:23,382 --> 00:15:25,968
@@ -1552,8 +1552,8 @@ This is happening all over the island.
 
 364
 00:28:06,436 --> 00:28:07,979
-- Please, please settle down.
-- What are you going to do?
+Please, please settle down.
+What are you going to do?
 
 365
 00:28:08,063 --> 00:28:09,814
@@ -1679,19 +1679,19 @@ you grab him by the ear. You say...
 
 394
 00:29:59,257 --> 00:30:02,260
-"I am Moana of Motunui.
+I am Moana of Motunui.
 
 395
 00:30:02,719 --> 00:30:04,846
-"You will board my boat...
+You will board my boat...
 
 396
 00:30:05,305 --> 00:30:07,390
-"sail across the sea...
+sail across the sea...
 
 397
 00:30:07,557 --> 00:30:11,561
-"and restore the heart of Te Fiti."
+and restore the heart of Te Fiti.
 
 398
 00:30:13,438 --> 00:30:15,732
@@ -1984,8 +1984,8 @@ demigod of the wind and sea...
 
 468
 00:37:07,852 --> 00:37:09,604
-- I am Moana of...
-- Hero of men.
+I am Moana of...
+Hero of men.
 
 469
 00:37:09,687 --> 00:37:11,188
@@ -2118,12 +2118,12 @@ you were trying to say...
 
 499
 00:38:22,593 --> 00:38:23,594
-is "thank you."
+is thank you.
 
 500
 00:38:23,761 --> 00:38:25,221
-- "Thank you?"
-- You're welcome.
+Thank you?
+You're welcome.
 
 501
 00:38:25,388 --> 00:38:26,389
@@ -2412,13 +2412,13 @@ everything but float
 
 565
 00:40:55,496 --> 00:40:57,373
-- You're welcome
-- You're welcome
+You're welcome
+You're welcome
 
 566
 00:40:57,540 --> 00:40:59,708
-- You're welcome
-- You're welcome
+You're welcome
+You're welcome
 
 567
 00:40:59,875 --> 00:41:00,876
@@ -3059,8 +3059,8 @@ I am the daughter of the chief.
 
 721
 00:52:12,464 --> 00:52:13,632
-- Same difference.
-- No.
+Same difference.
+No.
 
 722
 00:52:13,799 --> 00:52:16,426
@@ -3165,8 +3165,8 @@ I'm home?
 
 746
 00:53:56,818 --> 00:53:58,528
-- Moana!
-- Dad?
+Moana!
+Dad?
 
 747
 00:53:59,321 --> 00:54:00,989
@@ -3645,7 +3645,7 @@ Don't! That's my gramma's!
 
 860
 01:00:51,482 --> 01:00:52,567
-"That's my gramma's!"
+That's my gramma's!
 
 861
 01:00:52,734 --> 01:00:53,818
@@ -3976,8 +3976,8 @@ You wish you were nice and shiny
 
 936
 01:04:39,168 --> 01:04:40,336
-- Hey!
-- Huh?
+Hey!
+Huh?
 
 937
 01:04:41,045 --> 01:04:42,797
@@ -4079,13 +4079,13 @@ Mm-hmm.
 
 961
 01:05:54,201 --> 01:05:55,244
-- Took guts.
-- Mm-hmm.
+Took guts.
+Mm-hmm.
 
 962
 01:05:55,411 --> 01:05:56,579
-- But...
-- Mm-hmm.
+But...
+Mm-hmm.
 
 963
 01:05:56,746 --> 01:05:57,747
@@ -4209,7 +4209,7 @@ give me a speech?
 991
 01:07:24,041 --> 01:07:27,795
 Tell me I can beat Te Kā
-'cause I'm "Maui?"
+'cause I'm Maui?
 
 992
 01:07:29,547 --> 01:07:30,631
@@ -4254,8 +4254,8 @@ You need to stop doing that.
 
 1002
 01:08:05,416 --> 01:08:07,209
-- Back off.
-- Just tell me what it is.
+Back off.
+Just tell me what it is.
 
 1003
 01:08:07,376 --> 01:08:08,836
@@ -4520,13 +4520,13 @@ Finding you a better way in!
 
 1066
 01:15:27,482 --> 01:15:29,193
-- We won't make it!
-- Yes, we will!
+We won't make it!
+Yes, we will!
 
 1067
 01:15:29,359 --> 01:15:30,485
-- Turn around!
-- No!
+Turn around!
+No!
 
 1068
 01:15:30,652 --> 01:15:31,778
@@ -4644,8 +4644,8 @@ I am Moana of Motunui.
 
 1096
 01:17:21,263 --> 01:17:23,473
-- You will board my boat...
-- Goodbye, Moana.
+You will board my boat...
+Goodbye, Moana.
 
 1097
 01:17:23,640 --> 01:17:24,808

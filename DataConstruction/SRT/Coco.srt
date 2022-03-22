@@ -263,8 +263,8 @@ with that. But me...
 
 58
 00:04:15,720 --> 00:04:18,060
-- Be back by lunch, mijo.
-- Love you, Mama.
+Be back by lunch, mijo.
+Love you, Mama.
 
 59
 00:04:19,020 --> 00:04:21,630
@@ -273,13 +273,13 @@ the rest of my family!
 
 60
 00:04:22,890 --> 00:04:24,290
-- Hola, Miguel!
-- Hola!
+Hola, Miguel!
+Hola!
 
 61
 00:04:30,060 --> 00:04:32,480
-- Muchas gracias.
-- De nada, Miguel.
+Muchas gracias.
+De nada, Miguel.
 
 62
 00:04:36,400 --> 00:04:39,050
@@ -375,8 +375,8 @@ to say goodbye
 
 82
 00:05:39,230 --> 00:05:41,100
-- Remember me
-- Remember me
+Remember me
+Remember me
 
 83
 00:05:41,100 --> 00:05:45,000
@@ -400,8 +400,8 @@ to travel far
 
 87
 00:05:53,710 --> 00:05:55,380
-- Remember me
--  Remember me
+Remember me
+ Remember me
 
 88
 00:05:55,380 --> 00:05:57,720
@@ -457,8 +457,8 @@ If it wasn't for my family.
 
 99
 00:06:43,030 --> 00:06:45,430
-- Ay-ay-ay, muchacho.
-- Huh?
+Ay-ay-ay, muchacho.
+Huh?
 
 100
 00:06:45,430 --> 00:06:47,870
@@ -485,8 +485,8 @@ to my family and say...
 
 105
 00:06:56,340 --> 00:06:58,940
-"Hey, I'm a musician.
-Deal with it."
+Hey, I'm a musician.
+Deal with it.
 
 106
 00:06:58,950 --> 00:07:00,880
@@ -572,8 +572,8 @@ Miguel!
 
 124
 00:07:53,230 --> 00:07:55,370
-- Abuelita!
-- What are you doing here?
+Abuelita!
+What are you doing here?
 
 125
 00:07:56,870 --> 00:07:58,300
@@ -646,8 +646,8 @@ Yes, Tio Berto.
 
 140
 00:08:47,890 --> 00:08:51,020
-- No, no, no, no, no!
-- Ah! Go away, you. Go!
+No, no, no, no, no!
+Ah! Go away, you. Go!
 
 141
 00:08:51,020 --> 00:08:52,290
@@ -696,8 +696,8 @@ plaza, then no more plaza.
 
 151
 00:09:20,690 --> 00:09:23,090
-- But what about tonight?
-- What's tonight?
+But what about tonight?
+What's tonight?
 
 152
 00:09:23,090 --> 00:09:25,920
@@ -711,8 +711,8 @@ thought I might...
 
 154
 00:09:28,160 --> 00:09:30,690
-- Sign up?
-- Well, maybe?
+Sign up?
+Well, maybe?
 
 155
 00:09:30,700 --> 00:09:34,060
@@ -1104,8 +1104,8 @@ Si. Next to the other one.
 
 240
 00:14:51,520 --> 00:14:54,490
-- Get under! Get under!
-- Miguel?
+Get under! Get under!
+Miguel?
 
 241
 00:14:54,490 --> 00:14:57,920
@@ -1123,8 +1123,8 @@ you joined us in the workshop!
 
 244
 00:15:07,030 --> 00:15:09,500
-- What?
-- No more shining shoes.
+What?
+No more shining shoes.
 
 245
 00:15:09,500 --> 00:15:12,440
@@ -1314,8 +1314,8 @@ I will not allow it.
 
 285
 00:17:39,420 --> 00:17:40,950
-- If you would just let...
-- Miguel...
+If you would just let...
+Miguel...
 
 286
 00:17:40,950 --> 00:17:42,550
@@ -1328,8 +1328,8 @@ No more music.
 
 288
 00:17:43,850 --> 00:17:47,000
-- Just listen to me play!
-- End of argument.
+Just listen to me play!
+End of argument.
 
 289
 00:17:48,830 --> 00:17:51,490
@@ -1348,8 +1348,8 @@ some stupid ofrenda.
 
 292
 00:17:59,870 --> 00:18:01,040
-- No!
-- Mama!
+No!
+Mama!
 
 293
 00:18:05,750 --> 00:18:09,580
@@ -1403,13 +1403,13 @@ I'll put you on the list.
 
 304
 00:18:55,160 --> 00:18:58,630
-- Can I borrow your guitar?
-- Sorry, muchacho.
+Can I borrow your guitar?
+Sorry, muchacho.
 
 305
 00:18:58,630 --> 00:19:01,630
-- You guys have a spare guitar?
-- No.
+You guys have a spare guitar?
+No.
 
 306
 00:19:01,630 --> 00:19:03,770
@@ -1513,8 +1513,8 @@ There's nobody here.
 
 328
 00:22:18,000 --> 00:22:19,360
-- Miguel!
-- Mama!
+Miguel!
+Mama!
 
 329
 00:22:19,360 --> 00:22:24,000
@@ -1556,13 +1556,13 @@ What's going on? Dante!
 
 338
 00:23:24,000 --> 00:23:26,290
-- Oh, I'm sorry. I'm sorry.
-- Miguel?
+Oh, I'm sorry. I'm sorry.
+Miguel?
 
 339
 00:23:26,300 --> 00:23:28,080
-- Miguel?
-- Miguel?
+Miguel?
+Miguel?
 
 340
 00:23:31,470 --> 00:23:35,170
@@ -1583,13 +1583,13 @@ We're your family, mijo.
 
 344
 00:23:43,250 --> 00:23:46,100
-- Tia Rosita?
-- Si.
+Tia Rosita?
+Si.
 
 345
 00:23:47,990 --> 00:23:50,270
-- Papa Julio?
-- Hola.
+Papa Julio?
+Hola.
 
 346
 00:23:51,020 --> 00:23:52,460
@@ -1619,8 +1619,8 @@ She couldn't cross over.
 
 352
 00:24:05,870 --> 00:24:08,300
-- She's stuck!
-- On the other side!
+She's stuck!
+On the other side!
 
 353
 00:24:08,310 --> 00:24:11,110
@@ -1671,8 +1671,8 @@ You're all really out there.
 
 363
 00:25:26,580 --> 00:25:28,550
-- You thought we weren't?
-- Well, I don't know.
+You thought we weren't?
+Well, I don't know.
 
 364
 00:25:28,550 --> 00:25:30,420
@@ -1802,8 +1802,8 @@ Enjoy your visit.
 
 391
 00:26:37,090 --> 00:26:38,870
-- Gracias.
-- Next?
+Gracias.
+Next?
 
 392
 00:26:41,160 --> 00:26:43,390
@@ -1870,8 +1870,8 @@ if no one put up my photo.
 
 405
 00:27:34,110 --> 00:27:36,410
-- Next?
-- Oh! Come, mijo. It's our turn.
+Next?
+Oh! Come, mijo. It's our turn.
 
 406
 00:27:36,410 --> 00:27:39,350
@@ -1938,8 +1938,8 @@ you nothing but lies!
 
 420
 00:28:37,340 --> 00:28:42,110
-- Mama Imelda?
-- Oh, mi familia!
+Mama Imelda?
+Oh, mi familia!
 
 421
 00:28:42,110 --> 00:28:43,710
@@ -1963,13 +1963,13 @@ made it to the ofrenda.
 
 425
 00:28:52,220 --> 00:28:55,940
-- What?
-- We ran into...
+What?
+We ran into...
 
 426
 00:28:58,630 --> 00:29:01,750
-- Miguel?
-- Mama Imelda.
+Miguel?
+Mama Imelda.
 
 427
 00:29:02,170 --> 00:29:04,500
@@ -2084,8 +2084,8 @@ off the ofrenda?
 
 451
 00:29:57,320 --> 00:29:59,420
-- It was an accident!
-- How do we send him back?
+It was an accident!
+How do we send him back?
 
 452
 00:29:59,420 --> 00:30:02,160
@@ -2099,8 +2099,8 @@ a family curse
 
 454
 00:30:04,600 --> 00:30:07,330
-- is to get your family's blessing.
-- That's it?
+is to get your family's blessing.
+That's it?
 
 455
 00:30:07,330 --> 00:30:08,730
@@ -2160,7 +2160,7 @@ Miguel.
 467
 00:30:40,560 --> 00:30:43,870
 Nailed it. Now say,
-"I give you my blessing."
+I give you my blessing.
 
 468
 00:30:43,870 --> 00:30:45,920
@@ -2337,8 +2337,8 @@ Falsifying a unibrow.
 
 506
 00:33:00,500 --> 00:33:02,770
-- That's illegal?
-- Very illegal.
+That's illegal?
+Very illegal.
 
 507
 00:33:02,770 --> 00:33:04,870
@@ -2501,8 +2501,8 @@ you can help me.
 
 541
 00:34:28,690 --> 00:34:30,190
-- Miguel!
-- I'm Hector.
+Miguel!
+I'm Hector.
 
 542
 00:34:30,190 --> 00:34:31,740
@@ -2689,8 +2689,8 @@ don't walk like that.
 
 581
 00:36:40,760 --> 00:36:44,830
-- It's how you walk.
-- No, I don't! Stop it!
+It's how you walk.
+No, I don't! Stop it!
 
 582
 00:36:44,830 --> 00:36:48,770
@@ -2713,8 +2713,8 @@ of Dia de Muertos.
 
 586
 00:36:55,140 --> 00:36:57,710
-- And you can get us in!
-- Um...
+And you can get us in!
+Um...
 
 587
 00:36:57,710 --> 00:36:59,980
@@ -2756,8 +2756,8 @@ Hola, Ceci.
 
 595
 00:37:34,080 --> 00:37:38,350
-- Hola.
-- Ceci, I lost the dress.
+Hola.
+Ceci, I lost the dress.
 
 596
 00:37:38,350 --> 00:37:40,020
@@ -2789,8 +2789,8 @@ get in here?
 
 602
 00:38:18,190 --> 00:38:22,360
-- I just followed my...
-- Oh! The mighty Xolo dog!
+I just followed my...
+Oh! The mighty Xolo dog!
 
 603
 00:38:22,360 --> 00:38:25,330
@@ -3034,8 +3034,8 @@ self-important jerks.
 
 654
 00:41:02,490 --> 00:41:04,990
-- Hey! I'm a musician!
-- You are?
+Hey! I'm a musician!
+You are?
 
 655
 00:41:04,990 --> 00:41:07,820
@@ -3082,18 +3082,18 @@ Have you found our boy?
 
 664
 00:41:41,460 --> 00:41:44,260
-- A footprint!
-- It's a Rivera boot.
+A footprint!
+It's a Rivera boot.
 
 665
 00:41:44,260 --> 00:41:46,130
-- Size seven!
-- And a half.
+Size seven!
+And a half.
 
 666
 00:41:46,130 --> 00:41:48,580
-- Pronated.
-- Miguel.
+Pronated.
+Miguel.
 
 667
 00:41:58,080 --> 00:42:00,010
@@ -3138,8 +3138,8 @@ Keep up, chamaco. Come on.
 
 676
 00:42:28,340 --> 00:42:33,040
-- Cousin Hector!
-- Hey! These guys! Hey, Tio!
+Cousin Hector!
+Hey! These guys! Hey, Tio!
 
 677
 00:42:33,040 --> 00:42:34,180
@@ -3171,8 +3171,8 @@ cousin, or tio, or whatever.
 
 683
 00:42:52,060 --> 00:42:54,580
-- Hector!
-- Tia Chelo!
+Hector!
+Tia Chelo!
 
 684
 00:42:56,370 --> 00:42:58,470
@@ -3218,8 +3218,8 @@ a little offering.
 
 693
 00:43:25,100 --> 00:43:27,160
-- Get out of here.
-- I would, Cheech.
+Get out of here.
+I would, Cheech.
 
 694
 00:43:27,160 --> 00:43:29,810
@@ -3233,8 +3233,8 @@ to borrow your guitar.
 
 696
 00:43:32,670 --> 00:43:34,240
-- My guitar?
-- Yes.
+My guitar?
+Yes.
 
 697
 00:43:34,240 --> 00:43:36,540
@@ -3252,13 +3252,13 @@ to bring back my van?
 
 700
 00:43:41,040 --> 00:43:42,510
-- Uh...
-- Or my mini-fridge?
+Uh...
+Or my mini-fridge?
 
 701
 00:43:42,510 --> 00:43:44,250
-- Ah, you see...
-- Or my good napkins?
+Ah, you see...
+Or my good napkins?
 
 702
 00:43:44,250 --> 00:43:46,080
@@ -3280,8 +3280,8 @@ Whoa, whoa.
 
 706
 00:43:51,660 --> 00:43:55,570
-- You okay, amigo?
-- I'm fading, Hector.
+You okay, amigo?
+I'm fading, Hector.
 
 707
 00:43:56,160 --> 00:43:58,590
@@ -3348,8 +3348,8 @@ drag on the floor
 
 721
 00:45:07,460 --> 00:45:10,100
-- Those aren't the words.
-- There are children present.
+Those aren't the words.
+There are children present.
 
 722
 00:45:10,100 --> 00:45:13,850
@@ -3599,8 +3599,8 @@ make you cry...
 
 776
 00:48:58,530 --> 00:49:01,960
-- What about Poco Loco?
-- Epa! Now that's a song!
+What about Poco Loco?
+Epa! Now that's a song!
 
 777
 00:49:01,970 --> 00:49:03,870
@@ -3638,8 +3638,8 @@ I mean, I will be.
 
 784
 00:49:29,330 --> 00:49:30,730
-- Ay!
-- Once I win.
+Ay!
+Once I win.
 
 785
 00:49:30,730 --> 00:49:33,330
@@ -3662,8 +3662,8 @@ I'll go up there.
 
 789
 00:49:37,630 --> 00:49:39,970
-- No! I need to do this.
-- Why?
+No! I need to do this.
+Why?
 
 790
 00:49:39,970 --> 00:49:42,440
@@ -3719,8 +3719,8 @@ your best grito.
 
 801
 00:50:12,600 --> 00:50:15,350
-- My best grito?
-- Come on, yell! Belt it out.
+My best grito?
+Come on, yell! Belt it out.
 
 802
 00:50:18,510 --> 00:50:21,960
@@ -3883,8 +3883,8 @@ Otra! Otra! Otra!
 
 836
 00:53:18,090 --> 00:53:20,920
-- Hey! Where are you going?
-- We got to get out of here!
+Hey! Where are you going?
+We got to get out of here!
 
 837
 00:53:20,920 --> 00:53:23,410
@@ -3951,8 +3951,8 @@ I need a musician's blessing.
 
 850
 00:53:51,690 --> 00:53:53,990
-- You lied to me!
-- Oh, you're one to talk.
+You lied to me!
+Oh, you're one to talk.
 
 851
 00:53:53,990 --> 00:53:55,990
@@ -3990,8 +3990,8 @@ to your family.
 
 858
 00:54:05,970 --> 00:54:07,200
-- Let go of me!
-- You'll thank me later.
+Let go of me!
+You'll thank me later.
 
 859
 00:54:07,200 --> 00:54:10,710
@@ -4045,18 +4045,18 @@ Now get out of here!
 
 870
 00:54:50,150 --> 00:54:52,950
-- It's him!
-- It's that living boy!
+It's him!
+It's that living boy!
 
 871
 00:54:52,950 --> 00:54:54,950
-- I heard about him. Look!
-- He's alive!
+I heard about him. Look!
+He's alive!
 
 872
 00:54:54,950 --> 00:54:57,150
-- He's alive.
-- The boy is alive!
+He's alive.
+The boy is alive!
 
 873
 00:55:06,330 --> 00:55:09,030
@@ -4087,8 +4087,8 @@ to save your life!
 
 879
 00:55:29,220 --> 00:55:31,350
-- You're ruining my life!
-- What?
+You're ruining my life!
+What?
 
 880
 00:55:31,350 --> 00:55:33,920
@@ -4181,8 +4181,8 @@ But you never will.
 
 899
 00:56:58,910 --> 00:57:02,280
-- Have a good time.
-- Oh, how exciting!
+Have a good time.
+Oh, how exciting!
 
 900
 00:57:02,280 --> 00:57:07,760
@@ -4195,8 +4195,8 @@ Gracias, Senor.
 
 902
 00:57:18,060 --> 00:57:20,060
-- Invitation?
-- It's okay.
+Invitation?
+It's okay.
 
 903
 00:57:20,060 --> 00:57:22,610
@@ -4205,13 +4205,13 @@ great-great-grandson.
 
 904
 00:57:33,440 --> 00:57:36,980
-- Disculpen, senores...
-- Hey, guys! It's poco loco!
+Disculpen, senores...
+Hey, guys! It's poco loco!
 
 905
 00:57:36,980 --> 00:57:39,350
-- You were on fire tonight!
-- You too!
+You were on fire tonight!
+You too!
 
 906
 00:57:39,350 --> 00:57:43,130
@@ -4438,13 +4438,13 @@ I have a great-great-grandson!
 
 955
 01:01:43,160 --> 01:01:46,590
-- Look! It's Frida!
-- Yes, it is I. Frida Kahlo.
+Look! It's Frida!
+Yes, it is I. Frida Kahlo.
 
 956
 01:01:46,600 --> 01:01:49,610
-- It is an honor, Senora.
-- Gracias.
+It is an honor, Senora.
+Gracias.
 
 957
 01:01:53,640 --> 01:01:55,600
@@ -4517,8 +4517,8 @@ You look overwhelmed.
 
 972
 01:02:34,380 --> 01:02:37,650
-- No! It's all great!
-- But?
+No! It's all great!
+But?
 
 973
 01:02:37,650 --> 01:02:39,750
@@ -4607,8 +4607,8 @@ my guest of honor!
 
 991
 01:03:48,320 --> 01:03:50,730
-- You mean it?
-- Of course, my boy.
+You mean it?
+Of course, my boy.
 
 992
 01:03:52,420 --> 01:03:54,590
@@ -4693,8 +4693,8 @@ you're being forgotten.
 
 1010
 01:04:49,380 --> 01:04:51,010
-- And whose fault is that?
-- Hector, please...
+And whose fault is that?
+Hector, please...
 
 1011
 01:04:51,010 --> 01:04:53,810
@@ -4803,8 +4803,8 @@ Like in the movie?
 
 1033
 01:05:43,830 --> 01:05:46,570
-- What?
-- That's Don Hidalgo's toast.
+What?
+That's Don Hidalgo's toast.
 
 1034
 01:05:46,570 --> 01:05:49,070
@@ -4842,8 +4842,8 @@ Hidalgo poisons the drink.
 
 1041
 01:06:03,690 --> 01:06:06,640
-- Salud!
-- Poison!
+Salud!
+Poison!
 
 1042
 01:06:08,590 --> 01:06:13,090
@@ -4959,8 +4959,8 @@ you might have... That you...
 
 1066
 01:07:31,170 --> 01:07:33,040
-- How could you?
-- Hector!
+How could you?
+Hector!
 
 1067
 01:07:33,040 --> 01:07:34,390
@@ -5080,8 +5080,8 @@ I want to go home.
 
 1092
 01:09:51,550 --> 01:09:53,210
-- Hector?
-- Kid?
+Hector?
+Kid?
 
 1093
 01:09:53,220 --> 01:09:56,080
@@ -5131,8 +5131,8 @@ She's forgetting me.
 
 1103
 01:10:25,980 --> 01:10:29,260
-- Who?
-- My daughter.
+Who?
+My daughter.
 
 1104
 01:10:31,690 --> 01:10:36,120
@@ -5185,8 +5185,8 @@ Is that you?
 
 1115
 01:11:30,650 --> 01:11:34,130
-- We're...
-- Family?
+We're...
+Family?
 
 1116
 01:11:46,330 --> 01:11:49,030
@@ -5398,8 +5398,8 @@ It's Dante!
 
 1161
 01:15:12,170 --> 01:15:15,450
-- Imelda!
-- Hector.
+Imelda!
+Hector.
 
 1162
 01:15:15,870 --> 01:15:17,450
@@ -5524,8 +5524,8 @@ To get Hector's photo.
 
 1188
 01:17:29,570 --> 01:17:31,270
-- What?
-- So he can see Coco again.
+What?
+So he can see Coco again.
 
 1189
 01:17:31,270 --> 01:17:33,170
@@ -5649,23 +5649,23 @@ I might know a way.
 
 1216
 01:19:45,810 --> 01:19:48,420
-- Good luck, muchacho.
-- Gracias, Frida.
+Good luck, muchacho.
+Gracias, Frida.
 
 1217
 01:19:56,920 --> 01:20:00,190
-- Here, let me help you with...
-- Don't touch me!
+Here, let me help you with...
+Don't touch me!
 
 1218
 01:20:00,190 --> 01:20:02,460
-- Everyone clear on the plan?
-- Find Hector's photo.
+Everyone clear on the plan?
+Find Hector's photo.
 
 1219
 01:20:02,460 --> 01:20:04,290
-- Give it to Miguel.
-- Send Miguel home.
+Give it to Miguel.
+Send Miguel home.
 
 1220
 01:20:04,290 --> 01:20:06,140
@@ -5691,8 +5691,8 @@ the love of my life!
 
 1225
 01:20:16,470 --> 01:20:18,540
-- Who... Who the...
-- She's talking about me!
+Who... Who the...
+She's talking about me!
 
 1226
 01:20:18,540 --> 01:20:19,840
@@ -5715,8 +5715,8 @@ to murder my grandson.
 
 1230
 01:20:25,880 --> 01:20:28,280
-- Grandson?
-- She's talking about me!
+Grandson?
+She's talking about me!
 
 1231
 01:20:28,280 --> 01:20:32,450
@@ -5741,8 +5741,8 @@ Security! Ayudenme!
 
 1236
 01:20:43,430 --> 01:20:46,500
-- You said love of your life.
-- I don't know what I said.
+You said love of your life.
+I don't know what I said.
 
 1237
 01:20:46,500 --> 01:20:47,920
@@ -5962,8 +5962,8 @@ your memory alive? No.
 
 1286
 01:25:01,690 --> 01:25:04,560
-- You're a coward!
-- I am Ernesto de la Cruz.
+You're a coward!
+I am Ernesto de la Cruz.
 
 1287
 01:25:04,560 --> 01:25:06,490
@@ -6463,8 +6463,8 @@ that I dreamed about you
 
 1398
 01:34:37,300 --> 01:34:40,370
-- Papa!
-- Coco!
+Papa!
+Coco!
 
 1399
 01:34:40,370 --> 01:34:45,240

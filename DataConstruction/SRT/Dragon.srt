@@ -77,13 +77,13 @@ Morning!
 
 18
 00:01:37,848 --> 00:01:39,682
-- What are you doing here?!
-- Get inside!
+What are you doing here?!
+Get inside!
 
 19
 00:01:39,850 --> 00:01:42,643
-- What are you doing out?!
-- Get back inside!
+What are you doing out?!
+Get back inside!
 
 20
 00:01:45,189 --> 00:01:49,734
@@ -115,8 +115,8 @@ Hoark saw a Monstrous Nightmare.
 
 26
 00:02:07,377 --> 00:02:09,504
-- Any Night Furies?
-- None so far.
+Any Night Furies?
+None so far.
 
 27
 00:02:09,671 --> 00:02:10,713
@@ -234,8 +234,8 @@ is what I'm talking about!
 
 52
 00:03:43,390 --> 00:03:45,433
-- Mild calibration issue...
-- Hiccup!
+Mild calibration issue...
+Hiccup!
 
 53
 00:03:45,601 --> 00:03:48,644
@@ -319,8 +319,8 @@ Concentrate fire over the lower bank.
 
 71
 00:04:39,696 --> 00:04:41,364
-- Hurry up!
-- Fire!
+Hurry up!
+Fire!
 
 72
 00:04:42,157 --> 00:04:44,700
@@ -347,8 +347,8 @@ is the dragon no one's ever seen.
 
 77
 00:05:01,885 --> 00:05:03,886
-- We call it the...
-- Night Fury!
+We call it the...
+Night Fury!
 
 78
 00:05:04,054 --> 00:05:05,388
@@ -387,13 +387,13 @@ You know what I mean.
 
 86
 00:05:34,918 --> 00:05:37,086
-- Where are you going?
-- Yeah, I know!
+Where are you going?
+Yeah, I know!
 
 87
 00:05:37,254 --> 00:05:38,629
-- Hiccup!
-- Be right back!
+Hiccup!
+Be right back!
 
 88
 00:05:44,386 --> 00:05:45,761
@@ -427,8 +427,8 @@ Except for you.
 
 95
 00:06:39,483 --> 00:06:41,901
-- Do not let them escape!
-- Right!
+Do not let them escape!
+Right!
 
 96
 00:07:00,670 --> 00:07:02,338
@@ -540,13 +540,13 @@ Thank you, thank you. I was trying.
 
 120
 00:08:39,769 --> 00:08:41,770
-- I really did hit one.
-- Sure, Hiccup.
+I really did hit one.
+Sure, Hiccup.
 
 121
 00:08:41,980 --> 00:08:44,190
-- He never listens.
-- It runs in the family.
+He never listens.
+It runs in the family.
 
 122
 00:08:44,357 --> 00:08:47,109
@@ -560,7 +560,7 @@ in his sandwich.
 
 124
 00:08:49,863 --> 00:08:53,908
-"Excuse me, barmaid.
+Excuse me, barmaid.
 You brought me the wrong offspring.
 
 125
@@ -570,7 +570,7 @@ arms, extra guts and glory on the side.
 
 126
 00:08:58,997 --> 00:09:01,749
-This here, this is a talking fishbone."
+This here, this is a talking fishbone.
 
 127
 00:09:01,917 --> 00:09:03,959
@@ -633,8 +633,8 @@ Count me out.
 
 140
 00:09:50,131 --> 00:09:52,216
-- Today's no good for me.
-- I have to do my axe returns.
+Today's no good for me.
+I have to do my axe returns.
 
 141
 00:09:52,384 --> 00:09:55,511
@@ -643,8 +643,8 @@ will look after Hiccup.
 
 142
 00:09:55,679 --> 00:09:57,263
-- To the ships!
-- I'm with you!
+To the ships!
+I'm with you!
 
 143
 00:09:57,430 --> 00:09:58,514
@@ -684,8 +684,8 @@ Put him in training.
 
 151
 00:10:18,994 --> 00:10:21,203
-- No, I'm serious.
-- So am I.
+No, I'm serious.
+So am I.
 
 152
 00:10:21,371 --> 00:10:24,206
@@ -694,13 +694,13 @@ the first dragon is out of its cage.
 
 153
 00:10:24,374 --> 00:10:25,958
-- You don't know that.
-- I do, actually.
+You don't know that.
+I do, actually.
 
 154
 00:10:26,126 --> 00:10:27,584
-- No, you don't.
-- No, I do.
+No, you don't.
+No, I do.
 
 155
 00:10:27,752 --> 00:10:28,961
@@ -736,8 +736,8 @@ What's with that?
 
 162
 00:10:49,399 --> 00:10:50,649
-- When I was a boy...
-- Here we go.
+When I was a boy...
+Here we go.
 
 163
 00:10:50,817 --> 00:10:53,694
@@ -751,8 +751,8 @@ but I didn't question him.
 
 165
 00:10:56,823 --> 00:10:58,991
-- And you know what happened?
-- You got a headache.
+And you know what happened?
+You got a headache.
 
 166
 00:10:59,159 --> 00:11:01,118
@@ -856,18 +856,18 @@ I need to speak with you, too, son.
 
 189
 00:15:33,141 --> 00:15:35,392
-- I don't want to fight dragons.
-- It's time you learn to fight dragons.
+I don't want to fight dragons.
+It's time you learn to fight dragons.
 
 190
 00:15:35,560 --> 00:15:36,560
-- What?
-- What?
+What?
+What?
 
 191
 00:15:36,728 --> 00:15:39,438
-- You go first.
-- No, you go first.
+You go first.
+No, you go first.
 
 192
 00:15:39,606 --> 00:15:40,689
@@ -923,8 +923,8 @@ that I won't.
 
 204
 00:16:11,679 --> 00:16:13,555
-- It's time, Hiccup.
-- Can you not hear me?
+It's time, Hiccup.
+Can you not hear me?
 
 205
 00:16:13,723 --> 00:16:15,891
@@ -954,8 +954,8 @@ You just gestured to all of me.
 
 211
 00:16:32,075 --> 00:16:35,118
-- Deal?
-- This conversation is very one-sided.
+Deal?
+This conversation is very one-sided.
 
 212
 00:16:35,286 --> 00:16:36,578
@@ -1068,8 +1068,8 @@ you will learn to fight!
 
 237
 00:17:58,619 --> 00:18:01,121
-- The Deadly Nadder!
-- Speed 8, armor 16.
+The Deadly Nadder!
+Speed 8, armor 16.
 
 238
 00:18:01,289 --> 00:18:02,622
@@ -1081,13 +1081,13 @@ Plus 11 stealth. Times 2.
 
 240
 00:18:04,333 --> 00:18:06,334
-- The Monstrous Nightmare.
-- Firepower 15.
+The Monstrous Nightmare.
+Firepower 15.
 
 241
 00:18:06,502 --> 00:18:08,503
-- The Terrible Terror.
-- Attack 8, venom 12.
+The Terrible Terror.
+Attack 8, venom 12.
 
 242
 00:18:08,671 --> 00:18:10,380
@@ -1124,13 +1124,13 @@ What's the first thing you'll need?
 
 250
 00:18:29,108 --> 00:18:30,859
-- A doctor?
-- Plus 5 speed?
+A doctor?
+Plus 5 speed?
 
 251
 00:18:31,194 --> 00:18:33,236
-- A shield.
-- Shields. Go!
+A shield.
+Shields. Go!
 
 252
 00:18:33,905 --> 00:18:36,698
@@ -1144,8 +1144,8 @@ a sword or a shield, take the shield!
 
 254
 00:18:41,245 --> 00:18:43,038
-- Let go of my shield!
-- There are a million shields!
+Let go of my shield!
+There are a million shields!
 
 255
 00:18:43,206 --> 00:18:45,248
@@ -1158,8 +1158,8 @@ Oops, this one has blood on it.
 
 257
 00:18:49,712 --> 00:18:51,671
-- Tuffnut, Ruffnut! You're out!
-- What?
+Tuffnut, Ruffnut! You're out!
+What?
 
 258
 00:18:51,839 --> 00:18:53,507
@@ -1181,8 +1181,8 @@ How many does a Gronckle have?
 
 262
 00:19:04,268 --> 00:19:05,560
-- Five?
-- No, six!
+Five?
+No, six!
 
 263
 00:19:05,728 --> 00:19:07,896
@@ -1272,13 +1272,13 @@ It was sloppy.
 
 283
 00:22:02,822 --> 00:22:05,407
-- It threw off my reverse tumble.
-- Yeah, we noticed.
+It threw off my reverse tumble.
+Yeah, we noticed.
 
 284
 00:22:05,574 --> 00:22:07,575
 No, no, you were great.
-That was so "Astrid."
+That was so Astrid.
 
 285
 00:22:07,743 --> 00:22:10,286
@@ -1291,8 +1291,8 @@ Where did Hiccup go wrong?
 
 287
 00:22:12,373 --> 00:22:14,874
-- He showed up.
-- He didn't get eaten.
+He showed up.
+He didn't get eaten.
 
 288
 00:22:15,042 --> 00:22:16,751
@@ -1349,8 +1349,8 @@ Yeah. That sounds great.
 
 300
 00:22:48,242 --> 00:22:51,453
-- There was a chance I'd read it...
-- But now...
+There was a chance I'd read it...
+But now...
 
 301
 00:22:51,620 --> 00:22:53,204
@@ -1362,8 +1362,8 @@ Another one has spines like trees.
 
 303
 00:22:56,667 --> 00:22:58,835
-- So I guess we'll share?
-- Read it.
+So I guess we'll share?
+Read it.
 
 304
 00:22:59,128 --> 00:23:03,798
@@ -1573,8 +1573,8 @@ to tell the tale. Get in there!
 
 350
 00:26:27,962 --> 00:26:30,296
-- I know, I know, but hypothetically...
-- Hiccup!
+I know, I know, but hypothetically...
+Hiccup!
 
 351
 00:26:30,464 --> 00:26:31,798
@@ -2016,8 +2016,8 @@ Well, weirder.
 
 451
 00:42:48,024 --> 00:42:51,735
-- I trust you found the nest, at least?
-- Not even close.
+I trust you found the nest, at least?
+Not even close.
 
 452
 00:42:51,903 --> 00:42:52,903
@@ -2044,13 +2044,13 @@ in with the new, right?
 
 457
 00:43:05,750 --> 00:43:09,127
-- No one will miss that nuisance!
-- We're throwing a party to celebrate!
+No one will miss that nuisance!
+We're throwing a party to celebrate!
 
 458
 00:43:09,671 --> 00:43:10,837
-- Come over here.
-- Hurry!
+Come over here.
+Hurry!
 
 459
 00:43:11,005 --> 00:43:12,005
@@ -2188,8 +2188,8 @@ I know.
 
 490
 00:47:24,258 --> 00:47:27,093
-- I came looking for you.
-- You did?
+I came looking for you.
+You did?
 
 491
 00:47:27,261 --> 00:47:28,762
@@ -2244,8 +2244,8 @@ What?! I was hoping for this!
 
 503
 00:48:04,966 --> 00:48:07,634
-- You were?
-- And believe me, it only gets better!
+You were?
+And believe me, it only gets better!
 
 504
 00:48:07,802 --> 00:48:10,554
@@ -2319,13 +2319,13 @@ You've held up your end of the deal.
 
 519
 00:49:22,209 --> 00:49:26,546
-- I should really get to bed.
-- Yes, good. OK, good talk.
+I should really get to bed.
+Yes, good. OK, good talk.
 
 520
 00:49:26,714 --> 00:49:29,132
-- I'll see you back at the house. Great.
-- We should do this again.
+I'll see you back at the house. Great.
+We should do this again.
 
 521
 00:49:29,300 --> 00:49:30,508
@@ -2334,7 +2334,7 @@ Thanks for stopping by...
 522
 00:49:30,676 --> 00:49:33,720
 ...and for the breast hat.
-- I hope you like the hat.
+I hope you like the hat.
 
 523
 00:49:35,723 --> 00:49:37,599
@@ -2359,18 +2359,18 @@ No! No, son of a half-troll,
 
 528
 00:50:24,355 --> 00:50:27,357
-- rat-eating, munge-bucket!
-- Wait, wait.
+rat-eating, munge-bucket!
+Wait, wait.
 
 529
 00:50:27,525 --> 00:50:29,359
-- So, later.
-- Not so fast.
+So, later.
+Not so fast.
 
 530
 00:50:29,527 --> 00:50:31,486
-- I'm kind of late for...
-- What?!
+I'm kind of late for...
+What?!
 
 531
 00:50:31,654 --> 00:50:34,197
@@ -2496,7 +2496,7 @@ I scared him?!
 
 559
 00:52:16,884 --> 00:52:18,510
-Who is "him"?
+Who is him?
 
 560
 00:52:19,595 --> 00:52:23,598
@@ -2630,8 +2630,8 @@ Get down!
 
 591
 00:56:45,235 --> 00:56:46,986
-- What's going on?
-- I don't know.
+What's going on?
+I don't know.
 
 592
 00:56:47,154 --> 00:56:50,156
@@ -2800,8 +2800,8 @@ Be careful with that dragon.
 
 629
 01:00:49,229 --> 01:00:52,648
-- It's not the dragon I'm worried about.
-- What are you going to do?
+It's not the dragon I'm worried about.
+What are you going to do?
 
 630
 01:00:52,816 --> 01:00:55,901
@@ -2863,8 +2863,8 @@ What's he thinking?
 
 644
 01:02:35,127 --> 01:02:36,585
-- Stop the fight.
-- No!
+Stop the fight.
+No!
 
 645
 01:02:37,045 --> 01:02:39,463
@@ -2950,8 +2950,8 @@ I should have seen the signs.
 
 665
 01:04:52,681 --> 01:04:54,515
-- Dad?
-- We had a deal!
+Dad?
+We had a deal!
 
 666
 01:04:54,683 --> 01:04:58,727
@@ -3017,8 +3017,8 @@ So you've been to the nest?
 
 679
 01:05:39,144 --> 01:05:40,936
-- Did I say nest?
-- How did you find it?
+Did I say nest?
+How did you find it?
 
 680
 01:05:41,104 --> 01:05:43,647
@@ -3106,8 +3106,8 @@ when I found him in the woods?
 
 699
 01:08:08,334 --> 01:08:12,629
-- Would have been better for everyone.
-- Yep. The rest of us would've done it.
+Would have been better for everyone.
+Yep. The rest of us would've done it.
 
 700
 01:08:13,506 --> 01:08:15,340
@@ -3115,13 +3115,13 @@ So why didn't you?
 
 701
 01:08:18,011 --> 01:08:20,804
-- Why didn't you?
-- I don't know.
+Why didn't you?
+I don't know.
 
 702
 01:08:21,765 --> 01:08:23,682
-- I couldn't.
-- That's not an answer.
+I couldn't.
+That's not an answer.
 
 703
 01:08:23,850 --> 01:08:26,143
@@ -3140,7 +3140,7 @@ I was weak. I wouldn't kill a dragon.
 
 706
 01:08:34,903 --> 01:08:36,153
-You said "wouldn't".
+You said wouldn't.
 
 707
 01:08:36,321 --> 01:08:38,489
@@ -3175,8 +3175,8 @@ What are you going to do about it?
 
 714
 01:09:11,397 --> 01:09:15,901
-- Probably something stupid.
-- Good, but you've already done that.
+Probably something stupid.
+Good, but you've already done that.
 
 715
 01:09:17,529 --> 01:09:19,530
@@ -3193,8 +3193,8 @@ Stay within earshot.
 
 718
 01:09:34,420 --> 01:09:36,922
-- Here!
-- One length to your stern.
+Here!
+One length to your stern.
 
 719
 01:09:37,340 --> 01:09:42,302
@@ -3218,8 +3218,8 @@ in fact a plan at all
 
 723
 01:09:52,605 --> 01:09:56,233
-- and what it might be.
-- Find the nest and take it.
+and what it might be.
+Find the nest and take it.
 
 724
 01:09:56,401 --> 01:09:58,527
@@ -3254,8 +3254,8 @@ It's me.
 
 731
 01:10:42,322 --> 01:10:44,698
-- I love this plan.
-- I didn't...
+I love this plan.
+I didn't...
 
 732
 01:10:44,866 --> 01:10:47,743
@@ -3283,8 +3283,8 @@ We're here.
 
 738
 01:12:12,120 --> 01:12:14,621
-- Wait! What are you?
-- Relax.
+Wait! What are you?
+Relax.
 
 739
 01:12:14,789 --> 01:12:16,999
@@ -3345,13 +3345,13 @@ Catapults!
 
 752
 01:14:56,576 --> 01:14:58,952
-- Get to the ships!
-- No! No!
+Get to the ships!
+No! No!
 
 753
 01:15:11,841 --> 01:15:13,758
-- Smart, that one.
-- I was a fool.
+Smart, that one.
+I was a fool.
 
 754
 01:15:13,926 --> 01:15:16,094
@@ -3378,8 +3378,8 @@ Then I can double that time.
 
 759
 01:15:28,274 --> 01:15:31,610
-- Here!
-- Oh, no! Here!
+Here!
+Oh, no! Here!
 
 760
 01:15:41,746 --> 01:15:44,915
@@ -3413,8 +3413,8 @@ stubborn Viking you ever were!
 
 767
 01:16:12,818 --> 01:16:14,444
-- Fishlegs, break it down!
-- OK.
+Fishlegs, break it down!
+OK.
 
 768
 01:16:14,612 --> 01:16:17,405
@@ -3452,13 +3452,13 @@ I'll be back as soon as I can!
 
 775
 01:16:37,843 --> 01:16:40,345
-- Don't worry! We got it covered!
-- Yeah!
+Don't worry! We got it covered!
+Yeah!
 
 776
 01:16:49,355 --> 01:16:50,397
-- Troll!
-- Butt elf!
+Troll!
+Butt elf!
 
 777
 01:16:50,564 --> 01:16:52,107
@@ -3482,8 +3482,8 @@ OK, hold on. Hold on.
 
 782
 01:17:21,012 --> 01:17:23,471
-- It's working!
-- Yeah, it's working!
+It's working!
+Yeah, it's working!
 
 783
 01:17:33,107 --> 01:17:36,484
@@ -3554,13 +3554,13 @@ Get Snotlout out of there.
 
 799
 01:19:30,391 --> 01:19:31,641
-- I'm on it!
-- I'm on it first!
+I'm on it!
+I'm on it first!
 
 800
 01:19:31,809 --> 01:19:33,351
-- Hey, let me drive!
-- I'm ahead of you.
+Hey, let me drive!
+I'm ahead of you.
 
 801
 01:19:33,519 --> 01:19:34,978
@@ -3568,8 +3568,8 @@ No, this way.
 
 802
 01:19:35,146 --> 01:19:37,355
-- Don't push me!
-- I'll take your teeth out!
+Don't push me!
+I'll take your teeth out!
 
 803
 01:19:41,402 --> 01:19:43,153
@@ -3728,8 +3728,8 @@ OK. Thanks, bud.
 
 841
 01:26:56,545 --> 01:27:00,089
-- Toothless, stay here.
-- Come on, guys. Get ready!
+Toothless, stay here.
+Come on, guys. Get ready!
 
 842
 01:27:00,257 --> 01:27:01,507
@@ -3798,8 +3798,8 @@ Welcome home.
 
 857
 01:28:00,025 --> 01:28:02,318
-- Night Fury!
-- Get down!
+Night Fury!
+Get down!
 
 858
 01:28:13,455 --> 01:28:14,455

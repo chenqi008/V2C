@@ -25,8 +25,8 @@ I think you dropped something, mister.
 
 7
 00:01:45,021 --> 00:01:46,689
-- Jessie?
-- Give it up, Bart!
+Jessie?
+Give it up, Bart!
 
 8
 00:01:46,772 --> 00:01:48,273
@@ -38,8 +38,8 @@ I always wanted to go out with a bang!
 
 10
 00:02:00,536 --> 00:02:01,912
-- Oh, no!
-- The orphans!
+Oh, no!
+The orphans!
 
 11
 00:02:04,206 --> 00:02:06,208
@@ -60,8 +60,8 @@ Whoo-hoo!
 
 15
 00:02:18,387 --> 00:02:20,722
-- Ride like the wind, bullseye!
-- Hee-yah!
+Ride like the wind, bullseye!
+Hee-yah!
 
 16
 00:02:26,145 --> 00:02:27,354
@@ -127,17 +127,17 @@ That's Mr. Evil Dr. Pork chop to you.
 
 31
 00:04:56,045 --> 00:04:58,005
-"Buzz,
-shoot your laser at my badge."
+Buzz,
+shoot your laser at my badge.
 
 32
 00:04:58,047 --> 00:04:59,923
-"Woody, no-it'll kill you." "Just do it!"
+Woody, no-it'll kill you. Just do it!
 
 33
 00:05:04,637 --> 00:05:07,556
-"You're going to jail, Bart."
-"Watch out!"
+You're going to jail, Bart.
+Watch out!
 
 34
 00:05:10,851 --> 00:05:13,854
@@ -166,12 +166,12 @@ Does the red light mean it's going?
 39
 00:05:26,283 --> 00:05:28,285
 Come on.
-Say "happy birthday" to Molly.
+Say happy birthday to Molly.
 
 40
 00:05:29,912 --> 00:05:32,164
-- Happy birthday!
-- Oh, charming.
+Happy birthday!
+Oh, charming.
 
 41
 00:05:32,331 --> 00:05:33,874
@@ -187,20 +187,20 @@ Yeah! Whoo-hoo!
 
 44
 00:05:45,636 --> 00:05:48,096
-"I came as fast as I could.
-Buzz, behind you!"
+I came as fast as I could.
+Buzz, behind you!
 
 45
 00:05:48,138 --> 00:05:49,764
-"Got it, Woody."
+Got it, Woody.
 
 46
 00:05:50,432 --> 00:05:52,600
-<i>Buzz ugh (year to; The rescue!</i>
+Buzz ugh (year to; The rescue!
 
 47
 00:05:54,228 --> 00:05:55,854
-"Good work, buzz."
+Good work, buzz.
 
 48
 00:06:01,819 --> 00:06:03,737
@@ -217,8 +217,8 @@ Wait! I can't find my other eye.
 
 51
 00:06:26,135 --> 00:06:28,762
-- All right, whose foot's in my face?
-- It's mine. Give it back.
+All right, whose foot's in my face?
+It's mine. Give it back.
 
 52
 00:06:28,804 --> 00:06:30,844
@@ -264,8 +264,8 @@ Careful. Careful!
 
 62
 00:06:53,370 --> 00:06:54,371
-- Ooh!
-- Oh!
+Ooh!
+Oh!
 
 63
 00:06:54,496 --> 00:06:57,540
@@ -290,7 +290,7 @@ Just like we rehearsed it, guys.
 
 68
 00:07:36,997 --> 00:07:39,374
-<i>Hello? Anyone there?</i>
+Hello? Anyone there?
 
 69
 00:07:40,209 --> 00:07:42,211
@@ -394,8 +394,8 @@ Andy's going to college any day now.
 
 92
 00:08:44,273 --> 00:08:46,233
-- That was our last shot.
-- Oh.
+That was our last shot.
+Oh.
 
 93
 00:08:46,275 --> 00:08:47,818
@@ -442,8 +442,8 @@ Me and the boys are moving on.
 
 102
 00:09:09,298 --> 00:09:11,133
-- Moving on?
-- You're going awol?
+Moving on?
+You're going awol?
 
 103
 00:09:11,633 --> 00:09:14,010
@@ -460,8 +460,8 @@ we army guys are the first to go.
 
 106
 00:09:18,390 --> 00:09:20,725
-- Trash bags?
-- Who said anything about trash bags?
+Trash bags?
+Who said anything about trash bags?
 
 107
 00:09:21,185 --> 00:09:24,938
@@ -478,8 +478,8 @@ No, no, no. Wait, wait, wait, wait!
 
 110
 00:09:29,985 --> 00:09:32,505
-- We're getting thrown away?
-- No. No one's getting thrown away.
+We're getting thrown away?
+No. No one's getting thrown away.
 
 111
 00:09:32,738 --> 00:09:33,739
@@ -487,18 +487,18 @@ How do you know?
 
 112
 00:09:33,822 --> 00:09:35,865
-- We're being abandoned!
-- We'll be fine, Jessie.
+We're being abandoned!
+We'll be fine, Jessie.
 
 113
 00:09:35,949 --> 00:09:38,326
-- So why did sarge leave?
-- Should we leave?
+So why did sarge leave?
+Should we leave?
 
 114
 00:09:38,410 --> 00:09:41,663
-- I thought we were goin' to the attic.
-- Oh, I hate all this uncertainty!
+I thought we were goin' to the attic.
+Oh, I hate all this uncertainty!
 
 115
 00:09:41,705 --> 00:09:43,767
@@ -517,8 +517,8 @@ we've lost friends along the way.
 
 118
 00:09:51,840 --> 00:09:54,676
-- Wheezy and etch and...
-- Bo peep?
+Wheezy and etch and...
+Bo peep?
 
 119
 00:09:56,678 --> 00:09:59,097
@@ -546,8 +546,8 @@ the attic. It'll be safe and warm...
 
 124
 00:10:14,613 --> 00:10:17,032
-- And we'll all be together.
-- Exactly!
+And we'll all be together.
+Exactly!
 
 125
 00:10:17,074 --> 00:10:18,950
@@ -556,13 +556,13 @@ and books, and...
 
 126
 00:10:19,034 --> 00:10:22,037
-- The racecar track!
-- The racecar track. Thank you!
+The racecar track!
+The racecar track. Thank you!
 
 127
 00:10:22,079 --> 00:10:25,499
-- And the old TV.
-- There you go, the old TV.
+And the old TV.
+There you go, the old TV.
 
 128
 00:10:25,541 --> 00:10:29,711
@@ -637,23 +637,23 @@ For infinity and beyond.
 
 144
 00:11:38,280 --> 00:11:39,614
-- Can I have your stereo?
-- No.
+Can I have your stereo?
+No.
 
 145
 00:11:39,656 --> 00:11:41,296
-- Why not?
-- 'Cause I'm taking it with me.
+Why not?
+'Cause I'm taking it with me.
 
 146
 00:11:47,497 --> 00:11:49,207
-- Can I have your computer?
-- No.
+Can I have your computer?
+No.
 
 147
 00:11:49,291 --> 00:11:51,584
-- Your video games?
-- Forget it, Molly.
+Your video games?
+Forget it, Molly.
 
 148
 00:11:51,627 --> 00:11:53,420
@@ -666,13 +666,13 @@ either goes in the attic, or it's trash.
 
 150
 00:11:57,132 --> 00:12:00,176
-- Mom, I'm not leaving till Friday.
-- Come on. It's garbage day.
+Mom, I'm not leaving till Friday.
+Come on. It's garbage day.
 
 151
 00:12:00,260 --> 00:12:02,053
-- Mom.
-- Look, it's simple.
+Mom.
+Look, it's simple.
 
 152
 00:12:02,137 --> 00:12:06,474
@@ -724,8 +724,8 @@ What's daycare?
 
 163
 00:12:27,663 --> 00:12:28,914
-- Mom.
-- No buts.
+Mom.
+No buts.
 
 164
 00:12:28,997 --> 00:12:32,208
@@ -756,8 +756,8 @@ with these toys?
 
 170
 00:12:52,187 --> 00:12:54,189
-- Should we donate them to sunnyside?
-- No.
+Should we donate them to sunnyside?
+No.
 
 171
 00:12:54,231 --> 00:12:55,440
@@ -783,13 +783,13 @@ or in the attic
 
 176
 00:13:04,074 --> 00:13:07,118
-- is getting thrown out.
-- Whatever you say, mom.
+is getting thrown out.
+Whatever you say, mom.
 
 177
 00:13:59,671 --> 00:14:01,691
-- What's happening?
-- We're getting thrown out, you idiot.
+What's happening?
+We're getting thrown out, you idiot.
 
 178
 00:14:01,715 --> 00:14:02,716
@@ -797,8 +797,8 @@ That's what's happening.
 
 179
 00:14:17,272 --> 00:14:19,065
-- You need a hand?
-- I got it.
+You need a hand?
+I got it.
 
 180
 00:14:19,107 --> 00:14:20,108
@@ -811,8 +811,8 @@ when I'm gone?
 
 182
 00:14:22,444 --> 00:14:24,821
-- If I say no, do I still get your room?
-- Nope
+If I say no, do I still get your room?
+Nope
 
 183
 00:14:25,113 --> 00:14:26,739
@@ -824,8 +824,8 @@ I can't breathe!
 
 185
 00:14:28,658 --> 00:14:30,993
-- Oh, this can't be happening!
-- Quiet! What's that sound?
+Oh, this can't be happening!
+Quiet! What's that sound?
 
 186
 00:14:42,089 --> 00:14:44,007
@@ -859,8 +859,8 @@ Get up. Buster!
 
 193
 00:15:27,926 --> 00:15:30,219
-- We're on the curb!
-- Oh, I knew it would come to this!
+We're on the curb!
+Oh, I knew it would come to this!
 
 194
 00:15:30,303 --> 00:15:31,804
@@ -868,8 +868,8 @@ Pull, everyone! Pull!
 
 195
 00:15:42,190 --> 00:15:44,233
-- It won't rip!
-- Oh, forget it!
+It won't rip!
+Oh, forget it!
 
 196
 00:15:44,317 --> 00:15:46,944
@@ -907,13 +907,13 @@ Buzz! Jessie!
 
 204
 00:16:48,798 --> 00:16:51,175
-- Andy threw us out.
-- Like we were garbage.
+Andy threw us out.
+Like we were garbage.
 
 205
 00:16:51,259 --> 00:16:53,970
-- Junk. He called us junk.
-- How could he?
+Junk. He called us junk.
+How could he?
 
 206
 00:16:55,680 --> 00:16:56,931
@@ -926,8 +926,8 @@ It's Emily all over again.
 
 208
 00:17:00,602 --> 00:17:03,062
-- Sarge was right.
-- Yeah, and Woody was wrong.
+Sarge was right.
+Yeah, and Woody was wrong.
 
 209
 00:17:03,104 --> 00:17:05,731
@@ -940,13 +940,13 @@ It's the perfect time to be hysterical.
 
 211
 00:17:07,567 --> 00:17:09,277
-- Should we be hysterical?
-- No!
+Should we be hysterical?
+No!
 
 212
 00:17:09,361 --> 00:17:11,321
-- Yes!
-- Maybe! But not right now!
+Yes!
+Maybe! But not right now!
 
 213
 00:17:11,404 --> 00:17:15,904
@@ -958,8 +958,8 @@ What the heck?
 
 215
 00:17:24,459 --> 00:17:28,045
-- Oh, we should've done this years ago.
-- Jessie, wait. What about Woody?
+Oh, we should've done this years ago.
+Jessie, wait. What about Woody?
 
 216
 00:17:28,129 --> 00:17:31,132
@@ -976,8 +976,8 @@ You're right. Come on.
 
 219
 00:17:36,805 --> 00:17:38,097
-- Buzz?
-- Woody!
+Buzz?
+Woody!
 
 220
 00:17:38,139 --> 00:17:41,267
@@ -1107,8 +1107,8 @@ He left us on the curb!
 
 247
 00:19:04,434 --> 00:19:07,228
-- All right, calm down! Both of you!
-- Okay, fine. Fine.
+All right, calm down! Both of you!
+Okay, fine. Fine.
 
 248
 00:19:07,270 --> 00:19:08,950
@@ -1117,8 +1117,8 @@ what daycare's like.
 
 249
 00:19:08,980 --> 00:19:12,608
-- Why? What's it like?
-- Daycare is a sad, lonely place
+Why? What's it like?
+Daycare is a sad, lonely place
 
 250
 00:19:12,692 --> 00:19:15,861
@@ -1127,8 +1127,8 @@ who have no owners.
 
 251
 00:19:19,032 --> 00:19:20,676
-- Quite the charmer, aren't ya?
-- Oh, you'll see.
+Quite the charmer, aren't ya?
+Oh, you'll see.
 
 252
 00:19:20,700 --> 00:19:23,911
@@ -1145,7 +1145,7 @@ There's a playground!
 
 255
 00:19:41,930 --> 00:19:42,972
-<i>V'.</i>
+V'.
 
 256
 00:19:43,056 --> 00:19:45,058
@@ -1171,8 +1171,8 @@ The door has a rainbow on it.
 
 261
 00:19:58,988 --> 00:20:01,198
-- Hey there!
-- Wow!
+Hey there!
+Wow!
 
 262
 00:20:01,282 --> 00:20:02,783
@@ -1188,8 +1188,8 @@ Is this Bonnie? Look how big you are.
 
 265
 00:20:09,082 --> 00:20:11,292
-- Say hi, sweetie.
-- Hi.
+Say hi, sweetie.
+Hi.
 
 266
 00:20:11,334 --> 00:20:13,586
@@ -1203,23 +1203,23 @@ Andy's going to college on Friday.
 
 268
 00:20:16,965 --> 00:20:18,591
-- What?
-- Can you believe it?
+What?
+Can you believe it?
 
 269
 00:20:18,633 --> 00:20:22,219
-- You sure they won't miss these?
-- No, they never get played with.
+You sure they won't miss these?
+No, they never get played with.
 
 270
 00:20:24,597 --> 00:20:26,765
-- You see any kids?
-- Where is she taking us?
+You see any kids?
+Where is she taking us?
 
 271
 00:20:34,315 --> 00:20:35,524
-- Look!
-- Wow!
+Look!
+Wow!
 
 272
 00:20:35,608 --> 00:20:37,234
@@ -1247,8 +1247,8 @@ Yay!
 
 278
 00:20:57,172 --> 00:20:59,340
-- So now what do we do?
-- We go back to Andy's.
+So now what do we do?
+We go back to Andy's.
 
 279
 00:20:59,382 --> 00:21:00,383
@@ -1266,13 +1266,13 @@ jealous of new arrivals.
 
 282
 00:21:05,013 --> 00:21:06,014
-- I want to see!
-- Hey!
+I want to see!
+Hey!
 
 283
 00:21:06,097 --> 00:21:07,264
-- Rex!
-- It's my turn!
+Rex!
+It's my turn!
 
 284
 00:21:13,104 --> 00:21:14,355
@@ -1397,8 +1397,8 @@ Yee-haw!
 
 311
 00:22:48,366 --> 00:22:51,786
-- It's a miracle.
-- And you wanted us to stay at Andy's.
+It's a miracle.
+And you wanted us to stay at Andy's.
 
 312
 00:22:51,870 --> 00:22:53,329
@@ -1415,8 +1415,8 @@ He can't hurt you no more.
 
 315
 00:22:59,460 --> 00:23:01,897
-- Whoa, whoa, no, no, no...
-- Now, let's get you all settled in.
+Whoa, whoa, no, no, no...
+Now, let's get you all settled in.
 
 316
 00:23:01,921 --> 00:23:05,966
@@ -1459,8 +1459,8 @@ I would've remembered.
 
 325
 00:23:37,332 --> 00:23:40,084
-- Love your legwarmers.
-- Nice ascot-.
+Love your legwarmers.
+Nice ascot-.
 
 326
 00:23:40,501 --> 00:23:43,170
@@ -1478,8 +1478,8 @@ The little ones love new toys.
 
 329
 00:23:51,054 --> 00:23:54,599
-- What a nice bear.
-- And he smells like strawberries.
+What a nice bear.
+And he smells like strawberries.
 
 330
 00:23:56,059 --> 00:23:58,853
@@ -1502,8 +1502,8 @@ to choke a hungry hungry hippo.
 
 334
 00:24:07,028 --> 00:24:08,529
-- Think you're gettin' old?
-- Wow.
+Think you're gettin' old?
+Wow.
 
 335
 00:24:08,571 --> 00:24:10,155
@@ -1593,8 +1593,8 @@ The caterpillar room.
 
 354
 00:25:08,589 --> 00:25:10,549
-- Look at this place.
-- Wow!
+Look at this place.
+Wow!
 
 355
 00:25:10,591 --> 00:25:12,634
@@ -1606,13 +1606,13 @@ Jackpot, baby.
 
 357
 00:25:14,637 --> 00:25:16,096
-- Whoa, puppy!
-- Hello.
+Whoa, puppy!
+Hello.
 
 358
 00:25:16,180 --> 00:25:17,222
-- Hello.
-- Hello.
+Hello.
+Hello.
 
 359
 00:25:18,766 --> 00:25:21,101
@@ -1656,18 +1656,18 @@ Welcome to sunnyside, folks.
 
 368
 00:25:45,293 --> 00:25:46,395
-- Thank you.
-- Take care, pinky.
+Thank you.
+Take care, pinky.
 
 369
 00:25:46,419 --> 00:25:48,022
-- Goodbye, Mr. Lotso. Thank you.
-- Thank you, buddy boy.
+Goodbye, Mr. Lotso. Thank you.
+Thank you, buddy boy.
 
 370
 00:25:48,046 --> 00:25:51,215
-- Will I see you again?
-- Oh, I'll see you tonight
+Will I see you again?
+Oh, I'll see you tonight
 
 371
 00:25:51,299 --> 00:25:52,800
@@ -1694,17 +1694,17 @@ I feel like we were...
 
 376
 00:26:03,811 --> 00:26:05,651
-- Made for each other.
-- Made for each other.
+Made for each other.
+Made for each other.
 
 377
 00:26:07,648 --> 00:26:08,815
-<i>Nay!
-- Y es.</i>
+Nay!
+Y es.
 
 378
 00:26:08,900 --> 00:26:10,818
-- Coming, lotso.
+Coming, lotso.
 
 379
 00:26:13,071 --> 00:26:14,822
@@ -1746,23 +1746,23 @@ A chance to make kids happy again.
 
 388
 00:26:47,355 --> 00:26:50,149
-- Why don't you stay?
-- Yeah, Woody. Stay with us.
+Why don't you stay?
+Yeah, Woody. Stay with us.
 
 389
 00:26:50,191 --> 00:26:51,502
-- Come on, woodster!
-- You'll get played with.
+Come on, woodster!
+You'll get played with.
 
 390
 00:26:51,526 --> 00:26:52,610
-- I can't. No.
-- Stay here.
+I can't. No.
+Stay here.
 
 391
 00:26:52,693 --> 00:26:55,013
-- You can make a new kid happy.
-- No, no. Guys, really. No!
+You can make a new kid happy.
+No, no. Guys, really. No!
 
 392
 00:26:55,696 --> 00:26:59,074
@@ -1789,7 +1789,7 @@ is welcome. Come on, buzz.
 
 397
 00:27:15,716 --> 00:27:16,800
-<i>Buzz?</i>
+Buzz?
 
 398
 00:27:20,012 --> 00:27:21,805
@@ -1858,7 +1858,7 @@ Bullseye, no. You need to stay.
 
 412
 00:28:28,956 --> 00:28:31,166
-Bullseye. No, I said, "stay!"
+Bullseye. No, I said, stay!
 
 413
 00:28:32,835 --> 00:28:34,419
@@ -1892,8 +1892,8 @@ Now, that's better.
 
 420
 00:30:03,968 --> 00:30:06,261
-- Bonnie!
-- Bluebells, cockleshells...
+Bonnie!
+Bluebells, cockleshells...
 
 421
 00:30:06,345 --> 00:30:09,348
@@ -1906,7 +1906,7 @@ Oh! No, no, no, no!
 
 423
 00:31:16,123 --> 00:31:18,959
-<i>Reach for the sky!</i>
+Reach for the sky!
 
 424
 00:31:19,460 --> 00:31:23,380
@@ -1914,12 +1914,12 @@ Bluebells, cockleshells. Eenie, miny...
 
 425
 00:31:29,678 --> 00:31:32,305
-<i>You 're my favorite deputy.</i>
+You 're my favorite deputy.
 
 426
 00:31:33,140 --> 00:31:34,641
-- Bonnie!
-- Coming!
+Bonnie!
+Coming!
 
 427
 00:31:38,145 --> 00:31:39,604
@@ -1954,8 +1954,8 @@ they're lining up out there!
 
 434
 00:32:04,171 --> 00:32:06,131
-- How many?
-- There must be dozens.
+How many?
+There must be dozens.
 
 435
 00:32:06,173 --> 00:32:07,424
@@ -1971,8 +1971,8 @@ At last! I'm gonna get played with!
 
 438
 00:32:26,318 --> 00:32:28,486
-- Uh, Rex?
-- Come to papa.
+Uh, Rex?
+Come to papa.
 
 439
 00:32:48,883 --> 00:32:50,301
@@ -1980,12 +1980,12 @@ I'ineking
 
 440
 00:33:23,250 --> 00:33:24,918
-<i>There 's a snake in my boat.</i>
+There 's a snake in my boat.
 
 441
 00:33:25,961 --> 00:33:30,298
-<i>I 'd like to join your posse, boys,
-but first I 'm gonna sing a little song.</i>
+I 'd like to join your posse, boys,
+but first I 'm gonna sing a little song.
 
 442
 00:33:30,382 --> 00:33:31,383
@@ -2061,8 +2061,8 @@ loose, have fun, you'll be fine.
 
 458
 00:34:16,929 --> 00:34:19,848
-- No, no, no, no. I...
-- Who wants lunch?
+No, no, no, no. I...
+Who wants lunch?
 
 459
 00:34:19,932 --> 00:34:21,516
@@ -2074,7 +2074,7 @@ It has a secret ingredient. Jelly beans.
 
 461
 00:34:26,355 --> 00:34:28,607
-<i>Somebody's poisoned the water hole.</i>
+Somebody's poisoned the water hole.
 
 462
 00:34:29,733 --> 00:34:32,193
@@ -2088,7 +2088,7 @@ She's using her witch-y powers!
 
 464
 00:34:42,079 --> 00:34:43,330
-"I know where to hide."
+I know where to hide.
 
 465
 00:34:47,167 --> 00:34:49,335
@@ -2105,8 +2105,8 @@ to get away from the witch!
 
 468
 00:34:56,552 --> 00:34:59,346
-- You're doing great!
-- Are you classically-trained?
+You're doing great!
+Are you classically-trained?
 
 469
 00:34:59,430 --> 00:35:01,157
@@ -2128,8 +2128,8 @@ jumped right in, didn't ya? I'm Dolly.
 
 473
 00:35:08,355 --> 00:35:09,689
-- Uh, Woody.
-- Woody?
+Uh, Woody.
+Woody?
 
 474
 00:35:09,898 --> 00:35:11,482
@@ -2146,23 +2146,23 @@ That's coming from a doll named Dolly.
 
 477
 00:35:17,031 --> 00:35:19,533
-- Who's the new guy?
-- Are you a real cowboy?
+Who's the new guy?
+Are you a real cowboy?
 
 478
 00:35:19,783 --> 00:35:21,826
-- Well, actually...
-- 'Course he's not, pea brain.
+Well, actually...
+'Course he's not, pea brain.
 
 479
 00:35:21,869 --> 00:35:25,122
-- He don't even have a hat.
-- I do too have... my hat!
+He don't even have a hat.
+I do too have... my hat!
 
 480
 00:35:25,205 --> 00:35:27,415
-- Told ya.
-- I found a spaceship!
+Told ya.
+I found a spaceship!
 
 481
 00:35:27,666 --> 00:35:28,833
@@ -2204,13 +2204,13 @@ Someone need a hand?
 
 490
 00:36:11,460 --> 00:36:12,919
-- Where's my nose?
-- Here it is.
+Where's my nose?
+Here it is.
 
 491
 00:36:12,961 --> 00:36:14,272
-- Here's your arm.
-- Give me that. That's mine.
+Here's your arm.
+Give me that. That's mine.
 
 492
 00:36:14,296 --> 00:36:15,422
@@ -2237,8 +2237,8 @@ they don't know how to play with us.
 
 497
 00:36:25,599 --> 00:36:27,934
-- They're too young!
-- Yeah, they're sticky.
+They're too young!
+Yeah, they're sticky.
 
 498
 00:36:28,018 --> 00:36:29,371
@@ -2255,8 +2255,8 @@ That's right.
 
 501
 00:36:31,605 --> 00:36:33,416
-- Yeah, you said it.
-- We'ii get this straightened out.
+Yeah, you said it.
+We'ii get this straightened out.
 
 502
 00:36:33,440 --> 00:36:36,067
@@ -2273,8 +2273,8 @@ It's locked!
 
 505
 00:36:44,118 --> 00:36:45,869
-- Same here.
-- Try the windows.
+Same here.
+Try the windows.
 
 506
 00:36:46,286 --> 00:36:48,871
@@ -2287,8 +2287,8 @@ Finest childproof lock in the world.
 
 508
 00:36:50,749 --> 00:36:52,792
-- We're trapped!
-- Wait.
+We're trapped!
+Wait.
 
 509
 00:36:52,876 --> 00:36:54,210
@@ -2305,8 +2305,8 @@ One, two...
 
 512
 00:37:03,887 --> 00:37:05,179
-- Three!
-- Whoa!
+Three!
+Whoa!
 
 513
 00:37:07,307 --> 00:37:08,474
@@ -2314,8 +2314,8 @@ Let go!
 
 514
 00:37:26,326 --> 00:37:28,119
-- He did it!
-- Yes, sir!
+He did it!
+Yes, sir!
 
 515
 00:37:29,079 --> 00:37:30,622
@@ -2332,28 +2332,28 @@ They might hear you.
 
 518
 00:37:40,257 --> 00:37:41,800
-- Okay, now you start.
-- I...
+Okay, now you start.
+I...
 
 519
 00:37:41,842 --> 00:37:43,093
-- Love...
-- You.
+Love...
+You.
 
 520
 00:37:43,177 --> 00:37:45,512
-See? That time, I said "love."
+See? That time, I said love.
 Okay, now me first.
 
 521
 00:37:45,554 --> 00:37:46,638
-- Okay, okay, okay.
-- I...
+Okay, okay, okay.
+I...
 
 522
 00:37:46,680 --> 00:37:47,847
-- Love...
-- You.
+Love...
+You.
 
 523
 00:37:48,182 --> 00:37:49,975
@@ -2370,8 +2370,8 @@ Come on, Romeo. We're late.
 
 526
 00:37:53,979 --> 00:37:55,814
-- I'll wait up for you.
-- Kisses!
+I'll wait up for you.
+Kisses!
 
 527
 00:38:59,545 --> 00:39:01,231
@@ -2380,13 +2380,13 @@ Come on, everybody.
 
 528
 00:39:01,255 --> 00:39:02,482
-- Come on. Any splits?
-- Heya. Bring it here.
+Come on. Any splits?
+Heya. Bring it here.
 
 529
 00:39:02,506 --> 00:39:03,548
-- All right.
-- Here we go.
+All right.
+Here we go.
 
 530
 00:39:03,590 --> 00:39:04,591
@@ -2399,8 +2399,8 @@ come on, Turkey.
 
 532
 00:39:05,759 --> 00:39:07,362
-- Gobble, gobble, baby.
-- Come on, horsey.
+Gobble, gobble, baby.
+Come on, horsey.
 
 533
 00:39:07,386 --> 00:39:08,387
@@ -2408,8 +2408,8 @@ Come on, duck.
 
 534
 00:39:08,428 --> 00:39:10,406
-- All right, that's it. No more bets.
-- Come on! Right here.
+All right, that's it. No more bets.
+Come on! Right here.
 
 535
 00:39:10,430 --> 00:39:11,533
@@ -2422,17 +2422,17 @@ let me have the duck!
 
 537
 00:39:12,683 --> 00:39:14,226
-<i>- Here</i> is <i>a duck.</i>
+Here is a duck.
 
 538
 00:39:14,268 --> 00:39:15,852
-- I won!
-- Ah, man!
+I won!
+Ah, man!
 
 539
 00:39:17,104 --> 00:39:19,648
-- Well, stretch takes the round.
-- You lost!
+Well, stretch takes the round.
+You lost!
 
 540
 00:39:19,731 --> 00:39:21,357
@@ -2440,13 +2440,13 @@ Okay, minimum bet, five monopoly.
 
 541
 00:39:21,608 --> 00:39:22,942
-- Coyote's wild.
-- Here, here.
+Coyote's wild.
+Here, here.
 
 542
 00:39:23,026 --> 00:39:24,587
-- Two Greens here.
-- Changing two double a's.
+Two Greens here.
+Changing two double a's.
 
 543
 00:39:24,611 --> 00:39:26,798
@@ -2459,8 +2459,8 @@ Oh, please! Landfill!
 
 545
 00:39:28,699 --> 00:39:31,243
-- Cowgirl? Dinosaur?
-- Toddler fodder.
+Cowgirl? Dinosaur?
+Toddler fodder.
 
 546
 00:39:31,285 --> 00:39:34,121
@@ -2515,11 +2515,11 @@ Let me go!
 
 558
 00:40:09,197 --> 00:40:10,656
-<i>Take him to the “haw.</i>
+Take him to the “haw.
 
 559
 00:40:10,699 --> 00:40:11,741
-7' <i>I</i>
+7' I
 
 560
 00:40:42,689 --> 00:40:44,190
@@ -2535,8 +2535,8 @@ I gotta get outta here.
 
 563
 00:40:49,196 --> 00:40:51,781
-- You're leaving?
-- But didn't you have fun today?
+You're leaving?
+But didn't you have fun today?
 
 564
 00:40:51,865 --> 00:40:53,676
@@ -2549,12 +2549,12 @@ but, you see, I belong to someone else.
 
 566
 00:40:56,078 --> 00:40:59,164
-- Who's "yid-nuh"?
-- I believe it's pronounced "yid-nay."
+Who's yid-nuh?
+I believe it's pronounced yid-nay.
 
 567
 00:40:59,206 --> 00:41:01,124
-Guys, it says "Andy."
+Guys, it says Andy.
 
 568
 00:41:01,208 --> 00:41:02,459
@@ -2567,13 +2567,13 @@ I gotta get home.
 
 570
 00:41:04,711 --> 00:41:07,422
-- Where's home?
-- Elm street. 234 elm.
+Where's home?
+Elm street. 234 elm.
 
 571
 00:41:08,048 --> 00:41:10,800
-- You guys have a map?
-- We're on it, cowboy. Trixie?
+You guys have a map?
+We're on it, cowboy. Trixie?
 
 572
 00:41:11,593 --> 00:41:13,261
@@ -2604,7 +2604,7 @@ He got out, lotso.
 
 578
 00:41:34,574 --> 00:41:39,074
-"Got out"? Oh, no, no, no, no, no.
+Got out? Oh, no, no, no, no, no.
 This isn't how we treat our guests.
 
 579
@@ -2614,8 +2614,8 @@ There you go. I'm so sorry.
 
 580
 00:41:45,502 --> 00:41:47,754
-- Lotso, there's been a mistake.
-- A mistake?
+Lotso, there's been a mistake.
+A mistake?
 
 581
 00:41:47,796 --> 00:41:50,066
@@ -2637,8 +2637,8 @@ Well, request granted!
 
 585
 00:41:56,430 --> 00:41:58,807
-- But, lotso...
-- Hush now, Kenneth.
+But, lotso...
+Hush now, Kenneth.
 
 586
 00:41:58,890 --> 00:42:02,226
@@ -2730,7 +2730,7 @@ Ah! Here it is.
 
 606
 00:43:03,663 --> 00:43:06,332
-It was filed under "lightyear."
+It was filed under lightyear.
 
 607
 00:43:11,338 --> 00:43:12,672
@@ -2738,13 +2738,13 @@ Let's see here.
 
 608
 00:43:13,173 --> 00:43:15,925
-"Accessories. Maintenance."
+Accessories. Maintenance.
 Oh. Here we go.
 
 609
 00:43:16,510 --> 00:43:19,763
-"Remove screws to access
-battery compartment."
+Remove screws to access
+battery compartment.
 
 610
 00:43:19,846 --> 00:43:21,013
@@ -2760,12 +2760,12 @@ Let go of me! Ow!
 
 613
 00:43:24,351 --> 00:43:28,851
-"To return your buzz lightyear action
-figure to its original factory settings..."
+To return your buzz lightyear action
+figure to its original factory settings...
 
 614
 00:43:31,191 --> 00:43:33,818
-"slide the switch from play to demo."
+slide the switch from play to demo.
 
 615
 00:43:33,860 --> 00:43:37,572
@@ -2773,8 +2773,8 @@ Stop! No! No! No!
 
 616
 00:43:38,573 --> 00:43:41,158
-- What was that?
-- Sounds like it came from the hall.
+What was that?
+Sounds like it came from the hall.
 
 617
 00:43:41,201 --> 00:43:42,827
@@ -2795,8 +2795,8 @@ I see Andy!
 
 621
 00:43:52,838 --> 00:43:54,381
-- What?
-- That's impossible.
+What?
+That's impossible.
 
 622
 00:43:54,422 --> 00:43:56,882
@@ -2809,29 +2809,29 @@ The one I left behind.
 
 624
 00:44:03,640 --> 00:44:07,060
-<i>This is so weird. He 's packing up.</i>
+This is so weird. He 's packing up.
 
 625
 00:44:07,352 --> 00:44:11,852
-<i>Uh-oh. Oh, here comes buster.
-Out of the way! Get away!</i>
+Uh-oh. Oh, here comes buster.
+Out of the way! Get away!
 
 626
 00:44:13,692 --> 00:44:15,485
-<i>Okay, Andy's out in the hall.</i>
+Okay, Andy's out in the hall.
 
 627
 00:44:16,278 --> 00:44:18,655
-<i>He's looking in the attic.</i>
+He's looking in the attic.
 
 628
 00:44:18,738 --> 00:44:22,074
-<i>Wait, there's mom.
-Why is he so upset?</i>
+Wait, there's mom.
+Why is he so upset?
 
 629
 00:44:23,160 --> 00:44:25,912
-<i>Oh, no! Oh, this is terrible!</i>
+Oh, no! Oh, this is terrible!
 
 630
 00:44:27,414 --> 00:44:30,500
@@ -2858,8 +2858,8 @@ Well, then, Woody was telling the truth.
 
 635
 00:44:39,593 --> 00:44:41,553
-- Holy cow!
-- And you didn't believe him.
+Holy cow!
+And you didn't believe him.
 
 636
 00:44:41,595 --> 00:44:43,138
@@ -2871,8 +2871,8 @@ Guys, we gotta... we gotta go home!
 
 638
 00:44:48,602 --> 00:44:49,811
-- Lotso!
-- Hey, there.
+Lotso!
+Hey, there.
 
 639
 00:44:50,478 --> 00:44:52,480
@@ -2904,7 +2904,7 @@ now, don't they?
 
 645
 00:45:07,954 --> 00:45:10,831
-"Love"? We've been chewed,
+Love? We've been chewed,
 kicked, drooled on.
 
 646
@@ -2922,7 +2922,7 @@ You ain't leavin' sunnyside.
 
 649
 00:45:18,632 --> 00:45:21,801
-"Sweet potato"!
+Sweet potato!
 Who do you think you're talking to?
 
 650
@@ -2965,8 +2965,8 @@ Buzz! You're back!
 
 659
 00:45:45,825 --> 00:45:47,034
-<i>- Moo-yaw.
-- Buzz?</i>
+Moo-yaw.
+Buzz?
 
 660
 00:45:48,078 --> 00:45:49,120
@@ -2982,7 +2982,7 @@ What are you, nuts?
 
 663
 00:45:53,208 --> 00:45:54,250
-<i>V</i>
+V
 
 664
 00:45:57,963 --> 00:46:00,340
@@ -2991,8 +2991,8 @@ commander lotso!
 
 665
 00:46:00,382 --> 00:46:02,634
-- Buzz, what are you doing?
-- Silence, minions of zurg!
+Buzz, what are you doing?
+Silence, minions of zurg!
 
 666
 00:46:02,676 --> 00:46:04,803
@@ -3001,8 +3001,8 @@ of the galactic alliance!
 
 667
 00:46:04,844 --> 00:46:06,345
-- "Zurg"?
-- "Galactic alliance"?
+Zurg?
+Galactic alliance?
 
 668
 00:46:06,388 --> 00:46:07,430
@@ -3096,18 +3096,18 @@ Get in there!
 
 689
 00:46:58,565 --> 00:47:00,441
-- Barbie, wait!
-- Don't touch me.
+Barbie, wait!
+Don't touch me.
 
 690
 00:47:00,525 --> 00:47:03,027
-- We're through!
-- Barbie! I did...
+We're through!
+Barbie! I did...
 
 691
 00:47:04,738 --> 00:47:07,407
-- And give me my scarf back!
-- Ow!
+And give me my scarf back!
+Ow!
 
 692
 00:47:08,700 --> 00:47:11,577
@@ -3126,12 +3126,12 @@ spends the night in the box.
 
 695
 00:47:19,085 --> 00:47:20,878
-<i>Roll call at dusk and dawn.</i>
+Roll call at dusk and dawn.
 
 696
 00:47:21,296 --> 00:47:25,091
-<i>Any prisoner misses roll call,
-spends the night in the box.</i>
+Any prisoner misses roll call,
+spends the night in the box.
 
 697
 00:47:25,425 --> 00:47:28,219
@@ -3226,8 +3226,8 @@ Let me just take care of that.
 
 717
 00:48:33,159 --> 00:48:34,952
-- Just a dinosaur.
-- All right.
+Just a dinosaur.
+All right.
 
 718
 00:48:35,412 --> 00:48:38,164
@@ -3253,8 +3253,8 @@ I'm big toy on campus! Hello!
 
 723
 00:48:51,386 --> 00:48:54,097
-- Hey, I'll see you at the sock hop.
-- Okay, potsie.
+Hey, I'll see you at the sock hop.
+Okay, potsie.
 
 724
 00:48:54,347 --> 00:48:57,808
@@ -3267,8 +3267,8 @@ you tell 'em Woody made it home.
 
 726
 00:48:59,018 --> 00:49:02,229
-- You came from sunnyside?
-- But how'd you escape?
+You came from sunnyside?
+But how'd you escape?
 
 727
 00:49:02,313 --> 00:49:04,148
@@ -3276,7 +3276,7 @@ Well, it wasn't easy.
 
 728
 00:49:05,150 --> 00:49:06,359
-What do you mean "escape"?
+What do you mean escape?
 
 729
 00:49:07,986 --> 00:49:11,072
@@ -3324,67 +3324,67 @@ we had the same kid, Daisy.
 
 739
 00:49:44,981 --> 00:49:47,900
-<i>I was there
-when lotso got unwrapped.</i>
+I was there
+when lotso got unwrapped.
 
 740
 00:49:50,320 --> 00:49:52,071
-<i>Daisy loved us all.</i>
+Daisy loved us all.
 
 741
 00:49:52,572 --> 00:49:53,739
-<i>But lotso,</i>
+But lotso,
 
 742
 00:49:54,199 --> 00:49:55,992
-<i>lotso was special.</i>
+lotso was special.
 
 743
 00:49:57,452 --> 00:49:59,662
-<i>They did everything together.</i>
+They did everything together.
 
 744
 00:50:00,747 --> 00:50:03,791
-<i>You've never seen
-a kid and a toy more in love.</i>
+You've never seen
+a kid and a toy more in love.
 
 745
 00:50:04,626 --> 00:50:06,628
-<i>One day, we took a drive.</i>
+One day, we took a drive.
 
 746
 00:50:07,712 --> 00:50:10,923
-<i>Hit a rest stop. Had a little playtime.</i>
+Hit a rest stop. Had a little playtime.
 
 747
 00:50:11,925 --> 00:50:14,010
-<i>After lunch, Daisy fell asleep.</i>
+After lunch, Daisy fell asleep.
 
 748
 00:50:23,186 --> 00:50:24,896
-<i>She never came back.</i>
+She never came back.
 
 749
 00:50:30,193 --> 00:50:32,278
-<i>Lotso wouldn't give up.</i>
+Lotso wouldn't give up.
 
 750
 00:50:35,823 --> 00:50:39,201
-<i>It took forever,
-but we finally made it back to Daisy's.</i>
+It took forever,
+but we finally made it back to Daisy's.
 
 751
 00:50:45,959 --> 00:50:48,836
-<i>But by then, it was too late.</i>
+But by then, it was too late.
 
 752
 00:51:00,348 --> 00:51:03,142
-<i>Something changed that day
-inside lotso.</i>
+Something changed that day
+inside lotso.
 
 753
 00:51:03,851 --> 00:51:05,477
-<i>Something snapped.</i>
+Something snapped.
 
 754
 00:51:05,520 --> 00:51:07,772
@@ -3392,8 +3392,8 @@ She replaced us. Come on!
 
 755
 00:51:08,106 --> 00:51:11,067
-- No, she only replaced you!
-- She replaced all of us.
+No, she only replaced you!
+She replaced all of us.
 
 756
 00:51:11,734 --> 00:51:12,776
@@ -3409,16 +3409,16 @@ Now come on!
 
 759
 00:51:24,831 --> 00:51:29,331
-<i>We were lost. Cast off.
-Unloved. Unwanted.</i>
+We were lost. Cast off.
+Unloved. Unwanted.
 
 760
 00:51:35,425 --> 00:51:37,385
-<i>Then we found sunnyside.</i>
+Then we found sunnyside.
 
 761
 00:51:48,229 --> 00:51:50,564
-<i>But lotso wasn't my friend anymore.</i>
+But lotso wasn't my friend anymore.
 
 762
 00:51:52,275 --> 00:51:54,318
@@ -3453,8 +3453,8 @@ they don't stand a chance.
 
 769
 00:52:16,424 --> 00:52:18,717
-- But my friends are in there.
-- You can't go back.
+But my friends are in there.
+You can't go back.
 
 770
 00:52:18,801 --> 00:52:21,220
@@ -3535,18 +3535,18 @@ Uh, hello?
 
 788
 00:55:15,770 --> 00:55:17,521
-<i>You shouldn't
-have come back, cowboy.</i>
+You shouldn't
+have come back, cowboy.
 
 789
 00:55:17,563 --> 00:55:21,942
-<i>They've cracked down hard since
-you left. More guards, more patrols.</i>
+They've cracked down hard since
+you left. More guards, more patrols.
 
 790
 00:55:22,026 --> 00:55:24,213
-<i>You and your friends
-ain't ever getting out of here now.</i>
+You and your friends
+ain't ever getting out of here now.
 
 791
 00:55:24,237 --> 00:55:25,529
@@ -3554,11 +3554,11 @@ I made it out once.
 
 792
 00:55:25,571 --> 00:55:28,448
-<i>You got lucky once. Want my advice?</i>
+You got lucky once. Want my advice?
 
 793
 00:55:28,533 --> 00:55:30,952
-<i>Keep your heads down. You'll survive.</i>
+Keep your heads down. You'll survive.
 
 794
 00:55:31,035 --> 00:55:32,661
@@ -3566,24 +3566,24 @@ Yeah, for how long?
 
 795
 00:55:32,745 --> 00:55:33,912
-<i>I 've been here years.</i>
+I 've been here years.
 
 796
 00:55:34,413 --> 00:55:36,415
-<i>They'll never break me.</i>
+They'll never break me.
 
 797
 00:55:36,457 --> 00:55:39,251
-<i>There's only one way
-toys leave this place.</i>
+There's only one way
+toys leave this place.
 
 798
 00:55:40,253 --> 00:55:42,880
-<i>Poor fella. Trash truck comes at dawn.</i>
+Poor fella. Trash truck comes at dawn.
 
 799
 00:55:43,339 --> 00:55:45,215
-<i>Then it's off to the dump.</i>
+Then it's off to the dump.
 
 800
 00:55:45,675 --> 00:55:48,010
@@ -3602,47 +3602,47 @@ I'd sure be grateful.
 
 803
 00:55:56,394 --> 00:55:58,771
-<i>Well, if you're gonna get out,</i>
+Well, if you're gonna get out,
 
 804
 00:55:58,855 --> 00:56:00,695
-<i>first thing you gotta get through 's
-the doors.</i>
+first thing you gotta get through 's
+the doors.
 
 805
 00:56:01,274 --> 00:56:05,569
-<i>Locked, every night. Inside and out.
-Keys are left on a hook in the office.</i>
+Locked, every night. Inside and out.
+Keys are left on a hook in the office.
 
 806
 00:56:05,611 --> 00:56:06,653
-<i>Got it. What else?</i>
+Got it. What else?
 
 807
 00:56:06,737 --> 00:56:08,947
-<i>Lotso has
-trucks patrolling all night long.</i>
+Lotso has
+trucks patrolling all night long.
 
 808
 00:56:09,448 --> 00:56:11,366
-<i>Hallway, lobby, playground.</i>
+Hallway, lobby, playground.
 
 809
 00:56:11,450 --> 00:56:12,594
-<i>Yeah, yeah, yeah.
-What about the wall?</i>
+Yeah, yeah, yeah.
+What about the wall?
 
 810
 00:56:12,618 --> 00:56:14,119
-<i>Eight-feet high.</i>
+Eight-feet high.
 
 811
 00:56:14,161 --> 00:56:15,954
-<i>Cinder block. No way through it.</i>
+Cinder block. No way through it.
 
 812
 00:56:16,038 --> 00:56:17,289
-<i>You go over or under.</i>
+You go over or under.
 
 813
 00:56:17,665 --> 00:56:19,541
@@ -3650,43 +3650,43 @@ That's it? Doesn't seem so bad.
 
 814
 00:56:19,625 --> 00:56:22,294
-<i>It's not.
-Your real problem 's the monkey.</i>
+It's not.
+Your real problem 's the monkey.
 
 815
 00:56:23,588 --> 00:56:26,215
-<i>The monkey's the eye in the sky.</i>
+The monkey's the eye in the sky.
 
 816
 00:56:26,299 --> 00:56:27,883
-<i>He sees everything.</i>
+He sees everything.
 
 817
 00:56:28,718 --> 00:56:30,136
-<i>Classrooms.</i>
+Classrooms.
 
 818
 00:56:40,980 --> 00:56:42,314
-<i>Hallways.</i>
+Hallways.
 
 819
 00:56:51,324 --> 00:56:52,908
-Even the <i>playground.</i>
+Even the playground.
 
 820
 00:57:00,833 --> 00:57:04,586
-<i>You can unlock doors,
-sneak past guards, climb the wall,</i>
+You can unlock doors,
+sneak past guards, climb the wall,
 
 821
 00:57:05,171 --> 00:57:08,299
-<i>but if you Don 't take out that monkey,
-you ain't going nowhere.</i>
+but if you Don 't take out that monkey,
+you ain't going nowhere.
 
 822
 00:57:08,883 --> 00:57:12,094
-<i>You wanna get out of here?
-Get rid of that monkey!</i>
+You wanna get out of here?
+Get rid of that monkey!
 
 823
 00:57:14,013 --> 00:57:16,306
@@ -3702,8 +3702,8 @@ Hey, guys.
 
 826
 00:57:23,731 --> 00:57:25,232
-- Woody?
-- Woody!
+Woody?
+Woody!
 
 827
 00:57:25,691 --> 00:57:26,692
@@ -3719,8 +3719,8 @@ Thank goodness!
 
 830
 00:57:29,654 --> 00:57:31,906
-- You're alive!
-- 'Course I'm alive!
+You're alive!
+'Course I'm alive!
 
 831
 00:57:33,157 --> 00:57:35,993
@@ -3737,8 +3737,8 @@ space ranger again.
 
 834
 00:57:40,039 --> 00:57:41,457
-- Oh, no.
-- Oh, yes.
+Oh, no.
+Oh, yes.
 
 835
 00:57:41,832 --> 00:57:43,416
@@ -3786,8 +3786,8 @@ we're busting out of here, tonight.
 
 845
 00:58:06,941 --> 00:58:09,818
-- What? Impossible!
-- But there's no way out of here!
+What? Impossible!
+But there's no way out of here!
 
 846
 00:58:10,236 --> 00:58:12,238
@@ -3803,8 +3803,8 @@ Okay, here's what we're gonna do.
 
 849
 00:58:23,916 --> 00:58:25,834
-- Springy dog.
-- Present.
+Springy dog.
+Present.
 
 850
 00:58:26,419 --> 00:58:28,003
@@ -3812,8 +3812,8 @@ Green guys.
 
 851
 00:58:28,087 --> 00:58:30,214
-- Cowgirl.
-- Here.
+Cowgirl.
+Here.
 
 852
 00:58:30,631 --> 00:58:31,757
@@ -3821,18 +3821,18 @@ Horse.
 
 853
 00:58:32,925 --> 00:58:34,426
-- Piggy bank.
-- Yo.
+Piggy bank.
+Yo.
 
 854
 00:58:35,011 --> 00:58:36,637
-- Tyrannosaurus.
-- Here.
+Tyrannosaurus.
+Here.
 
 855
 00:58:37,346 --> 00:58:38,889
-- Barbie.
-- Here.
+Barbie.
+Here.
 
 856
 00:58:39,432 --> 00:58:40,850
@@ -3857,22 +3857,22 @@ Hey!
 
 861
 00:59:05,875 --> 00:59:07,751
-<i>Little late
-for a stroll, eh, potato head?</i>
+Little late
+for a stroll, eh, potato head?
 
 862
 00:59:08,210 --> 00:59:10,420
-<i>That's Mr. Potato head to you,
-smoothie.</i>
+That's Mr. Potato head to you,
+smoothie.
 
 863
 00:59:10,755 --> 00:59:12,548
-<i>Well, well, well.
-You 're turning out to be</i>
+Well, well, well.
+You 're turning out to be
 
 864
 00:59:12,631 --> 00:59:14,174
-<i>quite the troublemaker, aren't you?</i>
+quite the troublemaker, aren't you?
 
 865
 00:59:14,300 --> 00:59:16,737
@@ -3965,8 +3965,8 @@ are complicated around here.
 
 885
 01:00:08,521 --> 01:00:11,649
-- You gotta do what I say.
-- I will, Ken! I promise!
+You gotta do what I say.
+I will, Ken! I promise!
 
 886
 01:00:13,692 --> 01:00:16,486
@@ -3993,8 +3993,8 @@ you never brought me up here!
 
 891
 01:01:19,425 --> 01:01:21,653
-- Tennis whites? Mission to Mars!
-- I know, I know, I know.
+Tennis whites? Mission to Mars!
+I know, I know, I know.
 
 892
 01:01:21,677 --> 01:01:23,428
@@ -4060,8 +4060,8 @@ Hey, hey, hey! No fighting! Break it up!
 
 906
 01:02:40,839 --> 01:02:43,049
-- Hey! Hey!
-- Take that, walnut-brain.
+Hey! Hey!
+Take that, walnut-brain.
 
 907
 01:02:43,133 --> 01:02:44,300
@@ -4086,8 +4086,8 @@ Get the tortilla.
 
 912
 01:03:38,105 --> 01:03:39,606
-- Ready?
-- Ready.
+Ready?
+Ready.
 
 913
 01:03:47,197 --> 01:03:48,656
@@ -4154,8 +4154,8 @@ The groovy formal collection, yes!
 
 928
 01:05:16,036 --> 01:05:19,497
-- What a shame.
-- Oh, no, no, no! No!
+What a shame.
+Oh, no, no, no! No!
 
 929
 01:05:19,832 --> 01:05:21,166
@@ -4216,18 +4216,18 @@ Help! Prison riot!
 
 943
 01:06:37,659 --> 01:06:39,859
-- Mayday! Mayday!
-- Oh, give it up. No one can hear you.
+Mayday! Mayday!
+Oh, give it up. No one can hear you.
 
 944
 01:06:40,078 --> 01:06:43,081
-- Whal:?
-- I said. “No one an heel-you."
+Whal:?
+I said. “No one an heel-you.
 
 945
 01:06:43,832 --> 01:06:45,959
-- What?
-- He said, "no one can..."
+What?
+He said, no one can...
 
 946
 01:06:46,043 --> 01:06:47,836
@@ -4272,13 +4272,13 @@ a little hole under the switch.
 
 955
 01:07:12,277 --> 01:07:14,946
-- Little hole, got it!
-- "To reset your buzz lightyear,
+Little hole, got it!
+To reset your buzz lightyear,
 
 956
 01:07:14,988 --> 01:07:17,115
-- "insert paperclip..."
-- Rex, use your finger!
+insert paperclip...
+Rex, use your finger!
 
 957
 01:07:17,157 --> 01:07:18,783
@@ -4286,13 +4286,13 @@ What?
 
 958
 01:07:18,867 --> 01:07:20,618
-- Okay, now what?
-- All right, let's see.
+Okay, now what?
+All right, let's see.
 
 959
 01:07:20,661 --> 01:07:23,705
-"Caution. Do not hold button
-for more than five seconds."
+Caution. Do not hold button
+for more than five seconds.
 
 960
 01:07:26,959 --> 01:07:28,293
@@ -4300,12 +4300,12 @@ It's not my fault!
 
 961
 01:07:38,011 --> 01:07:40,388
-- Now what did you do?
-- I just did what you told me!
+Now what did you do?
+I just did what you told me!
 
 962
 01:07:47,813 --> 01:07:50,190
-Uh... <i>Amigos!</i> We're <i>all amigos.</i>
+Uh... Amigos! We're all amigos.
 
 963
 01:07:57,656 --> 01:07:58,907
@@ -4313,8 +4313,8 @@ We gotta switch him back.
 
 964
 01:07:58,991 --> 01:08:01,827
-- Well, how do we do that?
-- I don't know. That part's in Spanish.
+Well, how do we do that?
+I don't know. That part's in Spanish.
 
 965
 01:08:02,995 --> 01:08:04,871
@@ -4323,7 +4323,7 @@ Come on, El buzzo.
 
 966
 01:08:09,167 --> 01:08:10,626
-<i>Good luck, cowboy.</i>
+Good luck, cowboy.
 
 967
 01:08:16,133 --> 01:08:17,884
@@ -4348,7 +4348,7 @@ We haven't seen him.
 
 972
 01:08:31,356 --> 01:08:32,440
-<i>Buzz.</i>
+Buzz.
 
 973
 01:08:41,700 --> 01:08:43,034
@@ -4356,8 +4356,8 @@ Did you fix buzz?
 
 974
 01:08:43,410 --> 01:08:45,328
-- Uh, sort of.
-- Behind you.
+Uh, sort of.
+Behind you.
 
 975
 01:08:45,662 --> 01:08:46,954
@@ -4426,13 +4426,13 @@ Oh, way to go, buzz. Come on.
 
 991
 01:11:26,656 --> 01:11:29,784
-- Is it safe?
-- I guess I'll find out.
+Is it safe?
+I guess I'll find out.
 
 992
 01:11:36,208 --> 01:11:38,126
-- Woody? You okay?
-- Yeah.
+Woody? You okay?
+Yeah.
 
 993
 01:11:38,710 --> 01:11:40,878
@@ -4444,7 +4444,7 @@ What did he say?
 
 995
 01:11:42,047 --> 01:11:43,149
-I think he said, "all at once."
+I think he said, all at once.
 
 996
 01:11:43,173 --> 01:11:44,507
@@ -4452,8 +4452,8 @@ No. No. No, no, no, no, no!
 
 997
 01:11:44,549 --> 01:11:45,967
-- Geronimo!
-- Look out!
+Geronimo!
+Look out!
 
 998
 01:11:49,721 --> 01:11:50,763
@@ -4474,8 +4474,8 @@ but I still got a spring in my step.
 
 1002
 01:12:01,983 --> 01:12:03,901
-- He did it!
-- All right, slinkykins.
+He did it!
+All right, slinkykins.
 
 1003
 01:12:03,944 --> 01:12:05,654
@@ -4491,11 +4491,11 @@ Well, well. Look who's back.
 
 1006
 01:12:24,631 --> 01:12:26,090
-<i>I</i> 'm <i>sorry, cowboy.</i>
+I 'm sorry, cowboy.
 
 1007
 01:12:27,759 --> 01:12:29,093
-<i>They broke me.</i>
+They broke me.
 
 1008
 01:12:29,135 --> 01:12:31,887
@@ -4508,8 +4508,8 @@ He don't want you no more.
 
 1010
 01:12:34,683 --> 01:12:35,892
-- That's a lie.
-- Lotso: Is it?
+That's a lie.
+Is it?
 
 1011
 01:12:36,434 --> 01:12:38,102
@@ -4637,13 +4637,13 @@ everything with her?
 
 1039
 01:14:14,950 --> 01:14:16,952
-- Yeah? Then she threw us out.
-- No.
+Yeah? Then she threw us out.
+No.
 
 1040
 01:14:17,452 --> 01:14:19,829
-- She lost you.
-- She replaced us!
+She lost you.
+She replaced us!
 
 1041
 01:14:19,871 --> 01:14:21,706
@@ -4661,8 +4661,8 @@ and you've been lying ever since.
 
 1044
 01:14:27,712 --> 01:14:30,089
-- Where'd you get that?
-- She loved you, lotso.
+Where'd you get that?
+She loved you, lotso.
 
 1045
 01:14:30,173 --> 01:14:31,382
@@ -4705,8 +4705,8 @@ No! No! Wait a minute! Big baby, wait!
 
 1054
 01:15:10,296 --> 01:15:12,548
-- He's gone!
-- Holy cow.
+He's gone!
+Holy cow.
 
 1055
 01:15:17,637 --> 01:15:18,888
@@ -4761,7 +4761,7 @@ Quick!
 
 1067
 01:16:21,367 --> 01:16:22,409
-Ii ie: Buzz!
+Buzz!
 
 1068
 01:16:33,004 --> 01:16:34,005
@@ -4773,12 +4773,12 @@ Look out!
 
 1070
 01:16:49,687 --> 01:16:50,813
-<i>V</i>
+V
 
 1071
 01:16:57,779 --> 01:17:00,573
-- Anyone see him?
-- Over here, y'all. I found him.
+Anyone see him?
+Over here, y'all. I found him.
 
 1072
 01:17:04,244 --> 01:17:05,828
@@ -4786,7 +4786,7 @@ Buzz, you okay?
 
 1073
 01:17:06,538 --> 01:17:08,998
-<i>Buzz'. Buzz'.</i>
+Buzz'. Buzz'.
 
 1074
 01:17:19,467 --> 01:17:20,551
@@ -4828,8 +4828,8 @@ The claw!
 
 1083
 01:18:10,143 --> 01:18:12,979
-- My babies!
-- Hey, guys! No! No!
+My babies!
+Hey, guys! No! No!
 
 1084
 01:18:14,397 --> 01:18:15,981
@@ -4849,8 +4849,8 @@ We'll be okay if we stay togeth...
 
 1088
 01:18:40,965 --> 01:18:42,591
-- Woody!
-- Slinky!
+Woody!
+Slinky!
 
 1089
 01:18:44,135 --> 01:18:46,137
@@ -4891,8 +4891,8 @@ Woody!
 
 1098
 01:19:22,840 --> 01:19:24,508
-- Thank you.
-- Don't thank me yet.
+Thank you.
+Don't thank me yet.
 
 1099
 01:19:27,428 --> 01:19:28,429
@@ -4924,8 +4924,8 @@ Woody! Down here!
 
 1106
 01:19:57,041 --> 01:19:59,043
-- Woody!
-- Oh, boy.
+Woody!
+Oh, boy.
 
 1107
 01:20:01,129 --> 01:20:03,381
@@ -4961,8 +4961,8 @@ Hurry!
 
 1115
 01:20:54,182 --> 01:20:56,726
-- Just push it! Push it!
-- Push it!
+Just push it! Push it!
+Push it!
 
 1116
 01:20:57,810 --> 01:21:00,187
@@ -4995,8 +4995,8 @@ I take it all back.
 
 1123
 01:23:27,585 --> 01:23:29,336
-- You're darn tootin'.
-- You said it.
+You're darn tootin'.
+You said it.
 
 1124
 01:23:35,718 --> 01:23:38,554
@@ -5004,8 +5004,8 @@ Oh, darling. You were so brave.
 
 1125
 01:23:40,056 --> 01:23:43,434
-- You saved our lives.
-- And we are eternally grateful.
+You saved our lives.
+And we are eternally grateful.
 
 1126
 01:23:44,769 --> 01:23:46,103
@@ -5029,8 +5029,8 @@ Forget it, guys. He's not worth it.
 
 1131
 01:24:04,247 --> 01:24:05,748
-- Hey!
-- What you got?
+Hey!
+What you got?
 
 1132
 01:24:05,790 --> 01:24:08,334
@@ -5056,8 +5056,8 @@ We gotta get you home.
 
 1137
 01:24:26,644 --> 01:24:29,063
-- That's right, college boy.
-- Wait.
+That's right, college boy.
+Wait.
 
 1138
 01:24:29,939 --> 01:24:31,148
@@ -5069,13 +5069,13 @@ maybe the attic's not such a great idea.
 
 1140
 01:24:35,278 --> 01:24:39,778
-- We're Andy's toys, Woody.
-- We'll be there for him, together.
+We're Andy's toys, Woody.
+We'll be there for him, together.
 
 1141
 01:24:41,659 --> 01:24:43,994
-- I just hope he hasn't left yet.
-- Wait a minute!
+I just hope he hasn't left yet.
+Wait a minute!
 
 1142
 01:24:44,036 --> 01:24:45,787
@@ -5091,8 +5091,8 @@ But he's almost done!
 
 1145
 01:24:49,875 --> 01:24:53,670
-- He lives halfway across town.
-- We'll never get there in time!
+He lives halfway across town.
+We'll never get there in time!
 
 1146
 01:25:09,437 --> 01:25:10,479
@@ -5131,13 +5131,13 @@ Oh, there you are.
 
 1154
 01:25:47,767 --> 01:25:49,560
-- There you go.
-- Buzz.
+There you go.
+Buzz.
 
 1155
 01:25:52,897 --> 01:25:56,942
-- This isn't goodbye.
-- Hey, Woody. Have fun at college.
+This isn't goodbye.
+Hey, Woody. Have fun at college.
 
 1156
 01:25:57,276 --> 01:25:58,902
@@ -5145,8 +5145,8 @@ Yeah, but not too much fun.
 
 1157
 01:26:00,446 --> 01:26:03,073
-- Woody, take care of Andy.
-- Yeah.
+Woody, take care of Andy.
+Yeah.
 
 1158
 01:26:03,157 --> 01:26:05,784
@@ -5167,8 +5167,8 @@ Jessie, you'll be okay in the attic?
 
 1162
 01:26:15,294 --> 01:26:17,921
-- buzz's Spanish mode.
-- My what?
+buzz's Spanish mode.
+My what?
 
 1163
 01:26:17,963 --> 01:26:19,756
@@ -5228,8 +5228,8 @@ miss you. I'm gonna miss you.
 
 1176
 01:27:39,295 --> 01:27:42,214
-- I'm gonna miss you.
-- Don't, Andy.
+I'm gonna miss you.
+Don't, Andy.
 
 1177
 01:27:43,382 --> 01:27:46,968
@@ -5262,18 +5262,18 @@ Whatever you wanna do.
 
 1183
 01:28:41,732 --> 01:28:44,234
-"Don't go in there!
-The bakery is haunted!"
+Don't go in there!
+The bakery is haunted!
 
 1184
 01:28:44,318 --> 01:28:47,946
-"Are you crazy?
-You'll wake up all the ghosts."
+Are you crazy?
+You'll wake up all the ghosts.
 
 1185
 01:28:48,030 --> 01:28:50,490
-"Look out!
-The ghosts are throwing pies!"
+Look out!
+The ghosts are throwing pies!
 
 1186
 01:28:50,741 --> 01:28:52,284
@@ -5281,7 +5281,7 @@ Splat! Splat! Splat!
 
 1187
 01:28:54,912 --> 01:28:56,371
-- Andy?
+Andy?
 
 1188
 01:28:56,413 --> 01:28:58,081
@@ -5405,7 +5405,7 @@ from the evil emperor zurg.
 
 1215
 01:30:52,947 --> 01:30:55,407
-<i>To infinity and beyond!</i>
+To infinity and beyond!
 
 1216
 01:30:56,700 --> 01:30:59,536
@@ -5426,12 +5426,12 @@ Woody? What's he doing in there?
 
 1220
 01:31:19,723 --> 01:31:22,392
-- "There's a snake in my boot."
-- Wha...?
+There's a snake in my boot.
+Wha...?
 
 1221
 01:31:24,395 --> 01:31:26,563
-<i>There 's a snake in my boat.</i>
+There 's a snake in my boat.
 
 1222
 01:31:40,703 --> 01:31:44,915
@@ -5475,8 +5475,8 @@ the haunted bakery!
 
 1231
 01:32:26,915 --> 01:32:29,167
-<i>The ghosts are getting away.
-Woody'“ stop 'em'.!</i>
+The ghosts are getting away.
+Woody'“ stop 'em'.!
 
 1232
 01:32:29,251 --> 01:32:30,794
@@ -5561,17 +5561,17 @@ Noses.
 
 1250
 01:36:06,802 --> 01:36:11,139
-"So I guess you could say
+So I guess you could say
 sunnyside is sunny once again!
 
 1251
 01:36:11,181 --> 01:36:14,684
-"Hope to hear from you soon. We're all
+Hope to hear from you soon. We're all
 super excited about your new home.
 
 1252
 01:36:14,768 --> 01:36:17,353
-"Hugs and kisses to everyone."
+Hugs and kisses to everyone.
 
 1253
 01:36:17,437 --> 01:36:18,771
@@ -5589,23 +5589,23 @@ Barbie didn't write this.
 
 1256
 01:36:27,489 --> 01:36:28,698
-- Grab the sword!
-- I got it!
+Grab the sword!
+I got it!
 
 1257
 01:36:28,782 --> 01:36:30,009
-- Okay, go for the...
-- Triple bonus!
+Okay, go for the...
+Triple bonus!
 
 1258
 01:36:30,033 --> 01:36:31,177
-- Watch out!
-- We got the cloak of darkness!
+Watch out!
+We got the cloak of darkness!
 
 1259
 01:36:31,201 --> 01:36:33,953
-- Run, run!
-- My arms are never long enough!
+Run, run!
+My arms are never long enough!
 
 1260
 01:36:34,037 --> 01:36:35,872
@@ -5613,8 +5613,8 @@ I'll do it! This is it! This is it!
 
 1261
 01:36:37,040 --> 01:36:38,624
-- Yes!
-- We did it!
+Yes!
+We did it!
 
 1262
 01:36:38,709 --> 01:36:40,585
@@ -5627,8 +5627,8 @@ You guys made the wall.
 
 1264
 01:36:45,632 --> 01:36:49,302
-- Oh, look at this!
-- Golly Bob howdy! That's me!
+Oh, look at this!
+Golly Bob howdy! That's me!
 
 1265
 01:36:49,386 --> 01:36:52,722
@@ -5668,11 +5668,11 @@ wherefore art thou Romeo?
 
 1273
 01:37:17,331 --> 01:37:19,416
-Next season, we're doing <i>cats.</i>
+Next season, we're doing cats.
 
 1274
 01:37:19,458 --> 01:37:22,127
-Or might I suggest <i>Hamlet?</i>
+Or might I suggest Hamlet?
 
 1275
 01:37:23,170 --> 01:37:26,089

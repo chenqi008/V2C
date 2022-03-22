@@ -1,6 +1,6 @@
 ﻿1
 00:00:46,713 --> 00:00:51,628
-Newsreel announcer: Movietown
+Movietown
 news presents spotlight on adventure.
 
 2
@@ -98,7 +98,7 @@ Adventure is out there!
 
 22
 00:01:49,693 --> 00:01:52,133
-Newsreel announcer: But what
+But what
 has muniz brought back this time?
 
 23
@@ -139,7 +139,7 @@ of his membership.
 
 31
 00:02:15,969 --> 00:02:18,802
-Newsreel announcer: Humiliated,
+Humiliated,
 muniz vows a return to paradise falls
 
 32
@@ -157,7 +157,7 @@ and I will not come back unfil I do!
 
 35
 00:02:29,900 --> 00:02:32,460
-Newsreel announcer: And so,
+And so,
 the explorer's off to clear his name.
 
 36
@@ -201,11 +201,11 @@ Is there nothing he cannot do?
 45
 00:03:12,609 --> 00:03:14,600
 Yes, as muniz himself says,
-"adventure is..."
+adventure is...
 
 46
 00:03:14,653 --> 00:03:18,145
-Ellie: Adventure is out there!
+Adventure is out there!
 Look out!
 
 47
@@ -330,7 +330,7 @@ I got something to show you.
 
 74
 00:05:30,497 --> 00:05:32,954
-Ellie: I am about to let you
+I am about to let you
 see something
 
 75
@@ -353,7 +353,7 @@ Cross your heart. Do it!
 
 79
 00:05:48,640 --> 00:05:50,847
-Ellie: My adventure book.
+My adventure book.
 
 80
 00:05:52,978 --> 00:05:54,138
@@ -379,7 +379,7 @@ Wanna know where I'm gonna live?
 
 85
 00:06:09,953 --> 00:06:14,322
-"Paradise falls, a land lost in time."
+Paradise falls, a land lost in time.
 
 86
 00:06:15,542 --> 00:06:18,705
@@ -448,7 +448,7 @@ Hah!
 
 101
 00:13:39,110 --> 00:13:40,850
-Man: Stevie, throw me a deuce!
+Stevie, throw me a deuce!
 
 102
 00:13:42,739 --> 00:13:45,071
@@ -496,7 +496,7 @@ What do you say to that?
 
 112
 00:14:37,794 --> 00:14:39,605
-Uh, I take that as a "no," then?
+Uh, I take that as a no, then?
 
 113
 00:14:39,629 --> 00:14:42,962
@@ -528,7 +528,7 @@ He's out to get your house.
 
 119
 00:15:03,194 --> 00:15:05,776
-Carl: Tell your boss
+Tell your boss
 he can have our house.
 
 120
@@ -541,7 +541,7 @@ I'll take that as a maybe.
 
 122
 00:15:12,870 --> 00:15:14,598
-Announcer on TV: Order now,
+Order now,
 you get the camera,
 
 123
@@ -554,17 +554,17 @@ Schneider lens, photo printer, sd card.
 
 125
 00:15:25,383 --> 00:15:28,295
-"Good afternoon. My name is Russell.
+Good afternoon. My name is Russell.
 
 126
 00:15:28,636 --> 00:15:33,676
-"And I am a wilderness explorer
+And I am a wilderness explorer
 in tribe 54, sweat lodge 12.
 
 127
 00:15:34,058 --> 00:15:36,845
-"Are you in need
-of any assistance today, sir?"
+Are you in need
+of any assistance today, sir?
 
 128
 00:15:36,894 --> 00:15:37,974
@@ -595,31 +595,31 @@ No. I'm doing fine.
 
 134
 00:16:00,376 --> 00:16:02,367
-"Good afternoon. My name is Russell."
+Good afternoon. My name is Russell.
 
 135
 00:16:03,546 --> 00:16:05,306
 Kid... kid.
-"And I am a wilderness explorer
+And I am a wilderness explorer
 
 136
 00:16:05,715 --> 00:16:09,207
-"iin tribe 54, sweat lodge 12."
-=I... slow down. Kid!
+iin tribe 54, sweat lodge 12.
+I... slow down. Kid!
 
 137
 00:16:09,844 --> 00:16:11,655
-- "Are you in need of any assistance..."
-- Thank you,
+Are you in need of any assistance...
+Thank you,
 
 138
 00:16:11,679 --> 00:16:13,519
-- but I don't need any help!
-- '...Today, sir?"
+but I don't need any help!
+Today, sir?
 
 139
 00:16:15,016 --> 00:16:16,051
-Russell: Ow.
+Ow.
 
 140
 00:16:20,396 --> 00:16:21,727
@@ -627,8 +627,8 @@ Proceed.
 
 141
 00:16:22,440 --> 00:16:25,102
-- "Good afternoon..."
-- But skip to the end!
+Good afternoon...
+But skip to the end!
 
 142
 00:16:26,444 --> 00:16:30,028
@@ -647,7 +647,7 @@ a senior wilderness explorer.
 
 145
 00:16:40,458 --> 00:16:42,744
-"The wilderness must be explored!"
+The wilderness must be explored!
 
 146
 00:16:42,877 --> 00:16:44,913
@@ -674,8 +674,8 @@ a senior wilderness explorer.
 
 151
 00:16:59,435 --> 00:17:02,268
-- You ever heard of a snipe?
-- Snipe?
+You ever heard of a snipe?
+Snipe?
 
 152
 00:17:02,605 --> 00:17:04,391
@@ -693,8 +693,8 @@ If only someone could help me.
 
 155
 00:17:14,325 --> 00:17:17,738
-- Me, me! I'll do it!
-- I don't know. It's awfully crafty.
+Me, me! I'll do it!
+I don't know. It's awfully crafty.
 
 156
 00:17:18,079 --> 00:17:20,786
@@ -724,11 +724,11 @@ Bring it back here when you find it.
 
 162
 00:17:33,094 --> 00:17:34,129
-Russell: Snipe!
+Snipe!
 
 163
 00:17:34,262 --> 00:17:35,902
-Steve: Okay, keep her coming.
+Okay, keep her coming.
 Keep coming.
 
 164
@@ -756,8 +756,8 @@ Let me take care of that for you.
 
 169
 00:17:51,028 --> 00:17:53,144
-- Get away from our mailbox!
-- Hey. Sir, I...
+Get away from our mailbox!
+Hey. Sir, I...
 
 170
 00:17:53,197 --> 00:17:54,687
@@ -769,11 +769,11 @@ Ow!
 
 172
 00:18:06,669 --> 00:18:08,660
-Man: Steve, you all right?
+Steve, you all right?
 
 173
 00:18:43,247 --> 00:18:44,862
-Officer Edith: Sorry,
+Sorry,
 Mr. fredricksen.
 
 174
@@ -894,7 +894,7 @@ Wow! You're going on a trip?
 
 200
 00:25:27,234 --> 00:25:30,692
-"Paradise falls, a land lost in time."
+Paradise falls, a land lost in time.
 
 201
 00:25:30,779 --> 00:25:32,590
@@ -929,8 +929,8 @@ Kid, would you stop with the...
 
 208
 00:25:47,129 --> 00:25:48,773
-- This makes it go right.
-- Let go of that...
+This makes it go right.
+Let go of that...
 
 209
 00:25:48,797 --> 00:25:51,288
@@ -948,7 +948,7 @@ I could almost touch it.
 
 212
 00:26:00,642 --> 00:26:02,758
-Russell: Wow! This is great!
+Wow! This is great!
 
 213
 00:26:03,145 --> 00:26:05,306
@@ -1073,8 +1073,8 @@ with my wilderness explorer GPS.
 
 241
 00:28:55,609 --> 00:28:58,100
-- Gp... what?
-- My dad gave it to me.
+Gp... what?
+My dad gave it to me.
 
 242
 00:28:58,153 --> 00:29:00,485
@@ -1114,12 +1114,12 @@ some change for bus fare.
 
 250
 00:29:29,351 --> 00:29:31,842
-Russell: No, I'll just use
+No, I'll just use
 my city bus pass.
 
 251
 00:29:32,688 --> 00:29:35,600
-Russell: Whoa. That's gonna be
+Whoa. That's gonna be
 like a billion transfers
 
 252
@@ -1157,17 +1157,17 @@ Wait, wait. Wait!
 
 260
 00:30:21,194 --> 00:30:23,856
-- Russell, hang on! Hey!
-Russell: Whoa! Whoa!
+Russell, hang on! Hey!
+Whoa! Whoa!
 
 261
 00:30:34,082 --> 00:30:35,572
-- Carl: Walk back. Walk back.
-- Okay.
+Walk back. Walk back.
+Okay.
 
 262
 00:30:35,667 --> 00:30:37,532
-Carl: Come on. Come on.
+Come on. Come on.
 
 263
 00:30:50,057 --> 00:30:52,924
@@ -1205,12 +1205,12 @@ You mean, assist you?
 
 271
 00:32:10,345 --> 00:32:12,631
-- Yeah, yeah. Whatever.
-- Okay. I'll climb up.
+Yeah, yeah. Whatever.
+Okay. I'll climb up.
 
 272
 00:32:18,478 --> 00:32:20,343
-Carl: Watch it! Russell: Sorry.
+Sorry.
 
 273
 00:32:27,654 --> 00:32:31,818
@@ -1245,13 +1245,13 @@ would you sign off on my badge?
 
 280
 00:33:06,568 --> 00:33:10,857
-- What are you talking about?
-- We could walk your house to the falls.
+What are you talking about?
+We could walk your house to the falls.
 
 281
 00:33:10,906 --> 00:33:14,524
-- Walk it?
-- Yeah! After all, we weigh it down.
+Walk it?
+Yeah! After all, we weigh it down.
 
 282
 00:33:14,576 --> 00:33:17,909
@@ -1260,13 +1260,13 @@ Like a parade balloon.
 
 283
 00:33:22,083 --> 00:33:25,496
-Carl: Now, we're gonna walk
+Now, we're gonna walk
 to the falls quickly and quietly
 
 284
 00:33:25,587 --> 00:33:28,203
-- with no rap music or flashdancing.
-Russell: Uh-huh.
+with no rap music or flashdancing.
+Uh-huh.
 
 285
 00:33:28,507 --> 00:33:33,092
@@ -1280,8 +1280,8 @@ when that happens...
 
 287
 00:33:35,764 --> 00:33:38,096
-- Sand.
-- We're not getting to the falls.
+Sand.
+We're not getting to the falls.
 
 288
 00:33:38,183 --> 00:33:40,048
@@ -1294,7 +1294,7 @@ We'll get our house over there.
 
 290
 00:33:49,110 --> 00:33:51,601
-Russell: This is fun already, isn't it?
+This is fun already, isn't it?
 
 291
 00:33:51,947 --> 00:33:55,565
@@ -1316,21 +1316,21 @@ Al ar!
 
 295
 00:34:04,876 --> 00:34:07,583
-Russell: Wait. Why are we going
+Wait. Why are we going
 to paradise falls again?
 
 296
 00:34:07,629 --> 00:34:09,745
-Carl: Hey, let's play a game.
+Hey, let's play a game.
 
 297
 00:34:09,798 --> 00:34:13,040
 It's called
-"see who can be quiet the longest.”
+see who can be quiet the longest.”
 
 298
 00:34:13,134 --> 00:34:15,967
-Russell: Cool!
+Cool!
 My mom loves that game!
 
 299
@@ -1393,7 +1393,7 @@ I've always wanted to try this.
 
 312
 00:36:10,877 --> 00:36:12,242
-Russell: Mr. fredricksen,
+Mr. fredricksen,
 
 313
 00:36:12,337 --> 00:36:15,374
@@ -1406,7 +1406,7 @@ None of my concern!
 
 315
 00:36:19,386 --> 00:36:21,593
-Russell: Oh. It's before!
+Oh. It's before!
 
 316
 00:36:21,680 --> 00:36:23,261
@@ -1468,28 +1468,28 @@ Giant snipe.
 
 330
 00:37:36,796 --> 00:37:40,163
-- I found the snipe!
-- Oh! Did you?
+I found the snipe!
+Oh! Did you?
 
 331
 00:37:40,258 --> 00:37:42,795
-- Are they tall?
-- Oh, yes, they're very tall.
+Are they tall?
+Oh, yes, they're very tall.
 
 332
 00:37:43,303 --> 00:37:45,919
-- Do they have a lot of colors?
-- They do, indeed!
+Do they have a lot of colors?
+They do, indeed!
 
 333
 00:37:46,431 --> 00:37:49,764
-- Do they like chocolate?
-- Oh, yes... chocolate?
+Do they like chocolate?
+Oh, yes... chocolate?
 
 334
 00:37:52,687 --> 00:37:55,349
-- Gah! What is that thing?
-- It's a snipe!
+Gah! What is that thing?
+It's a snipe!
 
 335
 00:37:55,440 --> 00:37:57,476
@@ -1497,8 +1497,8 @@ There's no such thing as a snipe!
 
 336
 00:37:57,525 --> 00:38:00,267
-- But you said snipes eat your... whoa!
-- Hey!
+But you said snipes eat your... whoa!
+Hey!
 
 337
 00:38:02,697 --> 00:38:04,358
@@ -1506,7 +1506,7 @@ Go on! Get out of herel go on!
 
 338
 00:38:08,453 --> 00:38:10,990
-Russell: Whoa!
+Whoa!
 
 339
 00:38:11,873 --> 00:38:13,283
@@ -1523,12 +1523,12 @@ It likes me. Whoa!
 
 342
 00:38:20,882 --> 00:38:23,715
-- Russell!
-- No, stop! That tickles.
+Russell!
+No, stop! That tickles.
 
 343
 00:38:24,552 --> 00:38:26,964
-Carl: Get out of here! Go on! Get!
+Get out of here! Go on! Get!
 
 344
 00:38:33,978 --> 00:38:39,143
@@ -1537,8 +1537,8 @@ It's okay. Mr. fredricksen is nice.
 
 345
 00:38:39,567 --> 00:38:42,400
-- Kevin?
-- Yeah. That's his name I just gave him.
+Kevin?
+Yeah. That's his name I just gave him.
 
 346
 00:38:43,988 --> 00:38:47,731
@@ -1555,7 +1555,7 @@ Go on! Beat it!
 
 349
 00:39:02,048 --> 00:39:03,584
-Russell: Can we keep him? Please?
+Can we keep him? Please?
 
 350
 00:39:03,675 --> 00:39:07,588
@@ -1564,17 +1564,17 @@ I'll change his newspapers.
 
 351
 00:39:07,679 --> 00:39:08,759
-Carl: No.
+No.
 
 352
 00:39:10,098 --> 00:39:14,091
-"An explorer is a friend to all,
-be it plants or fish or tiny mole."
+An explorer is a friend to all,
+be it plants or fish or tiny mole.
 
 353
 00:39:14,435 --> 00:39:16,926
-- That doesn't even rhyme.
-- Yeah, it does.
+That doesn't even rhyme.
+Yeah, it does.
 
 354
 00:39:17,772 --> 00:39:19,933
@@ -1606,7 +1606,7 @@ Hey, Ellie! Could I keep the bird?
 
 361
 00:39:41,296 --> 00:39:43,127
-Russell: Uh-huh. Uh-huh.
+Uh-huh. Uh-huh.
 
 362
 00:39:43,882 --> 00:39:45,588
@@ -1631,7 +1631,7 @@ Go annoy someone else for a while.
 
 367
 00:40:09,073 --> 00:40:10,654
-Dug: Hey, are you okay over there?
+Hey, are you okay over there?
 
 368
 00:40:14,662 --> 00:40:16,903
@@ -1639,7 +1639,7 @@ Uh... hello?
 
 369
 00:40:21,252 --> 00:40:22,287
-Carl: Oh!
+Oh!
 
 370
 00:40:22,503 --> 00:40:25,119
@@ -1652,7 +1652,7 @@ someone else is up here.
 
 372
 00:40:27,675 --> 00:40:29,461
-Dug: I can smell you.
+I can smell you.
 
 373
 00:40:30,136 --> 00:40:33,173
@@ -1660,7 +1660,7 @@ What? You can smell us?
 
 374
 00:40:34,933 --> 00:40:36,639
-Dug: I can smell you.
+I can smell you.
 
 375
 00:40:43,942 --> 00:40:45,022
@@ -1698,8 +1698,8 @@ We have your dog!
 
 383
 00:41:07,048 --> 00:41:09,039
-- Whoa!
-- Wonder who he belongs to.
+Whoa!
+Wonder who he belongs to.
 
 384
 00:41:09,175 --> 00:41:12,713
@@ -1711,16 +1711,16 @@ Uh-huh.
 
 386
 00:41:14,222 --> 00:41:15,222
-- Speak.
-- Dug: Hi, there.
+Speak.
+Hi, there.
 
 387
 00:41:16,849 --> 00:41:19,215
-Did that dog just say "hi, there"?
+Did that dog just say hi, there?
 
 388
 00:41:19,352 --> 00:41:20,512
-Dug: Oh, yes.
+Oh, yes.
 
 389
 00:41:21,229 --> 00:41:24,642
@@ -1747,17 +1747,17 @@ It's not possible.
 
 394
 00:41:37,203 --> 00:41:39,660
-Dug: Oh, it is,
+Oh, it is,
 because my master is smart.
 
 395
 00:41:39,747 --> 00:41:41,907
-- Cool! What do these do, boy?
-- Dug: Hey, would you...
+Cool! What do these do, boy?
+Hey, would you...
 
 396
 00:41:43,001 --> 00:41:44,081
-Dug: I use that collar...
+I use that collar...
 
 397
 00:41:45,378 --> 00:41:47,585
@@ -1771,7 +1771,7 @@ It could be radioactive or something!
 
 399
 00:41:51,217 --> 00:41:52,502
-Dug: I am a great tracker.
+I am a great tracker.
 
 400
 00:41:52,593 --> 00:41:55,676
@@ -1794,7 +1794,7 @@ Did I mention that?
 
 404
 00:42:02,937 --> 00:42:04,268
-Dug: Hey, that is the bird.
+Hey, that is the bird.
 
 405
 00:42:04,397 --> 00:42:07,264
@@ -1813,7 +1813,7 @@ learn how to bark like a real dog.
 
 408
 00:42:14,073 --> 00:42:15,108
-Dug: I can bark.
+I can bark.
 
 409
 00:42:16,367 --> 00:42:17,447
@@ -1826,8 +1826,8 @@ Please, please, please!
 
 411
 00:42:24,292 --> 00:42:27,455
-- No.
-- But it's a talking dog!
+No.
+But it's a talking dog!
 
 412
 00:42:27,587 --> 00:42:31,125
@@ -1836,7 +1836,7 @@ Let's get to the falls.
 
 413
 00:42:31,257 --> 00:42:32,622
-Dug: Please be my prisoner.
+Please be my prisoner.
 
 414
 00:42:33,051 --> 00:42:35,292
@@ -1844,12 +1844,12 @@ Oh, please, oh, please be my prisoner!
 
 415
 00:42:37,972 --> 00:42:41,305
-Gamma: Oh! Here it is.
+Oh! Here it is.
 I picked up the bird's scent!
 
 416
 00:42:41,392 --> 00:42:43,724
-Beta: Wait a minute, wait a minute!
+Wait a minute, wait a minute!
 What is this?
 
 417
@@ -1858,12 +1858,12 @@ Chocolate. I smell chocolate.
 
 418
 00:42:45,772 --> 00:42:50,232
-Gamma: I'm getting prunes
+I'm getting prunes
 and denture cream! Who are they?
 
 419
 00:42:50,735 --> 00:42:52,646
-Beta: Oh, man,
+Oh, man,
 master will not be pleased.
 
 420
@@ -1873,7 +1873,7 @@ took the bird. Right, Alpha?
 
 421
 00:42:57,492 --> 00:42:58,635
-Alpha: No.
+No.
 
 422
 00:42:58,659 --> 00:43:01,492
@@ -1896,7 +1896,7 @@ you wage.
 
 426
 00:43:08,836 --> 00:43:12,124
-Beta: Hey, Alpha, I think there's
+Hey, Alpha, I think there's
 something wrong with your collar.
 
 427
@@ -1905,17 +1905,17 @@ You must've bumped it.
 
 428
 00:43:13,508 --> 00:43:15,794
-Gamma: Yeah,
+Yeah,
 your voice sounds funny!
 
 429
 00:43:19,347 --> 00:43:23,681
-Alpha: Beta! Gamma!
+Beta! Gamma!
 Mayhaps you desire to... squirrel!
 
 430
 00:43:25,686 --> 00:43:27,802
-Alpha: Mayhaps you desire
+Mayhaps you desire
 to challenge the ranking
 
 431
@@ -1925,17 +1925,17 @@ by my strength and cunning.
 
 432
 00:43:30,525 --> 00:43:34,313
-Beta: No, no, no. But maybe
+No, no, no. But maybe
 dug would. You might wanna ask him.
 
 433
 00:43:35,279 --> 00:43:40,239
-Gamma: Yeah. I wonder if he's found
+Yeah. I wonder if he's found
 the bird on his very special mission.
 
 434
 00:43:40,326 --> 00:43:42,408
-Alpha: Do not mention dug
+Do not mention dug
 fo me at this time.
 
 435
@@ -1950,7 +1950,7 @@ which I am saying to you now?
 
 437
 00:43:52,964 --> 00:43:57,253
-Beta: Sure, but the second master
+Sure, but the second master
 finds out you sent dug out by himself,
 
 438
@@ -1959,7 +1959,7 @@ none of us will get a treat.
 
 439
 00:43:59,554 --> 00:44:02,136
-Alpha: You are wise,
+You are wise,
 my trusted lieutenant.
 
 440
@@ -1969,30 +1969,30 @@ Come in, dug.
 
 441
 00:44:06,853 --> 00:44:09,435
-Dug: Hi, Alpha.
+Hi, Alpha.
 Hey, your voice sounds funny.
 
 442
 00:44:09,522 --> 00:44:12,605
-Alpha: I know, I know!
+I know, I know!
 Have you seen the bird?
 
 443
 00:44:12,692 --> 00:44:15,434
-Dug: Why, yes.
+Why, yes.
 The bird is my prisoner now.
 
 444
 00:44:15,528 --> 00:44:16,984
-Gamma: Yeah, right!
+Yeah, right!
 
 445
 00:44:19,031 --> 00:44:20,771
-Alpha: Impossible! Where are you?
+Impossible! Where are you?
 
 446
 00:44:20,867 --> 00:44:22,277
-Dug: I am here with the bird,
+I am here with the bird,
 
 447
 00:44:22,368 --> 00:44:25,110
@@ -2006,34 +2006,34 @@ on 0 you talking king to?
 
 449
 00:44:27,707 --> 00:44:29,618
-Alpha: No, wait, wait!
-Beta: What's dug doing?
+No, wait, wait!
+What's dug doing?
 
 450
 00:44:29,709 --> 00:44:31,540
-Gamma: Why's he with
+Why's he with
 that small mailman?
 
 451
 00:44:31,627 --> 00:44:33,242
-Beta: Where are they?
+Where are they?
 
 452
 00:44:35,673 --> 00:44:37,629
-Al pha: There he is. Come on!
+There he is. Come on!
 
 453
 00:44:42,263 --> 00:44:44,970
-Dug: Oh, please, oh, please,
+Oh, please, oh, please,
 oh, please be my prisoner.
 
 454
 00:44:45,057 --> 00:44:46,467
-Russell: Dug, stop bothering Kevin!
+Dug, stop bothering Kevin!
 
 455
 00:44:46,559 --> 00:44:48,470
-Dug: That man there says
+That man there says
 I can take the bird,
 
 456
@@ -2043,17 +2043,17 @@ like he is my master.
 
 457
 00:44:51,397 --> 00:44:52,477
-Carl: I am not your master!
+I am not your master!
 
 458
 00:44:52,565 --> 00:44:54,101
-Dug: I am warning you
+I am warning you
 once again, bird.
 
 459
 00:44:54,192 --> 00:44:56,253
-- Hey! Quit it!
-- Dug: I am jumping on you now, bird.
+Hey! Quit it!
+I am jumping on you now, bird.
 
 460
 00:44:56,277 --> 00:44:58,563
@@ -2062,7 +2062,7 @@ we'll never get to the falls.
 
 461
 00:44:58,654 --> 00:44:59,985
-Dug: Here, bird.
+Here, bird.
 
 462
 00:45:07,955 --> 00:45:09,866
@@ -2084,7 +2084,7 @@ by the time I count to three...
 
 466
 00:45:16,631 --> 00:45:19,168
-Dug: A ball! Oh, boy, oh, boy!
+A ball! Oh, boy, oh, boy!
 A ball!
 
 467
@@ -2097,13 +2097,13 @@ Huh? Huh? Yeah. Yeah?
 
 469
 00:45:24,722 --> 00:45:26,758
-Dug: Yes, I do!
+Yes, I do!
 I do ever so want the ball.
 
 470
 00:45:26,849 --> 00:45:28,305
-- Go get it!
-- Dug: Oh, boy! Oh, boy!
+Go get it!
+Oh, boy! Oh, boy!
 
 471
 00:45:28,392 --> 00:45:30,223
@@ -2116,8 +2116,8 @@ Give me some chocolate.
 
 473
 00:45:31,938 --> 00:45:33,974
-- Why?
-- Just give it to me!
+Why?
+Just give it to me!
 
 474
 00:45:34,440 --> 00:45:35,805
@@ -2133,7 +2133,7 @@ Wait, wait, Mr. fredricksen.
 
 477
 00:45:47,912 --> 00:45:49,618
-Russell: What are we doing?
+What are we doing?
 
 478
 00:45:54,418 --> 00:45:58,832
@@ -2146,7 +2146,7 @@ I think that did the trick.
 
 480
 00:46:08,349 --> 00:46:09,714
-Dug: Hi, master.
+Hi, master.
 
 481
 00:46:10,559 --> 00:46:11,890
@@ -2171,7 +2171,7 @@ Is this step three or step five?
 
 486
 00:46:51,517 --> 00:46:52,757
-Russell: There.
+There.
 
 487
 00:46:56,731 --> 00:46:59,063
@@ -2196,8 +2196,8 @@ Yeah, but can I tell you a secret?
 
 492
 00:47:19,253 --> 00:47:22,086
-- No.
-- All right. Here it goes.
+No.
+All right. Here it goes.
 
 493
 00:47:22,673 --> 00:47:26,131
@@ -2306,8 +2306,8 @@ Promise you won't leave him?
 
 516
 00:48:50,719 --> 00:48:52,835
-- Yeah.
-- Cross your heart?
+Yeah.
+Cross your heart?
 
 517
 00:49:01,397 --> 00:49:02,933
@@ -2341,7 +2341,7 @@ Kevin! Dug, find Kevin!
 
 524
 00:49:52,781 --> 00:49:56,615
-Dug: Find the bird, find the bird!
+Find the bird, find the bird!
 Hi, hi. Point!
 
 525
@@ -2350,7 +2350,7 @@ Look. There he is!
 
 526
 00:50:00,998 --> 00:50:02,158
-Dug: Point!
+Point!
 
 527
 00:50:02,541 --> 00:50:06,204
@@ -2358,7 +2358,7 @@ Hey! That's my food! Get off my roof
 
 528
 00:50:06,295 --> 00:50:07,535
-dug: Yeah, get off of his...
+Yeah, get off of his...
 
 529
 00:50:13,135 --> 00:50:14,215
@@ -2366,7 +2366,7 @@ What is it doing?
 
 530
 00:50:14,303 --> 00:50:16,715
-Dug: The bird is calling to her babies.
+The bird is calling to her babies.
 
 531
 00:50:17,848 --> 00:50:19,304
@@ -2378,7 +2378,7 @@ Kevin's a girl?
 
 533
 00:50:24,605 --> 00:50:27,347
-Dug: Her house is over there
+Her house is over there
 in those twisty rocks.
 
 534
@@ -2427,12 +2427,12 @@ Kevin?
 
 544
 00:51:26,834 --> 00:51:29,746
-Alpha: Where's the bird?
+Where's the bird?
 You said you had the bird.
 
 545
 00:51:29,837 --> 00:51:31,043
-Dug: Oh, yes. Oh, yes.
+Oh, yes. Oh, yes.
 
 546
 00:51:31,130 --> 00:51:34,167
@@ -2441,8 +2441,8 @@ I can see how you would think that.
 
 547
 00:51:34,258 --> 00:51:37,341
-Alpha: Where is it?
-Dug: Uh... tomorrow.
+Where is it?
+Uh... tomorrow.
 
 548
 00:51:37,428 --> 00:51:41,296
@@ -2451,7 +2451,7 @@ I will again have the bird. Yes.
 
 549
 00:51:42,558 --> 00:51:46,221
-Alpha: You lost it!
+You lost it!
 Why do I not have a surprised feeling?
 
 550
@@ -2465,7 +2465,7 @@ and the one who smells of prunes.
 
 552
 00:51:54,278 --> 00:51:56,769
-Alpha: Master will be most pleased
+Master will be most pleased
 we have found them
 
 553
@@ -2484,11 +2484,11 @@ Get away from me!
 
 556
 00:52:10,836 --> 00:52:12,167
-Carl: Get down!
+Get down!
 
 557
 00:53:06,517 --> 00:53:07,597
-Muntz: Stay!
+Stay!
 
 558
 00:53:15,818 --> 00:53:18,400
@@ -2500,7 +2500,7 @@ Uh, yeah.
 
 560
 00:53:20,906 --> 00:53:24,740
-Muntz: In a house? A floating house?
+In a house? A floating house?
 
 561
 00:53:33,252 --> 00:53:36,085
@@ -2543,7 +2543,7 @@ The Charles muntz?
 
 570
 00:54:01,071 --> 00:54:02,982
-"Adventure is out there!
+Adventure is out there!
 
 571
 00:54:03,073 --> 00:54:06,611
@@ -2551,12 +2551,12 @@ it's really him! That's Charles muntz!
 
 572
 00:54:06,910 --> 00:54:10,277
-- It is? Who's Charles muntz?
-- Him!
+It is? Who's Charles muntz?
+Him!
 
 573
 00:54:10,372 --> 00:54:12,267
-Dogs: Yes! Yes! That's him!
+Yes! Yes! That's him!
 =I'm Carl fredricksen.
 
 574
@@ -2587,7 +2587,7 @@ They are our guests.
 
 580
 00:54:30,267 --> 00:54:32,633
-Dog 1: Follow me.
+Follow me.
 I like you temporarily.
 
 581
@@ -2596,29 +2596,29 @@ You do smell like prunes.
 
 582
 00:54:34,521 --> 00:54:35,556
-Carl: Whoa!
+Whoa!
 
 583
 00:54:37,191 --> 00:54:38,306
-Dog 2: I will not bite you.
+I will not bite you.
 
 584
 00:54:38,400 --> 00:54:40,857
-Dog 3: The small mailman
+The small mailman
 smells like chocolate.
 
 585
 00:54:42,112 --> 00:54:44,273
-Muntz: I'm sorry about the dogs.
+I'm sorry about the dogs.
 
 586
 00:54:44,364 --> 00:54:47,356
-- Hope they weren't too rough on you.
-Gamma: We weren't.
+Hope they weren't too rough on you.
+We weren't.
 
 587
 00:54:47,451 --> 00:54:50,909
-Muntz: Go ahead and moor
+Go ahead and moor
 your airship right next to mine.
 
 588
@@ -2640,7 +2640,7 @@ Would 1?
 
 592
 00:55:06,553 --> 00:55:08,418
-Carl: Wait up, Mr. muntz.
+Wait up, Mr. muntz.
 
 593
 00:55:09,264 --> 00:55:10,800
@@ -2648,21 +2648,21 @@ Jiminy cricket.
 
 594
 00:55:11,141 --> 00:55:13,177
-Beta: Not you.
-Gamma: What do we do with dug?
+Not you.
+What do we do with dug?
 
 595
 00:55:13,268 --> 00:55:17,011
-Alpha: He has lost the bird.
+He has lost the bird.
 But him in the cone of shame.
 
 596
 00:55:21,985 --> 00:55:24,317
-Dug: I do not like the cone of shame.
+I do not like the cone of shame.
 
 597
 00:55:25,697 --> 00:55:29,940
-Muntz: Well, most of the collection
+Well, most of the collection
 is housed in the world's top museums,
 
 598
@@ -2676,7 +2676,7 @@ Did you ever! Will you look at that?
 
 600
 00:55:37,084 --> 00:55:39,575
-Muntz: Oh, yes, the arsinoitherium.
+Oh, yes, the arsinoitherium.
 
 601
 00:55:39,670 --> 00:55:42,377
@@ -2737,7 +2737,7 @@ Oh, he was horrible.
 
 614
 00:56:16,540 --> 00:56:19,156
-Alpha: Master, dinner is ready.
+Master, dinner is ready.
 
 615
 00:56:19,501 --> 00:56:21,617
@@ -2750,7 +2750,7 @@ There you go, big fella.
 
 617
 00:56:26,383 --> 00:56:27,819
-Alpha: Thank you, master.
+Thank you, master.
 
 618
 00:56:27,843 --> 00:56:30,050
@@ -2823,18 +2823,18 @@ a real treat.
 
 634
 00:57:23,106 --> 00:57:24,906
-Dog 1: Treat! Where's the treat!
+Treat! Where's the treat!
 Dog 2° treat!
 
 635
 00:57:25,734 --> 00:57:27,645
-Muntz: No, no. Quiet!
+No, no. Quiet!
 Calm down, calm down.
 
 636
 00:57:27,736 --> 00:57:29,213
-- Dog 3: I want a treat! I want a treat!
-- Hey!
+I want a treat! I want a treat!
+Hey!
 
 637
 00:57:29,237 --> 00:57:30,818
@@ -2908,8 +2908,8 @@ Hey, that looks like Kevin.
 
 653
 00:58:37,389 --> 00:58:40,222
-- Kevin?
-- Yeah, that's my new giant bird pet.
+Kevin?
+Yeah, that's my new giant bird pet.
 
 654
 00:58:40,308 --> 00:58:42,390
@@ -2975,8 +2975,8 @@ of your hospitality.
 
 668
 00:59:56,718 --> 00:59:59,926
-- Come on, Russell.
-- But we haven't even had dessert yet.
+Come on, Russell.
+But we haven't even had dessert yet.
 
 669
 01:00:00,013 --> 01:00:02,925
@@ -3010,8 +3010,8 @@ Get them!
 
 676
 01:00:35,507 --> 01:00:37,919
-- Hurry!
-- Russell: I am hurrying!
+Hurry!
+I am hurrying!
 
 677
 01:00:38,009 --> 01:00:40,295
@@ -3019,11 +3019,11 @@ Ahhh! They're coming
 
 678
 01:00:42,430 --> 01:00:45,012
-dug: Master, over here.
+Master, over here.
 
 679
 01:01:00,490 --> 01:01:02,822
-Dug: Go toward the light, master!
+Go toward the light, master!
 
 680
 01:01:31,688 --> 01:01:33,053
@@ -3035,7 +3035,7 @@ Get back!
 
 682
 01:01:41,698 --> 01:01:45,532
-Dug: Go on, master!
+Go on, master!
 I will stop the dogs!
 
 683
@@ -3048,7 +3048,7 @@ Whoa!
 
 685
 01:02:16,733 --> 01:02:17,848
-Russell: Help!
+Help!
 
 686
 01:02:18,401 --> 01:02:19,686
@@ -3072,7 +3072,7 @@ Hang on to Kevin!
 
 691
 01:03:12,539 --> 01:03:13,904
-Russell: Kevin.
+Kevin.
 
 692
 01:03:37,647 --> 01:03:41,560
@@ -3093,11 +3093,11 @@ You lost them?
 
 696
 01:04:08,636 --> 01:04:09,796
-Beta: No, it was dug.
+No, it was dug.
 
 697
 01:04:09,888 --> 01:04:13,221
-Gamma: Yeah. He's with them.
+Yeah. He's with them.
 He helped them escape!
 
 698
@@ -3114,7 +3114,7 @@ See anything?
 
 701
 01:04:26,363 --> 01:04:29,821
-Dug: No. My pack is not following us.
+No. My pack is not following us.
 Boy, they are dumb.
 
 702
@@ -3128,7 +3128,7 @@ and he's trying to kill us. What a joke!
 
 704
 01:04:35,121 --> 01:04:36,486
-Dug: Hey, I know a joke.
+Hey, I know a joke.
 
 705
 01:04:36,623 --> 01:04:38,488
@@ -3136,8 +3136,8 @@ A squirrel walks up to a tree and says,
 
 706
 01:04:38,625 --> 01:04:41,788
-"I forgot to store acorns for winter
-and now I am dead."
+I forgot to store acorns for winter
+and now I am dead.
 
 707
 01:04:41,878 --> 01:04:45,211
@@ -3146,7 +3146,7 @@ because the squirrel gets dead.
 
 708
 01:04:48,802 --> 01:04:50,542
-Carl: Careful, Russell.
+Careful, Russell.
 
 709
 01:04:50,637 --> 01:04:52,218
@@ -3163,7 +3163,7 @@ what I expected.
 
 712
 01:05:02,649 --> 01:05:04,230
-Carl: Yeah? How so?
+Yeah? How so?
 
 713
 01:05:04,567 --> 01:05:06,808
@@ -3265,7 +3265,7 @@ Russell, give me your knife!
 
 735
 01:06:47,587 --> 01:06:49,578
-Muntz: Get away from my bird!
+Get away from my bird!
 
 736
 01:07:15,865 --> 01:07:16,980
@@ -3273,16 +3273,16 @@ Nol
 
 737
 01:07:23,623 --> 01:07:24,954
-Russell: No!
+No!
 
 738
 01:07:31,297 --> 01:07:34,164
-Muntz: Careful. We'll want her
+Careful. We'll want her
 in good shape for my return.
 
 739
 01:07:35,969 --> 01:07:38,881
-Russell: Let her go! Stop!
+Let her go! Stop!
 
 740
 01:07:42,725 --> 01:07:44,636
@@ -3290,7 +3290,7 @@ Ke vin!
 
 741
 01:07:58,366 --> 01:08:00,152
-Russell: You gave away Kevin.
+You gave away Kevin.
 
 742
 01:08:02,996 --> 01:08:05,829
@@ -3303,7 +3303,7 @@ I didn't ask for any of this!
 
 744
 01:08:15,925 --> 01:08:18,667
-Dug: Master, it's alright.
+Master, it's alright.
 
 745
 01:08:19,512 --> 01:08:21,377
@@ -3357,7 +3357,7 @@ Russell?
 
 757
 01:15:10,256 --> 01:15:14,920
-Dug: I was hiding under your porch
+I was hiding under your porch
 because I love you. Can I stay?
 
 758
@@ -3371,7 +3371,7 @@ And I'm your master.
 
 760
 01:15:18,931 --> 01:15:20,421
-Dug: You're my master?
+You're my master?
 
 761
 01:15:20,474 --> 01:15:21,805
@@ -3379,7 +3379,7 @@ Oh, boy! Oh, boy!
 
 762
 01:15:21,934 --> 01:15:24,676
-Carl: Good boy, dug!
+Good boy, dug!
 You're a good boy!
 
 763
@@ -3397,7 +3397,7 @@ Just wait till they get a look at you.
 
 766
 01:16:09,523 --> 01:16:10,763
-Alpha: Master?
+Master?
 
 767
 01:16:11,192 --> 01:16:14,309
@@ -3423,7 +3423,7 @@ fredricksen can't be far behind.
 
 772
 01:16:29,168 --> 01:16:31,329
-Russell: Where are you
+Where are you
 keeping Kevin?
 
 773
@@ -3432,12 +3432,12 @@ Let me go!
 
 774
 01:16:33,839 --> 01:16:36,000
-Beta: Scream all you want,
+Scream all you want,
 small mailman.
 
 775
 01:16:36,133 --> 01:16:38,499
-Gamma: None of your mailman friends
+None of your mailman friends
 can hear you.
 
 776
@@ -3447,7 +3447,7 @@ all my wilderness explorer training!
 
 777
 01:16:46,560 --> 01:16:48,175
-Muntz: Alpha,
+Alpha,
 fredricksen's coming back.
 
 778
@@ -3462,7 +3462,7 @@ I'm not finished with you!
 
 780
 01:16:55,402 --> 01:16:57,313
-Muntz: Nice talking with you.
+Nice talking with you.
 
 781
 01:17:00,533 --> 01:17:01,568
@@ -3478,8 +3478,8 @@ Russell!
 
 784
 01:17:36,777 --> 01:17:39,393
-- Mr. fredricksen!
-- Dug, bring her over!
+Mr. fredricksen!
+Dug, bring her over!
 
 785
 01:17:41,282 --> 01:17:43,773
@@ -3488,7 +3488,7 @@ Let's go get her!
 
 786
 01:17:43,909 --> 01:17:46,070
-Carl: I'm getting Kevin. You stay here.
+I'm getting Kevin. You stay here.
 
 787
 01:17:46,203 --> 01:17:47,409
@@ -3508,7 +3508,7 @@ How do we get past these dogs?
 
 791
 01:18:00,467 --> 01:18:01,798
-Dug: Point!
+Point!
 
 792
 01:18:12,271 --> 01:18:13,431
@@ -3520,7 +3520,7 @@ Don't worry, Kevin. We're on our way.
 
 794
 01:18:17,610 --> 01:18:20,727
-Alpha: Allow no one to be entering
+Allow no one to be entering
 through these doors.
 
 795
@@ -3537,13 +3537,13 @@ Who wants the ball?
 
 798
 01:18:42,509 --> 01:18:44,295
-Dog 1: Me! I want it!
-Dog 2: Me! I do!
+Me! I want it!
+Me! I do!
 
 799
 01:18:44,637 --> 01:18:46,114
-Dog 3: I want the ball!
-Dog 4: Give it to me!
+I want the ball!
+Give it to me!
 
 800
 01:18:46,138 --> 01:18:47,423
@@ -3551,15 +3551,15 @@ Then go get it!
 
 801
 01:18:47,473 --> 01:18:49,839
-Gamma: I'm gonna get there first!
+I'm gonna get there first!
 
 802
 01:18:49,975 --> 01:18:51,340
-Gamma: Getting the ball
+Getting the ball
 
 803
 01:18:51,477 --> 01:18:52,933
-gamma: I got it!
+I got it!
 
 804
 01:18:53,312 --> 01:18:54,312
@@ -3572,17 +3572,17 @@ Let's get you out of here.
 
 806
 01:19:01,153 --> 01:19:03,144
-Gamma: Master! He's gone!
+Master! He's gone!
 The old man!
 
 807
 01:19:03,280 --> 01:19:04,315
-Dog 1: He's here!
+He's here!
 
 808
 01:19:04,365 --> 01:19:06,481
-Gamma: He's got the bird!
-Dog 2: The bird's gone...
+He's got the bird!
+The bird's gone...
 
 809
 01:19:06,617 --> 01:19:08,608
@@ -3598,12 +3598,12 @@ Ha-ha!
 
 812
 01:19:25,511 --> 01:19:27,030
-Dog 3: He's in hall d!
-Dog 4: He's in hall c!
+He's in hall d!
+He's in hall c!
 
 813
 01:19:27,054 --> 01:19:28,510
-Dog 5: It's the old man!
+It's the old man!
 
 814
 01:19:28,889 --> 01:19:31,972
@@ -3615,19 +3615,19 @@ Gray leader? Take down the house.
 
 816
 01:19:56,500 --> 01:19:57,785
-Beta: Gray leader, checking in.
+Gray leader, checking in.
 
 817
 01:19:57,876 --> 01:19:58,979
-Gamma: Gray two, checking in.
+Gray two, checking in.
 
 818
 01:19:59,003 --> 01:20:00,443
-Gray three: Gray three, checking in.
+Gray three, checking in.
 
 819
 01:20:04,675 --> 01:20:06,006
-Beta: Target sighted.
+Target sighted.
 
 820
 01:20:14,476 --> 01:20:16,012
@@ -3644,8 +3644,8 @@ Spit it out!
 
 823
 01:21:05,611 --> 01:21:07,852
-- Come on.
-- Enough!
+Come on.
+Enough!
 
 824
 01:21:08,197 --> 01:21:12,907
@@ -3658,34 +3658,34 @@ Come on, Kevin.
 
 826
 01:22:00,124 --> 01:22:03,082
-Alpha: I will have many enjoyments
+I will have many enjoyments
 from what I am about to do, dug.
 
 827
 01:22:11,468 --> 01:22:12,958
-Dog 1: He wears the cone of shame!
+He wears the cone of shame!
 
 828
 01:22:13,512 --> 01:22:16,925
-Alpha: What?
+What?
 Do not just continue sitting. Attack!
 
 829
 01:22:20,018 --> 01:22:23,306
-Alpha: No, no! Stop your laughing!
+No, no! Stop your laughing!
 Get this off of me!
 
 830
 01:22:23,355 --> 01:22:25,266
-Dug: Listen, you dog. Sit!
+Listen, you dog. Sit!
 
 831
 01:22:26,859 --> 01:22:28,099
-All: Yes, Alpha.
+Yes, Alpha.
 
 832
 01:22:28,193 --> 01:22:30,809
-Dug: Alpha? I am not Alpha. He is...
+Alpha? I am not Alpha. He is...
 
 833
 01:22:31,196 --> 01:22:32,231
@@ -3697,11 +3697,11 @@ I can't do it.
 
 835
 01:22:37,911 --> 01:22:39,151
-Carl: Russell! Huh?
+Russell! Huh?
 
 836
 01:22:39,329 --> 01:22:42,742
-Carl: Caw, caw! Raar!
+Caw, caw! Raar!
 Caw, caw! Raar!
 
 837
@@ -3714,20 +3714,20 @@ Hey, squirrel!
 
 839
 01:23:04,855 --> 01:23:06,846
-Gamma: Squirrel? Where?
+Squirrel? Where?
 Where? Where?
 
 840
 01:23:06,940 --> 01:23:08,271
-Beta: Where's the squirrel?
+Where's the squirrel?
 
 841
 01:23:12,112 --> 01:23:13,773
-Gamma: I hate squirrels.
+I hate squirrels.
 
 842
 01:23:36,053 --> 01:23:37,259
-Dug: Master!
+Master!
 
 843
 01:23:38,305 --> 01:23:41,638
@@ -3739,7 +3739,7 @@ Mr. fredricksen!
 
 845
 01:23:48,899 --> 01:23:50,514
-Carl: Go on, Kevin!
+Go on, Kevin!
 
 846
 01:24:05,457 --> 01:24:06,572
@@ -3764,7 +3764,7 @@ Kevin! Chocolate!
 
 851
 01:25:14,067 --> 01:25:15,682
-Russell: That was cool!
+That was cool!
 
 852
 01:25:17,738 --> 01:25:22,107
@@ -3773,7 +3773,7 @@ Easy, Russell.
 
 853
 01:25:24,411 --> 01:25:26,902
-Dug: Oh, I am ready to not be up high.
+Oh, I am ready to not be up high.
 
 854
 01:25:50,270 --> 01:25:52,932
@@ -3790,7 +3790,7 @@ Look at you. You're so soft.
 
 857
 01:26:11,166 --> 01:26:12,747
-All: Awl!
+Awl!
 
 858
 01:26:12,834 --> 01:26:14,620
@@ -3819,7 +3819,7 @@ Ready.
 
 864
 01:26:58,255 --> 01:26:59,995
-Strauch: And by receiving
+And by receiving
 their badges,
 
 865
@@ -3882,7 +3882,7 @@ Wow.
 
 878
 01:28:02,110 --> 01:28:04,601
-Strauch: All right,
+All right,
 I think that covers everybody.
 
 879
@@ -3900,48 +3900,48 @@ Ready, everybody?
 
 882
 01:28:11,995 --> 01:28:13,531
-All: Caw, caw! Raar!
+Caw, caw! Raar!
 Caw, caw! Raar!
 
 883
 01:28:20,587 --> 01:28:22,293
-- Blue one.
-- Red one.
+Blue one.
+Red one.
 
 884
 01:28:22,964 --> 01:28:24,750
-- Blue one.
-- Dug: Gray one.
+Blue one.
+Gray one.
 
 885
 01:28:25,717 --> 01:28:27,708
-- Red one.
-Russell: That's a bike.
+Red one.
+That's a bike.
 
 886
 01:28:28,136 --> 01:28:29,797
-Carl: It's red, isn't it?
+It's red, isn't it?
 
 887
 01:28:29,888 --> 01:28:31,753
-Russell: Mr. fredricksen,
+Mr. fredricksen,
 you're cheating.
 
 888
 01:28:31,973 --> 01:28:33,759
-Carl: No, I'm not. Red one.
+No, I'm not. Red one.
 
 889
 01:28:33,850 --> 01:28:35,636
-Russell: That's a fire hydrant.
+That's a fire hydrant.
 
 890
 01:28:37,771 --> 01:28:39,807
-Carl: Maybe I need new glasses.
+Maybe I need new glasses.
 
 891
 01:28:40,148 --> 01:28:41,763
-Russell: Another blue one.
+Another blue one.
 
 892
 01:34:02,387 --> 01:34:06,596
@@ -3950,50 +3950,50 @@ it's heading our way
 
 893
 01:34:06,766 --> 01:34:10,759
-j so grab your scarf and goggles
+so grab your scarf and goggles
 let's fly
 
 894
 01:34:11,146 --> 01:34:15,435
-j I've mapped out our journey
+I've mapped out our journey
 we're up here to stay
 
 895
 01:34:15,525 --> 01:34:19,768
-j' a sunset is our home
+a sunset is our home
 a moonbeam we will own
 
 896
 01:34:19,904 --> 01:34:23,647
-j my spirit of adventure is you
+my spirit of adventure is you
 
 897
 01:34:24,200 --> 01:34:28,364
-j freaks of nature span a globe
+freaks of nature span a globe
 that's too big to deny
 
 898
 01:34:28,454 --> 01:34:32,788
-j with canine guards we'll travel there
+with canine guards we'll travel there
 and spit into their eye
 
 899
 01:34:33,293 --> 01:34:37,502
-j' bang, bang
+bang, bang
 once the smoke has cleared
 
 900
 01:34:37,589 --> 01:34:41,502
-j after all the crowds have cheered
+after all the crowds have cheered
 
 901
 01:34:41,593 --> 01:34:46,087
-j we'll make it a joint venture
+we'll make it a joint venture
 before we're in our dentures
 
 902
 01:34:46,181 --> 01:34:49,799
-j my spirit of adventure is you
+my spirit of adventure is you
 
 903
 01:35:07,869 --> 01:35:12,158
@@ -4002,25 +4002,25 @@ let's crack some champagne
 
 904
 01:35:12,248 --> 01:35:16,491
-j I've hung a hundred heads
+I've hung a hundred heads
 on my wall
 
 905
 01:35:16,586 --> 01:35:21,000
-j to say that I'm traveled
+to say that I'm traveled
 is far too mundane
 
 906
 01:35:21,090 --> 01:35:25,379
-j let's grab our aero-fare
+let's grab our aero-fare
 the high-brows will be there
 
 907
 01:35:25,470 --> 01:35:29,713
-j' the spirit of adventure
+the spirit of adventure
 is something to indenture
 
 908
 01:35:29,807 --> 01:35:34,176
-j my spirit of adventure is you j
+my spirit of adventure is you j
 

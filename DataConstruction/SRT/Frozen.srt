@@ -183,8 +183,8 @@ Oh...
 
 45
 00:04:27,000 --> 00:04:28,729
-- Ready?
-- Uh-huh.
+Ready?
+Uh-huh.
 
 46
 00:04:32,040 --> 00:04:33,929
@@ -240,8 +240,8 @@ Wait!
 
 59
 00:05:10,240 --> 00:05:11,287
-- Whoo-hoo!
-- Slow down!
+Whoo-hoo!
+Slow down!
 
 60
 00:05:13,520 --> 00:05:14,567
@@ -281,8 +281,8 @@ It was an accident. I'm sorry, Anna!
 
 69
 00:05:46,400 --> 00:05:49,165
-- Oh. She's ice cold.
-- I know where we have to go.
+Oh. She's ice cold.
+I know where we have to go.
 
 70
 00:06:10,120 --> 00:06:11,246
@@ -306,8 +306,8 @@ It's the king.
 
 75
 00:06:39,320 --> 00:06:41,129
-- Trolls?
-- Shush!
+Trolls?
+Shush!
 
 76
 00:06:41,240 --> 00:06:42,605
@@ -584,7 +584,7 @@ People are asking where you've been
 
 142
 00:10:51,080 --> 00:10:54,129
-They say "Have courage"
+They say Have courage
 And I'm trying to
 
 143
@@ -646,7 +646,7 @@ What do you want, Sven?
 
 157
 00:12:13,120 --> 00:12:14,360
-"Give me a snack."
+Give me a snack.
 
 158
 00:12:14,440 --> 00:12:16,044
@@ -654,7 +654,7 @@ What's the magic word?
 
 159
 00:12:16,120 --> 00:12:17,121
-"Please."
+Please.
 
 160
 00:12:17,200 --> 00:12:19,089
@@ -667,8 +667,8 @@ finally opening up the gates!
 
 162
 00:12:22,840 --> 00:12:26,481
-- And for a whole day!
-- Faster, Percy!
+And for a whole day!
+Faster, Percy!
 
 163
 00:12:26,960 --> 00:12:31,807
@@ -709,8 +709,8 @@ Princess Anna?
 
 172
 00:12:53,320 --> 00:12:55,402
-- Princess Anna?
-- Huh? Yeah?
+Princess Anna?
+Huh? Yeah?
 
 173
 00:12:56,280 --> 00:12:57,566
@@ -1102,7 +1102,7 @@ Princess Anna of Arendelle.
 
 267
 00:17:31,480 --> 00:17:32,845
-"Princess"? My Lady.
+Princess? My Lady.
 
 268
 00:17:32,920 --> 00:17:34,126
@@ -1110,8 +1110,8 @@ Oh!
 
 269
 00:17:34,400 --> 00:17:36,004
-- Whoa.
-- Whoa, whoa, whoa...
+Whoa.
+Whoa, whoa, whoa...
 
 270
 00:17:36,080 --> 00:17:37,445
@@ -1132,7 +1132,7 @@ This is awkward.
 
 274
 00:17:42,840 --> 00:17:44,444
-Not "You're awkward,"
+Not You're awkward,
 but just because we're...
 
 275
@@ -1187,7 +1187,7 @@ it's just me.
 
 287
 00:18:06,640 --> 00:18:07,687
-"Just" you?
+Just you?
 
 288
 00:18:15,320 --> 00:18:16,845
@@ -1247,7 +1247,7 @@ Hi.
 
 302
 00:20:32,440 --> 00:20:34,044
-"Hi" me? Oh...
+Hi me? Oh...
 
 303
 00:20:34,360 --> 00:20:35,930
@@ -1264,7 +1264,7 @@ You look beautiful-ler.
 
 306
 00:20:41,280 --> 00:20:42,770
-I mean, not "fuller." You don't look fuller.
+I mean, not fuller. You don't look fuller.
 
 307
 00:20:42,840 --> 00:20:43,887
@@ -1300,8 +1300,8 @@ Your Majesty.
 
 315
 00:21:04,880 --> 00:21:07,645
-- The Duke of Weaseltown.
-- "Weselton"!
+The Duke of Weaseltown.
+Weselton!
 
 316
 00:21:08,040 --> 00:21:09,644
@@ -1342,8 +1342,8 @@ But my sister does.
 
 325
 00:21:29,120 --> 00:21:30,281
-- What?
-- Oh! Lucky you.
+What?
+Oh! Lucky you.
 
 326
 00:21:30,400 --> 00:21:31,447
@@ -1382,8 +1382,8 @@ Do you know the reason? Hmm?
 
 334
 00:21:47,520 --> 00:21:49,249
-- No.
-- No.
+No.
+No.
 
 335
 00:21:49,360 --> 00:21:50,691
@@ -1392,7 +1392,7 @@ All right. Hang on!
 336
 00:21:50,960 --> 00:21:53,645
 They don't call me
-the "Little Dipper" for nothing!
+the Little Dipper for nothing!
 
 337
 00:21:53,720 --> 00:21:54,801
@@ -1441,8 +1441,8 @@ But it can't.
 
 348
 00:22:23,480 --> 00:22:25,482
-- Why not?
-- It just can't.
+Why not?
+It just can't.
 
 349
 00:22:30,720 --> 00:22:32,370
@@ -1471,8 +1471,8 @@ to myself to slide!
 
 355
 00:22:56,480 --> 00:22:58,403
-- Oh!
-- Oops!
+Oh!
+Oops!
 
 356
 00:22:58,520 --> 00:22:59,851
@@ -1627,8 +1627,8 @@ Love is an open
 
 392
 00:24:22,840 --> 00:24:25,969
-- Door
-- Door
+Door
+Door
 
 393
 00:24:26,160 --> 00:24:28,447
@@ -1636,8 +1636,8 @@ Love is an open door
 
 394
 00:24:28,520 --> 00:24:31,205
-- With you
-- With you
+With you
+With you
 
 395
 00:24:31,280 --> 00:24:34,045
@@ -1645,13 +1645,13 @@ Love is an open door
 
 396
 00:24:41,680 --> 00:24:42,841
-- I mean, it's crazy
-- What?
+I mean, it's crazy
+What?
 
 397
 00:24:42,960 --> 00:24:45,122
-- We finish each other's
-- Sandwiches
+We finish each other's
+Sandwiches
 
 398
 00:24:45,360 --> 00:24:46,486
@@ -1676,13 +1676,13 @@ Can have but one explanation
 
 403
 00:24:56,320 --> 00:24:57,401
-- You
-- And I
+You
+And I
 
 404
 00:24:57,480 --> 00:24:58,481
-- Were
-- Just
+Were
+Just
 
 405
 00:24:58,560 --> 00:25:00,050
@@ -1690,8 +1690,8 @@ Meant to be
 
 406
 00:25:00,400 --> 00:25:02,687
-- Say goodbye
-- Say goodbye
+Say goodbye
+Say goodbye
 
 407
 00:25:02,760 --> 00:25:05,604
@@ -1711,8 +1711,8 @@ Love is an open
 
 411
 00:25:16,000 --> 00:25:19,049
-- Door
-- Door
+Door
+Door
 
 412
 00:25:19,200 --> 00:25:21,043
@@ -1720,8 +1720,8 @@ Life can be so much more
 
 413
 00:25:21,120 --> 00:25:24,044
-- With you
-- With you
+With you
+With you
 
 414
 00:25:24,120 --> 00:25:25,406
@@ -1729,8 +1729,8 @@ Love is an open
 
 415
 00:25:25,480 --> 00:25:28,962
-- Door
-- Door
+Door
+Door
 
 416
 00:25:29,360 --> 00:25:31,249
@@ -1750,13 +1750,13 @@ Yes!
 
 420
 00:25:40,560 --> 00:25:42,369
-- Coming through.
-- Excuse me. Oh...
+Coming through.
+Excuse me. Oh...
 
 421
 00:25:42,760 --> 00:25:44,285
-- Pardon. Sorry.
-- Oh!
+Pardon. Sorry.
+Oh!
 
 422
 00:25:44,360 --> 00:25:45,885
@@ -1797,8 +1797,8 @@ Of our marriage.
 
 431
 00:26:04,280 --> 00:26:05,884
-- Marriage?
-- Yes!
+Marriage?
+Yes!
 
 432
 00:26:06,440 --> 00:26:07,566
@@ -1825,13 +1825,13 @@ Wait. Would we live here?
 
 437
 00:26:15,800 --> 00:26:17,723
-- Here?
-- Absolutely!
+Here?
+Absolutely!
 
 438
 00:26:17,800 --> 00:26:18,801
-- Anna!
-- Oh!
+Anna!
+Oh!
 
 439
 00:26:18,880 --> 00:26:20,370
@@ -1844,8 +1844,8 @@ What? No, no, no.
 
 441
 00:26:21,760 --> 00:26:23,888
-- Of course we have the room.
-- Wait, slow down.
+Of course we have the room.
+Wait, slow down.
 
 442
 00:26:24,440 --> 00:26:26,044
@@ -1914,8 +1914,8 @@ The party is over. Close the gates.
 
 457
 00:27:00,614 --> 00:27:01,695
-- Yes, Your Majesty.
-- What?
+Yes, Your Majesty.
+What?
 
 458
 00:27:01,720 --> 00:27:03,210
@@ -2041,8 +2041,8 @@ The fjord.
 
 488
 00:29:31,840 --> 00:29:33,524
-- Snow!
-- Snow?
+Snow!
+Snow?
 
 489
 00:29:33,880 --> 00:29:34,927
@@ -2050,8 +2050,8 @@ Yes, snow.
 
 490
 00:29:35,000 --> 00:29:36,764
-- Are you all right?
-- No.
+Are you all right?
+No.
 
 491
 00:29:36,920 --> 00:29:38,365
@@ -2108,8 +2108,8 @@ She nearly killed me!
 
 504
 00:30:02,600 --> 00:30:04,125
-- You slipped on ice.
-- Her ice.
+You slipped on ice.
+Her ice.
 
 505
 00:30:04,200 --> 00:30:06,441
@@ -2130,13 +2130,13 @@ So, I'm the one
 
 509
 00:30:13,840 --> 00:30:15,046
-- that needs to go after her.
-- What?
+that needs to go after her.
+What?
 
 510
 00:30:15,120 --> 00:30:17,441
-- Bring me my horse, please.
-- Anna, no.
+Bring me my horse, please.
+Anna, no.
 
 511
 00:30:17,520 --> 00:30:18,726
@@ -2471,12 +2471,12 @@ Cold, cold, cold, cold, cold.
 
 589
 00:36:08,720 --> 00:36:10,324
-Ooh. "And sauna"!
+Ooh. And sauna!
 
 590
 00:36:15,880 --> 00:36:17,211
-- Yoo-hoo.
-- Hmm?
+Yoo-hoo.
+Hmm?
 
 591
 00:36:18,560 --> 00:36:19,766
@@ -2725,12 +2725,12 @@ Sven, don't you think that's true?
 
 650
 00:38:52,840 --> 00:38:55,889
-"Yeah, people will beat you
-And curse you and cheat you"
+Yeah, people will beat you
+And curse you and cheat you
 
 651
 00:38:56,040 --> 00:38:58,441
-"Every one of them's bad, except you"
+Every one of them's bad, except you
 
 652
 00:38:58,720 --> 00:39:00,404
@@ -2746,8 +2746,8 @@ Sven, don't you think I'm right?
 
 655
 00:39:08,240 --> 00:39:11,767
-"That's once again true
-For all, except you"
+That's once again true
+For all, except you
 
 656
 00:39:12,240 --> 00:39:15,210
@@ -2756,7 +2756,7 @@ Let's call it a night
 
 657
 00:39:15,280 --> 00:39:17,009
-"Good night"
+Good night
 
 658
 00:39:17,720 --> 00:39:21,725
@@ -2834,8 +2834,8 @@ Hang on! We like to go fast.
 
 676
 00:40:21,200 --> 00:40:23,601
-- I like fast.
-- Whoa! Whoa, whoa, whoa...
+I like fast.
+Whoa! Whoa, whoa, whoa...
 
 677
 00:40:23,720 --> 00:40:25,370
@@ -2852,8 +2852,8 @@ Ugh!
 
 680
 00:40:28,480 --> 00:40:31,086
-- No, I was raised in a castle.
-- Hmm.
+No, I was raised in a castle.
+Hmm.
 
 681
 00:40:32,640 --> 00:40:34,005
@@ -2948,27 +2948,27 @@ Oh, yeah? What's his last name?
 
 702
 00:41:18,760 --> 00:41:21,206
-"Of the Southern Isles."
+Of the Southern Isles.
 
 703
 00:41:21,360 --> 00:41:22,691
-- What's his favorite food?
-- Sandwiches.
+What's his favorite food?
+Sandwiches.
 
 704
 00:41:22,800 --> 00:41:24,131
-- Best friend's name?
-- Probably John.
+Best friend's name?
+Probably John.
 
 705
 00:41:24,200 --> 00:41:25,247
-- Eye color?
-- Dreamy.
+Eye color?
+Dreamy.
 
 706
 00:41:25,294 --> 00:41:26,855
-- Foot size?
-- Foot size doesn't matter.
+Foot size?
+Foot size doesn't matter.
 
 707
 00:41:26,880 --> 00:41:28,086
@@ -2997,8 +2997,8 @@ Excuse me, sir. He is a prince.
 
 713
 00:41:37,200 --> 00:41:38,725
-- All men do it.
-- Ew.
+All men do it.
+Ew.
 
 714
 00:41:39,400 --> 00:41:42,210
@@ -3027,13 +3027,13 @@ who are love experts? I'm not buying it.
 
 720
 00:41:53,440 --> 00:41:54,930
-- Stop talking.
-- No, no, no. No, no.
+Stop talking.
+No, no, no. No, no.
 
 721
 00:41:55,120 --> 00:41:56,840
-- I'd like to meet these...
-- No, I mean it.
+I'd like to meet these...
+No, I mean it.
 
 722
 00:42:11,760 --> 00:42:12,761
@@ -3045,8 +3045,8 @@ Go!
 
 724
 00:42:14,760 --> 00:42:16,091
-- What are they?
-- Wolves.
+What are they?
+Wolves.
 
 725
 00:42:16,280 --> 00:42:17,327
@@ -3054,8 +3054,8 @@ Wolves?
 
 726
 00:42:19,800 --> 00:42:21,211
-- What do we do?
-- I got this.
+What do we do?
+I got this.
 
 727
 00:42:21,280 --> 00:42:23,487
@@ -3068,8 +3068,8 @@ But I want to help!
 
 729
 00:42:24,600 --> 00:42:25,647
-- No.
-- Why not?
+No.
+Why not?
 
 730
 00:42:25,720 --> 00:42:26,721
@@ -3101,7 +3101,7 @@ Christopher!
 
 737
 00:42:35,720 --> 00:42:37,051
-It's "Kristoff"!
+It's Kristoff!
 
 738
 00:42:37,120 --> 00:42:38,451
@@ -3129,8 +3129,8 @@ You don't tell him what to do.
 
 744
 00:42:59,080 --> 00:43:00,445
-- Hey!
-- I do!
+Hey!
+I do!
 
 745
 00:43:01,560 --> 00:43:02,561
@@ -3194,17 +3194,17 @@ It's this way?
 
 759
 00:44:00,880 --> 00:44:02,848
-"She'll die on her own."
+She'll die on her own.
 
 760
 00:44:03,000 --> 00:44:04,684
-- I can live with that.
-- Here we go.
+I can live with that.
+Here we go.
 
 761
 00:44:04,920 --> 00:44:07,924
-"But you won't get
-your new sled if she's dead."
+But you won't get
+your new sled if she's dead.
 
 762
 00:44:08,120 --> 00:44:09,531
@@ -3298,23 +3298,23 @@ Am I right?
 
 784
 00:45:44,880 --> 00:45:45,961
-- Hi.
-- You're creepy.
+Hi.
+You're creepy.
 
 785
 00:45:46,040 --> 00:45:47,326
-- Whoa!
-- I don't want it.
+Whoa!
+I don't want it.
 
 786
 00:45:47,440 --> 00:45:48,805
-- Back at you.
-- Please don't drop me.
+Back at you.
+Please don't drop me.
 
 787
 00:45:48,880 --> 00:45:50,086
-- No.
-- Come on, it's just a head.
+No.
+Come on, it's just a head.
 
 788
 00:45:50,160 --> 00:45:51,400
@@ -3347,8 +3347,8 @@ Oh!
 
 795
 00:46:05,560 --> 00:46:06,925
-- Thank you.
-- You're welcome.
+Thank you.
+You're welcome.
 
 796
 00:46:07,160 --> 00:46:08,127
@@ -3369,8 +3369,8 @@ Oh! Too hard. I'm sorry!
 
 800
 00:46:15,495 --> 00:46:17,135
-- Head rush!
-- I was just... Are you okay?
+Head rush!
+I was just... Are you okay?
 
 801
 00:46:17,160 --> 00:46:20,482
@@ -3444,8 +3444,8 @@ donkey over there?
 
 818
 00:46:52,480 --> 00:46:53,970
-- That's Sven.
-- Uh-huh.
+That's Sven.
+Uh-huh.
 
 819
 00:46:54,040 --> 00:46:55,929
@@ -3467,13 +3467,13 @@ trying to kiss my nose.
 
 823
 00:47:02,640 --> 00:47:04,483
-- I like you, too.
-- Olaf.
+I like you, too.
+Olaf.
 
 824
 00:47:05,040 --> 00:47:07,122
-- Did Elsa build you?
-- Yeah. Why?
+Did Elsa build you?
+Yeah. Why?
 
 825
 00:47:07,440 --> 00:47:08,441
@@ -3481,8 +3481,8 @@ Do you know where she is?
 
 826
 00:47:08,560 --> 00:47:09,641
-- Fascinating.
-- Yeah. Why?
+Fascinating.
+Yeah. Why?
 
 827
 00:47:09,720 --> 00:47:11,240
@@ -3503,8 +3503,8 @@ Stop it, Sven. I'm trying to focus, here.
 
 831
 00:47:16,160 --> 00:47:18,162
-- Yeah. Why?
-- I'll tell you why.
+Yeah. Why?
+I'll tell you why.
 
 832
 00:47:18,720 --> 00:47:20,245
@@ -3512,8 +3512,8 @@ We need Elsa to bring back summer.
 
 833
 00:47:20,760 --> 00:47:22,250
-- Summer?
-- Mmm-hmm.
+Summer?
+Mmm-hmm.
 
 834
 00:47:22,320 --> 00:47:23,560
@@ -3668,8 +3668,8 @@ In summer!
 
 869
 00:49:09,720 --> 00:49:11,484
-- I'm gonna tell him.
-- Don't you dare.
+I'm gonna tell him.
+Don't you dare.
 
 870
 00:49:12,840 --> 00:49:16,287
@@ -3701,13 +3701,13 @@ The bark needs to be face-up.
 
 877
 00:49:39,600 --> 00:49:41,967
-- Bark down is drier.
-- Bark up!
+Bark down is drier.
+Bark up!
 
 878
 00:49:42,040 --> 00:49:43,007
-- Bark down!
-- Papa!
+Bark down!
+Papa!
 
 879
 00:49:43,080 --> 00:49:44,684
@@ -3808,8 +3808,8 @@ So, where is the princess?
 
 902
 00:50:29,920 --> 00:50:31,920
-- Where could she be?
-- Where is she?
+Where could she be?
+Where is she?
 
 903
 00:50:31,960 --> 00:50:33,405
@@ -3822,8 +3822,8 @@ with me to find her.
 
 905
 00:50:36,960 --> 00:50:38,121
-- I'll go.
-- I volunteer.
+I'll go.
+I volunteer.
 
 906
 00:50:38,200 --> 00:50:40,168
@@ -3843,8 +3843,8 @@ you are to put an end to this winter.
 
 910
 00:50:48,280 --> 00:50:49,691
-- Do you understand?
-- Hmm.
+Do you understand?
+Hmm.
 
 911
 00:50:54,120 --> 00:50:56,805
@@ -3874,8 +3874,8 @@ So, you're not at all afraid of her?
 
 917
 00:51:07,920 --> 00:51:09,490
-- Why would I be?
-- Yeah.
+Why would I be?
+Yeah.
 
 918
 00:51:09,760 --> 00:51:14,243
@@ -3933,8 +3933,8 @@ I wouldn't put my foot there.
 
 931
 00:51:43,640 --> 00:51:45,290
-- You're distracting me.
-- Or there.
+You're distracting me.
+Or there.
 
 932
 00:51:45,520 --> 00:51:47,363
@@ -4082,8 +4082,8 @@ Oh. You should probably wait out here.
 
 967
 00:53:34,320 --> 00:53:36,288
-- What?
-- The last time I introduced her to a guy,
+What?
+The last time I introduced her to a guy,
 
 968
 00:53:36,440 --> 00:53:37,726
@@ -4107,8 +4107,8 @@ You, too, Olaf.
 
 973
 00:53:45,800 --> 00:53:47,529
-- Me?
-- Just give us a minute.
+Me?
+Just give us a minute.
 
 974
 00:53:48,000 --> 00:53:49,126
@@ -4120,8 +4120,8 @@ One, two,
 
 976
 00:53:52,640 --> 00:53:54,324
-- three...
-- Four...
+three...
+Four...
 
 977
 00:53:59,800 --> 00:54:00,881
@@ -4212,8 +4212,8 @@ Actually, about that...
 
 998
 00:54:59,320 --> 00:55:00,970
-- Sixty!
-- Wait. What is that?
+Sixty!
+Wait. What is that?
 
 999
 00:55:01,680 --> 00:55:04,126
@@ -4257,8 +4257,8 @@ We can be like that again.
 
 1009
 00:55:26,560 --> 00:55:28,280
-- Catch me!
-- Slow down!
+Catch me!
+Slow down!
 
 1010
 00:55:31,680 --> 00:55:32,761
@@ -4350,8 +4350,8 @@ And open up the gates
 
 1031
 00:56:26,040 --> 00:56:27,451
-- Yeah, but...
-- I know.
+Yeah, but...
+I know.
 
 1032
 00:56:27,520 --> 00:56:31,650
@@ -4571,18 +4571,18 @@ Okay, relax.
 
 1084
 00:58:42,000 --> 00:58:44,321
-- Just calm down! Calm down!
-- Okay! All right!
+Just calm down! Calm down!
+Okay! All right!
 
 1085
 00:58:44,400 --> 00:58:46,004
-- I'm okay.
-- Just let the snowman be.
+I'm okay.
+Just let the snowman be.
 
 1086
 00:58:46,080 --> 00:58:47,241
-- I'm calm.
-- Great.
+I'm calm.
+Great.
 
 1087
 00:58:47,400 --> 00:58:48,925
@@ -4640,8 +4640,8 @@ Ow!
 
 1100
 00:59:33,800 --> 00:59:35,848
-- What's that for?
-- I'm digging a snow anchor.
+What's that for?
+I'm digging a snow anchor.
 
 1101
 00:59:36,000 --> 00:59:37,490
@@ -4666,8 +4666,8 @@ Okay, Anna. On three.
 
 1106
 00:59:48,000 --> 00:59:49,286
-- Okay.
-- One...
+Okay.
+One...
 
 1107
 00:59:49,360 --> 00:59:50,361
@@ -4675,8 +4675,8 @@ You tell me when. I'm ready to go.
 
 1108
 00:59:50,440 --> 00:59:52,010
-- Two...
-- I was born ready! Yes!
+Two...
+I was born ready! Yes!
 
 1109
 00:59:52,080 --> 00:59:53,161
@@ -4741,8 +4741,8 @@ Go. Go faster!
 
 1124
 01:00:37,760 --> 01:00:39,410
-- Wait, what?
-- Hey!
+Wait, what?
+Hey!
 
 1125
 01:00:43,840 --> 01:00:45,330
@@ -4774,8 +4774,8 @@ I can't feel my legs! I can't feel my legs!
 
 1132
 01:01:09,480 --> 01:01:11,209
-- Those are my legs.
-- Ooh!
+Those are my legs.
+Ooh!
 
 1133
 01:01:11,360 --> 01:01:12,725
@@ -4819,8 +4819,8 @@ Thank you.
 
 1143
 01:01:31,000 --> 01:01:32,126
-- How's your head?
-- Ah! Ooh!
+How's your head?
+Ah! Ooh!
 
 1144
 01:01:33,920 --> 01:01:35,160
@@ -4878,8 +4878,8 @@ Don't worry about my ice business.
 
 1157
 01:01:58,720 --> 01:02:00,484
-- Worry about your hair!
-- What?
+Worry about your hair!
+What?
 
 1158
 01:02:00,560 --> 01:02:02,369
@@ -4904,8 +4904,8 @@ Does it look bad?
 
 1163
 01:02:12,320 --> 01:02:13,731
-- No.
-- You hesitated.
+No.
+You hesitated.
 
 1164
 01:02:13,840 --> 01:02:14,887
@@ -4929,8 +4929,8 @@ The love experts?
 
 1169
 01:02:21,480 --> 01:02:23,130
-- Love experts?
-- Uh-huh.
+Love experts?
+Uh-huh.
 
 1170
 01:02:23,600 --> 01:02:25,807
@@ -4975,8 +4975,8 @@ Look, Sven, the sky is awake.
 
 1180
 01:03:08,280 --> 01:03:10,169
-- Are you cold?
-- A little.
+Are you cold?
+A little.
 
 1181
 01:03:12,840 --> 01:03:14,683
@@ -4997,7 +4997,7 @@ So, uh, about my friends. Well...
 
 1185
 01:03:22,720 --> 01:03:24,006
-I say "friends"...
+I say friends...
 
 1186
 01:03:24,160 --> 01:03:26,128
@@ -5014,8 +5014,8 @@ Until they, you know, kinda took us in.
 
 1189
 01:03:31,600 --> 01:03:32,965
-- They did?
-- Yeah.
+They did?
+Yeah.
 
 1190
 01:03:33,360 --> 01:03:34,407
@@ -5123,8 +5123,8 @@ Okay. Well, I'm gonna go.
 
 1215
 01:04:33,280 --> 01:04:35,044
-- Go.
-- No, no, no. Anna, wait.
+Go.
+No, no, no. Anna, wait.
 
 1216
 01:04:37,520 --> 01:04:39,090
@@ -5144,13 +5144,13 @@ Kristoff's home!
 
 1220
 01:04:46,520 --> 01:04:49,569
-- Kristoff's here!
-- Kristoff's home!
+Kristoff's here!
+Kristoff's home!
 
 1221
 01:04:49,640 --> 01:04:51,927
-- Wait, "Kristoff"?
-- Uh-huh.
+Wait, Kristoff?
+Uh-huh.
 
 1222
 01:04:52,120 --> 01:04:53,531
@@ -5182,8 +5182,8 @@ But look, I grew a mushroom.
 
 1229
 01:05:02,760 --> 01:05:04,285
-- I...
-- I earned my fire crystal.
+I...
+I earned my fire crystal.
 
 1230
 01:05:04,360 --> 01:05:05,600
@@ -5215,8 +5215,8 @@ A girl!
 
 1237
 01:05:18,880 --> 01:05:20,484
-- Whoa!
-- Is that a real girl?
+Whoa!
+Is that a real girl?
 
 1238
 01:05:20,560 --> 01:05:22,608
@@ -5248,8 +5248,8 @@ Wait, wait, wait. Oh, um, no.
 
 1245
 01:05:33,320 --> 01:05:34,651
-- No.
-- You've got the wrong idea.
+No.
+You've got the wrong idea.
 
 1246
 01:05:34,720 --> 01:05:35,801
@@ -5274,13 +5274,13 @@ Is it the clumpy way he walks?
 
 1251
 01:05:45,160 --> 01:05:47,401
-- What?
-- Or the grumpy way he talks?
+What?
+Or the grumpy way he talks?
 
 1252
 01:05:47,480 --> 01:05:49,240
-- Oh, no.
-- Or the pear-shaped, square-shaped
+Oh, no.
+Or the pear-shaped, square-shaped
 
 1253
 01:05:49,280 --> 01:05:50,770
@@ -5316,8 +5316,8 @@ So, he's a bit of a fixer-upper
 
 1261
 01:06:03,320 --> 01:06:05,322
-- Whoa, whoa, whoa...
-- So, he's got a few flaws
+Whoa, whoa, whoa...
+So, he's got a few flaws
 
 1262
 01:06:05,400 --> 01:06:06,561
@@ -5350,8 +5350,8 @@ You can fix this fixer-upper up
 
 1269
 01:06:17,200 --> 01:06:18,929
-- With a little bit of love
-- Um...
+With a little bit of love
+Um...
 
 1270
 01:06:19,000 --> 01:06:20,968
@@ -5406,13 +5406,13 @@ He's got a couple of bugs
 
 1282
 01:06:47,840 --> 01:06:50,650
-- No, I don't!
-- His isolation is confirmation
+No, I don't!
+His isolation is confirmation
 
 1283
 01:06:50,720 --> 01:06:53,564
-- Of his desperation for healing hugs
-- Aw.
+Of his desperation for healing hugs
+Aw.
 
 1284
 01:06:53,720 --> 01:06:55,210
@@ -5452,7 +5452,7 @@ That's a minor thing
 
 1293
 01:07:15,920 --> 01:07:18,082
-Her quote "engagement"
+Her quote engagement
 Is a flex arrangement
 
 1294
@@ -5465,8 +5465,8 @@ So, she's a bit of a fixer-upper
 
 1296
 01:07:22,920 --> 01:07:24,922
-- Hey! Whoa, watch it!
-- Her brain's a bit betwixt
+Hey! Whoa, watch it!
+Her brain's a bit betwixt
 
 1297
 01:07:25,240 --> 01:07:27,527
@@ -5526,13 +5526,13 @@ That's what it's all about
 
 1311
 01:08:00,120 --> 01:08:01,121
-- Father!
-- Sister!
+Father!
+Sister!
 
 1312
 01:08:01,200 --> 01:08:03,931
-- Brother!
-- We need each other to raise us up
+Brother!
+We need each other to raise us up
 
 1313
 01:08:04,000 --> 01:08:05,161
@@ -5586,8 +5586,8 @@ to be your trollfully wedded...
 
 1325
 01:08:28,000 --> 01:08:29,889
-- Wait, what?
-- You're getting married.
+Wait, what?
+You're getting married.
 
 1326
 01:08:29,960 --> 01:08:31,041
@@ -5607,8 +5607,8 @@ There is strange magic here.
 
 1330
 01:08:39,080 --> 01:08:42,163
-- Granpabbie.
-- Come, come. Bring her here to me.
+Granpabbie.
+Come, come. Bring her here to me.
 
 1331
 01:08:43,640 --> 01:08:46,325
@@ -5659,8 +5659,8 @@ A true love's kiss, perhaps?
 
 1342
 01:09:17,640 --> 01:09:20,007
-- Something's wrong.
-- Are you all right?
+Something's wrong.
+Are you all right?
 
 1343
 01:09:20,080 --> 01:09:22,606
@@ -5857,8 +5857,8 @@ I will!
 
 1391
 01:14:01,360 --> 01:14:03,761
-- Hello!
-- It's alive!
+Hello!
+It's alive!
 
 1392
 01:14:12,960 --> 01:14:14,325
@@ -5878,8 +5878,8 @@ Anna!
 
 1396
 01:14:30,320 --> 01:14:32,163
-- You had us worried sick.
-- My Lady.
+You had us worried sick.
+My Lady.
 
 1397
 01:14:32,240 --> 01:14:35,164
@@ -5943,13 +5943,13 @@ You're so cold.
 
 1411
 01:15:14,000 --> 01:15:15,161
-- Hans, you have to kiss me.
-- What?
+Hans, you have to kiss me.
+What?
 
 1412
 01:15:15,240 --> 01:15:16,890
-- Now! Now!
-- Slow down.
+Now! Now!
+Slow down.
 
 1413
 01:15:16,960 --> 01:15:18,689
@@ -6032,8 +6032,8 @@ anywhere with her.
 
 1432
 01:16:15,640 --> 01:16:16,641
-- But you...
-- Hans!
+But you...
+Hans!
 
 1433
 01:16:16,720 --> 01:16:18,165
@@ -6212,13 +6212,13 @@ She's dangerous.
 
 1475
 01:18:21,440 --> 01:18:22,840
-- Move quickly.
-- Careful.
+Move quickly.
+Careful.
 
 1476
 01:18:24,360 --> 01:18:25,850
-- It won't open!
-- It's frozen shut.
+It won't open!
+It's frozen shut.
 
 1477
 01:18:26,080 --> 01:18:27,320
@@ -6537,8 +6537,8 @@ Kristoff.
 
 1553
 01:24:57,480 --> 01:24:59,209
-- Kristoff...
-- Anna...
+Kristoff...
+Anna...
 
 1554
 01:25:00,120 --> 01:25:01,201
@@ -6643,12 +6643,12 @@ I love you.
 
 1579
 01:27:45,320 --> 01:27:50,042
-"An act of true love
-will thaw a frozen heart."
+An act of true love
+will thaw a frozen heart.
 
 1580
 01:27:51,640 --> 01:27:53,290
-"Love will thaw."
+Love will thaw.
 
 1581
 01:27:54,680 --> 01:27:57,160
@@ -6752,21 +6752,21 @@ Oh. I have a message from the queen.
 
 1605
 01:30:07,880 --> 01:30:09,644
-"Arendelle will henceforth and forever"
+Arendelle will henceforth and forever
 
 1606
 01:30:09,720 --> 01:30:13,645
-"no longer do business
-of any sort with Weaseltown."
+no longer do business
+of any sort with Weaseltown.
 
 1607
 01:30:13,880 --> 01:30:14,961
-"Weselton."
+Weselton.
 
 1608
 01:30:15,040 --> 01:30:16,530
-- It's Weselton!
-- Let's go.
+It's Weselton!
+Let's go.
 
 1609
 01:30:16,600 --> 01:30:17,640
@@ -6795,8 +6795,8 @@ I owe you a sled.
 
 1615
 01:30:33,120 --> 01:30:34,804
-- Are you serious?
-- Yes!
+Are you serious?
+Yes!
 
 1616
 01:30:35,160 --> 01:30:36,730
@@ -6818,8 +6818,8 @@ Arendelle Ice Master and Deliverer.
 
 1620
 01:30:45,440 --> 01:30:47,249
-- What? That's not a thing.
-- Oh, sure it is.
+What? That's not a thing.
+Oh, sure it is.
 
 1621
 01:30:47,320 --> 01:30:50,767
