@@ -80,7 +80,7 @@ Figure: Samples of the character's emotion (e.g., happy and sad) involved in the
 Run the following code, which can produce and organize the data automatically. The name of the movie in the movie_path should be the same as the SRT files in the SRT_path.
 
 ```
-python DataConstruction/toolkit_data.py --SRT_path (path_of_SRT_files) --movie_path (path_of_movies) --output_path (path_of_output_data)
+python toolkit_data.py --SRT_path (path_of_SRT_files) --movie_path (path_of_movies) --output_path (path_of_output_data)
 ```
 Note that this code involves the processes 2 and 3 only. Thus, we need to make a pre-processing according to the process 1 above to remove the background music and then reserve the voice of center speaker in the movie.
 
