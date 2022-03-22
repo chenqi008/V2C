@@ -1,23 +1,23 @@
-﻿1
+1
 00:00:50,200 --> 00:00:51,951
-<i><b></font></b>Survival of the fittest.</i>
+Survival of the fittest.
 
 2
 00:00:53,996 --> 00:00:56,205
-<i>It's the law of the jungle.</i>
+It's the law of the jungle.
 
 3
 00:00:56,373 --> 00:00:59,292
-<i>There's always someone trying
-to take what's yours.</i>
+There's always someone trying
+to take what's yours.
 
 4
 00:00:59,543 --> 00:01:01,502
-<b><font color="#808000"><i>How do I know?</i>
+How do I know?
 
 5
 00:01:04,006 --> 00:01:07,133
-<i>It almost happened to me.</i></font></b>
+It almost happened to me.
 
 6
 00:01:13,474 --> 00:01:14,474
@@ -25,7 +25,7 @@ Hi-yah!
 
 7
 00:01:20,230 --> 00:01:21,522
-<b></font></b> Tim Templeton...
+ Tim Templeton...
 
 8
 00:01:21,690 --> 00:01:22,982
@@ -41,8 +41,8 @@ Hot dogs?
 
 11
 00:01:26,320 --> 00:01:28,237
-<i><b></font></b> At least,
-this is how I remember it.</i>
+ At least,
+this is how I remember it.
 
 12
 00:01:28,405 --> 00:01:29,489
@@ -51,26 +51,26 @@ let's eat.
 
 13
 00:01:29,656 --> 00:01:31,491
-<i>You see,
-i was seven years old...</i>
+You see,
+i was seven years old...
 
 14
 00:01:31,658 --> 00:01:34,577
-<i>And back then, you relied
-on your imagination.</i>
+And back then, you relied
+on your imagination.
 
 15
 00:01:34,745 --> 00:01:36,537
-<i>When I wasn't
-exploring the Congo...</i>
+When I wasn't
+exploring the Congo...
 
 16
 00:01:36,705 --> 00:01:38,998
-<i>I was a deep sea diver.</i>
+I was a deep sea diver.
 
 17
 00:01:42,669 --> 00:01:44,170
-<b></font></b> Tim!
+ Tim!
 
 18
 00:01:44,338 --> 00:01:45,254
@@ -90,8 +90,8 @@ Grab on!
 
 22
 00:01:56,183 --> 00:01:58,226
-<i>Some days,
-i rescued my parents.</i>
+Some days,
+i rescued my parents.
 
 23
 00:02:00,437 --> 00:02:01,437
@@ -99,24 +99,24 @@ That way!
 
 24
 00:02:01,605 --> 00:02:03,106
-<i>Other days, they rescued me.</i>
+Other days, they rescued me.
 
 25
 00:02:04,274 --> 00:02:06,109
-<i>- I'm losing control.
-<b></font></b>- Tim, look out!</i>
+- I'm losing control.
+- Tim, look out!
 
 26
 00:02:07,694 --> 00:02:09,028
-<b></font></b> Tree!
+ Tree!
 
 27
 00:02:09,196 --> 00:02:10,029
-<i></font></b> You're breaking up!</i>
+ You're breaking up!
 
 28
 00:02:10,197 --> 00:02:11,114
-Slow down, Tim!</font></b>
+Slow down, Tim!
 
 29
 00:02:11,281 --> 00:02:12,698
@@ -129,7 +129,7 @@ Ooh! Ow.
 
 31
 00:02:14,368 --> 00:02:15,785
-<b></font></b> Oh, are you hurt?
+ Oh, are you hurt?
 I'm okay.
 
 32
@@ -138,46 +138,46 @@ Show mommy your teeth.
 
 33
 00:02:17,246 --> 00:02:18,913
-<i><b></font></b>It was just the three of us.</i>
+It was just the three of us.
 
 34
 00:02:19,081 --> 00:02:20,373
-<i>The templetons.</i>
+The templetons.
 
 35
 00:02:20,541 --> 00:02:22,708
-<i>And three is
-the perfect number.</i>
+And three is
+the perfect number.
 
 36
 00:02:22,876 --> 00:02:23,876
-<i>Interesting fact...</i>
+Interesting fact...
 
 37
 00:02:24,044 --> 00:02:25,044
-<i>Did you know that the triangle</i>
+Did you know that the triangle
 
 38
 00:02:25,129 --> 00:02:26,796
-<i>is the strongest
-shape found in nature?</i>
+is the strongest
+shape found in nature?
 
 39
 00:02:33,554 --> 00:02:35,388
-<i>I was the luckiest kid ever.</i>
+I was the luckiest kid ever.
 
 40
 00:02:35,556 --> 00:02:37,723
-<i>My parents even had cool jobs.</i>
+My parents even had cool jobs.
 
 41
 00:02:37,891 --> 00:02:40,560
-<i>They worked for the biggest
-pet company in the world...</i>
+They worked for the biggest
+pet company in the world...
 
 42
 00:02:40,727 --> 00:02:41,602
-<i>Puppy co.</i>
+Puppy co.
 
 43
 00:02:41,770 --> 00:02:42,645
@@ -185,7 +185,7 @@ Yes, Mr. Francis?
 
 44
 00:02:42,729 --> 00:02:43,604
-<i><b></font></b>Puppy co needs you.</i>
+Puppy co needs you.
 
 45
 00:02:43,772 --> 00:02:44,814
@@ -193,23 +193,23 @@ It's go time.
 
 46
 00:02:46,316 --> 00:02:48,317
-<i>They worked in a department
-called "marketing... "</i>
+They worked in a department
+called "marketing... "
 
 47
 00:02:48,819 --> 00:02:50,653
-<i>Where they got to
-launch new products.</i>
+Where they got to
+launch new products.
 
 48
 00:02:54,825 --> 00:02:57,577
-<i>Even though my parents
-worked really hard...</i>
+Even though my parents
+worked really hard...
 
 49
 00:02:58,579 --> 00:03:01,122
-<i>They still made just
-enough time for me.</i>
+They still made just
+enough time for me.
 
 50
 00:03:01,290 --> 00:03:04,083
@@ -231,45 +231,45 @@ No, thanks. I'm enough.
 
 54
 00:03:35,365 --> 00:03:38,534
-<i><b></font></b> Life was good.
-Life was perfect.</i>
+ Life was good.
+Life was perfect.
 
 55
 00:03:38,702 --> 00:03:40,328
-<i>But as I drifted off
-to sleep...</i>
+But as I drifted off
+to sleep...
 
 56
 00:03:40,495 --> 00:03:43,456
-<i>Something my parents said
-got me thinking.</i>
+Something my parents said
+got me thinking.
 
 57
 00:03:43,624 --> 00:03:45,708
-<i>Where do babies come from?</i>
+Where do babies come from?
 
 58
 00:06:21,656 --> 00:06:25,284
-<i><b></font></b> The day I got a little
-brother started like any other day...</i>
+ The day I got a little
+brother started like any other day...
 
 59
 00:06:26,161 --> 00:06:27,870
-<i>But little did I know...</i>
+But little did I know...
 
 60
 00:06:28,038 --> 00:06:30,956
-<i>My life would
-never be the same.</i>
+My life would
+never be the same.
 
 61
 00:06:31,124 --> 00:06:33,959
-<i>Wake up, little halflings!
-It's 7:00 a. M.</i>
+Wake up, little halflings!
+It's 7:00 a. M.
 
 62
 00:06:34,461 --> 00:06:35,461
-<i>Wake up, little halflings!</i>
+Wake up, little halflings!
 
 63
 00:06:35,629 --> 00:06:36,462
@@ -277,8 +277,8 @@ Morning, wizzie!
 
 64
 00:06:36,630 --> 00:06:40,257
-<i><b></font></b> What great adventure
-lies in wait for you today?</i>
+ What great adventure
+lies in wait for you today?
 
 65
 00:06:40,342 --> 00:06:42,051
@@ -286,17 +286,17 @@ Hmm. Oh, yeah!
 
 66
 00:06:45,472 --> 00:06:48,641
-<i>My parents always said that i
-had an overactive imagination.</i>
+My parents always said that i
+had an overactive imagination.
 
 67
 00:06:52,354 --> 00:06:53,813
-<i>But I clearly remember...</i>
+But I clearly remember...
 
 68
 00:06:53,980 --> 00:06:56,941
-<i>The baby was delivered
-in a taxi.</i>
+The baby was delivered
+in a taxi.
 
 69
 00:07:03,240 --> 00:07:04,240
@@ -328,26 +328,26 @@ Brother.
 
 76
 00:07:53,915 --> 00:07:55,708
-<i><b></font></b>I had a million questions.</i>
+I had a million questions.
 
 77
 00:07:55,876 --> 00:07:57,710
-<i>Who is this guy?
-Why is he here?</i>
+Who is this guy?
+Why is he here?
 
 78
 00:07:57,878 --> 00:07:58,878
-<i>What's with that outfit?</i>
+What's with that outfit?
 
 79
 00:07:59,045 --> 00:08:01,297
-<i>Why's he so fat?
-Why's he staring at me?</i>
+Why's he so fat?
+Why's he staring at me?
 
 80
 00:08:01,465 --> 00:08:03,299
-<i>Does he know karate?
-What's going on?</i>
+Does he know karate?
+What's going on?
 
 81
 00:08:05,218 --> 00:08:06,051
@@ -355,35 +355,35 @@ That way?
 
 82
 00:08:06,219 --> 00:08:07,094
-<b></font></b>- Okay.
-<b></font></b>- okay.
+- Okay.
+- okay.
 
 83
 00:08:07,262 --> 00:08:08,804
-<i>Right from the start,
-he was yelling at people...</i>
+Right from the start,
+he was yelling at people...
 
 84
 00:08:08,972 --> 00:08:10,639
-<i>Ordering everyone around.</font></b></i>
+Ordering everyone around.
 
 85
 00:08:10,807 --> 00:08:12,391
-<b></font></b> Oh, you want this?
+ Oh, you want this?
 
 86
 00:08:12,934 --> 00:08:16,228
-<i>One thing was clear.
-He was the boss.</i>
+One thing was clear.
+He was the boss.
 
 87
 00:08:16,813 --> 00:08:19,482
-<i>He set up his office, right smack
-dab in the middle of the house.</i>
+He set up his office, right smack
+dab in the middle of the house.
 
 88
 00:08:21,401 --> 00:08:22,401
-<i>He conducted meetings.</i>
+He conducted meetings.
 
 89
 00:08:22,569 --> 00:08:24,403
@@ -392,17 +392,17 @@ Do you need senor squeaky?
 
 90
 00:08:24,946 --> 00:08:26,614
-<b><font color="#808000">Hey!
+Hey!
 
 91
 00:08:26,740 --> 00:08:28,908
-<i>Lots and lots of meetings.
-Whoa!</i>
+Lots and lots of meetings.
+Whoa!
 
 92
 00:08:29,075 --> 00:08:30,743
-<i>Even in
-the middle of the night.</i>
+Even in
+the middle of the night.
 
 93
 00:08:32,579 --> 00:08:33,996
@@ -415,12 +415,12 @@ We'll be right there!
 
 95
 00:08:35,749 --> 00:08:38,959
-<i>If things weren't done to
-his immediate satisfaction...</i>
+If things weren't done to
+his immediate satisfaction...
 
 96
 00:08:40,420 --> 00:08:42,505
-<i>He had a fit.</i>
+He had a fit.
 
 97
 00:08:47,761 --> 00:08:48,761
@@ -428,13 +428,13 @@ Argh!
 
 98
 00:08:48,845 --> 00:08:51,597
-<b></font></b> Where's the bottle?
+ Where's the bottle?
 He has to have his bottle!
 
 99
 00:08:51,765 --> 00:08:54,517
-<i>He had everyone wrapped around
-his chubby little finger.</i>
+He had everyone wrapped around
+his chubby little finger.
 
 100
 00:08:54,768 --> 00:08:56,018
@@ -442,17 +442,17 @@ La la la!
 
 101
 00:08:56,102 --> 00:08:58,103
-<i>Everyone except for me.</i>
+Everyone except for me.
 
 102
 00:08:58,438 --> 00:08:59,480
-<b></font></b>- Diaper!
-<b></font></b>- bottle!
+- Diaper!
+- bottle!
 
 103
 00:08:59,564 --> 00:09:00,898
-<b></font></b>- Diaper!
-<b></font></b>- bottle!
+- Diaper!
+- bottle!
 
 104
 00:09:00,982 --> 00:09:02,942
@@ -469,12 +469,12 @@ of attention right now.
 
 107
 00:09:06,613 --> 00:09:08,030
-<b><font color="#808000">Okay, good talk!
+Okay, good talk!
 
 108
 00:09:08,198 --> 00:09:09,323
 - But...
-<b></font></b>- it's okay.
+- it's okay.
 
 109
 00:09:09,491 --> 00:09:10,616
@@ -508,11 +508,11 @@ Mom, he's naked!
 
 116
 00:10:00,834 --> 00:10:01,917
-I'm naked!</font></b>
+I'm naked!
 
 117
 00:10:02,002 --> 00:10:03,085
-<b></font></b> Say "naked. "
+ Say "naked. "
 
 118
 00:10:03,253 --> 00:10:04,253
@@ -524,7 +524,7 @@ Ah.
 
 120
 00:10:08,341 --> 00:10:09,425
-<b></font></b>Who's mommy's little cutie?
+Who's mommy's little cutie?
 
 121
 00:10:09,509 --> 00:10:10,509
@@ -532,7 +532,7 @@ Are you mommy's little cutie?
 
 122
 00:10:10,677 --> 00:10:13,012
-<b></font></b> No, he's daddy's
+ No, he's daddy's
 little tough guy, right?
 
 123
@@ -560,7 +560,7 @@ and you...
 
 128
 00:10:22,731 --> 00:10:24,231
-Maybe the baby should decide.</font></b>
+Maybe the baby should decide.
 
 129
 00:10:24,357 --> 00:10:25,858
@@ -620,7 +620,7 @@ How can we trust him?
 
 142
 00:10:45,920 --> 00:10:48,047
-Come on, he's just a baby. <b></b>
+Come on, he's just a baby. 
 
 143
 00:10:49,924 --> 00:10:52,301
@@ -670,7 +670,7 @@ around until you were like...
 
 153
 00:11:22,749 --> 00:11:25,000
-This is not about lam-lam.</font></b>
+This is not about lam-lam.
 
 154
 00:11:26,127 --> 00:11:27,503
@@ -692,7 +692,7 @@ Are you taking over the house?
 
 158
 00:11:32,592 --> 00:11:34,343
-Yes, you are. Yes, you are.</font></b>
+Yes, you are. Yes, you are.
 
 159
 00:11:35,345 --> 00:11:38,097
@@ -748,7 +748,7 @@ Dad?
 
 171
 00:12:38,575 --> 00:12:39,825
-Hey.</font></b>
+Hey.
 
 172
 00:12:39,993 --> 00:12:41,744
@@ -765,11 +765,11 @@ Don't cry! Don't cry.
 
 175
 00:12:51,212 --> 00:12:52,212
-Hello?</font></b>
+Hello?
 
 176
 00:13:01,514 --> 00:13:03,265
-<b></font></b>Hello? No, ma'am, not yet.
+Hello? No, ma'am, not yet.
 
 177
 00:13:04,392 --> 00:13:06,560
@@ -801,7 +801,7 @@ They're very disoriented.
 
 183
 00:13:27,540 --> 00:13:29,958
-<b></b> I've got them eating
+ I've got them eating
 out of the palm of my hand.
 
 184
@@ -928,7 +928,7 @@ toddler spends, what?
 
 211
 00:14:30,603 --> 00:14:32,145
-I'm the boss. <b></b>
+I'm the boss. 
 
 212
 00:14:32,272 --> 00:14:33,939
@@ -965,16 +965,16 @@ Are not!
 
 219
 00:14:42,448 --> 00:14:43,448
-<b></b> Am, too.
+ Am, too.
 Are not!
 
 220
 00:14:43,616 --> 00:14:44,867
-<i>Am, too. Am, too.</i>
+Am, too. Am, too.
 
 221
 00:14:45,034 --> 00:14:46,118
-<i>Am, too. Am, too.</i>
+Am, too. Am, too.
 
 222
 00:14:46,286 --> 00:14:47,286
@@ -1075,7 +1075,7 @@ the hot, new thing.
 
 243
 00:15:34,208 --> 00:15:35,709
-<b></font></b> Destroy. Destroy.
+ Destroy. Destroy.
 
 244
 00:15:35,877 --> 00:15:36,919
@@ -1165,7 +1165,7 @@ to go around.
 263
 00:16:19,879 --> 00:16:22,130
 And then,
-all of a sudden, <b></b>
+all of a sudden, 
 
 264
 00:16:22,215 --> 00:16:23,465
@@ -1178,7 +1178,7 @@ Tim doesn't fit anymore.
 266
 00:16:25,301 --> 00:16:28,553
 Oh, no!
-What about Tim? <b></b>
+What about Tim? 
 
 267
 00:16:31,975 --> 00:16:34,309
@@ -1191,7 +1191,7 @@ Or there's gonna be cutbacks.
 
 269
 00:16:37,897 --> 00:16:40,607
-<b></b> You can't be fired
+ You can't be fired
 from your own family.
 
 270
@@ -1200,12 +1200,12 @@ Can you?
 
 271
 00:17:06,426 --> 00:17:09,469
-<i>Wake up, little halflings!
-It's 7:00 a. M.</i>
+Wake up, little halflings!
+It's 7:00 a. M.
 
 272
 00:17:09,637 --> 00:17:10,762
-<i>Wake up, little half...</i>
+Wake up, little half...
 
 273
 00:17:11,931 --> 00:17:13,390
@@ -1213,21 +1213,21 @@ What's the use?
 
 274
 00:17:14,100 --> 00:17:16,643
-<i>Arise for
-a nutritious breakfast!</i>
+Arise for
+a nutritious breakfast!
 
 275
 00:17:16,811 --> 00:17:18,270
-<i>It's 7:00 a. M.</i>
+It's 7:00 a. M.
 
 276
 00:17:24,944 --> 00:17:27,404
-<i>Oh, what's wrong, Timothy?</i>
+Oh, what's wrong, Timothy?
 
 277
 00:17:27,572 --> 00:17:29,614
-<i>Has that little dwarf
-made you blue?</i>
+Has that little dwarf
+made you blue?
 
 278
 00:17:30,116 --> 00:17:30,949
@@ -1235,12 +1235,12 @@ Mmm-hmm.
 
 279
 00:17:31,117 --> 00:17:33,744
-<i>Then I shall cast upon him
-a great curse!</i>
+Then I shall cast upon him
+a great curse!
 
 280
 00:17:33,911 --> 00:17:36,246
-<i>He shall not pass!</i>
+He shall not pass!
 
 281
 00:17:36,414 --> 00:17:37,789
@@ -1258,16 +1258,16 @@ they'd never let him stay.
 
 284
 00:17:43,588 --> 00:17:46,798
-<i>Perhaps your parents
-need to be enlightened.</i>
+Perhaps your parents
+need to be enlightened.
 
 285
 00:17:46,966 --> 00:17:49,092
-<i>With a great curse!</i>
+With a great curse!
 
 286
 00:17:49,260 --> 00:17:50,510
-<i>They shall not pass!</i>
+They shall not pass!
 
 287
 00:17:50,720 --> 00:17:52,554
@@ -1284,7 +1284,7 @@ That's what I need, proof!
 
 290
 00:17:57,060 --> 00:17:58,894
-<i>Expose his dark magic!</i>
+Expose his dark magic!
 
 291
 00:18:05,485 --> 00:18:06,818
@@ -1292,7 +1292,7 @@ Testing, testing.
 
 292
 00:18:07,111 --> 00:18:08,320
-<i>Testing, testing.</i>
+Testing, testing.
 
 293
 00:18:11,491 --> 00:18:12,991
@@ -1305,11 +1305,11 @@ And get their money back!
 
 295
 00:18:14,494 --> 00:18:16,119
-<i>We could buy a bouncy house!</i>
+We could buy a bouncy house!
 
 296
 00:18:17,163 --> 00:18:20,665
-<i>Godspeed, Tim! It's 8:45 a. M.</i>
+Godspeed, Tim! It's 8:45 a. M.
 
 297
 00:18:27,298 --> 00:18:28,131
@@ -1325,7 +1325,7 @@ Ninja.
 
 300
 00:18:45,191 --> 00:18:46,191
-<b><font color="#808000">Whoa!
+Whoa!
 
 301
 00:18:52,073 --> 00:18:53,824
@@ -1350,7 +1350,7 @@ Ah!
 
 306
 00:19:20,726 --> 00:19:22,561
-<b></b> It's a play date!
+ It's a play date!
 
 307
 00:19:23,521 --> 00:19:24,521
@@ -1371,7 +1371,7 @@ We'll see about that.
 
 311
 00:19:38,619 --> 00:19:41,705
-<b></font></b> Thank you all for
+ Thank you all for
 coming here on such short notice.
 
 312
@@ -1424,15 +1424,15 @@ Teddy, if you please.
 
 323
 00:19:59,932 --> 00:20:01,600
-<i>Let's put on a show.</i>
+Let's put on a show.
 
 324
 00:20:01,767 --> 00:20:02,934
-Oh.</font></b>
+Oh.
 
 325
 00:20:03,769 --> 00:20:04,811
-<i>Here we go!</i>
+Here we go!
 
 326
 00:20:05,021 --> 00:20:06,313
@@ -1462,7 +1462,7 @@ Puppies!
 
 332
 00:20:19,785 --> 00:20:20,785
-<b></font></b> Aw!
+ Aw!
 
 333
 00:20:21,120 --> 00:20:23,079
@@ -1535,7 +1535,7 @@ Try to say
 
 348
 00:20:54,779 --> 00:20:55,779
-<b></font></b> Chiwee...
+ Chiwee...
 
 349
 00:20:55,863 --> 00:20:57,155
@@ -1548,7 +1548,7 @@ We all laughed
 
 351
 00:20:58,449 --> 00:20:59,824
-at the shar pei.</font></b>
+at the shar pei.
 
 352
 00:20:59,951 --> 00:21:01,952
@@ -1584,26 +1584,26 @@ Teddy, roll the clip.
 
 359
 00:21:12,338 --> 00:21:14,339
-<i>And we are on schedule...</i>
+And we are on schedule...
 
 360
 00:21:14,507 --> 00:21:18,009
-<i>To release the most
-adorable puppy ever.</i>
+To release the most
+adorable puppy ever.
 
 361
 00:21:18,177 --> 00:21:21,638
-<i>We're gonna launch it at the
-pet convention in las Vegas!</i>
+We're gonna launch it at the
+pet convention in las Vegas!
 
 362
 00:21:21,722 --> 00:21:23,390
-<b><font color="#808000"><i>Watch out, world!</i>
+Watch out, world!
 
 363
 00:21:23,557 --> 00:21:26,184
-<i>It's gonna crush
-the competition!</i>
+It's gonna crush
+the competition!
 
 364
 00:21:27,019 --> 00:21:28,228
@@ -1751,8 +1751,8 @@ Good call.
 
 396
 00:22:22,783 --> 00:22:23,742
-<b></font></b>- Oh, yeah!
-<b></font></b>- nice one, bb!
+- Oh, yeah!
+- nice one, bb!
 
 397
 00:22:23,909 --> 00:22:24,993
@@ -1765,13 +1765,13 @@ Cookies are for closers.
 
 399
 00:22:29,332 --> 00:22:30,915
-<i>Let's have another show!
-No, Teddy, no!</i>
+Let's have another show!
+No, Teddy, no!
 
 400
 00:22:31,083 --> 00:22:32,751
-<i>How about a hug?
-No more shows!</i>
+How about a hug?
+No more shows!
 
 401
 00:22:32,918 --> 00:22:33,501
@@ -1779,8 +1779,8 @@ Boss?
 
 402
 00:22:33,669 --> 00:22:35,045
-<i>There's plenty of
-love to go around.</i>
+There's plenty of
+love to go around.
 
 403
 00:22:35,129 --> 00:22:36,129
@@ -1788,7 +1788,7 @@ Go to sleep!
 
 404
 00:22:36,297 --> 00:22:37,339
-<i>Nighty-night.</i>
+Nighty-night.
 
 405
 00:22:37,506 --> 00:22:38,340
@@ -1816,7 +1816,7 @@ God, this is so humiliating.
 
 410
 00:22:53,689 --> 00:22:55,357
-<i><b></font></b>God, this is so humiliating.</i>
+God, this is so humiliating.
 
 411
 00:22:55,524 --> 00:22:57,025
@@ -1854,12 +1854,12 @@ Hi! Anyway...
 
 419
 00:23:23,010 --> 00:23:24,052
-<b><font color="#808000"><i>Flower power!</i>
+Flower power!
 
 420
 00:23:26,889 --> 00:23:29,641
-<i>You can't get away from
-Johnny law, simpleton.</i>
+You can't get away from
+Johnny law, simpleton.
 
 421
 00:23:31,560 --> 00:23:32,560
@@ -1867,12 +1867,12 @@ Ha!
 
 422
 00:23:33,521 --> 00:23:36,022
-<i>Fasten your seat belt.
-Let's go!</i>
+Fasten your seat belt.
+Let's go!
 
 423
 00:23:41,737 --> 00:23:42,821
-<b><font color="#808000">Run, run, run.
+Run, run, run.
 
 424
 00:23:46,367 --> 00:23:47,534
@@ -1888,7 +1888,7 @@ Hmm.
 
 427
 00:23:50,329 --> 00:23:51,663
-<b></b> Uh-oh.
+ Uh-oh.
 
 428
 00:23:56,544 --> 00:23:57,836
@@ -1904,7 +1904,7 @@ Whoa!
 
 431
 00:24:05,928 --> 00:24:07,679
-Yes! <b></b>
+Yes! 
 
 432
 00:24:11,892 --> 00:24:12,684
@@ -1916,12 +1916,12 @@ Let go, you little...
 
 434
 00:24:18,357 --> 00:24:20,442
-<b></font></b> Oh, look! The kids
+ Oh, look! The kids
 are finally getting along.
 
 435
 00:24:20,609 --> 00:24:21,901
-<b></font></b> That's nice.
+ That's nice.
 
 436
 00:24:37,877 --> 00:24:38,877
@@ -1929,7 +1929,7 @@ Sayonara!
 
 437
 00:24:39,128 --> 00:24:40,128
-<b></font></b> Ooh.
+ Ooh.
 
 438
 00:24:42,256 --> 00:24:43,256
@@ -1950,11 +1950,11 @@ Save boss! Save boss!
 442
 00:24:57,563 --> 00:24:58,563
 - Get him!
-<b></font></b>- I got him!
+- I got him!
 
 443
 00:24:58,731 --> 00:24:59,731
-<b></font></b>- I got him!
+- I got him!
 - I got him!
 
 444
@@ -1979,7 +1979,7 @@ Mom, dad! I've got proof!
 
 449
 00:25:24,965 --> 00:25:27,091
-Ah!</font></b>
+Ah!
 
 450
 00:25:28,844 --> 00:25:31,804
@@ -1988,7 +1988,7 @@ down the stairs? Ha!
 
 451
 00:25:32,806 --> 00:25:36,809
-Nothing can stop me!</font></b>
+Nothing can stop me!
 
 452
 00:25:44,276 --> 00:25:47,028
@@ -2037,7 +2037,7 @@ It's really not my scene,
 
 463
 00:26:04,838 --> 00:26:06,923
-but who am I to judge?</font></b>
+but who am I to judge?
 
 464
 00:26:07,007 --> 00:26:08,466
@@ -2167,7 +2167,7 @@ baby con-spy-racy!
 
 492
 00:27:01,520 --> 00:27:03,271
-Timothy Leslie Templeton!</font></b>
+Timothy Leslie Templeton!
 
 493
 00:27:03,355 --> 00:27:04,856
@@ -2227,34 +2227,34 @@ Oh, great.
 
 505
 00:27:27,588 --> 00:27:30,465
-<i><b></font></b> It was
-my first time behind bars.</i>
+ It was
+my first time behind bars.
 
 506
 00:27:30,633 --> 00:27:32,300
-<i>The big house.</i>
+The big house.
 
 507
 00:27:32,468 --> 00:27:33,801
-<i>The lock-up.</i>
+The lock-up.
 
 508
 00:27:34,386 --> 00:27:36,054
-<i>Grounded for life.</i>
+Grounded for life.
 
 509
 00:27:36,722 --> 00:27:40,224
-<i>The minutes turned into hours,
-the hours into days.</i>
+The minutes turned into hours,
+the hours into days.
 
 510
 00:27:40,392 --> 00:27:42,226
-<i>Every man has
-his breaking point.</i>
+Every man has
+his breaking point.
 
 511
 00:27:42,895 --> 00:27:44,270
-<i>This was mine.</i>
+This was mine.
 
 512
 00:28:01,747 --> 00:28:03,581
@@ -2281,7 +2281,7 @@ Fly, you fools!
 
 517
 00:28:17,513 --> 00:28:19,222
-Thanks, wizzie. <b></b>
+Thanks, wizzie. 
 
 518
 00:28:19,306 --> 00:28:21,015
@@ -2299,7 +2299,7 @@ out of this big house.
 
 521
 00:28:28,691 --> 00:28:30,149
-<b><font color="#808000">Psst! Templeton!
+Psst! Templeton!
 
 522
 00:28:38,367 --> 00:28:40,118
@@ -2352,7 +2352,7 @@ who should be in jail!
 
 533
 00:29:08,313 --> 00:29:11,858
-<b></b> Look, it's time
+ Look, it's time
 we put our differences aside.
 
 534
@@ -2361,7 +2361,7 @@ Oh, have you been...
 
 535
 00:29:16,405 --> 00:29:17,739
-No! <b></b>
+No! 
 
 536
 00:29:18,323 --> 00:29:20,992
@@ -2428,7 +2428,7 @@ Yes. I'm the baby Jesus.
 
 550
 00:30:13,712 --> 00:30:15,379
-<b><font color="#808000">No!
+No!
 
 551
 00:30:15,547 --> 00:30:17,965
@@ -2533,7 +2533,7 @@ No way.
 574
 00:31:37,045 --> 00:31:38,129
 - Thank you.
-<b></font></b>- what?
+- what?
 
 575
 00:31:40,215 --> 00:31:42,466
@@ -2573,12 +2573,12 @@ I can still see you.
 
 583
 00:31:52,686 --> 00:31:54,562
-<b></font></b> So this is
+ So this is
 where babies come from?
 
 584
 00:31:54,730 --> 00:31:56,856
-<b></font></b> Where'd you think,
+ Where'd you think,
 the cabbage patch?
 
 585
@@ -2623,16 +2623,16 @@ hot dogs, by the way.
 
 594
 00:32:15,876 --> 00:32:17,251
-<b></font></b>Going upsies! <b><Font color="#808000"></font></b>
+Going upsies! 
 
 595
 00:32:18,670 --> 00:32:20,338
-<b></font></b> So how come
+ So how come
 i don't remember this place?
 
 596
 00:32:20,505 --> 00:32:21,339
-<b></font></b> Oh, you did.
+ Oh, you did.
 
 597
 00:32:21,506 --> 00:32:23,758
@@ -2676,7 +2676,7 @@ is where all the action is.
 
 606
 00:32:42,361 --> 00:32:44,695
-<i><b></font></b>Nap time in sector g.</i>
+Nap time in sector g.
 
 607
 00:32:45,447 --> 00:32:47,281
@@ -2722,7 +2722,7 @@ Formula break is over!
 
 616
 00:33:05,884 --> 00:33:07,301
-We're in a crisis here!</font></b>
+We're in a crisis here!
 
 617
 00:33:07,469 --> 00:33:08,970
@@ -2951,12 +2951,12 @@ I know, right?
 
 666
 00:34:58,914 --> 00:35:00,206
-Whoo!</font></b>
+Whoo!
 
 667
 00:35:00,332 --> 00:35:01,499
 - Pew pew.
-<b></font></b>- what?
+- what?
 
 668
 00:35:01,666 --> 00:35:05,169
@@ -3026,11 +3026,11 @@ That's her! Don't answer it!
 
 682
 00:35:37,869 --> 00:35:39,245
-<b><font color="#808000">Ah! Huh?
+Ah! Huh?
 
 683
 00:35:39,412 --> 00:35:40,746
-<b></b> Ah!
+ Ah!
 
 684
 00:35:40,872 --> 00:35:41,872
@@ -3114,7 +3114,7 @@ I'll be there. Shh.
 
 702
 00:36:19,035 --> 00:36:20,452
-<i>Every night, at dinner...</i>
+Every night, at dinner...
 
 703
 00:36:20,912 --> 00:36:22,538
@@ -3122,19 +3122,19 @@ I'll be there.
 
 704
 00:36:22,706 --> 00:36:24,373
-<i>Every birthday party...</i>
+Every birthday party...
 
 705
 00:36:24,541 --> 00:36:26,542
-<i>I'll be there.</i>
+I'll be there.
 
 706
 00:36:26,710 --> 00:36:28,127
-<i>Every Christmas!</i></font></b>
+Every Christmas!
 
 707
 00:36:28,295 --> 00:36:29,461
-<b></b> I'll be there
+ I'll be there
 
 708
 00:36:29,629 --> 00:36:32,214
@@ -3146,7 +3146,7 @@ We will grow old together.
 
 710
 00:36:38,263 --> 00:36:39,638
-<i>You and I...</i>
+You and I...
 
 711
 00:36:44,436 --> 00:36:46,312
@@ -3251,7 +3251,7 @@ I'm very busy delegating.
 
 734
 00:37:30,190 --> 00:37:32,024
-He drains it!</font></b>
+He drains it!
 
 735
 00:37:32,984 --> 00:37:34,818
@@ -3379,7 +3379,7 @@ what the new puppy is!
 
 763
 00:38:36,589 --> 00:38:38,215
-<b></b> What's the point?
+ What's the point?
 
 764
 00:38:38,717 --> 00:38:39,842
@@ -3455,7 +3455,7 @@ No way. No. You don't mean...
 
 781
 00:39:12,208 --> 00:39:13,876
-<b></b> Love each other.
+ Love each other.
 
 782
 00:39:15,962 --> 00:39:18,172
@@ -3465,7 +3465,7 @@ a noodle and swallowed it.
 783
 00:39:18,882 --> 00:39:20,632
 - Here comes the choo-choo train!
-<b></font></b>- no.
+- no.
 
 784
 00:39:20,759 --> 00:39:21,759
@@ -3487,7 +3487,7 @@ What's going on in here?
 
 788
 00:39:28,058 --> 00:39:30,267
-I'm just feeding the baby.</font></b>
+I'm just feeding the baby.
 
 789
 00:39:30,435 --> 00:39:31,435
@@ -3545,7 +3545,7 @@ Come on!
 
 801
 00:40:02,133 --> 00:40:03,926
-<b></font></b> Tim,
+ Tim,
 what are you doing in here?
 
 802
@@ -3567,7 +3567,7 @@ Ahoy, Matey!
 
 806
 00:40:13,812 --> 00:40:14,728
-What?</font></b>
+What?
 
 807
 00:40:14,813 --> 00:40:15,604
@@ -3575,7 +3575,7 @@ Bummer.
 
 808
 00:40:15,772 --> 00:40:16,814
-<i></font></b> Smile!</i>
+ Smile!
 
 809
 00:40:18,817 --> 00:40:20,526
@@ -3602,7 +3602,7 @@ everyone has a tickle spot.
 
 814
 00:40:29,994 --> 00:40:32,162
-<b></font></b> "'I don't think
+ "'I don't think
 I'll fit,' said gretel. "
 
 815
@@ -3726,11 +3726,11 @@ what you never had.
 
 841
 00:42:08,843 --> 00:42:10,594
-<i>Wake up, little halflings!</i>
+Wake up, little halflings!
 
 842
 00:42:10,762 --> 00:42:12,513
-<b></font></b> Hey, Tim. Wake up, buddy.
+ Hey, Tim. Wake up, buddy.
 
 843
 00:42:12,680 --> 00:42:14,431
@@ -3744,7 +3744,7 @@ Am I fired?
 
 845
 00:42:16,184 --> 00:42:17,935
-<b><font color="#808000">No, you're late for work.
+No, you're late for work.
 
 846
 00:42:18,102 --> 00:42:18,936
@@ -3762,7 +3762,7 @@ You're officially un-grounded.
 849
 00:42:23,274 --> 00:42:24,608
 - Really?
-<b></font></b>- really.
+- really.
 
 850
 00:42:25,276 --> 00:42:26,443
@@ -3774,7 +3774,7 @@ I don't see why not.
 
 852
 00:42:27,946 --> 00:42:30,906
-Yes! Yes, yes, yes! <b></b>
+Yes! Yes, yes, yes! 
 
 853
 00:42:30,990 --> 00:42:31,782
@@ -3795,11 +3795,11 @@ Ow!
 
 857
 00:43:04,857 --> 00:43:06,149
-<b></font></b> Yeah, baby.
+ Yeah, baby.
 
 858
 00:43:10,863 --> 00:43:14,491
-<b></font></b> All right, gentlemen.
+ All right, gentlemen.
 Welcome to puppy co.
 
 859
@@ -3982,7 +3982,7 @@ Yay!
 
 899
 00:45:19,784 --> 00:45:21,493
-<b></b> Kids.
+ Kids.
 Psst!
 
 900
@@ -4021,7 +4021,7 @@ Oh, no!
 
 908
 00:46:02,034 --> 00:46:03,660
-Hmm.</font></b>
+Hmm.
 
 909
 00:46:12,503 --> 00:46:13,503
@@ -4029,7 +4029,7 @@ Yes!
 
 910
 00:46:16,507 --> 00:46:17,966
-What a good boy.</font></b>
+What a good boy.
 
 911
 00:46:18,050 --> 00:46:19,384
@@ -4056,7 +4056,7 @@ Ooh. It's gotta be in here.
 
 916
 00:46:30,354 --> 00:46:33,523
-<b></font></b>It's begging us to go in.
+It's begging us to go in.
 
 917
 00:46:37,612 --> 00:46:38,528
@@ -4085,7 +4085,7 @@ Cut it out!
 
 923
 00:46:52,043 --> 00:46:53,710
-Wait!</font></b>
+Wait!
 
 924
 00:46:54,420 --> 00:46:55,587
@@ -4189,7 +4189,7 @@ I feel like we should run.
 
 947
 00:48:06,617 --> 00:48:09,327
-<b></font></b> I know,
+ I know,
 but it's just so mesmerizing.
 
 948
@@ -4207,7 +4207,7 @@ Well, that didn't end well.
 
 951
 00:48:25,553 --> 00:48:26,553
-<b></font></b> What?
+ What?
 
 952
 00:48:31,809 --> 00:48:32,684
@@ -4245,7 +4245,7 @@ What is all this?
 
 960
 00:48:51,495 --> 00:48:53,747
-<b></b> Surprise!
+ Surprise!
 
 961
 00:48:53,915 --> 00:48:56,666
@@ -4262,7 +4262,7 @@ Perhaps from my youth!
 
 964
 00:49:04,175 --> 00:49:08,094
-<b></font></b> <b><font color="#808000"></font></b> Super
+  Super
 colossal big fat boss baby?
 
 965
@@ -4305,7 +4305,7 @@ Eugene!
 
 974
 00:49:28,366 --> 00:49:29,366
-<b></font></b> Ah!
+ Ah!
 
 975
 00:49:34,205 --> 00:49:36,206
@@ -4351,7 +4351,7 @@ My very own...
 
 985
 00:50:00,815 --> 00:50:02,607
-<b></font></b> Personal potty?
+ Personal potty?
 Shing!
 
 986
@@ -4383,7 +4383,7 @@ lactose intolerant.
 992
 00:50:16,247 --> 00:50:17,414
 - No!
-<b></font></b>- yes!
+- yes!
 
 993
 00:50:17,581 --> 00:50:20,500
@@ -4392,7 +4392,7 @@ the board of directors.
 
 994
 00:50:20,668 --> 00:50:22,085
-<b></font></b> Who are
+ Who are
 the boring directors?
 
 995
@@ -4419,7 +4419,7 @@ That's horrible.
 
 1000
 00:50:33,180 --> 00:50:35,932
-<b></font></b> All of a sudden,
+ All of a sudden,
 she got all the love...
 
 1001
@@ -4445,7 +4445,7 @@ And then what happened?
 
 1006
 00:50:50,531 --> 00:50:51,865
-<b></b> Well...
+ Well...
 
 1007
 00:50:52,283 --> 00:50:53,616
@@ -4459,16 +4459,16 @@ my special formula.
 1009
 00:50:57,038 --> 00:51:00,331
 Then they sent me down
-to live with a... <b></b>
+to live with a... 
 
 1010
 00:51:00,666 --> 00:51:02,292
 - Family!
-<b></font></b>- oh, Francis, no!
+- oh, Francis, no!
 
 1011
 00:51:02,460 --> 00:51:04,127
-<b></font></b>Baby corp betrayed me!
+Baby corp betrayed me!
 
 1012
 00:51:04,295 --> 00:51:07,380
@@ -4477,7 +4477,7 @@ going to get revenge...
 
 1013
 00:51:08,674 --> 00:51:10,884
-...with the forever puppy.</font></b>
+...with the forever puppy.
 
 1014
 00:51:11,052 --> 00:51:12,218
@@ -4486,7 +4486,7 @@ That's it?
 
 1015
 00:51:12,386 --> 00:51:13,344
-<b></font></b> No, no.
+ No, no.
 
 1016
 00:51:13,512 --> 00:51:15,680
@@ -4571,7 +4571,7 @@ Yes!
 
 1034
 00:52:04,063 --> 00:52:06,064
-<b></b> You walked
+ You walked
 right into my trap!
 
 1035
@@ -4590,12 +4590,12 @@ Your parents?
 
 1038
 00:52:12,238 --> 00:52:13,238
-<i>Where are the boys?</i>
+Where are the boys?
 
 1039
 00:52:13,405 --> 00:52:15,073
-<i><b></font></b> I told them to
-stay in the puppy zone.</i>
+ I told them to
+stay in the puppy zone.
 
 1040
 00:52:15,241 --> 00:52:17,367
@@ -4618,7 +4618,7 @@ leave us alone.
 
 1044
 00:52:25,417 --> 00:52:26,459
-Oh, really?</font></b>
+Oh, really?
 
 1045
 00:52:28,420 --> 00:52:30,880
@@ -4635,12 +4635,12 @@ Hoo-hoo-hoo.
 
 1048
 00:52:37,930 --> 00:52:39,305
-<b></font></b> Oh, no.
+ Oh, no.
 
 1049
 00:52:42,393 --> 00:52:44,561
-<b></font></b>- Don't be nervous, buddy.
-<b></font></b>- it's only overnight.
+- Don't be nervous, buddy.
+- it's only overnight.
 
 1050
 00:52:44,728 --> 00:52:46,062
@@ -4654,7 +4654,7 @@ are in great hands.
 
 1052
 00:52:51,902 --> 00:52:53,111
-<b></font></b> That's right!
+ That's right!
 
 1053
 00:52:53,279 --> 00:52:56,781
@@ -4706,7 +4706,7 @@ Hoo-hoo-hoo.
 
 1064
 00:53:19,847 --> 00:53:21,097
-<b></font></b> To the airport!
+ To the airport!
 
 1065
 00:53:33,777 --> 00:53:35,862
@@ -4758,7 +4758,7 @@ Ah! Don't look at me!
 
 1076
 00:54:09,647 --> 00:54:10,855
-<b></b> Oh, no!
+ Oh, no!
 
 1077
 00:54:11,232 --> 00:54:13,149
@@ -4785,7 +4785,7 @@ Ew, ew!
 
 1082
 00:54:20,616 --> 00:54:21,616
-Ow!</font></b>
+Ow!
 
 1083
 00:54:21,867 --> 00:54:24,285
@@ -4817,12 +4817,12 @@ And they all fear one thing.
 
 1089
 00:54:48,769 --> 00:54:51,980
-<i>Now, ladies, the secret
-to deep fried butter...</i>
+Now, ladies, the secret
+to deep fried butter...
 
 1090
 00:54:52,147 --> 00:54:54,691
-<i>Is a healthy dab of margarine.</i>
+Is a healthy dab of margarine.
 
 1091
 00:54:54,775 --> 00:54:55,775
@@ -4842,12 +4842,12 @@ You gotta do something!
 
 1095
 00:55:06,245 --> 00:55:08,955
-<b><font color="#808000">Oh, the horror!
+Oh, the horror!
 
 1096
 00:55:15,879 --> 00:55:17,964
-<i>Templeton!
-Delicious!</i>
+Templeton!
+Delicious!
 
 1097
 00:55:21,302 --> 00:55:22,719
@@ -4859,7 +4859,7 @@ It got in my mouth, too!
 
 1099
 00:55:26,640 --> 00:55:29,475
-I think I'm gonna be sick!</font></b>
+I think I'm gonna be sick!
 
 1100
 00:55:33,856 --> 00:55:34,689
@@ -4885,7 +4885,7 @@ I don't know.
 
 1105
 00:55:47,077 --> 00:55:48,202
-<b><font color="#808000">Ah!
+Ah!
 
 1106
 00:55:48,287 --> 00:55:49,037
@@ -4919,16 +4919,16 @@ Staci!
 
 1113
 00:56:19,693 --> 00:56:20,902
-<b></b> Staci, come in!
+ Staci, come in!
 
 1114
 00:56:21,070 --> 00:56:23,071
-<b><font color="#808000">Oh, staci!
+Oh, staci!
 
 1115
 00:56:23,238 --> 00:56:24,947
-<i>Is that you, boss?
-Code red!</i>
+Is that you, boss?
+Code red!
 
 1116
 00:56:25,115 --> 00:56:26,282
@@ -4945,25 +4945,25 @@ On it, boss.
 
 1119
 00:56:29,078 --> 00:56:29,869
-<i>Hello!
-Hello!</i>
+Hello!
+Hello!
 
 1120
 00:56:30,037 --> 00:56:31,245
-<i>Hello!
-Code red.</i>
+Hello!
+Code red.
 
 1121
 00:56:31,413 --> 00:56:32,038
-<b></font></b> Got it!
+ Got it!
 
 1122
 00:56:35,542 --> 00:56:36,834
-<i>We got a code red. Repeat...</i>
+We got a code red. Repeat...
 
 1123
 00:56:37,002 --> 00:56:38,169
-<b></font></b> We got a code red!
+ We got a code red!
 
 1124
 00:56:40,923 --> 00:56:42,507
@@ -4992,11 +4992,11 @@ I think we lost him!
 
 1130
 00:56:56,855 --> 00:56:58,481
-<b></font></b> Oh, no, we didn't!
+ Oh, no, we didn't!
 
 1131
 00:57:05,614 --> 00:57:06,948
-<i><b></font></b> <b><font color="#808000">Flower power!</i>
+ Flower power!
 
 1132
 00:57:09,201 --> 00:57:10,201
@@ -5034,7 +5034,7 @@ Huh?
 
 1140
 00:57:46,447 --> 00:57:47,280
-<b></font></b> Uh-oh.
+ Uh-oh.
 
 1141
 00:57:47,448 --> 00:57:48,906
@@ -5125,7 +5125,7 @@ taming the ocean!
 
 1161
 00:58:51,178 --> 00:58:52,220
-<b></font></b> Ah!
+ Ah!
 
 1162
 00:58:52,304 --> 00:58:53,054
@@ -5193,7 +5193,7 @@ Wow!
 
 1177
 00:59:33,345 --> 00:59:34,554
-Huh? <b></b>
+Huh? 
 
 1178
 00:59:37,641 --> 00:59:38,683
@@ -5253,7 +5253,7 @@ Ah, Templeton!
 
 1191
 01:00:14,720 --> 01:00:16,137
-<b></font></b> Hey!
+ Hey!
 Sorry!
 
 1192
@@ -5411,7 +5411,7 @@ You're a baby!
 
 1226
 01:01:36,343 --> 01:01:37,843
-<b></b> You take that back.
+ You take that back.
 
 1227
 01:01:38,011 --> 01:01:40,096
@@ -5441,25 +5441,25 @@ Fine!
 
 1233
 01:02:31,273 --> 01:02:32,773
-<i><b></font></b> <b><font color="#808000">Would Timothy Templeton</i>
+ Would Timothy Templeton
 
 1234
 01:02:32,858 --> 01:02:34,608
-<i>please pick up
-the white courtesy phone?</i>
+please pick up
+the white courtesy phone?
 
 1235
 01:02:34,776 --> 01:02:36,944
-<i>Timothy Leslie Templeton,</i>
+Timothy Leslie Templeton,
 
 1236
 01:02:37,028 --> 01:02:39,238
-<i>please pick up
-the white courtesy phone.</i>
+please pick up
+the white courtesy phone.
 
 1237
 01:02:39,322 --> 01:02:41,073
-<b></b> Leslie.
+ Leslie.
 
 1238
 01:02:42,784 --> 01:02:43,617
@@ -5467,12 +5467,12 @@ Hello?
 
 1239
 01:02:43,785 --> 01:02:45,995
-<i><b></font></b>It's me. Don't hang up, Tim!</i>
+It's me. Don't hang up, Tim!
 
 1240
 01:02:47,956 --> 01:02:51,542
-<i>Tim, I wasn't born.
-I was hired.</i>
+Tim, I wasn't born.
+I was hired.
 
 1241
 01:02:51,710 --> 01:02:52,960
@@ -5490,11 +5490,11 @@ I don't know what it's like...
 
 1244
 01:02:59,843 --> 01:03:01,135
-<i>To be part of a family.</i>
+To be part of a family.
 
 1245
 01:03:03,597 --> 01:03:04,930
-<i>But I do care.</i>
+But I do care.
 
 1246
 01:03:05,098 --> 01:03:06,140
@@ -5502,12 +5502,12 @@ You do?
 
 1247
 01:03:06,308 --> 01:03:07,516
-<i>Yeah.</i>
+Yeah.
 
 1248
 01:03:07,684 --> 01:03:11,604
-<i>And the only way to save both
-is to stop Francis Francis.</i>
+And the only way to save both
+is to stop Francis Francis.
 
 1249
 01:03:11,772 --> 01:03:12,605
@@ -5515,12 +5515,12 @@ Yeah.
 
 1250
 01:03:12,773 --> 01:03:14,607
-<i>I can't do this
-without you, Tim.</i>
+I can't do this
+without you, Tim.
 
 1251
 01:03:15,692 --> 01:03:17,109
-<i>I need you.</i>
+I need you.
 
 1252
 01:03:17,277 --> 01:03:18,903
@@ -5529,12 +5529,12 @@ a pretty good team.
 
 1253
 01:03:18,987 --> 01:03:19,987
-<i>No.</i>
+No.
 
 1254
 01:03:20,405 --> 01:03:23,449
-<i>Literally,
-i can't reach the door knobs.</i>
+Literally,
+i can't reach the door knobs.
 
 1255
 01:03:23,617 --> 01:03:24,825
@@ -5585,7 +5585,7 @@ Hey! Ha!
 
 1266
 01:03:53,313 --> 01:03:54,396
-<b></font></b> And another one!
+ And another one!
 Mmm-hmm.
 
 1267
@@ -5619,7 +5619,7 @@ Well, thank you very much.
 
 1274
 01:04:14,626 --> 01:04:16,085
-Hello.</font></b>
+Hello.
 
 1275
 01:04:16,169 --> 01:04:17,920
@@ -5694,17 +5694,17 @@ so wonderful.
 
 1292
 01:04:58,753 --> 01:05:00,629
-<i><b></font></b> <b><font color="#808000">Hello! This is captain Ross.</i>
+ Hello! This is captain Ross.
 
 1293
 01:05:00,797 --> 01:05:02,798
-<i>Ladies and gentlemen,
-and those in coach...</i>
+Ladies and gentlemen,
+and those in coach...
 
 1294
 01:05:02,966 --> 01:05:05,885
-<i>Please fasten your seat belts.
-We're about to take off.</i>
+Please fasten your seat belts.
+We're about to take off.
 
 1295
 01:05:07,012 --> 01:05:08,512
@@ -5722,13 +5722,13 @@ are crazy today.
 
 1298
 01:05:32,245 --> 01:05:34,079
-<i>Ladies and gentlemen,
-captain Ross again.</i>
+Ladies and gentlemen,
+captain Ross again.
 
 1299
 01:05:34,247 --> 01:05:36,165
-<i>As you can see, I've switched
-off the seat belt sign.</i>
+As you can see, I've switched
+off the seat belt sign.
 
 1300
 01:05:36,333 --> 01:05:38,250
@@ -5879,7 +5879,7 @@ Whoa!
 
 1332
 01:06:52,117 --> 01:06:53,909
-Ha!</font></b>
+Ha!
 
 1333
 01:06:53,994 --> 01:06:54,994
@@ -5907,7 +5907,7 @@ Aye!
 
 1339
 01:07:10,343 --> 01:07:11,969
-<b></font></b> Dodge, parry,
+ Dodge, parry,
 and thrust!
 
 1340
@@ -5957,21 +5957,21 @@ I just went with the flow.
 
 1350
 01:07:33,616 --> 01:07:34,616
-<i><b></font></b>Ladies and gentlemen,</i>
+Ladies and gentlemen,
 
 1351
 01:07:34,701 --> 01:07:35,701
-<i>and those in coach...</i>
+and those in coach...
 
 1352
 01:07:35,869 --> 01:07:37,244
-<i>On the left side
-of the plane...</i>
+On the left side
+of the plane...
 
 1353
 01:07:37,412 --> 01:07:40,914
-<i>You can see we're approaching
-fabulous las Vegas.</i>
+You can see we're approaching
+fabulous las Vegas.
 
 1354
 01:07:45,754 --> 01:07:46,879
@@ -6024,7 +6024,7 @@ diem. That's more our speed.
 
 1365
 01:08:17,994 --> 01:08:19,745
-<b><font color="#808000">Right.
+Right.
 
 1366
 01:08:21,039 --> 01:08:22,873
@@ -6041,7 +6041,7 @@ needs his expensive medicine.
 
 1369
 01:08:28,546 --> 01:08:30,672
-<b></font></b> Aw...
+ Aw...
 
 1370
 01:08:30,757 --> 01:08:32,257
@@ -6053,7 +6053,7 @@ The convention center.
 
 1372
 01:08:39,891 --> 01:08:41,433
-<b></font></b> Bye, sweetie!
+ Bye, sweetie!
 
 1373
 01:08:41,601 --> 01:08:42,976
@@ -6070,16 +6070,16 @@ not know how to make an iced tea.
 
 1376
 01:08:48,733 --> 01:08:49,775
-<b></font></b> Whoa!
+ Whoa!
 
 1377
 01:08:49,859 --> 01:08:52,986
-<b></font></b> Oh, no! How are we gonna
+ Oh, no! How are we gonna
 find my parents in here?
 
 1378
 01:08:53,154 --> 01:08:53,946
-<b></font></b> Tim!
+ Tim!
 
 1379
 01:08:54,114 --> 01:08:55,114
@@ -6096,7 +6096,7 @@ puppy co, puppy co...
 
 1382
 01:08:58,660 --> 01:09:00,702
-<b><font color="#808000">Aha! Here it is. Found it!
+Aha! Here it is. Found it!
 
 1383
 01:09:00,787 --> 01:09:01,787
@@ -6133,7 +6133,7 @@ What's going on?
 
 1391
 01:09:22,016 --> 01:09:23,016
-<b></font></b> That's right.
+ That's right.
 
 1392
 01:09:23,184 --> 01:09:27,104
@@ -6183,16 +6183,16 @@ The forever puppy!
 
 1402
 01:09:59,512 --> 01:10:01,054
-<b><font color="#808000">Mommy?
+Mommy?
 
 1403
 01:10:03,349 --> 01:10:05,100
-<i>Aw...
-Avert your eyes, Templeton!</i>
+Aw...
+Avert your eyes, Templeton!
 
 1404
 01:10:05,185 --> 01:10:06,185
-<i>Aw...</i>
+Aw...
 
 1405
 01:10:07,896 --> 01:10:09,354
@@ -6204,7 +6204,7 @@ Mom, dad!
 
 1407
 01:10:11,608 --> 01:10:12,900
-<b></font></b>What are they doing here?
+What are they doing here?
 
 1408
 01:10:13,067 --> 01:10:14,776
@@ -6218,7 +6218,7 @@ doing here, really?
 
 1410
 01:10:17,405 --> 01:10:19,198
-What is going on here?</font></b>
+What is going on here?
 
 1411
 01:10:19,699 --> 01:10:20,616
@@ -6242,7 +6242,7 @@ We've got to get backstage.
 
 1416
 01:10:31,127 --> 01:10:32,628
-<b></b> In there!
+ In there!
 
 1417
 01:10:33,004 --> 01:10:34,004
@@ -6255,7 +6255,7 @@ Run!
 
 1419
 01:10:39,260 --> 01:10:40,677
-<b><font color="#808000">Go, go, go!
+Go, go, go!
 
 1420
 01:10:42,972 --> 01:10:45,515
@@ -6268,11 +6268,11 @@ Yes!
 
 1422
 01:10:53,441 --> 01:10:54,650
-<b></font></b> Whoa!
+ Whoa!
 
 1423
 01:10:54,734 --> 01:10:56,818
-<b></font></b> Fart. Poop. Doodie.
+ Fart. Poop. Doodie.
 
 1424
 01:10:57,737 --> 01:11:00,072
@@ -6302,7 +6302,7 @@ Elvis has left the building!
 
 1430
 01:11:28,643 --> 01:11:29,685
-<b><font color="#808000">Woo-hoo!
+Woo-hoo!
 
 1431
 01:11:30,061 --> 01:11:31,561
@@ -6314,7 +6314,7 @@ I'm coming!
 
 1433
 01:11:32,814 --> 01:11:34,898
-<b></font></b> Atta boy!
+ Atta boy!
 Go, Tim! Go!
 
 1434
@@ -6327,11 +6327,11 @@ Argh!
 
 1436
 01:11:37,235 --> 01:11:38,235
-<b></font></b> Ah!
+ Ah!
 
 1437
 01:11:38,987 --> 01:11:40,153
-<i><b></font></b>Launch initiated.</i>
+Launch initiated.
 
 1438
 01:11:40,321 --> 01:11:42,281
@@ -6420,7 +6420,7 @@ Hey! Where's the baby?
 
 1457
 01:12:18,318 --> 01:12:19,735
-Everyone has a tickle spot!</font></b>
+Everyone has a tickle spot!
 
 1458
 01:12:19,902 --> 01:12:20,652
@@ -6436,7 +6436,7 @@ Grr! Little brats!
 
 1461
 01:12:30,663 --> 01:12:33,248
-<b></b> Nothing is going
+ Nothing is going
 to get in the way
 
 1462
@@ -6457,7 +6457,7 @@ I win! Ha!
 
 1466
 01:12:40,423 --> 01:12:41,298
-<b></font></b> Wrong!
+ Wrong!
 
 1467
 01:12:42,300 --> 01:12:44,176
@@ -6475,7 +6475,7 @@ You're supposed to end with...
 
 1470
 01:12:49,265 --> 01:12:50,432
-<b></font></b> Argh!
+ Argh!
 
 1471
 01:12:51,267 --> 01:12:52,309
@@ -6497,11 +6497,11 @@ you scurvy scallywag!
 
 1475
 01:13:05,782 --> 01:13:06,490
-<b></font></b> Argh!
+ Argh!
 
 1476
 01:13:06,657 --> 01:13:08,450
-<i><b></font></b>One minute and counting.</i>
+One minute and counting.
 
 1477
 01:13:12,038 --> 01:13:13,246
@@ -6522,8 +6522,8 @@ Mom, dad, I'm coming!
 
 1481
 01:13:21,881 --> 01:13:22,964
-<b></font></b>- Tim?
-<b></font></b>- is that you?
+- Tim?
+- is that you?
 
 1482
 01:13:23,257 --> 01:13:25,217
@@ -6532,8 +6532,8 @@ I got this!
 
 1483
 01:13:25,385 --> 01:13:26,885
-<b></font></b>- Are you okay?
-<b></font></b>- is the baby all right?
+- Are you okay?
+- is the baby all right?
 
 1484
 01:13:27,053 --> 01:13:28,011
@@ -6541,15 +6541,15 @@ Yes, the baby's fine.
 
 1485
 01:13:28,179 --> 01:13:29,304
-<b></font></b> Who was that?
+ Who was that?
 
 1486
 01:13:29,472 --> 01:13:30,931
-That was me! <b></b>
+That was me! 
 
 1487
 01:13:31,099 --> 01:13:32,224
-<b><font color="#808000">The baby's fine.
+The baby's fine.
 
 1488
 01:13:33,851 --> 01:13:35,102
@@ -6557,7 +6557,7 @@ It won't budge!
 
 1489
 01:13:35,269 --> 01:13:36,478
-<b></font></b> What's happening?
+ What's happening?
 
 1490
 01:13:36,687 --> 01:13:37,646
@@ -6579,7 +6579,7 @@ We can use the puppies!
 
 1494
 01:13:42,568 --> 01:13:43,360
-<b></font></b> Upsies.
+ Upsies.
 
 1495
 01:13:43,945 --> 01:13:45,153
@@ -6604,7 +6604,7 @@ It'll be fine.
 
 1500
 01:13:51,702 --> 01:13:53,578
-Hang on to your diaper!</font></b>
+Hang on to your diaper!
 
 1501
 01:14:01,712 --> 01:14:02,712
@@ -6613,11 +6613,11 @@ Whoa!
 1502
 01:14:03,881 --> 01:14:04,965
 Woo-hoo!
-<b></font></b>- we're moving!
+- we're moving!
 
 1503
 01:14:05,133 --> 01:14:06,425
-<b></font></b> Why are we moving?
+ Why are we moving?
 
 1504
 01:14:06,592 --> 01:14:08,009
@@ -6626,7 +6626,7 @@ mom and dad, hang on!
 
 1505
 01:14:09,345 --> 01:14:11,179
-<i>T- minus 30 seconds.</i>
+T- minus 30 seconds.
 
 1506
 01:14:11,347 --> 01:14:12,764
@@ -6664,24 +6664,24 @@ Please don't cry!
 
 1514
 01:14:31,492 --> 01:14:32,617
-<i>20 seconds.</i>
+20 seconds.
 
 1515
 01:14:37,081 --> 01:14:39,499
-<b><font color="#808000"><i>15 seconds.</i>
+15 seconds.
 
 1516
 01:15:05,860 --> 01:15:06,943
-<i>Three...
-Gotcha!</i>
+Three...
+Gotcha!
 
 1517
 01:15:07,111 --> 01:15:09,029
-<i>...two, one.</i>
+...two, one.
 
 1518
 01:15:09,197 --> 01:15:10,238
-<i>Blast off!</i>
+Blast off!
 
 1519
 01:15:23,252 --> 01:15:24,252
@@ -6716,7 +6716,7 @@ Victory nap!
 
 1526
 01:15:42,855 --> 01:15:43,855
-<b><font color="#808000">Whoo-hoo!
+Whoo-hoo!
 
 1527
 01:15:47,401 --> 01:15:48,527
@@ -6846,7 +6846,7 @@ of your choice.
 
 1556
 01:17:21,704 --> 01:17:24,331
-<b></b> Kindergarten?
+ Kindergarten?
 That's right.
 
 1557
@@ -6956,7 +6956,7 @@ It'll be okay, big guy.
 
 1580
 01:18:09,043 --> 01:18:10,043
-<b></font></b> So...
+ So...
 
 1581
 01:18:11,420 --> 01:18:12,420
@@ -7071,8 +7071,8 @@ Oh, yeah, right.
 
 1606
 01:20:05,826 --> 01:20:07,827
-<i><b></font></b> He left
-as suddenly as he arrived.</i>
+ He left
+as suddenly as he arrived.
 
 1607
 01:20:08,287 --> 01:20:09,037
@@ -7080,8 +7080,8 @@ Bye.
 
 1608
 01:20:09,205 --> 01:20:12,457
-<i>Finally,
-my life was perfect again.</i>
+Finally,
+my life was perfect again.
 
 1609
 01:20:17,880 --> 01:20:19,798
@@ -7093,7 +7093,7 @@ Forget about the baby.
 
 1611
 01:20:37,149 --> 01:20:38,066
-<b></font></b> Oopsies!
+ Oopsies!
 
 1612
 01:20:38,234 --> 01:20:39,484
@@ -7101,7 +7101,7 @@ Pardon me, big fella.
 
 1613
 01:20:59,338 --> 01:21:01,756
-<b></font></b> Surprise! <b><Font color="#808000"></font></b>
+ Surprise! 
 
 1614
 01:21:07,263 --> 01:21:08,930
@@ -7109,7 +7109,7 @@ Hooray!
 
 1615
 01:21:33,038 --> 01:21:34,914
-<b></font></b> Hup-hup. Hup-hup.
+ Hup-hup. Hup-hup.
 
 1616
 01:21:40,129 --> 01:21:41,421
@@ -7121,7 +7121,7 @@ No, thanks. I'm good.
 
 1618
 01:21:44,800 --> 01:21:45,967
-<b></font></b> Okie-dokie.
+ Okie-dokie.
 
 1619
 01:21:57,479 --> 01:21:58,479
@@ -7133,95 +7133,95 @@ Argh.
 
 1621
 01:23:37,079 --> 01:23:38,538
-<b></font></b> Dear boss baby...
+ Dear boss baby...
 
 1622
 01:23:38,706 --> 01:23:40,540
-<i>I don't usually
-write very much...</i>
+I don't usually
+write very much...
 
 1623
 01:23:40,708 --> 01:23:43,793
-<i>But now I know that memos
-are very important things.</i>
+But now I know that memos
+are very important things.
 
 1624
 01:23:43,961 --> 01:23:46,170
-<i>Even though I never went
-to business school...</i>
+Even though I never went
+to business school...
 
 1625
 01:23:46,338 --> 01:23:48,548
-<i>I did learn to
-share in kindergarten.</i>
+I did learn to
+share in kindergarten.
 
 1626
 01:23:48,716 --> 01:23:51,426
-<i>And if there isn't enough love
-for the two of us...</i>
+And if there isn't enough love
+for the two of us...
 
 1627
 01:23:51,593 --> 01:23:53,928
-<i>Then I wanna give
-you all of mine.</i>
+Then I wanna give
+you all of mine.
 
 1628
 01:24:23,709 --> 01:24:25,376
-<i>I would like to
-offer you a job.</i>
+I would like to
+offer you a job.
 
 1629
 01:24:25,544 --> 01:24:26,669
-<i>It will be hard work...</i>
+It will be hard work...
 
 1630
 01:24:26,837 --> 01:24:28,880
-<i>And there will be no pay.</i>
+And there will be no pay.
 
 1631
 01:24:29,673 --> 01:24:32,717
-<i>But the good news is that
-you can never be fired.</i>
+But the good news is that
+you can never be fired.
 
 1632
 01:24:34,303 --> 01:24:35,928
-<i>And I promise you this.</i>
+And I promise you this.
 
 1633
 01:24:36,472 --> 01:24:39,098
-<i>Every morning when you
-wake up, I will be there.</i>
+Every morning when you
+wake up, I will be there.
 
 1634
 01:24:39,266 --> 01:24:41,601
-<i>Every night at dinner,
-i will be there.</i>
+Every night at dinner,
+i will be there.
 
 1635
 01:24:41,769 --> 01:24:44,270
-<i>Every birthday party,
-every Christmas morning...</i>
+Every birthday party,
+every Christmas morning...
 
 1636
 01:24:44,438 --> 01:24:45,605
-<i>I will be there.</i>
+I will be there.
 
 1637
 01:24:48,150 --> 01:24:50,735
-<i>Year after year after year.</i>
+Year after year after year.
 
 1638
 01:24:56,533 --> 01:24:58,659
-<i>We will grow old together.</i>
+We will grow old together.
 
 1639
 01:25:00,037 --> 01:25:04,082
-<i>And you and I will
-always be brothers.</i>
+And you and I will
+always be brothers.
 
 1640
 01:25:04,666 --> 01:25:05,666
-<i>Always.</i>
+Always.
 
 1641
 01:25:08,587 --> 01:25:09,587
@@ -7229,49 +7229,49 @@ Whoo!
 
 1642
 01:25:26,563 --> 01:25:29,607
-<i>Wake up, little halflings!
-It's 7:00 a. M.</i>
+Wake up, little halflings!
+It's 7:00 a. M.
 
 1643
 01:25:32,319 --> 01:25:33,986
-<b><font color="#808000">What's the point, wizzie?
+What's the point, wizzie?
 
 1644
 01:25:34,154 --> 01:25:36,405
-<i>Because it's 7:00 a. M.</i>
+Because it's 7:00 a. M.
 
 1645
 01:25:36,573 --> 01:25:39,283
-<i>I have one job to do,
-and you make it so difficult.</i>
+I have one job to do,
+and you make it so difficult.
 
 1646
 01:25:43,831 --> 01:25:45,498
-<i>It's okay, little halfling.</i>
+It's okay, little halfling.
 
 1647
 01:25:45,666 --> 01:25:47,500
-<i>Sometimes,
-i get confused too.</i>
+Sometimes,
+i get confused too.
 
 1648
 01:25:47,668 --> 01:25:50,211
-<i>Especially during
-daylight savings time.</i>
+Especially during
+daylight savings time.
 
 1649
 01:25:50,379 --> 01:25:52,171
-<i>Spring forward, fall back.</i>
+Spring forward, fall back.
 
 1650
 01:25:52,339 --> 01:25:54,549
-<i>We don't even have calendars
-in the wizard's realm!</i>
+We don't even have calendars
+in the wizard's realm!
 
 1651
 01:25:54,716 --> 01:25:58,261
-<i>There is no spring,
-only darkness and winter!</i>
+There is no spring,
+only darkness and winter!
 
 1652
 01:25:58,428 --> 01:26:00,721
@@ -7284,11 +7284,11 @@ I just miss him.
 
 1654
 01:26:02,057 --> 01:26:03,057
-<i>Oh.</i>
+Oh.
 
 1655
 01:26:15,863 --> 01:26:18,281
-Tim, look who's here!</font></b>
+Tim, look who's here!
 
 1656
 01:26:18,365 --> 01:26:19,949
@@ -7318,11 +7318,11 @@ Theodore Lindsey Templeton.
 
 1662
 01:26:31,170 --> 01:26:32,336
-<b></b> Lindsey?
+ Lindsey?
 
 1663
 01:26:32,713 --> 01:26:35,089
-<b><font color="#808000">Aw!
+Aw!
 
 1664
 01:26:35,174 --> 01:26:36,132
@@ -7330,7 +7330,7 @@ Who's ticklish?
 
 1665
 01:26:36,216 --> 01:26:37,175
-Who's ticklish?</font></b>
+Who's ticklish?
 
 1666
 01:26:37,259 --> 01:26:38,467
@@ -7338,11 +7338,11 @@ Here you go.
 
 1667
 01:26:42,556 --> 01:26:44,724
-<i><b></font></b>So, that's my story.</i>
+So, that's my story.
 
 1668
 01:26:46,435 --> 01:26:47,643
-<i>Our story.</i>
+Our story.
 
 1669
 01:26:48,604 --> 01:26:52,190
@@ -7381,7 +7381,7 @@ Just ask your uncle Ted.
 
 1677
 01:27:07,414 --> 01:27:09,790
-<b></font></b> Hey, kid, I hear
+ Hey, kid, I hear
 you're gonna have a baby sister.
 
 1678
@@ -7390,7 +7390,7 @@ I wanted a horse.
 
 1679
 01:27:11,335 --> 01:27:13,920
-<b></font></b> Here you go, kid.
+ Here you go, kid.
 Go get yourself a horse.
 
 1680
@@ -7400,7 +7400,7 @@ I'm proud of you, Leslie.
 
 1681
 01:27:17,049 --> 01:27:18,674
-<b></font></b> Back at ya, Lindsey.
+ Back at ya, Lindsey.
 
 1682
 01:27:29,019 --> 01:27:31,020
@@ -7408,11 +7408,11 @@ Hi there, baby sister.
 
 1683
 01:30:24,861 --> 01:30:25,611
-<b></font></b> Argh!
+ Argh!
 
 1684
 01:30:25,779 --> 01:30:26,987
-<b></font></b> All right, guys.
+ All right, guys.
 
 1685
 01:30:27,155 --> 01:30:28,197
@@ -7425,19 +7425,18 @@ Just a little longer.
 
 1687
 01:30:30,617 --> 01:30:32,785
-<b></font></b> Okay.</font></b>
+ Okay.
 
 1688
 01:37:10,183 --> 01:37:13,602
-<i><b></font></b> Wake up, little halflings!
-It's time to leave.</i>
+ Wake up, little halflings!
+It's time to leave.
 
 1689
 01:37:13,770 --> 01:37:17,189
-<i>Go and live
-your peasant lives.</i>
+Go and live
+your peasant lives.
 
 1690
 01:37:18,233 --> 01:37:19,691
-<i>Be gone with you!</i>
-
+Be gone with you!

@@ -1,84 +1,84 @@
-﻿1
+1
 00:01:53,480 --> 00:01:56,370
-<i>Born of cold and winter air</i>
+Born of cold and winter air
 
 2
 00:01:56,440 --> 00:02:00,604
-<i>And mountain rain combining</i>
+And mountain rain combining
 
 3
 00:02:00,800 --> 00:02:03,883
-<i>This icy force both foul and fair</i>
+This icy force both foul and fair
 
 4
 00:02:03,960 --> 00:02:08,284
-<i>Has a frozen heart worth mining</i>
+Has a frozen heart worth mining
 
 5
 00:02:08,480 --> 00:02:10,289
-<i>So out through the heart</i>
+So out through the heart
 
 6
 00:02:10,360 --> 00:02:11,771
-<i>Cold and clear</i>
+Cold and clear
 
 7
 00:02:11,840 --> 00:02:14,810
-<i>Strike for love and strike for fear</i>
+Strike for love and strike for fear
 
 8
 00:02:14,960 --> 00:02:17,691
-<i>See the beauty sharp and sheer</i>
+See the beauty sharp and sheer
 
 9
 00:02:18,000 --> 00:02:20,685
-<i>Split the ice apart</i>
+Split the ice apart
 
 10
 00:02:20,840 --> 00:02:24,640
-<i>And break the frozen heart
-Hup, ho</i>
+And break the frozen heart
+Hup, ho
 
 11
 00:02:25,040 --> 00:02:27,088
-<i>Watch your step
-Let it go</i>
+Watch your step
+Let it go
 
 12
 00:02:27,520 --> 00:02:29,568
-<i>Hup, ho</i>
+Hup, ho
 
 13
 00:02:29,960 --> 00:02:32,361
-<i>Watch your step
-Let it go</i>
+Watch your step
+Let it go
 
 14
 00:02:32,720 --> 00:02:33,721
-<i>Beautiful
-Powerful</i>
+Beautiful
+Powerful
 
 15
 00:02:33,800 --> 00:02:35,086
-<i>Dangerous
-Cold</i>
+Dangerous
+Cold
 
 16
 00:02:35,160 --> 00:02:37,401
-<i>Ice has a magic
-Can't be controlled</i>
+Ice has a magic
+Can't be controlled
 
 17
 00:02:37,480 --> 00:02:38,641
-<i>Stronger than one</i>
+Stronger than one
 
 18
 00:02:38,720 --> 00:02:39,881
-<i>Stronger than ten</i>
+Stronger than ten
 
 19
 00:02:40,240 --> 00:02:41,765
-<i>Stronger than a hundred men!</i>
+Stronger than a hundred men!
 
 20
 00:02:42,920 --> 00:02:44,126
@@ -86,44 +86,44 @@ Oh!
 
 21
 00:02:45,280 --> 00:02:47,567
-<i>Born of cold
-And winter air</i>
+Born of cold
+And winter air
 
 22
 00:02:47,640 --> 00:02:49,881
-<i>And mountain rain combining</i>
+And mountain rain combining
 
 23
 00:02:49,960 --> 00:02:52,281
-<i>This icy force both foul and fair</i>
+This icy force both foul and fair
 
 24
 00:02:52,360 --> 00:02:55,045
-<i>Has a frozen heart worth mining</i>
+Has a frozen heart worth mining
 
 25
 00:02:55,320 --> 00:02:56,446
-<i>Cut through the heart</i>
+Cut through the heart
 
 26
 00:02:56,520 --> 00:02:57,646
-<i>Cold and clear</i>
+Cold and clear
 
 27
 00:02:57,720 --> 00:02:59,882
-<i>Strike for love and strike for fear</i>
+Strike for love and strike for fear
 
 28
 00:03:00,240 --> 00:03:02,402
-<i>There's beauty and there's danger here</i>
+There's beauty and there's danger here
 
 29
 00:03:02,640 --> 00:03:04,722
-<i>Split the ice apart</i>
+Split the ice apart
 
 30
 00:03:04,960 --> 00:03:09,010
-<i>Beware the frozen heart</i>
+Beware the frozen heart
 
 31
 00:03:14,520 --> 00:03:16,727
@@ -409,28 +409,28 @@ She can learn to control it. I'm sure.
 
 100
 00:07:54,400 --> 00:07:55,845
-<i>Until then...</i>
+Until then...
 
 101
 00:07:55,960 --> 00:07:57,644
-<i>We'll look the gates.</i>
+We'll look the gates.
 
 102
 00:07:58,080 --> 00:07:59,320
-<i>We'll reduce the staff.</i>
+We'll reduce the staff.
 
 103
 00:07:59,400 --> 00:08:01,687
-<i>We will limit her contact with people,</i>
+We will limit her contact with people,
 
 104
 00:08:02,920 --> 00:08:05,844
-<i>and keep her powers
-hidden from everyone.</i>
+and keep her powers
+hidden from everyone.
 
 105
 00:08:08,400 --> 00:08:09,970
-<i>Including Anna.</i>
+Including Anna.
 
 106
 00:08:18,640 --> 00:08:20,324
@@ -442,41 +442,41 @@ Elsa?
 
 108
 00:08:24,880 --> 00:08:27,645
-<i>Do you wanna build a snowman?</i>
+Do you wanna build a snowman?
 
 109
 00:08:28,240 --> 00:08:30,447
-<i>Come on, let's go and play</i>
+Come on, let's go and play
 
 110
 00:08:31,560 --> 00:08:33,403
-<i>I never see you anymore</i>
+I never see you anymore
 
 111
 00:08:33,720 --> 00:08:34,846
-<i>Come out the door</i>
+Come out the door
 
 112
 00:08:35,080 --> 00:08:37,606
-<i>It's like you've gone away</i>
+It's like you've gone away
 
 113
 00:08:38,080 --> 00:08:41,721
-<i>We used to be best buddies
-And now we're not</i>
+We used to be best buddies
+And now we're not
 
 114
 00:08:42,160 --> 00:08:45,801
-<i>I wish you would tell me why</i>
+I wish you would tell me why
 
 115
 00:08:46,160 --> 00:08:48,766
-<i>Do you wanna build a snowman?</i>
+Do you wanna build a snowman?
 
 116
 00:08:49,040 --> 00:08:51,691
-<i>It doesn't
-have to be a snowman</i>
+It doesn't
+have to be a snowman
 
 117
 00:08:51,760 --> 00:08:53,410
@@ -484,7 +484,7 @@ Go away, Anna.
 
 118
 00:08:53,520 --> 00:08:56,330
-<i>Okay, bye</i>
+Okay, bye
 
 119
 00:09:02,360 --> 00:09:03,691
@@ -504,20 +504,20 @@ Don't let it show.
 
 123
 00:09:12,680 --> 00:09:15,365
-<i>Do you wanna build a snowman?</i>
+Do you wanna build a snowman?
 
 124
 00:09:15,440 --> 00:09:17,681
-<i>Or ride our bike around the halls?</i>
+Or ride our bike around the halls?
 
 125
 00:09:18,800 --> 00:09:20,882
-<i>I think some company is overdue</i>
+I think some company is overdue
 
 126
 00:09:20,960 --> 00:09:23,804
-<i>I've started talking
-To the pictures on the walls</i>
+I've started talking
+To the pictures on the walls
 
 127
 00:09:24,000 --> 00:09:25,001
@@ -525,12 +525,12 @@ Hang in there, Joan.
 
 128
 00:09:25,080 --> 00:09:28,562
-<i>It gets a little lonely
-All these empty rooms</i>
+It gets a little lonely
+All these empty rooms
 
 129
 00:09:28,840 --> 00:09:31,491
-<i>Just watching the hours tick by</i>
+Just watching the hours tick by
 
 130
 00:09:37,680 --> 00:09:38,886
@@ -575,38 +575,38 @@ Elsa?
 
 140
 00:10:43,320 --> 00:10:45,687
-<i>Please
-I know you're in there</i>
+Please
+I know you're in there
 
 141
 00:10:47,040 --> 00:10:49,247
-<i>People are asking where you've been</i>
+People are asking where you've been
 
 142
 00:10:51,080 --> 00:10:54,129
-<i>They say "Have courage"
-And I'm trying to</i>
+They say "Have courage"
+And I'm trying to
 
 143
 00:10:54,680 --> 00:10:56,489
-<i>I'm right out here for you</i>
+I'm right out here for you
 
 144
 00:10:56,600 --> 00:10:58,807
-<i>Just let me in</i>
+Just let me in
 
 145
 00:10:59,720 --> 00:11:03,850
-<i>We only have each other
-It's just you and me</i>
+We only have each other
+It's just you and me
 
 146
 00:11:04,480 --> 00:11:08,371
-<i>What are we gonna do?</i>
+What are we gonna do?
 
 147
 00:11:12,560 --> 00:11:15,040
-<i>Do you wanna build a snowman?</i>
+Do you wanna build a snowman?
 
 148
 00:11:49,360 --> 00:11:51,010
@@ -763,86 +763,86 @@ It's Coronation Day!
 
 185
 00:13:30,000 --> 00:13:31,126
-<i>The window is open!</i>
+The window is open!
 
 186
 00:13:31,200 --> 00:13:32,281
-<i>So's that door!</i>
+So's that door!
 
 187
 00:13:32,360 --> 00:13:34,601
-<i>I didn't know they did that anymore</i>
+I didn't know they did that anymore
 
 188
 00:13:34,680 --> 00:13:38,730
-<i>Who knew we owned
-8,000 salad plates?</i>
+Who knew we owned
+8,000 salad plates?
 
 189
 00:13:39,480 --> 00:13:41,562
-<i>For years I've roamed these empty halls</i>
+For years I've roamed these empty halls
 
 190
 00:13:42,000 --> 00:13:44,162
-<i>Why have a ballroom with no balls?</i>
+Why have a ballroom with no balls?
 
 191
 00:13:44,560 --> 00:13:48,565
-<i>Finally
-They're opening up the gates!</i>
+Finally
+They're opening up the gates!
 
 192
 00:13:48,920 --> 00:13:51,526
-<i>There'll be actual, real, live people</i>
+There'll be actual, real, live people
 
 193
 00:13:51,600 --> 00:13:53,523
-<i>It'll be totally strange</i>
+It'll be totally strange
 
 194
 00:13:53,600 --> 00:13:57,650
-<i>But wow!
-Am I so ready for this change!</i>
+But wow!
+Am I so ready for this change!
 
 195
 00:13:57,880 --> 00:14:02,249
-<i>'Cause for the first time in forever</i>
+'Cause for the first time in forever
 
 196
 00:14:02,640 --> 00:14:04,165
-<i>There'll be music</i>
+There'll be music
 
 197
 00:14:04,240 --> 00:14:07,005
-<i>There'll be light</i>
+There'll be light
 
 198
 00:14:07,160 --> 00:14:09,322
-<i>For the first time</i>
+For the first time
 
 199
 00:14:09,400 --> 00:14:11,402
-<i>In forever</i>
+In forever
 
 200
 00:14:11,760 --> 00:14:16,448
-<i>I'll be dancing through the night</i>
+I'll be dancing through the night
 
 201
 00:14:16,760 --> 00:14:18,728
-<i>Don't know if I'm elated or gassy</i>
+Don't know if I'm elated or gassy
 
 202
 00:14:18,800 --> 00:14:21,565
-<i>But I'm somewhere in that zone</i>
+But I'm somewhere in that zone
 
 203
 00:14:22,040 --> 00:14:26,602
-<i>'Cause for the first time in forever</i>
+'Cause for the first time in forever
 
 204
 00:14:28,560 --> 00:14:30,449
-<i>I won't be alone</i>
+I won't be alone
 
 205
 00:14:30,600 --> 00:14:33,410
@@ -854,205 +854,205 @@ What if I meet The One?
 
 207
 00:14:36,560 --> 00:14:39,040
-<i>Tonight
-Imagine me gown and all</i>
+Tonight
+Imagine me gown and all
 
 208
 00:14:39,120 --> 00:14:41,361
-<i>Fetchingly draped against the wall</i>
+Fetchingly draped against the wall
 
 209
 00:14:41,440 --> 00:14:45,764
-<i>The picture of sophisticated grace</i>
+The picture of sophisticated grace
 
 210
 00:14:46,080 --> 00:14:48,367
-<i>I suddenly see him standing there</i>
+I suddenly see him standing there
 
 211
 00:14:48,440 --> 00:14:49,601
-<i>A beautiful stranger</i>
+A beautiful stranger
 
 212
 00:14:49,680 --> 00:14:50,681
-<i>Tall and fair</i>
+Tall and fair
 
 213
 00:14:50,760 --> 00:14:55,322
-<i>I wanna stuff some chocolate
-in my face!</i>
+I wanna stuff some chocolate
+in my face!
 
 214
 00:14:55,440 --> 00:14:58,091
-<i>But then we laugh and talk all evening</i>
+But then we laugh and talk all evening
 
 215
 00:14:58,160 --> 00:15:00,367
-<i>Which is totally bizarre</i>
+Which is totally bizarre
 
 216
 00:15:00,440 --> 00:15:04,445
-<i>Nothing like the life
-I've led so far</i>
+Nothing like the life
+I've led so far
 
 217
 00:15:04,800 --> 00:15:08,805
-<i>For the first time in forever</i>
+For the first time in forever
 
 218
 00:15:09,080 --> 00:15:13,483
-<i>There'll be magic
-There'll be fun</i>
+There'll be magic
+There'll be fun
 
 219
 00:15:13,720 --> 00:15:17,964
-<i>For the first time in forever</i>
+For the first time in forever
 
 220
 00:15:18,200 --> 00:15:22,683
-<i>I could be noticed by someone</i>
+I could be noticed by someone
 
 221
 00:15:23,080 --> 00:15:25,367
-<i>And I know it is totally crazy</i>
+And I know it is totally crazy
 
 222
 00:15:25,680 --> 00:15:28,001
-<i>To dream I'd find romance</i>
+To dream I'd find romance
 
 223
 00:15:28,560 --> 00:15:33,009
-<i>But for the first time in forever</i>
+But for the first time in forever
 
 224
 00:15:34,800 --> 00:15:37,087
-<i>At least I've got a chance!</i>
+At least I've got a chance!
 
 225
 00:15:43,760 --> 00:15:45,569
-<i>Don't let them in</i>
+Don't let them in
 
 226
 00:15:46,000 --> 00:15:48,002
-<i>Don't let them see</i>
+Don't let them see
 
 227
 00:15:48,480 --> 00:15:49,891
-<i>Be the good girl</i>
+Be the good girl
 
 228
 00:15:49,960 --> 00:15:51,530
-<i>You always have to be</i>
+You always have to be
 
 229
 00:15:53,560 --> 00:15:54,846
-<i>Conceal</i>
+Conceal
 
 230
 00:15:55,440 --> 00:15:56,851
-<i>Don't feel</i>
+Don't feel
 
 231
 00:15:57,200 --> 00:15:59,043
-<i>Put on a show</i>
+Put on a show
 
 232
 00:15:59,640 --> 00:16:00,846
-<i>Make one wrong move</i>
+Make one wrong move
 
 233
 00:16:00,920 --> 00:16:03,491
-<i>And everyone will know</i>
+And everyone will know
 
 234
 00:16:04,880 --> 00:16:06,405
-<i>But it's only for today</i>
+But it's only for today
 
 235
 00:16:06,480 --> 00:16:07,447
-<i>It's only for today</i>
+It's only for today
 
 236
 00:16:07,520 --> 00:16:10,285
-<i>It's agony to wait</i>
+It's agony to wait
 
 237
 00:16:10,640 --> 00:16:13,291
-<i>Tell the guards to open up</i>
+Tell the guards to open up
 
 238
 00:16:14,000 --> 00:16:16,401
-<i>The gate</i>
+The gate
 
 239
 00:16:16,480 --> 00:16:18,528
-<i>The gate</i>
+The gate
 
 240
 00:16:18,760 --> 00:16:21,969
-<i>For the first time in forever</i>
+For the first time in forever
 
 241
 00:16:22,040 --> 00:16:23,326
-<i>Don't let them in
-Don't let them see</i>
+Don't let them in
+Don't let them see
 
 242
 00:16:23,400 --> 00:16:27,041
-<i>I'm getting what I'm dreaming of</i>
+I'm getting what I'm dreaming of
 
 243
 00:16:27,240 --> 00:16:28,241
-<i>Be the good girl</i>
+Be the good girl
 
 244
 00:16:28,320 --> 00:16:29,526
-<i>You always have to be</i>
+You always have to be
 
 245
 00:16:29,640 --> 00:16:30,971
-<i>A chance to change</i>
+A chance to change
 
 246
 00:16:31,040 --> 00:16:32,804
-<i>My lonely world</i>
+My lonely world
 
 247
 00:16:32,880 --> 00:16:34,120
-<i>Conceal</i>
+Conceal
 
 248
 00:16:34,200 --> 00:16:37,443
-<i>A chance to find true love</i>
+A chance to find true love
 
 249
 00:16:37,520 --> 00:16:39,522
-<i>Conceal, don't feel
-Don't let them know</i>
+Conceal, don't feel
+Don't let them know
 
 250
 00:16:39,600 --> 00:16:41,648
-<i>I know it all ends tomorrow</i>
+I know it all ends tomorrow
 
 251
 00:16:41,760 --> 00:16:44,570
-<i>So it has to be today!</i>
+So it has to be today!
 
 252
 00:16:44,960 --> 00:16:49,568
-<i>'Cause for the first time in forever</i>
+'Cause for the first time in forever
 
 253
 00:16:50,240 --> 00:16:52,481
-<i>For the first time</i>
+For the first time
 
 254
 00:16:52,560 --> 00:16:55,962
-<i>In forever</i>
+In forever
 
 255
 00:16:57,000 --> 00:17:00,925
-<i>Nothing's in my way!</i>
+Nothing's in my way!
 
 256
 00:17:06,840 --> 00:17:07,841
@@ -1567,13 +1567,13 @@ I love crazy.
 
 378
 00:23:48,880 --> 00:23:53,249
-<i>All my life has been
-A series of doors in my face</i>
+All my life has been
+A series of doors in my face
 
 379
 00:23:53,720 --> 00:23:56,326
-<i>And then suddenly
-I bump into you</i>
+And then suddenly
+I bump into you
 
 380
 00:23:56,400 --> 00:23:58,687
@@ -1582,76 +1582,76 @@ because, like...
 
 381
 00:23:58,760 --> 00:24:00,842
-<i>I've been searching my whole life</i>
+I've been searching my whole life
 
 382
 00:24:00,920 --> 00:24:02,809
-<i>To find my own place</i>
+To find my own place
 
 383
 00:24:03,160 --> 00:24:05,561
-<i>And maybe it's the party talking</i>
+And maybe it's the party talking
 
 384
 00:24:05,680 --> 00:24:06,681
-<i>Or the chocolate fondue</i>
+Or the chocolate fondue
 
 385
 00:24:07,840 --> 00:24:08,807
-<i>But with you</i>
+But with you
 
 386
 00:24:08,880 --> 00:24:11,042
-<i>But with you I found my place</i>
+But with you I found my place
 
 387
 00:24:11,120 --> 00:24:12,770
-<i>I see your face</i>
+I see your face
 
 388
 00:24:12,840 --> 00:24:16,765
-<i>And it's nothing like
-I've ever known before</i>
+And it's nothing like
+I've ever known before
 
 389
 00:24:16,840 --> 00:24:17,807
-<i>Love is an open</i>
+Love is an open
 
 390
 00:24:17,880 --> 00:24:21,009
-<i>Door!</i>
+Door!
 
 391
 00:24:21,440 --> 00:24:22,771
-<i>Love is an open</i>
+Love is an open
 
 392
 00:24:22,840 --> 00:24:25,969
-<i>- Door
-- Door</i>
+- Door
+- Door
 
 393
 00:24:26,160 --> 00:24:28,447
-<i>Love is an open door</i>
+Love is an open door
 
 394
 00:24:28,520 --> 00:24:31,205
-<i>- With you
-- With you</i>
+- With you
+- With you
 
 395
 00:24:31,280 --> 00:24:34,045
-<i>Love is an open door</i>
+Love is an open door
 
 396
 00:24:41,680 --> 00:24:42,841
-<i>- I mean, it's crazy
-- What?</i>
+- I mean, it's crazy
+- What?
 
 397
 00:24:42,960 --> 00:24:45,122
-<i>- We finish each other's
-- Sandwiches</i>
+- We finish each other's
+- Sandwiches
 
 398
 00:24:45,360 --> 00:24:46,486
@@ -1659,11 +1659,11 @@ That's what I was gonna say!
 
 399
 00:24:46,560 --> 00:24:47,686
-<i>I've never met someone</i>
+I've never met someone
 
 400
 00:24:47,760 --> 00:24:49,762
-<i>Who thinks so much like me</i>
+Who thinks so much like me
 
 401
 00:24:49,880 --> 00:24:51,291
@@ -1671,66 +1671,66 @@ Jinx! Jinx again!
 
 402
 00:24:51,360 --> 00:24:55,809
-<i>Our mental synchronization
-Can have but one explanation</i>
+Our mental synchronization
+Can have but one explanation
 
 403
 00:24:56,320 --> 00:24:57,401
-<i>- You
-- And I</i>
+- You
+- And I
 
 404
 00:24:57,480 --> 00:24:58,481
-<i>- Were
-- Just</i>
+- Were
+- Just
 
 405
 00:24:58,560 --> 00:25:00,050
-<i>Meant to be</i>
+Meant to be
 
 406
 00:25:00,400 --> 00:25:02,687
-<i>- Say goodbye
-- Say goodbye</i>
+- Say goodbye
+- Say goodbye
 
 407
 00:25:02,760 --> 00:25:05,604
-<i>To the pain of the past</i>
+To the pain of the past
 
 408
 00:25:06,040 --> 00:25:09,249
-<i>We don't have to feel it anymore</i>
+We don't have to feel it anymore
 
 409
 00:25:09,600 --> 00:25:13,446
-<i>Love is an open door</i>
+Love is an open door
 
 410
 00:25:14,360 --> 00:25:15,885
-<i>Love is an open</i>
+Love is an open
 
 411
 00:25:16,000 --> 00:25:19,049
-<i>- Door
-- Door</i>
+- Door
+- Door
 
 412
 00:25:19,200 --> 00:25:21,043
-<i>Life can be so much more</i>
+Life can be so much more
 
 413
 00:25:21,120 --> 00:25:24,044
-<i>- With you
-- With you</i>
+- With you
+- With you
 
 414
 00:25:24,120 --> 00:25:25,406
-<i>Love is an open</i>
+Love is an open
 
 415
 00:25:25,480 --> 00:25:28,962
-<i>- Door
-- Door</i>
+- Door
+- Door
 
 416
 00:25:29,360 --> 00:25:31,249
@@ -2186,216 +2186,216 @@ She would never hurt me.
 
 522
 00:31:23,600 --> 00:31:26,683
-<i>The snow glows white
-On the mountain tonight</i>
+The snow glows white
+On the mountain tonight
 
 523
 00:31:26,760 --> 00:31:29,764
-<i>Not a footprint to be seen</i>
+Not a footprint to be seen
 
 524
 00:31:30,480 --> 00:31:33,689
-<i>A kingdom of isolation</i>
+A kingdom of isolation
 
 525
 00:31:33,760 --> 00:31:37,606
-<i>And it looks like
-I'm the queen</i>
+And it looks like
+I'm the queen
 
 526
 00:31:38,160 --> 00:31:40,288
-<i>The wind is howling</i>
+The wind is howling
 
 527
 00:31:40,360 --> 00:31:44,081
-<i>Like this swirling storm inside</i>
+Like this swirling storm inside
 
 528
 00:31:45,240 --> 00:31:49,962
-<i>Couldn't keep it in
-Heaven knows I tried</i>
+Couldn't keep it in
+Heaven knows I tried
 
 529
 00:31:52,240 --> 00:31:55,528
-<i>Don't let them in
-Don't let them see</i>
+Don't let them in
+Don't let them see
 
 530
 00:31:55,600 --> 00:31:59,047
-<i>Be the good girl
-You always have to be</i>
+Be the good girl
+You always have to be
 
 531
 00:31:59,120 --> 00:32:03,842
-<i>Conceal, don't feel
-Don't let them know</i>
+Conceal, don't feel
+Don't let them know
 
 532
 00:32:05,160 --> 00:32:08,289
-<i>Well, now they know</i>
+Well, now they know
 
 533
 00:32:08,640 --> 00:32:12,008
-<i>Let it go!
-Let it go!</i>
+Let it go!
+Let it go!
 
 534
 00:32:12,320 --> 00:32:15,369
-<i>Can't hold me back anymore</i>
+Can't hold me back anymore
 
 535
 00:32:15,640 --> 00:32:18,849
-<i>Let it go!
-Let it go!</i>
+Let it go!
+Let it go!
 
 536
 00:32:19,160 --> 00:32:22,403
-<i>Turn away and slam the door</i>
+Turn away and slam the door
 
 537
 00:32:23,320 --> 00:32:25,607
-<i>I don't care</i>
+I don't care
 
 538
 00:32:25,720 --> 00:32:29,008
-<i>What they're going to say</i>
+What they're going to say
 
 539
 00:32:29,680 --> 00:32:33,048
-<i>Let the storm rage on</i>
+Let the storm rage on
 
 540
 00:32:33,760 --> 00:32:36,331
-<i>The cold never bothered me anyway</i>
+The cold never bothered me anyway
 
 541
 00:32:41,000 --> 00:32:46,643
-<i>It's funny how some distance
-Makes everything seem small</i>
+It's funny how some distance
+Makes everything seem small
 
 542
 00:32:47,520 --> 00:32:50,683
-<i>And the fears that once controlled me</i>
+And the fears that once controlled me
 
 543
 00:32:50,840 --> 00:32:54,731
-<i>Can't get to me at all</i>
+Can't get to me at all
 
 544
 00:32:55,360 --> 00:32:58,682
-<i>It's time to see what I can do</i>
+It's time to see what I can do
 
 545
 00:32:58,760 --> 00:33:02,207
-<i>To test the limits and break through</i>
+To test the limits and break through
 
 546
 00:33:02,320 --> 00:33:03,765
-<i>No right, no wrong</i>
+No right, no wrong
 
 547
 00:33:03,840 --> 00:33:05,922
-<i>No rules for me</i>
+No rules for me
 
 548
 00:33:06,480 --> 00:33:08,164
-<i>I'm free!</i>
+I'm free!
 
 549
 00:33:09,880 --> 00:33:11,291
-<i>Let it go!</i>
+Let it go!
 
 550
 00:33:11,560 --> 00:33:13,210
-<i>Let it go!</i>
+Let it go!
 
 551
 00:33:13,440 --> 00:33:16,808
-<i>I am one with the wind and sky</i>
+I am one with the wind and sky
 
 552
 00:33:16,880 --> 00:33:20,202
-<i>Let it go!
-Let it go!</i>
+Let it go!
+Let it go!
 
 553
 00:33:20,640 --> 00:33:23,928
-<i>You'll never see me cry</i>
+You'll never see me cry
 
 554
 00:33:24,640 --> 00:33:28,008
-<i>Here I stand</i>
+Here I stand
 
 555
 00:33:28,080 --> 00:33:30,731
-<i>And here I'll stay</i>
+And here I'll stay
 
 556
 00:33:31,000 --> 00:33:34,607
-<i>Let the storm rage on</i>
+Let the storm rage on
 
 557
 00:33:42,880 --> 00:33:45,770
-<i>My power flurries through the air</i>
+My power flurries through the air
 
 558
 00:33:45,840 --> 00:33:49,003
-<i>Into the ground</i>
+Into the ground
 
 559
 00:33:49,480 --> 00:33:54,042
-<i>My soul is spiraling in frozen fractals</i>
+My soul is spiraling in frozen fractals
 
 560
 00:33:54,120 --> 00:33:56,248
-<i>All around</i>
+All around
 
 561
 00:33:56,640 --> 00:34:01,680
-<i>And one thought crystallizes
-Like an icy blast</i>
+And one thought crystallizes
+Like an icy blast
 
 562
 00:34:03,680 --> 00:34:06,286
-<i>I'm never going back</i>
+I'm never going back
 
 563
 00:34:06,720 --> 00:34:10,691
-<i>The past is in the past</i>
+The past is in the past
 
 564
 00:34:11,360 --> 00:34:14,284
-<i>Let it go!
-Let it go!</i>
+Let it go!
+Let it go!
 
 565
 00:34:14,920 --> 00:34:18,288
-<i>And I'll rise like the break of dawn</i>
+And I'll rise like the break of dawn
 
 566
 00:34:18,400 --> 00:34:21,609
-<i>Let it go!
-Let it go!</i>
+Let it go!
+Let it go!
 
 567
 00:34:22,160 --> 00:34:25,801
-<i>That perfect girl is gone</i>
+That perfect girl is gone
 
 568
 00:34:26,000 --> 00:34:28,446
-<i>Here I stand</i>
+Here I stand
 
 569
 00:34:28,560 --> 00:34:32,281
-<i>In the light of day</i>
+In the light of day
 
 570
 00:34:34,280 --> 00:34:38,205
-<i>Let the storm rage on!</i>
+Let the storm rage on!
 
 571
 00:34:40,160 --> 00:34:42,811
-<i>The cold never bothered me anyway</i>
+The cold never bothered me anyway
 
 572
 00:34:48,840 --> 00:34:50,251
@@ -2717,20 +2717,20 @@ Uh...
 
 648
 00:38:45,560 --> 00:38:48,484
-<i>Reindeers are better than people</i>
+Reindeers are better than people
 
 649
 00:38:49,360 --> 00:38:52,443
-<i>Sven, don't you think that's true?</i>
+Sven, don't you think that's true?
 
 650
 00:38:52,840 --> 00:38:55,889
-<i>"Yeah, people will beat you
-And curse you and cheat you"</i>
+"Yeah, people will beat you
+And curse you and cheat you"
 
 651
 00:38:56,040 --> 00:38:58,441
-<i>"Every one of them's bad, except you"</i>
+"Every one of them's bad, except you"
 
 652
 00:38:58,720 --> 00:39:00,404
@@ -2738,33 +2738,33 @@ Aw. Thanks, buddy.
 
 653
 00:39:00,920 --> 00:39:04,049
-<i>But people smell better than reindeers</i>
+But people smell better than reindeers
 
 654
 00:39:04,600 --> 00:39:07,365
-<i>Sven, don't you think I'm right?</i>
+Sven, don't you think I'm right?
 
 655
 00:39:08,240 --> 00:39:11,767
-<i>"That's once again true
-For all, except you"</i>
+"That's once again true
+For all, except you"
 
 656
 00:39:12,240 --> 00:39:15,210
-<i>You got me
-Let's call it a night</i>
+You got me
+Let's call it a night
 
 657
 00:39:15,280 --> 00:39:17,009
-<i>"Good night"</i>
+"Good night"
 
 658
 00:39:17,720 --> 00:39:21,725
-<i>Don't let the frostbite</i>
+Don't let the frostbite
 
 659
 00:39:21,960 --> 00:39:24,201
-<i>Bite</i>
+Bite
 
 660
 00:39:25,080 --> 00:39:26,445
@@ -3552,119 +3552,119 @@ like when summer does come.
 
 842
 00:47:45,480 --> 00:47:49,849
-<i>Bees will buzz
-Kids will blow dandelion fuzz</i>
+Bees will buzz
+Kids will blow dandelion fuzz
 
 843
 00:47:49,920 --> 00:47:54,687
-<i>And I'll be doing
-Whatever snow does in summer</i>
+And I'll be doing
+Whatever snow does in summer
 
 844
 00:47:56,280 --> 00:47:58,567
-<i>A drink in my hand</i>
+A drink in my hand
 
 845
 00:47:58,640 --> 00:48:00,961
-<i>My snow up against the burning sand</i>
+My snow up against the burning sand
 
 846
 00:48:01,040 --> 00:48:03,247
-<i>Probably getting gorgeously tanned</i>
+Probably getting gorgeously tanned
 
 847
 00:48:03,320 --> 00:48:04,890
-<i>In summer</i>
+In summer
 
 848
 00:48:05,440 --> 00:48:07,602
-<i>I'll finally see a summer breeze</i>
+I'll finally see a summer breeze
 
 849
 00:48:07,680 --> 00:48:09,728
-<i>Blow away a winter storm</i>
+Blow away a winter storm
 
 850
 00:48:09,800 --> 00:48:12,007
-<i>And find out what happens
-to solid water</i>
+And find out what happens
+to solid water
 
 851
 00:48:12,080 --> 00:48:14,811
-<i>When it gets warm</i>
+When it gets warm
 
 852
 00:48:16,720 --> 00:48:18,688
-<i>And I can't wait to see</i>
+And I can't wait to see
 
 853
 00:48:18,800 --> 00:48:20,643
-<i>What my buddies all think of me</i>
+What my buddies all think of me
 
 854
 00:48:21,120 --> 00:48:23,521
-<i>Just imagine how much cooler I'll be</i>
+Just imagine how much cooler I'll be
 
 855
 00:48:23,600 --> 00:48:25,807
-<i>In summer!</i>
+In summer!
 
 856
 00:48:30,400 --> 00:48:32,368
-<i>The hot and the cold
-are both so intense</i>
+The hot and the cold
+are both so intense
 
 857
 00:48:32,480 --> 00:48:34,847
-<i>Put them together
-It just makes sense</i>
+Put them together
+It just makes sense
 
 858
 00:48:39,240 --> 00:48:41,368
-<i>Winter's a good time
-To stay in and cuddle</i>
+Winter's a good time
+To stay in and cuddle
 
 859
 00:48:41,480 --> 00:48:43,323
-<i>But put me in summer and I'll be a...</i>
+But put me in summer and I'll be a...
 
 860
 00:48:44,640 --> 00:48:46,324
-<i>Happy snowman!</i>
+Happy snowman!
 
 861
 00:48:46,400 --> 00:48:47,526
-<i>When life gets rough</i>
+When life gets rough
 
 862
 00:48:47,680 --> 00:48:50,001
-<i>I like to hold on to my dream</i>
+I like to hold on to my dream
 
 863
 00:48:50,240 --> 00:48:55,007
-<i>Relaxing in the summer sun
-Just letting off steam</i>
+Relaxing in the summer sun
+Just letting off steam
 
 864
 00:48:56,800 --> 00:48:58,245
-<i>Oh, the sky</i>
+Oh, the sky
 
 865
 00:48:58,360 --> 00:48:59,885
-<i>Will be blue</i>
+Will be blue
 
 866
 00:49:00,480 --> 00:49:03,324
-<i>And you guys will be there, too</i>
+And you guys will be there, too
 
 867
 00:49:04,160 --> 00:49:05,400
-<i>When I finally do</i>
+When I finally do
 
 868
 00:49:05,480 --> 00:49:08,768
-<i>What frozen things do
-In summer!</i>
+What frozen things do
+In summer!
 
 869
 00:49:09,720 --> 00:49:11,484
@@ -3673,7 +3673,7 @@ In summer!</i>
 
 870
 00:49:12,840 --> 00:49:16,287
-<i>In summer!</i>
+In summer!
 
 871
 00:49:20,040 --> 00:49:22,281
@@ -4257,8 +4257,8 @@ We can be like that again.
 
 1009
 00:55:26,560 --> 00:55:28,280
-<i>- Catch me!
-- Slow down!</i>
+- Catch me!
+- Slow down!
 
 1010
 00:55:31,680 --> 00:55:32,761
@@ -4291,28 +4291,28 @@ Please don't shut me out again.
 
 1017
 00:55:48,240 --> 00:55:50,242
-<i>Please don't slam the door</i>
+Please don't slam the door
 
 1018
 00:55:50,320 --> 00:55:54,211
-<i>You don't have to keep
-Your distance anymore</i>
+You don't have to keep
+Your distance anymore
 
 1019
 00:55:54,400 --> 00:55:57,210
-<i>'Cause for the first time in forever</i>
+'Cause for the first time in forever
 
 1020
 00:55:57,600 --> 00:55:59,489
-<i>I finally understand</i>
+I finally understand
 
 1021
 00:55:59,600 --> 00:56:01,887
-<i>For the first time in forever</i>
+For the first time in forever
 
 1022
 00:56:01,960 --> 00:56:04,167
-<i>We can fix this hand in hand</i>
+We can fix this hand in hand
 
 1023
 00:56:04,240 --> 00:56:06,208
@@ -4321,15 +4321,15 @@ this mountain together.
 
 1024
 00:56:06,480 --> 00:56:09,324
-<i>You don't have to live in fear</i>
+You don't have to live in fear
 
 1025
 00:56:09,440 --> 00:56:13,161
-<i>'Cause for the first time in forever</i>
+'Cause for the first time in forever
 
 1026
 00:56:13,440 --> 00:56:16,569
-<i>I Will be right here</i>
+I Will be right here
 
 1027
 00:56:16,720 --> 00:56:17,801
@@ -4337,16 +4337,16 @@ Anna.
 
 1028
 00:56:18,000 --> 00:56:19,843
-<i>Please go back home</i>
+Please go back home
 
 1029
 00:56:19,920 --> 00:56:21,490
-<i>Your life awaits</i>
+Your life awaits
 
 1030
 00:56:22,560 --> 00:56:25,928
-<i>Go enjoy the sun
-And open up the gates</i>
+Go enjoy the sun
+And open up the gates
 
 1031
 00:56:26,040 --> 00:56:27,451
@@ -4355,45 +4355,45 @@ And open up the gates</i>
 
 1032
 00:56:27,520 --> 00:56:31,650
-<i>You mean well
-But leave me be</i>
+You mean well
+But leave me be
 
 1033
 00:56:31,920 --> 00:56:33,285
-<i>Yes, I'm alone</i>
+Yes, I'm alone
 
 1034
 00:56:33,360 --> 00:56:36,204
-<i>But I'm alone and free</i>
+But I'm alone and free
 
 1035
 00:56:36,320 --> 00:56:40,882
-<i>Just stay away
-And you'll be safe from me</i>
+Just stay away
+And you'll be safe from me
 
 1036
 00:56:42,120 --> 00:56:43,121
-<i>Actually, we're not</i>
+Actually, we're not
 
 1037
 00:56:43,375 --> 00:56:44,535
-<i>What do you mean, you're not?</i>
+What do you mean, you're not?
 
 1038
 00:56:44,560 --> 00:56:46,050
-<i>I get the feeling you don't know</i>
+I get the feeling you don't know
 
 1039
 00:56:46,120 --> 00:56:47,281
-<i>What do I not know?</i>
+What do I not know?
 
 1040
 00:56:47,800 --> 00:56:51,122
-<i>Arendelle's in deep, deep, deep</i>
+Arendelle's in deep, deep, deep
 
 1041
 00:56:51,200 --> 00:56:53,282
-<i>Deep snow</i>
+Deep snow
 
 1042
 00:56:53,640 --> 00:56:54,641
@@ -4422,69 +4422,69 @@ Sure you can. I know you can.
 
 1048
 00:57:07,000 --> 00:57:09,401
-<i>'Cause for the first time in forever</i>
+'Cause for the first time in forever
 
 1049
 00:57:09,800 --> 00:57:13,247
-<i>Oh, I'm such a fool!
-I can't be free!</i>
+Oh, I'm such a fool!
+I can't be free!
 
 1050
 00:57:13,320 --> 00:57:15,482
-<i>You don't have to be afraid</i>
+You don't have to be afraid
 
 1051
 00:57:15,720 --> 00:57:18,564
-<i>No escape from the storm inside of me</i>
+No escape from the storm inside of me
 
 1052
 00:57:18,640 --> 00:57:20,563
-<i>We can work this out together</i>
+We can work this out together
 
 1053
 00:57:20,640 --> 00:57:22,404
-<i>I can't control the curse!</i>
+I can't control the curse!
 
 1054
 00:57:22,520 --> 00:57:25,649
-<i>We'll reverse the storm you've made</i>
+We'll reverse the storm you've made
 
 1055
 00:57:25,840 --> 00:57:28,844
-<i>Anna, please you'll only make it worse!</i>
+Anna, please you'll only make it worse!
 
 1056
 00:57:28,920 --> 00:57:31,002
-<i>Don't panic
-There's so much fear!</i>
+Don't panic
+There's so much fear!
 
 1057
 00:57:31,120 --> 00:57:32,565
-<i>We'll make the sun shine bright</i>
+We'll make the sun shine bright
 
 1058
 00:57:32,720 --> 00:57:34,051
-<i>You're not safe here!</i>
+You're not safe here!
 
 1059
 00:57:34,120 --> 00:57:35,770
-<i>We can face this thing together</i>
+We can face this thing together
 
 1060
 00:57:35,840 --> 00:57:36,841
-<i>No!</i>
+No!
 
 1061
 00:57:36,920 --> 00:57:39,002
-<i>We can change this winter weather</i>
+We can change this winter weather
 
 1062
 00:57:39,080 --> 00:57:42,368
-<i>And everything will be all right</i>
+And everything will be all right
 
 1063
 00:57:43,120 --> 00:57:45,361
-<i>I can't!</i>
+I can't!
 
 1064
 00:57:53,040 --> 00:57:54,041
@@ -5270,21 +5270,21 @@ from such a man?
 
 1250
 01:05:43,120 --> 01:05:44,929
-<i>Is it the clumpy way he walks?</i>
+Is it the clumpy way he walks?
 
 1251
 01:05:45,160 --> 01:05:47,401
-<i>- What?
-- Or the grumpy way he talks?</i>
+- What?
+- Or the grumpy way he talks?
 
 1252
 01:05:47,480 --> 01:05:49,240
-<i>- Oh, no.
-- Or the pear-shaped, square-shaped</i>
+- Oh, no.
+- Or the pear-shaped, square-shaped
 
 1253
 01:05:49,280 --> 01:05:50,770
-<i>Weirdness of his feet?</i>
+Weirdness of his feet?
 
 1254
 01:05:50,840 --> 01:05:51,887
@@ -5292,19 +5292,19 @@ Hey!
 
 1255
 01:05:51,960 --> 01:05:53,849
-<i>And though we know he washes well</i>
+And though we know he washes well
 
 1256
 01:05:53,920 --> 01:05:56,400
-<i>He always ends up sort of smelly</i>
+He always ends up sort of smelly
 
 1257
 01:05:56,560 --> 01:05:58,130
-<i>But you'll never meet a fella</i>
+But you'll never meet a fella
 
 1258
 01:05:58,200 --> 01:06:00,089
-<i>Who's as sensitive and sweet</i>
+Who's as sensitive and sweet
 
 1259
 01:06:00,160 --> 01:06:01,207
@@ -5312,25 +5312,25 @@ That's nice, but...
 
 1260
 01:06:01,280 --> 01:06:03,203
-<i>So, he's a bit of a fixer-upper</i>
+So, he's a bit of a fixer-upper
 
 1261
 01:06:03,320 --> 01:06:05,322
-<i>- Whoa, whoa, whoa...
-- So, he's got a few flaws</i>
+- Whoa, whoa, whoa...
+- So, he's got a few flaws
 
 1262
 01:06:05,400 --> 01:06:06,561
-<i>Like his peculiar brain, dear</i>
+Like his peculiar brain, dear
 
 1263
 01:06:06,640 --> 01:06:07,721
-<i>His thing with the reindeer</i>
+His thing with the reindeer
 
 1264
 01:06:07,800 --> 01:06:09,404
-<i>That's a little outside
-of nature's laws</i>
+That's a little outside
+of nature's laws
 
 1265
 01:06:09,480 --> 01:06:10,527
@@ -5338,20 +5338,20 @@ This is not about me!
 
 1266
 01:06:10,600 --> 01:06:12,284
-<i>So, he's a bit of a fixer-upper</i>
+So, he's a bit of a fixer-upper
 
 1267
 01:06:12,360 --> 01:06:14,488
-<i>But this we're certain of</i>
+But this we're certain of
 
 1268
 01:06:14,560 --> 01:06:17,131
-<i>You can fix this fixer-upper up</i>
+You can fix this fixer-upper up
 
 1269
 01:06:17,200 --> 01:06:18,929
-<i>- With a little bit of love
-- Um...</i>
+- With a little bit of love
+- Um...
 
 1270
 01:06:19,000 --> 01:06:20,968
@@ -5368,16 +5368,16 @@ I'll say. So, tell me, dear...
 
 1273
 01:06:26,200 --> 01:06:28,089
-<i>Is it the way that he runs scared?</i>
+Is it the way that he runs scared?
 
 1274
 01:06:28,160 --> 01:06:30,049
-<i>Or that he's socially impaired?</i>
+Or that he's socially impaired?
 
 1275
 01:06:30,520 --> 01:06:33,603
-<i>Or that he only likes
-To tinkle in the woods?</i>
+Or that he only likes
+To tinkle in the woods?
 
 1276
 01:06:33,654 --> 01:06:34,775
@@ -5385,50 +5385,50 @@ I did not need to know that.
 
 1277
 01:06:34,800 --> 01:06:36,928
-<i>Are you holding back your fondness</i>
+Are you holding back your fondness
 
 1278
 01:06:37,040 --> 01:06:38,371
-<i>Due to his unmanly blondness?</i>
+Due to his unmanly blondness?
 
 1279
 01:06:39,920 --> 01:06:43,003
-<i>Or the way he covers up
-That he's the honest goods?</i>
+Or the way he covers up
+That he's the honest goods?
 
 1280
 01:06:44,400 --> 01:06:46,209
-<i>He's just a bit of a fixer-upper</i>
+He's just a bit of a fixer-upper
 
 1281
 01:06:46,320 --> 01:06:47,765
-<i>He's got a couple of bugs</i>
+He's got a couple of bugs
 
 1282
 01:06:47,840 --> 01:06:50,650
-<i>- No, I don't!
-- His isolation is confirmation</i>
+- No, I don't!
+- His isolation is confirmation
 
 1283
 01:06:50,720 --> 01:06:53,564
-<i>- Of his desperation for healing hugs
-- Aw.</i>
+- Of his desperation for healing hugs
+- Aw.
 
 1284
 01:06:53,720 --> 01:06:55,210
-<i>So, he's a bit of a fixer-upper</i>
+So, he's a bit of a fixer-upper
 
 1285
 01:06:55,280 --> 01:06:57,931
-<i>But we know what to do</i>
+But we know what to do
 
 1286
 01:06:58,040 --> 01:07:00,008
-<i>The way to fix up this fixer-upper</i>
+The way to fix up this fixer-upper
 
 1287
 01:07:00,080 --> 01:07:01,570
-<i>Is to fix him up with you</i>
+Is to fix him up with you
 
 1288
 01:07:01,640 --> 01:07:03,130
@@ -5444,85 +5444,85 @@ She is engaged to someone else, okay?
 
 1291
 01:07:11,680 --> 01:07:13,808
-<i>So, she's a bit of a fixer-upper</i>
+So, she's a bit of a fixer-upper
 
 1292
 01:07:13,880 --> 01:07:15,609
-<i>That's a minor thing</i>
+That's a minor thing
 
 1293
 01:07:15,920 --> 01:07:18,082
-<i>Her quote "engagement"
-Is a flex arrangement</i>
+Her quote "engagement"
+Is a flex arrangement
 
 1294
 01:07:18,280 --> 01:07:20,567
-<i>And by the way, I don't see no ring</i>
+And by the way, I don't see no ring
 
 1295
 01:07:20,640 --> 01:07:22,847
-<i>So, she's a bit of a fixer-upper</i>
+So, she's a bit of a fixer-upper
 
 1296
 01:07:22,920 --> 01:07:24,922
-<i>- Hey! Whoa, watch it!
-- Her brain's a bit betwixt</i>
+- Hey! Whoa, watch it!
+- Her brain's a bit betwixt
 
 1297
 01:07:25,240 --> 01:07:27,527
-<i>Get the fiancé out of the way</i>
+Get the fiancé out of the way
 
 1298
 01:07:27,600 --> 01:07:28,921
-<i>And the whole thing will be fixed</i>
+And the whole thing will be fixed
 
 1299
 01:07:31,640 --> 01:07:33,608
-<i>We're not saying you can change him</i>
+We're not saying you can change him
 
 1300
 01:07:33,760 --> 01:07:35,649
-<i>'Cause people don't really change</i>
+'Cause people don't really change
 
 1301
 01:07:36,080 --> 01:07:38,401
-<i>We're only saying that love's a force</i>
+We're only saying that love's a force
 
 1302
 01:07:38,480 --> 01:07:40,767
-<i>That's powerful and strange</i>
+That's powerful and strange
 
 1303
 01:07:40,840 --> 01:07:43,002
-<i>People make bad choices</i>
+People make bad choices
 
 1304
 01:07:43,080 --> 01:07:45,287
-<i>If they're mad or scared or stressed</i>
+If they're mad or scared or stressed
 
 1305
 01:07:45,840 --> 01:07:48,525
-<i>But throw a little love their way</i>
+But throw a little love their way
 
 1306
 01:07:48,600 --> 01:07:50,887
-<i>Throw a little love their way</i>
+Throw a little love their way
 
 1307
 01:07:50,960 --> 01:07:52,883
-<i>And you'll bring out their best</i>
+And you'll bring out their best
 
 1308
 01:07:53,160 --> 01:07:55,288
-<i>True love brings out the best</i>
+True love brings out the best
 
 1309
 01:07:55,760 --> 01:07:57,967
-<i>Everyone's a bit of a fixer-upper</i>
+Everyone's a bit of a fixer-upper
 
 1310
 01:07:58,400 --> 01:08:00,050
-<i>That's what it's all about</i>
+That's what it's all about
 
 1311
 01:08:00,120 --> 01:08:01,121
@@ -5531,53 +5531,53 @@ Is a flex arrangement</i>
 
 1312
 01:08:01,200 --> 01:08:03,931
-<i>- Brother!
-- We need each other to raise us up</i>
+- Brother!
+- We need each other to raise us up
 
 1313
 01:08:04,000 --> 01:08:05,161
-<i>And round us out</i>
+And round us out
 
 1314
 01:08:05,800 --> 01:08:07,689
-<i>Everyone's a bit of a fixer-upper</i>
+Everyone's a bit of a fixer-upper
 
 1315
 01:08:07,760 --> 01:08:11,162
-<i>But when push comes to shove</i>
+But when push comes to shove
 
 1316
 01:08:11,280 --> 01:08:12,486
-<i>The only fixer-upper fixer</i>
+The only fixer-upper fixer
 
 1317
 01:08:12,560 --> 01:08:13,561
-<i>That can fix a fixer-upper is...</i>
+That can fix a fixer-upper is...
 
 1318
 01:08:13,640 --> 01:08:16,962
-<i>True, true</i>
+True, true
 
 1319
 01:08:17,080 --> 01:08:18,127
-<i>True</i>
+True
 
 1320
 01:08:18,200 --> 01:08:19,201
-<i>Love!</i>
+Love!
 
 1321
 01:08:19,280 --> 01:08:20,566
-<i>Love, love, love</i>
+Love, love, love
 
 1322
 01:08:20,640 --> 01:08:22,563
-<i>Love
-True love</i>
+Love
+True love
 
 1323
 01:08:22,640 --> 01:08:23,721
-<i>True</i>
+True
 
 1324
 01:08:23,800 --> 01:08:27,930
@@ -6936,4 +6936,3 @@ Go.
 1648
 01:41:44,000 --> 01:41:45,001
 Oh!
-

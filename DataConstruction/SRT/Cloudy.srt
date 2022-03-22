@@ -1,15 +1,15 @@
-﻿1
+1
 00:00:01,000 --> 00:00:23,354
 http://subscene.com/u/659433
 Improved by: @Ivandrofly
 
 2
 00:00:23,356 --> 00:00:25,347
-<font color="#808080">(MUSIC)</font>
+(MUSIC)
 
 3
 00:00:47,447 --> 00:00:52,350
-<font color="#804040">FLINT</font>: Have you ever felt like
+FLINT: Have you ever felt like
 you were a little bit different?
 
 4
@@ -33,11 +33,11 @@ to be me.
 
 8
 00:01:06,566 --> 00:01:07,760
-<font color="#804040">TEACHER</font>: Go ahead, Flint.
+TEACHER: Go ahead, Flint.
 
 9
 00:01:08,101 --> 00:01:09,363
-<font color="#808080">(FLINT CLEARS THROAT)</font>
+(FLINT CLEARS THROAT)
 
 10
 00:01:09,536 --> 00:01:14,337
@@ -50,7 +50,7 @@ Untied shoelaces.
 
 12
 00:01:16,476 --> 00:01:17,534
-<font color="#808080">(ALL CHATTERING)</font>
+(ALL CHATTERING)
 
 13
 00:01:17,710 --> 00:01:21,874
@@ -64,7 +64,7 @@ Spray-On Shoes.
 15
 00:01:28,154 --> 00:01:30,122
 - Voilà.
-- <font color="#804040">GIRL</font>: They're so nifty.
+- GIRL: They're so nifty.
 
 16
 00:01:30,590 --> 00:01:32,990
@@ -73,11 +73,11 @@ them off, nerd?
 
 17
 00:01:33,993 --> 00:01:35,324
-<font color="#808080">(STUDENTS LAUGHING)</font>
+(STUDENTS LAUGHING)
 
 18
 00:01:35,495 --> 00:01:36,826
-<font color="#808080">(GRUNTING)</font>
+(GRUNTING)
 
 19
 00:01:36,996 --> 00:01:40,898
@@ -86,7 +86,7 @@ be smart, but that's lame.
 
 20
 00:01:41,367 --> 00:01:43,562
-<font color="#808080">(BELL RINGS)</font>
+(BELL RINGS)
 
 21
 00:01:43,736 --> 00:01:44,760
@@ -94,11 +94,11 @@ Oh.
 
 22
 00:01:44,938 --> 00:01:46,667
-<font color="#808080">(CRYING)</font>
+(CRYING)
 
 23
 00:01:46,873 --> 00:01:49,467
-<font color="#804040">FLINT</font>: I wanted to
+FLINT: I wanted to
 run away that day.
 
 24
@@ -108,7 +108,7 @@ from your own feet.
 
 25
 00:01:53,880 --> 00:01:56,678
-<font color="#808080">(GRUNTING)</font>
+(GRUNTING)
 
 26
 00:01:58,151 --> 00:01:59,675
@@ -126,12 +126,12 @@ fishing metaphors.
 
 29
 00:02:09,929 --> 00:02:11,191
-- <font color="#804040">DAD</font>: What did I say?
-- <font color="#804040">MOM</font>: Don't worry.
+- DAD: What did I say?
+- MOM: Don't worry.
 
 30
 00:02:11,397 --> 00:02:13,865
-<font color="#808080">(FLINT SOBBING)</font>
+(FLINT SOBBING)
 
 31
 00:02:14,033 --> 00:02:18,163
@@ -171,7 +171,7 @@ Just like the real guys wear.
 
 39
 00:02:38,558 --> 00:02:40,287
-<font color="#808080">(CHUCKLES)</font>
+(CHUCKLES)
 
 40
 00:02:40,460 --> 00:02:41,893
@@ -193,7 +193,7 @@ do big things someday.
 
 44
 00:02:52,872 --> 00:02:54,863
-<font color="#808080">(MUSIC)</font>
+(MUSIC)
 
 45
 00:03:16,262 --> 00:03:17,752
@@ -201,7 +201,7 @@ From that moment on,
 
 46
 00:03:17,964 --> 00:03:21,263
-<font color="#804040">FLINT</font>: I was determined to
+FLINT: I was determined to
 invent something great.
 
 47
@@ -210,13 +210,13 @@ Remote Control Television.
 
 48
 00:03:25,605 --> 00:03:28,096
-<font color="#804040">TV ANNOUNCER</font>: And,
+TV ANNOUNCER: And,
 the pitch is in.
 
 49
 00:03:28,474 --> 00:03:30,271
-- <font color="#804040">FLINT</font>: Eventually.
-- <font color="#804040">BOY</font>: Ow, ow, ow.
+- FLINT: Eventually.
+- BOY: Ow, ow, ow.
 
 50
 00:03:30,476 --> 00:03:32,603
@@ -224,11 +224,11 @@ Hair Un-Balder.
 
 51
 00:03:33,680 --> 00:03:34,704
-<font color="#808080">(BOTH SCREAM)</font>
+(BOTH SCREAM)
 
 52
 00:03:34,881 --> 00:03:37,475
-<font color="#804040">FLINT</font>: Flying Car.
+FLINT: Flying Car.
 
 53
 00:03:38,284 --> 00:03:40,047
@@ -236,7 +236,7 @@ Monkey Thought Translator.
 
 54
 00:03:40,220 --> 00:03:41,949
-<font color="#804040">VOICE</font>: Hungry. Hungry.
+VOICE: Hungry. Hungry.
 Hungry. How wise.
 
 55
@@ -246,7 +246,7 @@ No, please! Leave it...
 
 56
 00:03:46,192 --> 00:03:48,626
-<font color="#804040">TIM</font>: Ah! Ratbirds.
+TIM: Ah! Ratbirds.
 
 57
 00:03:48,795 --> 00:03:50,888
@@ -255,11 +255,11 @@ Ah!
 
 58
 00:03:51,064 --> 00:03:53,055
-<font color="#804040">EARL</font>: Flint Lockwood.
+EARL: Flint Lockwood.
 
 59
 00:03:54,133 --> 00:03:56,795
-<font color="#804040">FLINT</font>: My dream was
+FLINT: My dream was
 to help my hometown,
 
 60
@@ -318,15 +318,15 @@ and found hope.
 
 72
 00:04:40,846 --> 00:04:42,837
-<font color="#808080">(MUSIC)</font>
+(MUSIC)
 
 73
 00:04:47,886 --> 00:04:49,877
-<font color="#808080">(MUSIC)</font>
+(MUSIC)
 
 74
 00:04:54,926 --> 00:04:56,917
-<font color="#808080">(MUSIC)</font>
+(MUSIC)
 
 75
 00:05:08,587 --> 00:05:11,055
@@ -352,7 +352,7 @@ and trusted colleague.
 
 80
 00:05:24,102 --> 00:05:25,126
-<font color="#808080">(OVER SPEAKER)</font>
+(OVER SPEAKER)
 Steve.
 
 81
@@ -394,7 +394,7 @@ Engage coffee break.
 
 90
 00:05:52,197 --> 00:05:54,188
-<font color="#808080">(ELEVATOR MUSIC PLAYING OVER SPEAKERS)</font>
+(ELEVATOR MUSIC PLAYING OVER SPEAKERS)
 
 91
 00:05:55,700 --> 00:05:57,327
@@ -426,7 +426,7 @@ Uploading cool machine voice.
 
 98
 00:06:22,794 --> 00:06:25,160
-<font color="#804040">COMPUTER</font>: Cheeseburger.
+COMPUTER: Cheeseburger.
 
 99
 00:06:26,097 --> 00:06:29,692
@@ -434,11 +434,11 @@ Everyone is going to love this.
 
 100
 00:06:29,868 --> 00:06:33,770
-<font color="#808080">(MACHINE WHIRRING)</font>
+(MACHINE WHIRRING)
 
 101
 00:06:51,156 --> 00:06:52,350
-<font color="#804040">FLINT</font>: Whoo-hoo-hoo!
+FLINT: Whoo-hoo-hoo!
 
 102
 00:06:53,558 --> 00:06:55,185
@@ -450,7 +450,7 @@ Flint!
 
 104
 00:06:57,295 --> 00:06:58,762
-<font color="#804040">FLINT</font>: Sorry, Dad.
+FLINT: Sorry, Dad.
 
 105
 00:06:59,264 --> 00:07:01,198
@@ -458,7 +458,7 @@ Steve, keep working.
 
 106
 00:07:01,499 --> 00:07:03,490
-<font color="#808080">(FLINT HUMMING ACTION MOVIE THEME)</font>
+(FLINT HUMMING ACTION MOVIE THEME)
 
 107
 00:07:04,569 --> 00:07:06,002
@@ -470,11 +470,11 @@ Twaap!
 
 109
 00:07:07,906 --> 00:07:09,897
-<font color="#808080">(HUMMING)</font>
+(HUMMING)
 
 110
 00:07:10,075 --> 00:07:12,134
-<font color="#808080">(IMITATES BEEPING NOISES)</font>
+(IMITATES BEEPING NOISES)
 
 111
 00:07:13,378 --> 00:07:15,346
@@ -482,7 +482,7 @@ Whoosh!
 
 112
 00:07:15,513 --> 00:07:18,277
-<font color="#808080">(FLINT HUMMING)</font>
+(FLINT HUMMING)
 
 113
 00:07:24,422 --> 00:07:26,253
@@ -490,11 +490,11 @@ That's a really weird dude.
 
 114
 00:07:26,424 --> 00:07:28,324
-<font color="#808080">(ALL LAUGHING)</font>
+(ALL LAUGHING)
 
 115
 00:07:29,060 --> 00:07:31,324
-<font color="#808080">(HUMMING)</font>
+(HUMMING)
 
 116
 00:07:31,496 --> 00:07:33,088
@@ -502,11 +502,11 @@ Re-energizing tower unit.
 
 117
 00:07:33,298 --> 00:07:35,994
-<font color="#808080">(MAKES MECHANICAL SOUNDS)</font>
+(MAKES MECHANICAL SOUNDS)
 
 118
 00:07:37,802 --> 00:07:39,099
-<font color="#808080">(SCREAMS)</font>
+(SCREAMS)
 
 119
 00:07:39,304 --> 00:07:41,363
@@ -514,7 +514,7 @@ Jeez. See you, Dad.
 
 120
 00:07:42,040 --> 00:07:43,200
-<font color="#808080">(IMITATES DOOR SLIDING SOUND)</font>
+(IMITATES DOOR SLIDING SOUND)
 
 121
 00:07:43,241 --> 00:07:46,039
@@ -550,11 +550,11 @@ problem and disposed of them.
 
 128
 00:08:05,263 --> 00:08:06,287
-<font color="#808080">(BILLY SCREAMS)</font>
+(BILLY SCREAMS)
 
 129
 00:08:06,464 --> 00:08:08,022
-<font color="#804040">CAL</font>: Billy, just play dead.
+CAL: Billy, just play dead.
 
 130
 00:08:08,199 --> 00:08:12,431
@@ -605,7 +605,7 @@ I'm sorry, son.
 
 140
 00:08:36,494 --> 00:08:38,086
-<font color="#804040">STEVE</font>: Ouch. No more inventing.
+STEVE: Ouch. No more inventing.
 
 141
 00:08:38,263 --> 00:08:41,391
@@ -617,11 +617,11 @@ And Mom did too.
 
 143
 00:08:44,269 --> 00:08:45,293
-<font color="#808080">(SIGHS)</font>
+(SIGHS)
 
 144
 00:08:45,470 --> 00:08:48,564
-<font color="#804040">FLINT</font>: It had been almost
+FLINT: It had been almost
 10 years since Mom died,
 
 145
@@ -648,7 +648,7 @@ Mm-hm.
 
 150
 00:09:08,026 --> 00:09:10,824
-<font color="#804040">KIDS ON TV</font>: Look
+KIDS ON TV: Look
 out, Baby Brent!
 
 151
@@ -657,12 +657,12 @@ Uh-oh.
 
 152
 00:09:12,854 --> 00:09:14,574
-<font color="#804040">MALE ANNOUNCER ON TV</font>:
+MALE ANNOUNCER ON TV:
 Baby Brent Sardines.
 
 153
 00:09:14,599 --> 00:09:17,193
-<font color="#804040">FEMALE ANNOUNCER</font>: Hand-packed
+FEMALE ANNOUNCER: Hand-packed
 in Swallow Falls.
 
 154
@@ -694,7 +694,7 @@ which I will be unveiling today.
 
 160
 00:09:36,955 --> 00:09:38,786
-<font color="#808080">(VOICE ECHOING)</font>
+(VOICE ECHOING)
 at noon.
 
 161
@@ -704,7 +704,7 @@ by Baby Brent himself.
 
 162
 00:09:43,728 --> 00:09:47,061
-<font color="#804040">BRENT</font>: What is up, everybody?
+BRENT: What is up, everybody?
 
 163
 00:09:47,232 --> 00:09:49,166
@@ -721,7 +721,7 @@ Uh-oh. Ha-ha-ha.
 
 166
 00:09:54,572 --> 00:09:55,732
-<font color="#808080">(LAUGHING)</font>
+(LAUGHING)
 
 167
 00:09:55,940 --> 00:09:58,238
@@ -790,7 +790,7 @@ Okay. Bye.
 
 181
 00:10:39,484 --> 00:10:41,918
-<font color="#808080">(HUMMING)</font>
+(HUMMING)
 
 182
 00:10:42,086 --> 00:10:44,953
@@ -835,11 +835,11 @@ You've always been like a son to me.
 
 191
 00:11:09,280 --> 00:11:10,304
-<font color="#808080">(CLEARS THROAT)</font>
+(CLEARS THROAT)
 
 192
 00:11:10,515 --> 00:11:11,539
-<font color="#808080">(APPLAUSE)</font>
+(APPLAUSE)
 
 193
 00:11:11,716 --> 00:11:13,581
@@ -857,12 +857,12 @@ more gigajoules.
 
 196
 00:11:23,528 --> 00:11:25,257
-<font color="#804040">MAYOR</font>: An attraction so...
+MAYOR: An attraction so...
 Go, go, go.
 
 197
 00:11:25,430 --> 00:11:27,660
-<font color="#808080">(MUSIC)</font>
+(MUSIC)
 
 198
 00:11:27,832 --> 00:11:29,673
@@ -951,7 +951,7 @@ professional reporter.
 
 216
 00:12:14,879 --> 00:12:18,542
-<font color="#804040">WOMAN</font>: Oh, just send the intern.
+WOMAN: Oh, just send the intern.
 She's cute and she's super perky.
 
 217
@@ -1011,7 +1011,7 @@ On my way across the ocean.
 
 229
 00:12:51,115 --> 00:12:55,711
-<font color="#804040">MAYOR</font>: Now, when she gets here, I
+MAYOR: Now, when she gets here, I
 wanna see a lot of smiling faces.
 
 230
@@ -1020,11 +1020,11 @@ Act like, "Hey, whoa."
 
 231
 00:12:58,256 --> 00:13:01,555
-<font color="#804040">FLINT</font>: This is a great idea.
+FLINT: This is a great idea.
 
 232
 00:13:02,143 --> 00:13:03,903
-<font color="#804040">MALE ANNOUNCER ON TV</font>:
+MALE ANNOUNCER ON TV:
 Weather News Network.
 
 233
@@ -1075,7 +1075,7 @@ historic event, undoubtedly...
 
 243
 00:13:33,458 --> 00:13:35,949
-<font color="#808080">(SCREAMING)</font>
+(SCREAMING)
 
 244
 00:13:36,160 --> 00:13:39,459
@@ -1097,7 +1097,7 @@ Yeah.
 
 248
 00:13:47,805 --> 00:13:49,067
-<font color="#808080">(ALL CHEER)</font>
+(ALL CHEER)
 
 249
 00:13:49,240 --> 00:13:52,801
@@ -1110,7 +1110,7 @@ Uh-oh.
 
 251
 00:13:56,047 --> 00:13:57,071
-<font color="#808080">(MUSIC)</font>
+(MUSIC)
 
 252
 00:13:57,248 --> 00:14:01,617
@@ -1118,7 +1118,7 @@ Oh! Food synthesis, go.
 
 253
 00:14:01,786 --> 00:14:03,549
-<font color="#808080">(LAUGHS)</font>
+(LAUGHS)
 
 254
 00:14:03,721 --> 00:14:06,918
@@ -1127,7 +1127,7 @@ Something's wrong.
 
 255
 00:14:07,091 --> 00:14:08,217
-<font color="#808080">(GRUNTS)</font>
+(GRUNTS)
 
 256
 00:14:08,392 --> 00:14:13,659
@@ -1140,7 +1140,7 @@ Sardine Land.
 
 258
 00:14:16,134 --> 00:14:17,999
-<font color="#808080">(CROWD CHEERING)</font>
+(CROWD CHEERING)
 
 259
 00:14:18,202 --> 00:14:20,329
@@ -1162,19 +1162,19 @@ splash zone, look out.
 
 263
 00:14:32,016 --> 00:14:33,142
-<font color="#804040">MAN</font>: Yeah!
+MAN: Yeah!
 
 264
 00:14:35,319 --> 00:14:37,344
-<font color="#808080">(YELLS THEN GASPS)</font>
+(YELLS THEN GASPS)
 
 265
 00:14:40,358 --> 00:14:42,019
-<font color="#804040">MACHINE</font>: Cheeseburger.
+MACHINE: Cheeseburger.
 
 266
 00:14:42,226 --> 00:14:43,250
-<font color="#804040">EARL</font>: Flint Lockwood.
+EARL: Flint Lockwood.
 
 267
 00:14:43,427 --> 00:14:45,793
@@ -1187,7 +1187,7 @@ Ah! Ah!
 
 269
 00:14:47,965 --> 00:14:49,660
-<font color="#808080">(SCREAMING)</font>
+(SCREAMING)
 
 270
 00:14:55,239 --> 00:15:01,371
@@ -1196,7 +1196,7 @@ are sardine to get better. For...
 
 271
 00:15:01,546 --> 00:15:03,309
-<font color="#808080">(MUMBLING)</font> Whatjust
+(MUMBLING) Whatjust
 happened to me?
 
 272
@@ -1205,11 +1205,11 @@ Ah! Sorry.
 
 273
 00:15:05,116 --> 00:15:06,242
-<font color="#808080">(FLINT SCREAMING)</font>
+(FLINT SCREAMING)
 
 274
 00:15:10,488 --> 00:15:12,854
-<font color="#808080">(SCREAMING)</font>
+(SCREAMING)
 
 275
 00:15:21,199 --> 00:15:22,962
@@ -1231,11 +1231,11 @@ minimal damage to Sardine Land.
 
 279
 00:15:35,046 --> 00:15:36,570
-<font color="#808080">(ALL GASP)</font>
+(ALL GASP)
 
 280
 00:15:36,781 --> 00:15:38,681
-<font color="#808080">(ALL SCREAMING)</font>
+(ALL SCREAMING)
 
 281
 00:15:41,185 --> 00:15:42,209
@@ -1243,16 +1243,16 @@ Aw, come on.
 
 282
 00:15:42,386 --> 00:15:44,286
-<font color="#808080">(PEOPLE SCREAMING)</font>
+(PEOPLE SCREAMING)
 
 283
 00:15:51,796 --> 00:15:54,287
-<font color="#804040">BRENT</font>: I really shouldn't
+BRENT: I really shouldn't
 be running with these.
 
 284
 00:15:57,702 --> 00:16:00,364
-<font color="#804040">STEVE</font>: Jump, jump, jump,
+STEVE: Jump, jump, jump,
 run, run, jump, jump, run.
 
 285
@@ -1261,61 +1261,61 @@ Yippee!
 
 286
 00:16:19,123 --> 00:16:20,852
-<font color="#808080">(SPEAKS IN SPANISH)</font>
+(SPEAKS IN SPANISH)
 
 287
 00:16:21,125 --> 00:16:22,183
-<font color="#808080">(MUFFLED SHOUTING)</font>
+(MUFFLED SHOUTING)
 
 288
 00:16:22,244 --> 00:16:24,804
-- <font color="#804040">MAN</font>: It's a good thing no one got hurt!
-- <font color="#804040">EARL</font>: Flint Lockwood!
+- MAN: It's a good thing no one got hurt!
+- EARL: Flint Lockwood!
 
 289
 00:16:24,829 --> 00:16:29,027
-<font color="#804040">WOMAN</font>: I didn't get hurt, but that does
+WOMAN: I didn't get hurt, but that does
 not mean that I'm not still mad at you.
 
 290
 00:16:29,200 --> 00:16:31,191
-<font color="#808080">(INDISTINCT SHOUTING)</font>
+(INDISTINCT SHOUTING)
 
 291
 00:16:31,369 --> 00:16:33,360
-<font color="#808080">(MUSIC)</font>
+(MUSIC)
 
 292
 00:16:43,047 --> 00:16:44,776
-<font color="#808080">(GLASS CRACKING)</font>
+(GLASS CRACKING)
 
 293
 00:16:44,949 --> 00:16:46,041
-<font color="#808080">(CROWD GASPS)</font>
+(CROWD GASPS)
 
 294
 00:16:54,025 --> 00:16:55,993
-<font color="#808080">(MUSIC)</font>
+(MUSIC)
 
 295
 00:17:06,971 --> 00:17:07,995
-<font color="#808080">(SIGHS)</font>
+(SIGHS)
 
 296
 00:17:10,941 --> 00:17:12,932
-<font color="#808080">(FOOTSTEPS)</font>
+(FOOTSTEPS)
 
 297
 00:17:24,689 --> 00:17:26,247
-<font color="#808080">(GRUNTS)</font>
+(GRUNTS)
 
 298
 00:17:31,896 --> 00:17:32,920
-<font color="#808080">(SIGHS)</font>
+(SIGHS)
 
 299
 00:17:33,097 --> 00:17:34,121
-<font color="#804040">FLINT</font>: Ah!
+FLINT: Ah!
 
 300
 00:17:34,298 --> 00:17:36,528
@@ -1391,7 +1391,7 @@ Thought Translator?
 316
 00:18:15,539 --> 00:18:17,564
 - Steve.
-- <font color="#804040">SAM</font>: Hah!
+- SAM: Hah!
 
 317
 00:18:17,742 --> 00:18:22,076
@@ -1423,7 +1423,7 @@ You get one shot at the show.
 
 323
 00:18:38,596 --> 00:18:40,723
-<font color="#804040">SAM</font>: And if you don't make it,
+SAM: And if you don't make it,
 
 324
 00:18:40,898 --> 00:18:44,390
@@ -1436,7 +1436,7 @@ Cheese?
 
 326
 00:18:53,277 --> 00:18:54,904
-<font color="#808080">(SNARLS)</font>
+(SNARLS)
 
 327
 00:18:55,079 --> 00:18:56,273
@@ -1444,7 +1444,7 @@ Oh!
 
 328
 00:18:56,480 --> 00:18:57,606
-<font color="#808080">(RATBIRD SQUAWKS)</font>
+(RATBIRD SQUAWKS)
 
 329
 00:18:57,782 --> 00:19:00,751
@@ -1452,47 +1452,47 @@ But that could only mean...
 
 330
 00:19:00,918 --> 00:19:02,510
-<font color="#808080">(GASPS)</font>
+(GASPS)
 
 331
 00:19:04,121 --> 00:19:05,554
-<font color="#808080">(GASPS)</font>
+(GASPS)
 
 332
 00:19:07,091 --> 00:19:08,217
-<font color="#808080">(GASPS)</font>
+(GASPS)
 
 333
 00:19:09,293 --> 00:19:10,487
-<font color="#808080">(GASPS)</font>
+(GASPS)
 
 334
 00:19:10,895 --> 00:19:11,919
-<font color="#808080">(GASPS)</font>
+(GASPS)
 
 335
 00:19:12,096 --> 00:19:15,224
-<font color="#808080">(ALL GASP)</font>
+(ALL GASP)
 
 336
 00:19:18,869 --> 00:19:19,893
-<font color="#808080">(GASPS)</font>
+(GASPS)
 
 337
 00:19:20,704 --> 00:19:22,296
-<font color="#808080">(SQUAWKS)</font>
+(SQUAWKS)
 
 338
 00:19:22,506 --> 00:19:24,497
-<font color="#808080">(GASPING)</font>
+(GASPING)
 
 339
 00:19:48,432 --> 00:19:51,333
-<font color="#804040">STEVE</font>: Excited. Excited.
+STEVE: Excited. Excited.
 
 340
 00:19:54,171 --> 00:19:56,537
-<font color="#808080">(LAUGHS)</font>
+(LAUGHS)
 
 341
 00:20:01,745 --> 00:20:03,110
@@ -1520,7 +1520,7 @@ I love it!
 
 347
 00:20:20,598 --> 00:20:23,032
-<font color="#808080">(MUMBLING)</font> This is just amazing.
+(MUMBLING) This is just amazing.
 Look at this.
 
 348
@@ -1534,19 +1534,19 @@ Hey, aren't you a weathergirl?
 
 350
 00:20:29,173 --> 00:20:30,197
-<font color="#808080">(GASPS)</font>
+(GASPS)
 
 351
 00:20:31,075 --> 00:20:33,009
-<font color="#804040">SAM</font>: Manny, get your camera.
+SAM: Manny, get your camera.
 
 352
 00:20:46,090 --> 00:20:47,614
-<font color="#804040">KIDS</font>: Whoa.
+KIDS: Whoa.
 
 353
 00:20:48,592 --> 00:20:53,029
-<font color="#804040">THIS JUST IN</font>: Our humiliated weather
+THIS JUST IN: Our humiliated weather
 intern is apparently back for more.
 
 354
@@ -1576,12 +1576,12 @@ this is totally manna from heaven.
 
 359
 00:21:11,348 --> 00:21:14,340
-<font color="#804040">JOE</font>: This tastes significantly
+JOE: This tastes significantly
 better than sardines.
 
 360
 00:21:14,518 --> 00:21:16,509
-<font color="#808080">(CROWD CLAPPING AND CHATTERING)</font>
+(CROWD CLAPPING AND CHATTERING)
 
 361
 00:21:18,055 --> 00:21:19,852
@@ -1593,7 +1593,7 @@ This is going to be big.
 
 363
 00:21:24,194 --> 00:21:26,395
-<font color="#804040">SAM ON TV</font>: This food weather
+SAM ON TV: This food weather
 was created intentionally
 
 364
@@ -1603,7 +1603,7 @@ tinkerer Flint Lockwood.
 
 365
 00:21:29,133 --> 00:21:31,829
-<font color="#804040">ALL</font>: Huh?
+ALL: Huh?
 Flint Lockwood?
 
 366
@@ -1617,7 +1617,7 @@ ruining Sardine Land.
 
 368
 00:21:35,439 --> 00:21:37,031
-<font color="#804040">SAM</font>: Flint, those
+SAM: Flint, those
 burgers were awesome.
 
 369
@@ -1637,7 +1637,7 @@ than Sardine Land.
 372
 00:21:44,081 --> 00:21:45,961
 - Can you make it rain food again?
-- <font color="#804040">EARL</font>: No...
+- EARL: No...
 
 373
 00:21:46,016 --> 00:21:48,211
@@ -1685,12 +1685,12 @@ Plus,
 
 383
 00:22:11,475 --> 00:22:12,806
-<font color="#808080">(WHISPERS)</font>
+(WHISPERS)
 there's a girl here.
 
 384
 00:22:13,310 --> 00:22:14,800
-<font color="#808080">(SIGHS)</font>
+(SIGHS)
 
 385
 00:22:15,179 --> 00:22:19,115
@@ -1704,7 +1704,7 @@ up in a disaster?
 
 387
 00:22:22,186 --> 00:22:23,448
-<font color="#808080">(WEAKLY)</font>
+(WEAKLY)
 Yes.
 
 388
@@ -1713,11 +1713,11 @@ Mm.
 
 389
 00:22:30,761 --> 00:22:32,490
-<font color="#808080">(FLINT WHIMPERING)</font>
+(FLINT WHIMPERING)
 
 390
 00:22:32,696 --> 00:22:35,995
-<font color="#808080">(WHIMPERING)</font>
+(WHIMPERING)
 
 391
 00:22:38,002 --> 00:22:41,130
@@ -1726,7 +1726,7 @@ it's not gonna end in disaster. Oh.
 
 392
 00:22:41,505 --> 00:22:43,234
-<font color="#808080">(SIGHS THEN COUGHS)</font>
+(SIGHS THEN COUGHS)
 
 393
 00:22:43,407 --> 00:22:45,466
@@ -1746,7 +1746,7 @@ Lick. Lick. Lick.
 
 397
 00:22:56,520 --> 00:22:57,817
-<font color="#808080">(MUSIC)</font>
+(MUSIC)
 
 398
 00:22:57,988 --> 00:23:01,219
@@ -1754,7 +1754,7 @@ Lick. Lick. Lick.
 
 399
 00:23:02,726 --> 00:23:04,125
-<font color="#804040">COMPUTER</font>: Welcome, Flint.
+COMPUTER: Welcome, Flint.
 
 400
 00:23:04,862 --> 00:23:09,026
@@ -1800,7 +1800,7 @@ I mean...
 
 409
 00:23:29,253 --> 00:23:30,345
-<font color="#808080">(GIGGLES)</font>
+(GIGGLES)
 
 410
 00:23:30,521 --> 00:23:32,955
@@ -1827,7 +1827,7 @@ Right. Of course.
 
 415
 00:23:42,332 --> 00:23:44,232
-<font color="#808080">(BOTH CHUCKLE NERVOUSLY)</font>
+(BOTH CHUCKLE NERVOUSLY)
 
 416
 00:23:44,401 --> 00:23:45,993
@@ -1989,23 +1989,23 @@ hilarious Internet video.
 
 451
 00:24:57,541 --> 00:24:58,565
-<font color="#808080">(MUSIC PLAYS ON MONITOR)</font>
+(MUSIC PLAYS ON MONITOR)
 
 452
 00:24:58,742 --> 00:24:59,766
-<font color="#804040">SAM</font>: What?
+SAM: What?
 
 453
 00:24:59,943 --> 00:25:01,264
-<font color="#804040">CAT ON MONITOR</font>: Fight the power!
+CAT ON MONITOR: Fight the power!
 
 454
 00:25:01,278 --> 00:25:03,246
-<font color="#804040">SAM</font>: What is this?
+SAM: What is this?
 
 455
 00:25:04,615 --> 00:25:06,139
-<font color="#808080">(SAM LAUGHS)</font>
+(SAM LAUGHS)
 
 456
 00:25:07,718 --> 00:25:08,980
@@ -2013,7 +2013,7 @@ It's so cute.
 
 457
 00:25:09,153 --> 00:25:10,984
-<font color="#804040">FLINT</font>: Pushing. Folding.
+FLINT: Pushing. Folding.
 Connecting.
 
 458
@@ -2044,7 +2044,7 @@ for three hours. I know. Ha-ha.
 
 464
 00:25:31,008 --> 00:25:32,168
-<font color="#804040">FLINT</font>: It's working.
+FLINT: It's working.
 
 465
 00:25:32,376 --> 00:25:34,344
@@ -2074,7 +2074,7 @@ Orange juice. And.
 
 471
 00:25:43,821 --> 00:25:45,516
-<font color="#804040">BOTH</font>: Bacon.
+BOTH: Bacon.
 
 472
 00:25:46,523 --> 00:25:47,854
@@ -2090,11 +2090,11 @@ To the computer.
 
 475
 00:25:52,396 --> 00:25:54,387
-<font color="#808080">(TYPING)</font>
+(TYPING)
 
 476
 00:25:55,599 --> 00:25:58,033
-<font color="#804040">SAM</font>: So you're
+SAM: So you're
 sure this is safe?
 
 477
@@ -2109,12 +2109,12 @@ to over-mutate.
 
 479
 00:26:03,173 --> 00:26:05,038
-<font color="#804040">SAM</font>: What happens if
+SAM: What happens if
 the food over-mutates?
 
 480
 00:26:05,209 --> 00:26:07,643
-<font color="#804040">FLINT</font>: I don't know.
+FLINT: I don't know.
 But that'll never happen.
 
 481
@@ -2128,11 +2128,11 @@ What?
 
 483
 00:26:11,548 --> 00:26:13,539
-<font color="#808080">(MACHINE WHIRRING)</font>
+(MACHINE WHIRRING)
 
 484
 00:26:18,055 --> 00:26:19,716
-<font color="#804040">MACHINE</font>: Bacon.
+MACHINE: Bacon.
 
 485
 00:26:26,330 --> 00:26:28,389
@@ -2154,8 +2154,8 @@ Sunny side up.
 
 489
 00:26:35,005 --> 00:26:36,996
-<font color="#808080">(LESLEY GORE'S "SUNSHINE
-AND LOLLIPOPS" PLAYING)</font>
+(LESLEY GORE'S "SUNSHINE
+AND LOLLIPOPS" PLAYING)
 
 490
 00:26:42,212 --> 00:26:44,680
@@ -2163,11 +2163,11 @@ Yeah. Yeah.
 
 491
 00:26:46,583 --> 00:26:47,709
-<font color="#808080">(SQUAWKING)</font>
+(SQUAWKING)
 
 492
 00:26:49,453 --> 00:26:50,715
-<font color="#808080">(GRUNTING)</font>
+(GRUNTING)
 
 493
 00:26:53,190 --> 00:26:56,591
@@ -2235,8 +2235,8 @@ I know so.
 
 507
 00:27:32,729 --> 00:27:36,256
-<font color="#808080">(LESLEY GORE'S "SUNSHINE
-AND LOLLIPOPS" PLAYING)</font>
+(LESLEY GORE'S "SUNSHINE
+AND LOLLIPOPS" PLAYING)
 
 508
 00:27:36,433 --> 00:27:39,425
@@ -2281,7 +2281,7 @@ Huh?
 
 517
 00:28:16,974 --> 00:28:18,635
-<font color="#804040">KIDS</font>: Jellybeans!
+KIDS: Jellybeans!
 
 518
 00:28:18,809 --> 00:28:19,833
@@ -2290,7 +2290,7 @@ Awesome.
 519
 00:28:20,043 --> 00:28:22,341
 - BLT.
-- <font color="#804040">MAN 1</font>: Doughnuts.
+- MAN 1: Doughnuts.
 
 520
 00:28:23,180 --> 00:28:24,511
@@ -2303,11 +2303,11 @@ Gummi bears.
 522
 00:28:25,949 --> 00:28:28,179
 - Fish.
-- <font color="#804040">MAN 2</font>: Creme brulee!
+- MAN 2: Creme brulee!
 
 523
 00:28:28,585 --> 00:28:30,450
-<font color="#808080">(PEOPLE CLAMORING)</font>
+(PEOPLE CLAMORING)
 
 524
 00:28:30,620 --> 00:28:32,520
@@ -2337,26 +2337,26 @@ Thank you for noticing.
 
 530
 00:28:44,501 --> 00:28:48,335
-<font color="#808080">(LESLEY GORE'S "SUNSHINE
-AND LOLLIPOPS" PLAYING)</font>
+(LESLEY GORE'S "SUNSHINE
+AND LOLLIPOPS" PLAYING)
 
 531
 00:28:51,274 --> 00:28:52,832
-<font color="#808080">(MACHINE TALKING INDISTINCTLY)</font>
+(MACHINE TALKING INDISTINCTLY)
 
 532
 00:28:52,949 --> 00:28:53,949
 - I love you, kid.
-- <font color="#804040">BOY 1</font>: Thanks, Dad. I love you.
+- BOY 1: Thanks, Dad. I love you.
 
 533
 00:28:53,974 --> 00:28:54,868
 - I love you, kid.
-- <font color="#804040">BOY 1</font>: Thanks, Dad. I love you.
+- BOY 1: Thanks, Dad. I love you.
 
 534
 00:28:55,078 --> 00:28:56,718
-<font color="#804040">BOY 2</font>: I love spending
+BOY 2: I love spending
 time with you, Dad.
 
 535
@@ -2403,11 +2403,11 @@ Right. Got it.
 
 544
 00:29:31,515 --> 00:29:32,539
-<font color="#808080">(BELL JINGLES)</font>
+(BELL JINGLES)
 
 545
 00:29:34,518 --> 00:29:36,247
-<font color="#808080">(DOORBELL RINGS)</font>
+(DOORBELL RINGS)
 
 546
 00:29:36,653 --> 00:29:38,985
@@ -2415,7 +2415,7 @@ Flint Lockwood?
 
 547
 00:29:39,623 --> 00:29:41,250
-<font color="#804040">FLINT</font>: Yeah?
+FLINT: Yeah?
 Uh...
 
 548
@@ -2484,11 +2484,11 @@ Earl, wait.
 
 562
 00:30:29,239 --> 00:30:30,797
-<font color="#808080">(PANTING)</font>
+(PANTING)
 
 563
 00:30:30,974 --> 00:30:32,032
-<font color="#808080">(GASPS)</font>
+(GASPS)
 
 564
 00:30:33,910 --> 00:30:35,377
@@ -2508,11 +2508,11 @@ I've got an idea.
 
 568
 00:30:45,789 --> 00:30:47,450
-<font color="#808080">(SQUAWKS)</font>
+(SQUAWKS)
 
 569
 00:30:47,691 --> 00:30:49,682
-<font color="#808080">(MUSIC)</font>
+(MUSIC)
 
 570
 00:30:59,503 --> 00:31:01,061
@@ -2533,16 +2533,16 @@ This is your day. Go have fun.
 574
 00:31:07,144 --> 00:31:10,671
 - I love you guys. You're awesome.
-- <font color="#804040">EARL</font>: I love you too, son.
+- EARL: I love you too, son.
 
 575
 00:31:10,847 --> 00:31:12,246
-- <font color="#804040">CAL</font>: Whoo!
-- <font color="#804040">REGINA</font>: Have a good time, baby.
+- CAL: Whoo!
+- REGINA: Have a good time, baby.
 
 576
 00:31:12,415 --> 00:31:14,474
-<font color="#804040">KIDS</font>: Ice cream!
+KIDS: Ice cream!
 
 577
 00:31:15,352 --> 00:31:18,446
@@ -2550,19 +2550,19 @@ Yeah! Cool.
 
 578
 00:31:20,590 --> 00:31:22,785
-<font color="#804040">BOY</font>: Strawberry's my favorite.
+BOY: Strawberry's my favorite.
 
 579
 00:31:22,959 --> 00:31:24,927
-<font color="#808080">(KIDS LAUGHING)</font>
+(KIDS LAUGHING)
 
 580
 00:31:33,170 --> 00:31:34,467
-<font color="#808080">(KIDS SCREAMING)</font>
+(KIDS SCREAMING)
 
 581
 00:31:35,005 --> 00:31:36,029
-<font color="#804040">CAL</font>: Come on, Dad.
+CAL: Come on, Dad.
 
 582
 00:31:36,239 --> 00:31:37,706
@@ -2574,11 +2574,11 @@ This doesn't look safe!
 
 584
 00:31:40,110 --> 00:31:42,237
-<font color="#808080">(SCREAMS)</font>
+(SCREAMS)
 
 585
 00:31:43,346 --> 00:31:45,371
-<font color="#808080">(BOTH LAUGH)</font>
+(BOTH LAUGH)
 
 586
 00:31:48,185 --> 00:31:49,311
@@ -2591,7 +2591,7 @@ You tell me every day.
 
 588
 00:31:52,989 --> 00:31:54,980
-<font color="#808080">(BOY LAUGHING)</font>
+(BOY LAUGHING)
 
 589
 00:31:56,760 --> 00:31:58,523
@@ -2613,11 +2613,11 @@ Maybe with hot fudge.
 
 593
 00:32:05,468 --> 00:32:08,403
-<font color="#808080">(LAUGHS)</font>
+(LAUGHS)
 
 594
 00:32:08,572 --> 00:32:09,664
-<font color="#804040">CAL</font>: Hey, Flint.
+CAL: Hey, Flint.
 
 595
 00:32:09,839 --> 00:32:11,864
@@ -2655,7 +2655,7 @@ is throwing chocolate snowballs.
 
 602
 00:32:29,559 --> 00:32:31,584
-<font color="#808080">(GIBBERING)</font>
+(GIBBERING)
 
 603
 00:32:32,829 --> 00:32:35,354
@@ -2667,7 +2667,7 @@ So like this?
 
 605
 00:32:38,735 --> 00:32:39,759
-<font color="#808080">(GRUNTS)</font>
+(GRUNTS)
 
 606
 00:32:39,936 --> 00:32:41,665
@@ -2675,7 +2675,7 @@ No, harder than that.
 
 607
 00:32:41,838 --> 00:32:42,862
-<font color="#808080">(MUSIC)</font>
+(MUSIC)
 
 608
 00:32:43,039 --> 00:32:46,702
@@ -2701,7 +2701,7 @@ Snowball!
 
 613
 00:32:57,420 --> 00:33:00,321
-<font color="#808080">(LAUGHS)</font>
+(LAUGHS)
 
 614
 00:33:00,857 --> 00:33:02,757
@@ -2709,7 +2709,7 @@ Snowball and snowball.
 
 615
 00:33:02,926 --> 00:33:04,047
-<font color="#804040">WOMAN</font>: Kids?
+WOMAN: Kids?
 What's going on?
 
 616
@@ -2718,16 +2718,16 @@ Snowball. Ha-ha-ha.
 
 617
 00:33:06,396 --> 00:33:07,420
-<font color="#808080">(KIDS LAUGHING)</font>
+(KIDS LAUGHING)
 
 618
 00:33:07,597 --> 00:33:09,317
-- <font color="#804040">BOY</font>: Snowball.
-- <font color="#804040">GIRL</font>: Snowball. Snowball.
+- BOY: Snowball.
+- GIRL: Snowball. Snowball.
 
 619
 00:33:09,466 --> 00:33:10,797
-<font color="#804040">SAM ON TV</font>: I
+SAM ON TV: I
 scream, you scream,
 
 620
@@ -2764,15 +2764,15 @@ a town that is truly à la mode.
 
 627
 00:33:31,855 --> 00:33:35,757
-<font color="#808080">(WOMAN 1 SPEAKS IN FRENCH OVER TV)</font>
+(WOMAN 1 SPEAKS IN FRENCH OVER TV)
 
 628
 00:33:35,925 --> 00:33:39,156
-<font color="#808080">(WOMAN 2 SPEAKS IN ARABIC OVER TV)</font>
+(WOMAN 2 SPEAKS IN ARABIC OVER TV)
 
 629
 00:33:39,362 --> 00:33:42,422
-<font color="#804040">WOMAN 3 IN BRITISH ACCENT</font>: A town
+WOMAN 3 IN BRITISH ACCENT: A town
 that is truly topped with ice cream.
 
 630
@@ -2786,7 +2786,7 @@ I'm Sam Sparks.
 
 632
 00:33:48,238 --> 00:33:51,969
-<font color="#804040">CAL</font>: Flint, this is the
+CAL: Flint, this is the
 best breakfast ever!
 
 633
@@ -2803,7 +2803,7 @@ Dialing. Waiting.
 
 636
 00:34:04,020 --> 00:34:06,853
-<font color="#808080">(PHONE RINGING)</font>
+(PHONE RINGING)
 
 637
 00:34:07,023 --> 00:34:08,957
@@ -2850,7 +2850,7 @@ Keep an eye on the lab for me.
 
 647
 00:34:29,546 --> 00:34:31,207
-<font color="#808080">(GUAGE CLICKING)</font>
+(GUAGE CLICKING)
 
 648
 00:34:31,414 --> 00:34:33,780
@@ -2858,7 +2858,7 @@ Steve.
 
 649
 00:34:34,186 --> 00:34:36,027
-<font color="#804040">ANNOUNCER OVER TV</font>:
+ANNOUNCER OVER TV:
 Foster still at the plate.
 
 650
@@ -2867,11 +2867,11 @@ And nobody out.
 
 651
 00:34:38,188 --> 00:34:39,655
-<font color="#804040">SAM</font>: Where are we going?
+SAM: Where are we going?
 
 652
 00:34:39,823 --> 00:34:42,053
-<font color="#804040">FLINT</font>: Oh, nowhere.
+FLINT: Oh, nowhere.
 I just thought it'd be nice
 
 653
@@ -2881,7 +2881,7 @@ go on a walk together.
 
 654
 00:34:45,161 --> 00:34:46,321
-<font color="#808080">(CHUCKLES)</font>
+(CHUCKLES)
 
 655
 00:34:46,496 --> 00:34:49,488
@@ -2897,7 +2897,7 @@ Wow.
 
 658
 00:34:54,838 --> 00:34:56,829
-<font color="#808080">(MUSIC)</font>
+(MUSIC)
 
 659
 00:35:00,577 --> 00:35:03,740
@@ -2921,7 +2921,7 @@ Flint?
 
 664
 00:35:15,325 --> 00:35:16,952
-<font color="#804040">FLINT</font>: Join me.
+FLINT: Join me.
 
 665
 00:35:18,862 --> 00:35:20,193
@@ -2929,7 +2929,7 @@ Whoa!
 
 666
 00:35:22,399 --> 00:35:23,525
-<font color="#808080">(GASPS)</font>
+(GASPS)
 
 667
 00:35:23,700 --> 00:35:27,534
@@ -2937,7 +2937,7 @@ Oh! Oh! Oh!
 
 668
 00:35:29,372 --> 00:35:30,532
-<font color="#808080">(GRUNTS)</font>
+(GRUNTS)
 
 669
 00:35:30,707 --> 00:35:31,907
@@ -2965,7 +2965,7 @@ Tupperware mold I made. No big deal.
 
 674
 00:35:41,918 --> 00:35:43,180
-<font color="#808080">(PIANO PLAYING)</font>
+(PIANO PLAYING)
 
 675
 00:35:43,353 --> 00:35:45,412
@@ -3001,7 +3001,7 @@ Nothing!
 
 682
 00:36:02,739 --> 00:36:04,036
-<font color="#808080">(LAUGHS)</font>
+(LAUGHS)
 
 683
 00:36:04,207 --> 00:36:06,300
@@ -3009,11 +3009,11 @@ Whoo! Yeah.
 
 684
 00:36:06,509 --> 00:36:07,533
-<font color="#808080">(LAUGHING)</font>
+(LAUGHING)
 
 685
 00:36:07,710 --> 00:36:11,043
-<font color="#804040">SAM</font>: Hee-hee. Boing,
+SAM: Hee-hee. Boing,
 boing, boing, whoo!
 
 686
@@ -3022,11 +3022,11 @@ Whoo!
 
 687
 00:36:16,619 --> 00:36:17,643
-<font color="#808080">(GRUNTS)</font>
+(GRUNTS)
 
 688
 00:36:17,821 --> 00:36:19,152
-<font color="#808080">(BOTH LAUGH)</font>
+(BOTH LAUGH)
 
 689
 00:36:19,322 --> 00:36:21,085
@@ -3038,12 +3038,12 @@ Belly flop.
 
 691
 00:36:27,597 --> 00:36:29,588
-<font color="#808080">(MUMBLING)</font>
+(MUMBLING)
 Why did I do that?
 
 692
 00:36:29,833 --> 00:36:31,767
-<font color="#808080">(MUSIC)</font>
+(MUSIC)
 
 693
 00:36:37,640 --> 00:36:40,074
@@ -3095,7 +3095,7 @@ time ago, but I, too, was...
 
 704
 00:37:14,010 --> 00:37:15,068
-<font color="#808080">(WHISPERS)</font>
+(WHISPERS)
 a nerd.
 
 705
@@ -3118,7 +3118,7 @@ with the science of weather.
 
 709
 00:37:28,291 --> 00:37:30,282
-<font color="#804040">SAM</font>: Other girls
+SAM: Other girls
 wanted a Barbie.
 
 710
@@ -3137,7 +3137,7 @@ It wasn't even clever.
 
 713
 00:37:38,835 --> 00:37:40,735
-<font color="#804040">KIDS SINGING</font>: Four-eyes, four-eyes.
+KIDS SINGING: Four-eyes, four-eyes.
 
 714
 00:37:40,904 --> 00:37:42,997
@@ -3145,7 +3145,7 @@ You need glasses to see
 
 715
 00:37:43,172 --> 00:37:45,470
-<font color="#808080">(SNICKERING)</font>
+(SNICKERING)
 
 716
 00:37:45,909 --> 00:37:47,399
@@ -3198,7 +3198,7 @@ And now, the reveal.
 
 727
 00:38:22,178 --> 00:38:24,169
-<font color="#808080">(MUSIC)</font>
+(MUSIC)
 
 728
 00:38:25,515 --> 00:38:26,539
@@ -3253,7 +3253,7 @@ But about you.
 
 740
 00:39:06,823 --> 00:39:09,815
-<font color="#808080">(INHALES DEEPLY)</font>
+(INHALES DEEPLY)
 
 741
 00:39:09,993 --> 00:39:11,460
@@ -3265,7 +3265,7 @@ Hm.
 
 743
 00:39:17,891 --> 00:39:19,811
-<font color="#804040">FLINT'S VOICE ON PHONE</font>:
+FLINT'S VOICE ON PHONE:
 Flint, you have a call.
 
 744
@@ -3310,7 +3310,7 @@ Ah!
 
 753
 00:39:40,490 --> 00:39:41,514
-<font color="#808080">(THUMP)</font>
+(THUMP)
 
 754
 00:39:41,724 --> 00:39:42,748
@@ -3318,19 +3318,19 @@ Ah!
 
 755
 00:39:42,925 --> 00:39:43,926
-<font color="#808080">(MUSIC)</font>
+(MUSIC)
 
 756
 00:39:43,961 --> 00:39:44,961
-<font color="#808080">(MUSIC)</font>
+(MUSIC)
 
 757
 00:39:45,161 --> 00:39:46,628
-<font color="#808080">(SIGHS)</font>
+(SIGHS)
 
 758
 00:39:47,296 --> 00:39:49,423
-<font color="#804040">FLINT</font>: Dad, you came.
+FLINT: Dad, you came.
 I have so much to tell you.
 
 759
@@ -3344,17 +3344,17 @@ Come on, let's go. Ah!
 
 761
 00:39:52,802 --> 00:39:53,826
-<font color="#808080">(PEOPLE CHATTERING)</font>
+(PEOPLE CHATTERING)
 
 762
 00:39:54,003 --> 00:39:55,364
-<font color="#804040">FLINT</font>: Dad, I almost
+FLINT: Dad, I almost
 kissed a girl.
 
 763
 00:39:55,371 --> 00:39:57,931
 - It's Baby Brent, you know?
-- <font color="#804040">FLINT</font>: It was the coolest thing... Hi.
+- FLINT: It was the coolest thing... Hi.
 
 764
 00:39:57,974 --> 00:40:01,842
@@ -3368,15 +3368,15 @@ That guy's a nerd.
 
 766
 00:40:07,316 --> 00:40:09,045
-<font color="#808080">(MUSIC)</font>
+(MUSIC)
 
 767
 00:40:09,252 --> 00:40:10,344
-<font color="#804040">FLINT</font>: Hey, how's it going?
+FLINT: Hey, how's it going?
 
 768
 00:40:10,520 --> 00:40:11,544
-<font color="#808080">(PEOPLE CHATTERING)</font>
+(PEOPLE CHATTERING)
 
 769
 00:40:11,754 --> 00:40:14,120
@@ -3403,11 +3403,11 @@ Flint Lockwood. Earl.
 
 774
 00:40:25,368 --> 00:40:26,995
-<font color="#808080">(LAUGHS)</font>
+(LAUGHS)
 
 775
 00:40:31,274 --> 00:40:32,571
-<font color="#804040">TIM</font>: So, uh, no roof.
+TIM: So, uh, no roof.
 
 776
 00:40:32,775 --> 00:40:35,073
@@ -3425,11 +3425,11 @@ Meat. Mm.
 
 779
 00:40:41,017 --> 00:40:42,041
-<font color="#808080">(CHUCKLES)</font>
+(CHUCKLES)
 
 780
 00:40:43,019 --> 00:40:44,884
-<font color="#808080">(BOTH CHUCKLE)</font>
+(BOTH CHUCKLE)
 
 781
 00:40:45,855 --> 00:40:46,879
@@ -3460,7 +3460,7 @@ Uh...
 
 787
 00:41:05,041 --> 00:41:07,032
-<font color="#808080">(PEOPLE LAUGHING)</font>
+(PEOPLE LAUGHING)
 
 788
 00:41:09,712 --> 00:41:11,339
@@ -3483,7 +3483,7 @@ what I just said?
 
 792
 00:41:24,127 --> 00:41:25,594
-<font color="#808080">(UTENSILS CLATTER)</font>
+(UTENSILS CLATTER)
 
 793
 00:41:25,828 --> 00:41:27,625
@@ -3533,11 +3533,11 @@ out of your way.
 
 803
 00:42:12,742 --> 00:42:14,369
-<font color="#808080">(GROANS)</font>
+(GROANS)
 
 804
 00:42:25,421 --> 00:42:26,661
-<font color="#804040">FLINT</font>: Get with the times, man.
+FLINT: Get with the times, man.
 
 805
 00:42:26,823 --> 00:42:29,485
@@ -3585,7 +3585,7 @@ I don't know what to do.
 
 815
 00:43:08,831 --> 00:43:10,423
-<font color="#804040">MAYOR</font>: I do:
+MAYOR: I do:
 
 816
 00:43:11,167 --> 00:43:13,727
@@ -3594,7 +3594,7 @@ dogs to be delicious!
 
 817
 00:43:13,936 --> 00:43:14,960
-<font color="#808080">(SCREAMS)</font>
+(SCREAMS)
 
 818
 00:43:15,137 --> 00:43:16,502
@@ -3668,7 +3668,7 @@ food is getting bigger.
 
 833
 00:44:02,752 --> 00:44:04,549
-<font color="#804040">Here's what I heard</font>: "Blah, blah, blah."
+Here's what I heard: "Blah, blah, blah."
 
 834
 00:44:04,720 --> 00:44:06,915
@@ -3776,7 +3776,7 @@ It's your choice.
 
 857
 00:45:13,789 --> 00:45:15,086
-<font color="#808080">(WHISPERING)</font>
+(WHISPERING)
 Choice.
 
 858
@@ -3797,7 +3797,7 @@ Choice.
 
 862
 00:45:22,264 --> 00:45:23,697
-<font color="#808080">(SIGHS)</font>
+(SIGHS)
 
 863
 00:45:24,166 --> 00:45:25,190
@@ -3805,11 +3805,11 @@ Okay.
 
 864
 00:45:32,375 --> 00:45:34,366
-<font color="#808080">(TYPING)</font>
+(TYPING)
 
 865
 00:45:35,111 --> 00:45:36,203
-<font color="#808080">(WHIMPERS)</font>
+(WHIMPERS)
 
 866
 00:45:36,379 --> 00:45:39,041
@@ -3825,7 +3825,7 @@ Oh, yeah.
 
 869
 00:45:45,779 --> 00:45:48,099
-<font color="#804040">MACHINE OVERLAPPING VOICES</font>: Spaghetti.
+MACHINE OVERLAPPING VOICES: Spaghetti.
 Asparagus. Celery.
 
 870
@@ -3834,20 +3834,20 @@ Garlic bread. Meatball. Shrimp.
 
 871
 00:45:50,393 --> 00:45:52,384
-<font color="#808080">(TALKING GIBBERISH)</font>
+(TALKING GIBBERISH)
 
 872
 00:45:58,634 --> 00:46:00,625
-<font color="#808080">(MUSIC)</font>
+(MUSIC)
 
 873
 00:46:03,005 --> 00:46:05,974
-- <font color="#804040">MAN 1</font>: Looks safe to me.
-- <font color="#804040">MAN 2</font>: And sanitary too.
+- MAN 1: Looks safe to me.
+- MAN 2: And sanitary too.
 
 874
 00:46:11,414 --> 00:46:13,405
-<font color="#808080">(MUSIC)</font>
+(MUSIC)
 
 875
 00:46:17,353 --> 00:46:18,752
@@ -3855,23 +3855,23 @@ Whoa.
 
 876
 00:46:19,021 --> 00:46:20,318
-<font color="#808080">(BLOWS)</font>
+(BLOWS)
 
 877
 00:46:33,769 --> 00:46:35,760
-<font color="#808080">(DOPPLER 2000 BEEPING)</font>
+(DOPPLER 2000 BEEPING)
 
 878
 00:46:36,906 --> 00:46:37,906
-<font color="#808080">(ALL CHEERING)</font>
+(ALL CHEERING)
 
 879
 00:46:37,938 --> 00:46:38,938
-<font color="#808080">(ALL CHEERING)</font>
+(ALL CHEERING)
 
 880
 00:46:39,708 --> 00:46:42,871
-<font color="#804040">MAYOR</font>: Who's hungry?
+MAYOR: Who's hungry?
 
 881
 00:46:43,045 --> 00:46:47,607
@@ -3899,7 +3899,7 @@ unsupervised Kid Zone!
 
 886
 00:47:00,262 --> 00:47:02,287
-<font color="#804040">CAL</font>: I've got
+CAL: I've got
 jellybeans for teeth.
 
 887
@@ -3977,7 +3977,7 @@ Jeez.
 
 902
 00:47:45,608 --> 00:47:46,973
-<font color="#804040">MAYOR</font>: And without further ado,
+MAYOR: And without further ado,
 
 903
 00:47:47,143 --> 00:47:51,079
@@ -3990,7 +3990,7 @@ Flint Lockwood.
 
 905
 00:47:53,816 --> 00:47:55,147
-<font color="#804040">MAN 1</font>: Yeah, Flint.
+MAN 1: Yeah, Flint.
 
 906
 00:47:55,317 --> 00:47:57,342
@@ -3998,13 +3998,13 @@ Thank you. Thank you, everyone.
 
 907
 00:47:57,520 --> 00:47:59,240
-- <font color="#804040">MAN 2</font>: Sign my shrimp.
-- <font color="#804040">FLINT</font>: Thank you.
+- MAN 2: Sign my shrimp.
+- FLINT: Thank you.
 
 908
 00:47:59,321 --> 00:48:01,915
-- <font color="#804040">MAN 3</font>: Yeah. Yeah. Whoo!
-- <font color="#804040">MAN 4</font>: I love you.
+- MAN 3: Yeah. Yeah. Whoo!
+- MAN 4: I love you.
 
 909
 00:48:02,091 --> 00:48:03,854
@@ -4042,7 +4042,7 @@ Put your clothes back on.
 
 917
 00:48:21,110 --> 00:48:22,702
-<font color="#808080">(CROWD BOOING)</font>
+(CROWD BOOING)
 
 918
 00:48:22,878 --> 00:48:25,244
@@ -4058,7 +4058,7 @@ Everybody loves you.
 
 921
 00:48:31,887 --> 00:48:34,549
-<font color="#804040">CROWD CHANTING</font>: Lockwood!
+CROWD CHANTING: Lockwood!
 Lockwood! Lockwood!
 
 922
@@ -4067,37 +4067,37 @@ Lockwood! Lockwood! Lockwood!
 
 923
 00:48:40,162 --> 00:48:42,153
-<font color="#808080">(ALL CHEERING)</font>
+(ALL CHEERING)
 
 924
 00:48:49,505 --> 00:48:50,972
-<font color="#804040">CROWD</font>: Lockwood! Lockwood!
+CROWD: Lockwood! Lockwood!
 Lockwood!
 
 925
 00:48:53,842 --> 00:48:55,036
-<font color="#808080">(GROANS)</font>
+(GROANS)
 
 926
 00:48:55,277 --> 00:48:57,268
-<font color="#808080">(MUSIC)</font>
+(MUSIC)
 
 927
 00:48:59,882 --> 00:49:01,873
-<font color="#804040">CROWD</font>: Lockwood! Lockwood!
+CROWD: Lockwood! Lockwood!
 Lockwood!
 
 928
 00:49:05,487 --> 00:49:07,478
-<font color="#808080">(CROWD CHEER)</font>
+(CROWD CHEER)
 
 929
 00:49:07,890 --> 00:49:09,915
-<font color="#808080">(BIRDS SQUAWKING)</font>
+(BIRDS SQUAWKING)
 
 930
 00:49:10,793 --> 00:49:13,853
-<font color="#804040">STEVE</font>: Danger. Danger. Danger.
+STEVE: Danger. Danger. Danger.
 
 931
 00:49:17,533 --> 00:49:20,229
@@ -4119,7 +4119,7 @@ can turn it off.
 
 935
 00:49:43,626 --> 00:49:45,321
-<font color="#808080">(PEOPLE SHOUTING)</font>
+(PEOPLE SHOUTING)
 
 936
 00:49:48,564 --> 00:49:50,122
@@ -4127,24 +4127,24 @@ I can turn it off.
 
 937
 00:49:51,567 --> 00:49:53,057
-<font color="#808080">(SCREAMING)</font>
+(SCREAMING)
 
 938
 00:49:53,402 --> 00:49:55,267
-<font color="#808080">(PEOPLE SCREAMING)</font>
+(PEOPLE SCREAMING)
 
 939
 00:49:58,040 --> 00:49:59,337
-<font color="#808080">(GRUNTS)</font>
+(GRUNTS)
 
 940
 00:50:03,245 --> 00:50:05,046
-<font color="#804040">FLINT</font>: All right, kid,
+FLINT: All right, kid,
 it's all gonna be okay.
 
 941
 00:50:05,114 --> 00:50:07,105
-<font color="#808080">(SCREAMING)</font>
+(SCREAMING)
 
 942
 00:50:08,484 --> 00:50:10,475
@@ -4156,7 +4156,7 @@ Pardon me. Pardon me.
 
 944
 00:50:16,158 --> 00:50:18,718
-<font color="#804040">FLINT</font>: Excuse me.
+FLINT: Excuse me.
 Oh. No problem.
 
 945
@@ -4169,7 +4169,7 @@ No.
 
 947
 00:50:23,999 --> 00:50:25,626
-<font color="#808080">(SCREAMS)</font>
+(SCREAMS)
 
 948
 00:50:31,473 --> 00:50:33,805
@@ -4177,11 +4177,11 @@ Gummi Bears. Not now, Steve.
 
 949
 00:50:35,010 --> 00:50:37,001
-<font color="#808080">(ALL SCREAMING)</font>
+(ALL SCREAMING)
 
 950
 00:50:40,282 --> 00:50:43,251
-<font color="#804040">MAN</font>: Condiments?
+MAN: Condiments?
 Salt? Pepper?
 
 951
@@ -4238,15 +4238,15 @@ little more appealing. Boop.
 
 962
 00:51:22,558 --> 00:51:23,786
-<font color="#808080">(SOFT MUSIC PLAYS OVER TV)</font>
+(SOFT MUSIC PLAYS OVER TV)
 
 963
 00:51:23,959 --> 00:51:25,119
-<font color="#808080">(BARKING)</font>
+(BARKING)
 
 964
 00:51:25,294 --> 00:51:27,285
-<font color="#808080">(MUSIC)</font>
+(MUSIC)
 
 965
 00:51:30,032 --> 00:51:33,024
@@ -4288,7 +4288,7 @@ with the kill code.
 
 973
 00:51:51,253 --> 00:51:53,244
-<font color="#808080">(MONITORS BEEPING)</font>
+(MONITORS BEEPING)
 
 974
 00:51:54,089 --> 00:51:56,751
@@ -4296,7 +4296,7 @@ Sending kill code. I'm back.
 
 975
 00:51:56,959 --> 00:51:59,018
-<font color="#804040">FLINT</font>: Got to get the button.
+FLINT: Got to get the button.
 
 976
 00:51:59,395 --> 00:52:00,419
@@ -4308,16 +4308,16 @@ Play. Fun. Fun. Play.
 
 978
 00:52:01,897 --> 00:52:06,527
-<font color="#804040">MAYOR</font>: Hey, Flint.
+MAYOR: Hey, Flint.
 It's been nice to beet you. Ha.
 
 979
 00:52:07,336 --> 00:52:09,861
-<font color="#804040">FLINT</font>: That's a radish.
+FLINT: That's a radish.
 
 980
 00:52:14,676 --> 00:52:16,234
-<font color="#808080">(BEEPS)</font>
+(BEEPS)
 
 981
 00:52:31,493 --> 00:52:35,862
@@ -4335,7 +4335,7 @@ all-you-can-eat buffet.
 
 984
 00:52:44,239 --> 00:52:47,731
-<font color="#804040">MACHINE</font>: Jellybean. Watermelon.
+MACHINE: Jellybean. Watermelon.
 Marshmallow. Pretzel. Sushi.
 
 985
@@ -4349,20 +4349,20 @@ Strawberry.
 
 987
 00:52:58,454 --> 00:53:00,285
-<font color="#808080">(COUGHS)</font>
+(COUGHS)
 
 988
 00:53:01,056 --> 00:53:02,080
-<font color="#808080">(THUNDER RUMBLING)</font>
+(THUNDER RUMBLING)
 
 989
 00:53:02,257 --> 00:53:04,589
-- <font color="#804040">JOE</font>: Is everyone okay?
-- <font color="#804040">PEOPLE</font>: Yeah.
+- JOE: Is everyone okay?
+- PEOPLE: Yeah.
 
 990
 00:53:11,266 --> 00:53:13,427
-<font color="#804040">EARL</font>: Help, somebody.
+EARL: Help, somebody.
 
 991
 00:53:13,735 --> 00:53:15,669
@@ -4383,7 +4383,7 @@ Anyone?
 
 995
 00:53:22,778 --> 00:53:24,643
-<font color="#804040">MANNY</font>: I am a doctor.
+MANNY: I am a doctor.
 
 996
 00:53:24,813 --> 00:53:25,837
@@ -4411,7 +4411,7 @@ He's in a food coma.
 
 1002
 00:53:42,197 --> 00:53:43,425
-<font color="#808080">(CROWD GASPS)</font>
+(CROWD GASPS)
 
 1003
 00:53:43,599 --> 00:53:45,123
@@ -4427,7 +4427,7 @@ Here you go.
 
 1006
 00:53:49,972 --> 00:53:51,769
-<font color="#808080">(COUGHING)</font>
+(COUGHING)
 
 1007
 00:53:51,940 --> 00:53:55,273
@@ -4440,7 +4440,7 @@ I love you, son.
 
 1009
 00:53:57,179 --> 00:53:59,374
-<font color="#808080">(CAL VOMITING)</font>
+(CAL VOMITING)
 
 1010
 00:54:01,483 --> 00:54:03,542
@@ -4449,7 +4449,7 @@ turned out okay.
 
 1011
 00:54:03,719 --> 00:54:04,845
-<font color="#804040">SAM</font>: Not yet, it hasn't.
+SAM: Not yet, it hasn't.
 
 1012
 00:54:05,020 --> 00:54:08,353
@@ -4458,7 +4458,7 @@ compared to what's on the way.
 
 1013
 00:54:08,524 --> 00:54:09,724
-<font color="#804040">WOMAN</font>: What's an amuse-bouche?
+WOMAN: What's an amuse-bouche?
 
 1014
 00:54:09,725 --> 00:54:11,090
@@ -4512,11 +4512,11 @@ hemisphere will be one big potluck.
 
 1025
 00:54:51,400 --> 00:54:53,391
-<font color="#808080">(MUSIC)</font>
+(MUSIC)
 
 1026
 00:55:01,043 --> 00:55:02,567
-<font color="#808080">(SIGHS)</font>
+(SIGHS)
 
 1027
 00:55:11,219 --> 00:55:12,686
@@ -4524,11 +4524,11 @@ Flint?
 
 1028
 00:55:12,854 --> 00:55:14,151
-<font color="#808080">(FLINT GROANING)</font>
+(FLINT GROANING)
 
 1029
 00:55:19,094 --> 00:55:20,721
-<font color="#808080">(SQUAWKING)</font>
+(SQUAWKING)
 
 1030
 00:55:20,896 --> 00:55:22,227
@@ -4552,7 +4552,7 @@ but instead I ruined everything.
 
 1035
 00:55:31,974 --> 00:55:33,134
-<font color="#808080">(SNIFFLES)</font>
+(SNIFFLES)
 
 1036
 00:55:33,308 --> 00:55:35,299
@@ -4671,11 +4671,11 @@ Now with wings.
 
 1063
 00:57:25,087 --> 00:57:27,317
-<font color="#808080">(HONKING MELODY)</font>
+(HONKING MELODY)
 
 1064
 00:57:33,662 --> 00:57:35,289
-<font color="#804040">BOTH</font>: Whoa!
+BOTH: Whoa!
 
 1065
 00:57:36,932 --> 00:57:39,924
@@ -4684,33 +4684,33 @@ dream like this once.
 
 1066
 00:57:40,402 --> 00:57:42,927
-<font color="#804040">MAN</font>: I have a macaroni on my head.
+MAN: I have a macaroni on my head.
 Ah!
 
 1067
 00:57:44,306 --> 00:57:45,830
-<font color="#804040">GIRL</font>: Run.
+GIRL: Run.
 
 1068
 00:57:51,179 --> 00:57:52,271
-<font color="#804040">ALL</font>: No school!
+ALL: No school!
 
 1069
 00:57:52,447 --> 00:57:54,039
-<font color="#808080">(ALL SCREAMING)</font>
+(ALL SCREAMING)
 
 1070
 00:57:54,216 --> 00:57:56,207
-<font color="#808080">(ALARM RINGING)</font>
+(ALARM RINGING)
 
 1071
 00:57:57,385 --> 00:58:01,549
-<font color="#804040">ANNOUNCER ON TV</font>: Still nothing, nothing
+ANNOUNCER ON TV: Still nothing, nothing
 in the bottom of the third inning.
 
 1072
 00:58:04,392 --> 00:58:05,859
-<font color="#808080">(PEOPLE SCREAMING)</font>
+(PEOPLE SCREAMING)
 
 1073
 00:58:09,464 --> 00:58:10,624
@@ -4749,25 +4749,25 @@ the island, using brea...
 
 1081
 00:58:31,486 --> 00:58:33,283
-<font color="#804040">MAYOR</font>: This is all his fault.
+MAYOR: This is all his fault.
 Get him.
 
 1082
 00:58:33,455 --> 00:58:34,576
-<font color="#804040">MAN 1</font>: There he is! Get him!
+MAN 1: There he is! Get him!
 
 1083
 00:58:34,656 --> 00:58:35,714
-<font color="#804040">MAN 2</font>: Get Flint.
+MAN 2: Get Flint.
 
 1084
 00:58:35,891 --> 00:58:38,951
-<font color="#804040">JOE</font>: Let's rock his
+JOE: Let's rock his
 car back and forth.
 
 1085
 00:58:43,865 --> 00:58:45,799
-<font color="#804040">EARL</font>: Hey!
+EARL: Hey!
 
 1086
 00:58:46,368 --> 00:58:49,235
@@ -4801,7 +4801,7 @@ of us to pay the bill.
 
 1092
 00:59:08,190 --> 00:59:10,158
-<font color="#808080">(ALL CHEER)</font>
+(ALL CHEER)
 
 1093
 00:59:18,633 --> 00:59:21,500
@@ -4814,15 +4814,15 @@ Sorry. It's okay.
 1095
 00:59:23,505 --> 00:59:27,498
 - Let's go build some boats.
-- <font color="#804040">CROWD</font>: Yeah.
+- CROWD: Yeah.
 
 1096
 00:59:28,043 --> 00:59:29,840
-<font color="#804040">MAN</font>: I'm gonna go build a boat.
+MAN: I'm gonna go build a boat.
 
 1097
 00:59:31,446 --> 00:59:32,470
-<font color="#804040">SAM</font>: I'm coming with you.
+SAM: I'm coming with you.
 
 1098
 00:59:33,415 --> 00:59:36,714
@@ -4849,7 +4849,7 @@ Okay.
 
 1103
 00:59:45,427 --> 00:59:48,191
-<font color="#804040">MANNY</font>: You'll need a co-pilot.
+MANNY: You'll need a co-pilot.
 You're a pilot too?
 
 1104
@@ -4868,12 +4868,12 @@ I am also a comedian.
 
 1107
 00:59:54,669 --> 00:59:56,830
-<font color="#808080">(FLINT, SAM & STEVE LAUGH)</font>
+(FLINT, SAM & STEVE LAUGH)
 
 1108
 00:59:57,005 --> 00:59:59,872
 - Let's do this thing.
-- <font color="#804040">BRENT</font>: I'm coming too.
+- BRENT: I'm coming too.
 
 1109
 01:00:00,041 --> 01:00:02,134
@@ -4916,7 +4916,7 @@ Okay.
 
 1118
 01:00:32,774 --> 01:00:34,469
-<font color="#808080">(SQUAWKING)</font>
+(SQUAWKING)
 
 1119
 01:00:38,246 --> 01:00:40,077
@@ -4924,27 +4924,27 @@ Good luck, son.
 
 1120
 01:00:45,754 --> 01:00:47,346
-<font color="#808080">(WHIMPERING)</font>
+(WHIMPERING)
 
 1121
 01:00:47,522 --> 01:00:49,922
-<font color="#804040">STEVE IN WAVERING VOICE</font>: Steve.
+STEVE IN WAVERING VOICE: Steve.
 
 1122
 01:00:51,293 --> 01:00:52,624
-<font color="#804040">SAM</font>: Pea-soup fog.
+SAM: Pea-soup fog.
 
 1123
 01:00:52,794 --> 01:00:55,354
-<font color="#804040">FLINT</font>: Manny, hit the wipers.
+FLINT: Manny, hit the wipers.
 
 1124
 01:00:55,730 --> 01:00:56,754
-<font color="#804040">FLINT & SAM</font>: Oh!
+FLINT & SAM: Oh!
 
 1125
 01:00:56,932 --> 01:00:58,092
-<font color="#808080">(DOPPLER 2000 BEEPING)</font>
+(DOPPLER 2000 BEEPING)
 
 1126
 01:00:58,266 --> 01:01:01,633
@@ -4970,12 +4970,12 @@ out the bottom.
 
 1131
 01:01:19,254 --> 01:01:21,119
-<font color="#804040">BRENT</font>: Glad I'm
+BRENT: Glad I'm
 wearing a diaper.
 
 1132
 01:01:22,524 --> 01:01:24,515
-<font color="#808080">(MUSIC)</font>
+(MUSIC)
 
 1133
 01:01:37,839 --> 01:01:40,034
@@ -4984,7 +4984,7 @@ Oh!
 
 1134
 01:01:40,475 --> 01:01:42,500
-<font color="#804040">FLINT</font>: Hold on.
+FLINT: Hold on.
 
 1135
 01:01:42,677 --> 01:01:44,611
@@ -5002,21 +5002,21 @@ mutated into super food!
 
 1138
 01:01:49,951 --> 01:01:53,352
-<font color="#804040">BOTH</font>: That's been genetically
+BOTH: That's been genetically
 engineered to protect the FLDSMDFR.
 
 1139
 01:01:53,555 --> 01:01:55,182
-- <font color="#804040">STEVE</font>: Pizza.
-- <font color="#804040">ALL</font>: Ah!
+- STEVE: Pizza.
+- ALL: Ah!
 
 1140
 01:01:55,357 --> 01:01:57,621
-<font color="#804040">STEVE</font>: Pizza. Pizza. Pizza.
+STEVE: Pizza. Pizza. Pizza.
 
 1141
 01:01:57,792 --> 01:01:59,783
-<font color="#808080">(GRUNTING)</font>
+(GRUNTING)
 
 1142
 01:02:00,695 --> 01:02:05,064
@@ -5029,12 +5029,12 @@ Uh-oh.
 
 1144
 01:02:08,970 --> 01:02:10,437
-<font color="#808080">(PHONE RINGS)</font>
+(PHONE RINGS)
 
 1145
 01:02:11,639 --> 01:02:12,960
 - Tim's Tackle Shop.
-- <font color="#804040">FLINT</font>: Dad.
+- FLINT: Dad.
 
 1146
 01:02:13,074 --> 01:02:14,701
@@ -5069,16 +5069,16 @@ All right.
 
 1153
 01:02:33,595 --> 01:02:34,994
-<font color="#808080">(SCREAMING)</font>
+(SCREAMING)
 
 1154
 01:02:38,099 --> 01:02:40,090
-- <font color="#804040">MANNY</font>: Want me to drive?
-- <font color="#804040">FLINT</font>: Yeah, okay.
+- MANNY: Want me to drive?
+- FLINT: Yeah, okay.
 
 1155
 01:02:42,670 --> 01:02:44,865
-<font color="#808080">(BRENT SCREAMING)</font>
+(BRENT SCREAMING)
 
 1156
 01:02:52,414 --> 01:02:54,905
@@ -5087,7 +5087,7 @@ Uh-huh.
 
 1157
 01:03:01,122 --> 01:03:02,282
-<font color="#804040">FLINT</font>: Okay, here's the plan:
+FLINT: Okay, here's the plan:
 
 1158
 01:03:02,390 --> 01:03:05,188
@@ -5163,12 +5163,12 @@ Great. Okay, I'm good.
 
 1174
 01:03:48,436 --> 01:03:51,316
-<font color="#804040">SAM</font>: As long as we stay on course, it
+SAM: As long as we stay on course, it
 should be a straight shot to the...
 
 1175
 01:03:51,372 --> 01:03:53,465
-<font color="#808080">(SAM GRUNTS THEN SCREAMS)</font>
+(SAM GRUNTS THEN SCREAMS)
 
 1176
 01:03:54,542 --> 01:03:56,271
@@ -5176,11 +5176,11 @@ Yeah!
 
 1177
 01:03:57,045 --> 01:03:59,479
-<font color="#808080">(ALL GRUNTING)</font>
+(ALL GRUNTING)
 
 1178
 01:03:59,681 --> 01:04:01,672
-<font color="#804040">BRENT</font>: We're a team.
+BRENT: We're a team.
 
 1179
 01:04:11,326 --> 01:04:12,691
@@ -5206,11 +5206,11 @@ What's that?
 
 1184
 01:04:24,339 --> 01:04:26,330
-<font color="#808080">(INSTRUMENTAL MUSIC PLAYING OVER SPEAKERS)</font>
+(INSTRUMENTAL MUSIC PLAYING OVER SPEAKERS)
 
 1185
 01:04:30,845 --> 01:04:32,836
-<font color="#808080">(SCREAMING)</font>
+(SCREAMING)
 
 1186
 01:04:37,352 --> 01:04:39,115
@@ -5226,19 +5226,19 @@ Huh. Oh.
 
 1189
 01:04:46,161 --> 01:04:48,493
-<font color="#804040">COMPUTER</font>: Welcome, Flint.
+COMPUTER: Welcome, Flint.
 
 1190
 01:04:57,672 --> 01:04:59,731
-<font color="#804040">FLINT</font>: That's fry oil.
+FLINT: That's fry oil.
 
 1191
 01:05:01,242 --> 01:05:03,233
-<font color="#808080">(SCREAMING)</font>
+(SCREAMING)
 
 1192
 01:05:06,004 --> 01:05:07,924
-<font color="#804040">FLINT'S VOICE ON PHONE</font>:
+FLINT'S VOICE ON PHONE:
 Flint, you have a call.
 
 1193
@@ -5256,7 +5256,7 @@ file marked "kill code."
 
 1196
 01:05:13,988 --> 01:05:15,683
-<font color="#804040">TIM</font>: Wha...?
+TIM: Wha...?
 Move that into
 
 1197
@@ -5305,7 +5305,7 @@ Drag it across the desktop.
 
 1207
 01:05:38,079 --> 01:05:39,637
-<font color="#808080">(OBJECTS CLATTERING)</font>
+(OBJECTS CLATTERING)
 
 1208
 01:05:39,814 --> 01:05:41,577
@@ -5319,7 +5319,7 @@ Ah!
 
 1210
 01:05:47,055 --> 01:05:48,079
-<font color="#804040">EARL</font>: Go, go, go.
+EARL: Go, go, go.
 
 1211
 01:05:48,289 --> 01:05:50,553
@@ -5346,11 +5346,11 @@ Everybody head to the docks.
 
 1216
 01:06:04,305 --> 01:06:05,363
-<font color="#808080">(GRUNTS)</font>
+(GRUNTS)
 
 1217
 01:06:10,945 --> 01:06:12,276
-<font color="#804040">MAYOR</font>: Wait, wait.
+MAYOR: Wait, wait.
 
 1218
 01:06:12,447 --> 01:06:14,915
@@ -5371,25 +5371,25 @@ And bon appétit.
 
 1222
 01:06:23,024 --> 01:06:24,548
-<font color="#808080">(MAKES MUNCHING SOUNDS)</font>
+(MAKES MUNCHING SOUNDS)
 
 1223
 01:06:30,732 --> 01:06:31,756
-<font color="#808080">(CAL GRUNTING)</font>
+(CAL GRUNTING)
 
 1224
 01:06:31,933 --> 01:06:34,060
-- <font color="#804040">EARL</font>: Cal.
-- <font color="#804040">REGINA</font>: Calvin.
+- EARL: Cal.
+- REGINA: Calvin.
 
 1225
 01:06:43,544 --> 01:06:45,136
-<font color="#804040">EARL</font>: Cal, get back here.
+EARL: Cal, get back here.
 
 1226
 01:06:51,486 --> 01:06:54,148
-- <font color="#804040">CAL</font>: Foodalanche.
-- <font color="#804040">EARL</font>: Cal.
+- CAL: Foodalanche.
+- EARL: Cal.
 
 1227
 01:06:54,355 --> 01:06:55,982
@@ -5401,7 +5401,7 @@ Baby.
 
 1229
 01:06:59,360 --> 01:07:01,351
-<font color="#808080">(CAL SCREAMING)</font>
+(CAL SCREAMING)
 
 1230
 01:07:02,363 --> 01:07:04,490
@@ -5409,7 +5409,7 @@ Hold on tight, Calvin.
 
 1231
 01:07:04,866 --> 01:07:06,163
-<font color="#808080">(GRUNTS)</font>
+(GRUNTS)
 
 1232
 01:07:17,312 --> 01:07:18,370
@@ -5417,11 +5417,11 @@ Mm.
 
 1233
 01:07:22,016 --> 01:07:24,007
-<font color="#808080">(GRUNTING)</font>
+(GRUNTING)
 
 1234
 01:07:26,654 --> 01:07:30,090
-<font color="#808080">(SCREAMING)</font>
+(SCREAMING)
 
 1235
 01:07:37,198 --> 01:07:40,326
@@ -5430,7 +5430,7 @@ stay ahead of that storm.
 
 1236
 01:07:40,501 --> 01:07:41,991
-<font color="#808080">(RUMBLING)</font>
+(RUMBLING)
 
 1237
 01:07:44,305 --> 01:07:45,863
@@ -5445,7 +5445,7 @@ right down there!
 1239
 01:07:48,710 --> 01:07:52,009
 - Dad, hurry.
-- <font color="#804040">TIM</font>: Send. Send.
+- TIM: Send. Send.
 
 1240
 01:07:52,180 --> 01:07:53,545
@@ -5466,7 +5466,7 @@ Hey, guys?
 
 1244
 01:08:03,191 --> 01:08:06,354
-<font color="#808080">(CLUCKING)</font>
+(CLUCKING)
 
 1245
 01:08:07,929 --> 01:08:10,727
@@ -5478,7 +5478,7 @@ Go, go, go.
 
 1247
 01:08:13,935 --> 01:08:16,199
-<font color="#808080">(FLINT SCREAMING)</font>
+(FLINT SCREAMING)
 
 1248
 01:08:18,940 --> 01:08:21,568
@@ -5496,7 +5496,7 @@ He's got me!
 
 1251
 01:08:27,682 --> 01:08:29,343
-<font color="#808080">(IN UNISON)</font>
+(IN UNISON)
 They ate Brent.
 
 1252
@@ -5506,7 +5506,7 @@ man-eating chickens right now.
 
 1253
 01:08:35,490 --> 01:08:36,752
-<font color="#804040">FLINT</font>: So if this is goodbye,
+FLINT: So if this is goodbye,
 
 1254
 01:08:38,226 --> 01:08:40,592
@@ -5524,19 +5524,19 @@ Okay, bye.
 
 1257
 01:08:45,967 --> 01:08:47,958
-<font color="#808080">(DIAL TONE BUZZING)</font>
+(DIAL TONE BUZZING)
 
 1258
 01:08:48,603 --> 01:08:50,264
-<font color="#808080">(GRUNTING)</font>
+(GRUNTING)
 
 1259
 01:09:01,425 --> 01:09:02,425
-<font color="#808080">(BEEPS)</font>
+(BEEPS)
 
 1260
 01:09:02,450 --> 01:09:03,450
-<font color="#808080">(BEEPS)</font>
+(BEEPS)
 
 1261
 01:09:04,519 --> 01:09:06,111
@@ -5548,11 +5548,11 @@ Hey, give me that phone back.
 
 1263
 01:09:09,991 --> 01:09:12,357
-<font color="#808080">(CLUCKING)</font>
+(CLUCKING)
 
 1264
 01:09:20,435 --> 01:09:23,598
-<font color="#804040">BRENT</font>: Uh-oh!
+BRENT: Uh-oh!
 
 1265
 01:09:26,507 --> 01:09:28,532
@@ -5560,7 +5560,7 @@ Ah! Ha-ha-ha!
 
 1266
 01:09:28,709 --> 01:09:29,903
-<font color="#804040">FLINT</font>: Baby Brent?
+FLINT: Baby Brent?
 
 1267
 01:09:30,077 --> 01:09:33,103
@@ -5581,7 +5581,7 @@ Crotch kick.
 
 1271
 01:09:43,057 --> 01:09:44,888
-<font color="#808080">(YELLS)</font>
+(YELLS)
 
 1272
 01:09:48,262 --> 01:09:52,494
@@ -5599,7 +5599,7 @@ Go, go, go.
 
 1275
 01:09:57,638 --> 01:09:58,798
-<font color="#808080">(BRENT GRUNTING)</font>
+(BRENT GRUNTING)
 
 1276
 01:09:59,640 --> 01:10:01,631
@@ -5648,17 +5648,17 @@ Mus... Mmp!
 
 1286
 01:10:31,873 --> 01:10:33,864
-<font color="#808080">(THUNDER RUMBLING)</font>
+(THUNDER RUMBLING)
 
 1287
 01:10:37,144 --> 01:10:39,635
 - Sesame bagel.
-- <font color="#804040">MAN 1</font>: Hey, taxi.
+- MAN 1: Hey, taxi.
 
 1288
 01:10:39,814 --> 01:10:41,645
-- <font color="#804040">MAN 2</font>: Taxi.
-- <font color="#804040">MAN 3</font>: Taxi.
+- MAN 2: Taxi.
+- MAN 3: Taxi.
 
 1289
 01:10:41,816 --> 01:10:44,478
@@ -5666,11 +5666,11 @@ I asked for extra mustard. Ah!
 
 1290
 01:10:45,119 --> 01:10:47,110
-<font color="#808080">(PEOPLE SCREAMING)</font>
+(PEOPLE SCREAMING)
 
 1291
 01:10:48,890 --> 01:10:50,289
-<font color="#808080">(SCREAMS)</font>
+(SCREAMS)
 
 1292
 01:10:50,458 --> 01:10:52,892
@@ -5678,20 +5678,20 @@ I was right.
 
 1293
 01:10:53,728 --> 01:10:55,662
-<font color="#808080">(PEOPLE SCREAMING)</font>
+(PEOPLE SCREAMING)
 
 1294
 01:11:02,236 --> 01:11:03,498
-<font color="#808080">(IN BRITISH ACCENT)</font>
+(IN BRITISH ACCENT)
 Hot tea?
 
 1295
 01:11:03,671 --> 01:11:05,696
-<font color="#804040">MAN</font>: Did he say hot tea?
+MAN: Did he say hot tea?
 
 1296
 01:11:07,008 --> 01:11:10,637
-<font color="#804040">WOMAN</font>: "You are about to be
+WOMAN: "You are about to be
 crushed by a giant corn."
 
 1297
@@ -5700,7 +5700,7 @@ Run!
 
 1298
 01:11:12,113 --> 01:11:14,104
-<font color="#808080">(ALL SCREAMING)</font>
+(ALL SCREAMING)
 
 1299
 01:11:14,615 --> 01:11:17,516
@@ -5727,7 +5727,7 @@ Hurry up, guys.
 
 1304
 01:11:28,930 --> 01:11:31,763
-<font color="#804040">FLINT</font>: After I plug my phone into
+FLINT: After I plug my phone into
 the FLDSMDFR and destroy it,
 
 1305
@@ -5745,15 +5745,15 @@ Ah!
 
 1308
 01:11:43,945 --> 01:11:45,412
-<font color="#808080">(SCREAMING)</font>
+(SCREAMING)
 
 1309
 01:11:48,282 --> 01:11:49,544
-<font color="#804040">SAM</font>: Oh, no.
+SAM: Oh, no.
 
 1310
 01:11:51,752 --> 01:11:53,947
-<font color="#808080">(GRUNTS)</font>
+(GRUNTS)
 
 1311
 01:11:54,589 --> 01:11:55,954
@@ -5843,7 +5843,7 @@ Flint. No!
 
 1331
 01:12:56,517 --> 01:12:57,814
-<font color="#804040">BRENT</font>: Hang on, Sam.
+BRENT: Hang on, Sam.
 
 1332
 01:12:57,985 --> 01:13:00,852
@@ -5852,15 +5852,15 @@ medicine for your face.
 
 1333
 01:13:02,356 --> 01:13:03,721
-<font color="#808080">(SCREAMS)</font>
+(SCREAMS)
 
 1334
 01:13:06,360 --> 01:13:08,021
-<font color="#804040">MACHINE</font>: Pickles.
+MACHINE: Pickles.
 
 1335
 01:13:08,295 --> 01:13:09,319
-<font color="#808080">(COUGHS)</font>
+(COUGHS)
 
 1336
 01:13:09,497 --> 01:13:10,691
@@ -5876,12 +5876,12 @@ Strawberry.
 
 1339
 01:13:21,042 --> 01:13:22,669
-<font color="#808080">(SCREAMS)</font>
+(SCREAMS)
 
 1340
 01:13:27,381 --> 01:13:30,373
-- <font color="#804040">SAM</font>: Manny, we're on our way. Hurry.
-- <font color="#804040">MANNY</font>: Hang on, Sam.
+- SAM: Manny, we're on our way. Hurry.
+- MANNY: Hang on, Sam.
 
 1341
 01:13:30,551 --> 01:13:32,883
@@ -5889,7 +5889,7 @@ I'm circling the blowhole.
 
 1342
 01:13:35,322 --> 01:13:36,653
-<font color="#808080">(SPEAKS IN SPANISH)</font>
+(SPEAKS IN SPANISH)
 
 1343
 01:13:36,824 --> 01:13:37,848
@@ -5897,11 +5897,11 @@ Scared.
 
 1344
 01:13:38,025 --> 01:13:39,993
-<font color="#808080">(MUSIC)</font>
+(MUSIC)
 
 1345
 01:13:43,330 --> 01:13:45,321
-<font color="#808080">(ENGINE SPUTTERING)</font>
+(ENGINE SPUTTERING)
 
 1346
 01:13:49,003 --> 01:13:50,027
@@ -5909,12 +5909,12 @@ Gummi Bears.
 
 1347
 01:13:50,204 --> 01:13:52,695
-<font color="#804040">GUMMI BEAR</font>: Play with us, play with us.
+GUMMI BEAR: Play with us, play with us.
 Eat us, eat us.
 
 1348
 01:13:53,841 --> 01:13:55,206
-<font color="#804040">STEVE</font>: Hungry!
+STEVE: Hungry!
 
 1349
 01:13:55,976 --> 01:13:59,173
@@ -5932,35 +5932,35 @@ Whoa!
 
 1352
 01:14:05,586 --> 01:14:07,918
-<font color="#808080">(BRENT SCREAMING)</font>
+(BRENT SCREAMING)
 
 1353
 01:14:08,089 --> 01:14:10,284
-<font color="#804040">BRENT</font>: Manny. Where are you?
+BRENT: Manny. Where are you?
 
 1354
 01:14:14,061 --> 01:14:15,790
-<font color="#808080">(SCREAMS)</font>
+(SCREAMS)
 
 1355
 01:14:18,599 --> 01:14:20,032
-<font color="#808080">(SCREAMS)</font>
+(SCREAMS)
 
 1356
 01:14:21,736 --> 01:14:22,896
-<font color="#808080">(WHIMPERS)</font>
+(WHIMPERS)
 
 1357
 01:14:23,070 --> 01:14:24,230
-<font color="#808080">(CHICKENS CLUCKING)</font>
+(CHICKENS CLUCKING)
 
 1358
 01:14:24,405 --> 01:14:27,306
-<font color="#808080">(SCREAMS)</font>
+(SCREAMS)
 
 1359
 01:14:30,211 --> 01:14:32,702
-<font color="#808080">(GIBBERING)</font>
+(GIBBERING)
 
 1360
 01:14:34,181 --> 01:14:36,308
@@ -5969,23 +5969,23 @@ Oh, boy.
 
 1361
 01:14:38,385 --> 01:14:42,253
-<font color="#808080">(HUMMING)</font>
+(HUMMING)
 
 1362
 01:14:45,392 --> 01:14:46,416
-<font color="#808080">(ALARM BUZZES)</font>
+(ALARM BUZZES)
 
 1363
 01:14:46,594 --> 01:14:49,620
-<font color="#804040">MACHINE</font>: Corn. Yikes!
+MACHINE: Corn. Yikes!
 
 1364
 01:15:19,160 --> 01:15:21,151
-<font color="#808080">(MACHINE SPEAKING INDISTINCTLY)</font>
+(MACHINE SPEAKING INDISTINCTLY)
 
 1365
 01:15:22,730 --> 01:15:23,851
-<font color="#804040">FLINT WHISPERING</font>: Grabbing.
+FLINT WHISPERING: Grabbing.
 
 1366
 01:15:24,298 --> 01:15:26,266
@@ -6001,11 +6001,11 @@ Swinging.
 
 1369
 01:15:39,680 --> 01:15:40,738
-<font color="#808080">(GRUNTING)</font>
+(GRUNTING)
 
 1370
 01:15:40,915 --> 01:15:43,179
-<font color="#808080">(ALARM BUZZING)</font>
+(ALARM BUZZING)
 
 1371
 01:15:43,384 --> 01:15:46,182
@@ -6018,7 +6018,7 @@ Yah!
 
 1373
 01:15:49,690 --> 01:15:51,920
-<font color="#804040">CAT ON MONITOR</font>: Fight the power!
+CAT ON MONITOR: Fight the power!
 
 1374
 01:15:52,393 --> 01:15:53,451
@@ -6034,15 +6034,15 @@ Ah! Whoa! Whoa!
 
 1377
 01:16:03,537 --> 01:16:05,528
-<font color="#808080">(SCREAMING)</font>
+(SCREAMING)
 
 1378
 01:16:20,487 --> 01:16:22,318
-<font color="#808080">(GRUNTING)</font>
+(GRUNTING)
 
 1379
 01:16:32,466 --> 01:16:34,991
-<font color="#808080">(MUSIC)</font>
+(MUSIC)
 
 1380
 01:16:35,836 --> 01:16:40,205
@@ -6058,12 +6058,12 @@ Yeah.
 
 1383
 01:17:02,263 --> 01:17:03,821
-<font color="#804040">SAM</font>: Just...
+SAM: Just...
 There were chickens...
 
 1384
 01:17:03,998 --> 01:17:05,022
-<font color="#808080">(GASPS)</font>
+(GASPS)
 
 1385
 01:17:05,199 --> 01:17:06,223
@@ -6083,24 +6083,24 @@ I know.
 
 1389
 01:17:20,547 --> 01:17:22,037
-<font color="#808080">(ALL CHEERING)</font>
+(ALL CHEERING)
 
 1390
 01:17:24,485 --> 01:17:26,749
-- <font color="#804040">CAL</font>: Cool.
-- <font color="#804040">EARL</font>: Yeah. All right.
+- CAL: Cool.
+- EARL: Yeah. All right.
 
 1391
 01:17:45,506 --> 01:17:47,497
-<font color="#808080">(CHEERS & APPLAUSE)</font>
+(CHEERS & APPLAUSE)
 
 1392
 01:17:56,817 --> 01:17:58,808
-<font color="#808080">(MUSIC)</font>
+(MUSIC)
 
 1393
 01:18:00,020 --> 01:18:01,954
-<font color="#808080">(SIGHS)</font>
+(SIGHS)
 
 1394
 01:18:04,525 --> 01:18:05,822
@@ -6116,7 +6116,7 @@ Oh.
 
 1397
 01:18:21,175 --> 01:18:22,540
-<font color="#808080">(WHIMPERS)</font>
+(WHIMPERS)
 
 1398
 01:18:28,849 --> 01:18:31,579
@@ -6124,11 +6124,11 @@ Your son was a great man.
 
 1399
 01:18:36,323 --> 01:18:40,555
-<font color="#808080">(RATBIRDS SQUAWKING)</font>
+(RATBIRDS SQUAWKING)
 
 1400
 01:18:52,106 --> 01:18:53,801
-<font color="#808080">(SQUAWKING)</font>
+(SQUAWKING)
 
 1401
 01:18:56,810 --> 01:18:59,540
@@ -6149,16 +6149,16 @@ Steve. Flint.
 1405
 01:19:04,585 --> 01:19:05,813
 - Earl.
-- <font color="#804040">MAN</font>: Flint.
+- MAN: Flint.
 
 1406
 01:19:05,986 --> 01:19:08,318
 - You guy.
-- <font color="#804040">STEVE</font>: Steve.
+- STEVE: Steve.
 
 1407
 01:19:08,489 --> 01:19:09,956
-<font color="#808080">(CHEERS & APPLAUSE)</font>
+(CHEERS & APPLAUSE)
 
 1408
 01:19:10,691 --> 01:19:11,885
@@ -6199,15 +6199,15 @@ if it's not straight... Um...
 
 1417
 01:19:33,180 --> 01:19:35,080
-<font color="#804040">SAM</font>: Oh, for crying out loud.
+SAM: Oh, for crying out loud.
 
 1418
 01:19:35,249 --> 01:19:36,614
-<font color="#808080">(SQUEALS)</font>
+(SQUEALS)
 
 1419
 01:19:39,219 --> 01:19:41,259
-<font color="#804040">TIM'S VOICE OVER SPEAKER</font>:
+TIM'S VOICE OVER SPEAKER:
 I'm proud of you, Flint.
 
 1420
@@ -6268,11 +6268,11 @@ I love you too, Dad.
 
 1432
 01:20:20,427 --> 01:20:22,520
-<font color="#808080">(CROWD CHEERING)</font>
+(CROWD CHEERING)
 
 1433
 01:20:24,565 --> 01:20:26,089
-<font color="#808080">(SOBBING)</font>
+(SOBBING)
 
 1434
 01:20:30,671 --> 01:20:32,536
@@ -6301,23 +6301,23 @@ Just kiss me. You know...
 
 1440
 01:20:43,951 --> 01:20:45,612
-<font color="#808080">(INHALES DEEPLY)</font>
+(INHALES DEEPLY)
 
 1441
 01:20:46,386 --> 01:20:47,910
-<font color="#808080">(INHALES DEEPLY)</font>
+(INHALES DEEPLY)
 
 1442
 01:20:48,555 --> 01:20:49,988
-<font color="#808080">(ALL APPLAUDING)</font>
+(ALL APPLAUDING)
 
 1443
 01:20:53,327 --> 01:20:56,490
-<font color="#804040">BRENT</font>: Yeah! I'm a chicken!
+BRENT: Yeah! I'm a chicken!
 
 1444
 01:20:59,800 --> 01:21:01,791
-<font color="#808080">(RATBIRDS SQUAWKING)</font>
+(RATBIRDS SQUAWKING)
 
 1445
 01:21:14,481 --> 01:21:18,281
@@ -6325,12 +6325,12 @@ This was not well thought out.
 
 1446
 01:21:20,721 --> 01:21:24,248
-<font color="#808080">(MIRANDA COSGROVE'S
-"RAINING SUNSHINE" PLAYING)</font>
+(MIRANDA COSGROVE'S
+"RAINING SUNSHINE" PLAYING)
 
 1447
 01:24:53,333 --> 01:24:56,791
-<font color="#808080">(MUSIC)</font>
+(MUSIC)
 
 1448
 01:24:56,891 --> 01:25:01,891

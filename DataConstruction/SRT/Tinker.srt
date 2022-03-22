@@ -1,78 +1,78 @@
-﻿1
+1
 00:00:51,000 --> 00:00:54,380
-<i>Have you ever wondered
-how nature gets its glow?</i>
+Have you ever wondered
+how nature gets its glow?
 
 2
 00:01:02,400 --> 00:01:04,366
-<i>Who gives it light and color
-as the seasons come and go?</i>
+Who gives it light and color
+as the seasons come and go?
 
 3
 00:01:04,390 --> 00:01:07,830
-<i>Who helps all creatures,
-great and small,</i>
+Who helps all creatures,
+great and small,
 
 4
 00:01:07,930 --> 00:01:10,525
-<i>to walk, to swim, to fly?</i>
+to walk, to swim, to fly?
 
 5
 00:01:13,070 --> 00:01:15,400
-<i>Who crafts such tiny details?</i>
+Who crafts such tiny details?
 
 6
 00:01:18,775 --> 00:01:21,000
-<i>You might see them if you try.</i>
+You might see them if you try.
 
 7
 00:01:23,510 --> 00:01:28,310
-<i>For it's all the work of fairies,
-but they stay well out of sight.</i>
+For it's all the work of fairies,
+but they stay well out of sight.
 
 8
 00:01:35,660 --> 00:01:40,490
-<i>And the first time that a baby laughs,
-a fairy's life takes flight.</i>
+And the first time that a baby laughs,
+a fairy's life takes flight.
 
 9
 00:01:41,798 --> 00:01:43,288
-<i>When the moon comes out</i>
+When the moon comes out
 
 10
 00:01:43,399 --> 00:01:45,526
-<i>To shine her face</i>
+To shine her face
 
 11
 00:01:45,635 --> 00:01:48,399
-<i>The birds are fast asleep</i>
+The birds are fast asleep
 
 12
 00:01:48,505 --> 00:01:54,876
-<i>And the lanterns hang from every post
-The fairies leave their keep</i>
+And the lanterns hang from every post
+The fairies leave their keep
 
 13
 00:01:54,978 --> 00:01:58,675
-<i>They join their hands
-and sing their songs</i>
+They join their hands
+and sing their songs
 
 14
 00:01:58,782 --> 00:02:01,683
-<i>That nary a soul can hear</i>
+That nary a soul can hear
 
 15
 00:02:01,785 --> 00:02:04,686
-<i>In the springtime
-when the earth is new</i>
+In the springtime
+when the earth is new
 
 16
 00:02:05,855 --> 00:02:09,450
-<i>To the fairies they draw near</i>
+To the fairies they draw near
 
 17
 00:02:09,559 --> 00:02:16,522
-<i>To the fairies they draw near</i>
+To the fairies they draw near
 
 18
 00:03:43,417 --> 00:03:44,975
@@ -1756,7 +1756,7 @@ as a light fairy kind of gal.
 
 394
 00:33:41,715 --> 00:33:44,309
-<i>Here we go in the treasure...</i>
+Here we go in the treasure...
 
 395
 00:33:48,288 --> 00:33:50,288
@@ -3251,66 +3251,66 @@ The mainland awaits!
 
 729
 01:04:52,946 --> 01:04:57,849
-<i>(SINGING) Come away
-with me now to the sky</i>
+(SINGING) Come away
+with me now to the sky
 
 730
 01:04:57,951 --> 01:05:01,852
-<i>Up o'er the hills and the sea</i>
+Up o'er the hills and the sea
 
 731
 01:05:01,954 --> 01:05:06,357
-<i>Far beyond where our memories lie</i>
+Far beyond where our memories lie
 
 732
 01:05:06,458 --> 01:05:10,758
-<i>To a place where I'm free to be me</i>
+To a place where I'm free to be me
 
 733
 01:05:13,132 --> 01:05:16,966
-<i>Oh gather ye now one and all</i>
+Oh gather ye now one and all
 
 734
 01:05:17,069 --> 01:05:21,768
-<i>No matter what all ye may do</i>
+No matter what all ye may do
 
 735
 01:05:21,874 --> 01:05:26,641
-<i>Let the stars fill your soul
-when the moon cradles all</i>
+Let the stars fill your soul
+when the moon cradles all
 
 736
 01:05:26,745 --> 01:05:31,648
-<i>So to yourself be true</i>
+So to yourself be true
 
 737
 01:05:33,051 --> 01:05:37,818
-<i>The blanket of snow is all gone</i>
+The blanket of snow is all gone
 
 738
 01:05:37,923 --> 01:05:41,791
-<i>Each flower waits for the sun</i>
+Each flower waits for the sun
 
 739
 01:05:41,894 --> 01:05:46,354
-<i>And the whispering tears of the rain</i>
+And the whispering tears of the rain
 
 740
 01:05:46,465 --> 01:05:50,902
-<i>Holds promise for everyone</i>
+Holds promise for everyone
 
 741
 01:05:51,003 --> 01:05:54,837
-<i>Then come away with me friends</i>
+Then come away with me friends
 
 742
 01:05:54,940 --> 01:05:59,433
-<i>No matter where you call your home</i>
+No matter where you call your home
 
 743
 01:05:59,544 --> 01:06:03,310
-<i>With a light in our hearts
-We will never part</i>
+With a light in our hearts
+We will never part
 
 744
 01:06:03,414 --> 01:06:05,279
@@ -3326,11 +3326,11 @@ To the east and west!
 
 747
 01:06:20,565 --> 01:06:24,661
-<i>Deep in the forest we go</i>
+Deep in the forest we go
 
 748
 01:06:24,769 --> 01:06:26,100
-<i>The creatures are all fast asleep</i>
+The creatures are all fast asleep
 
 749
 01:06:26,204 --> 01:06:30,766
@@ -3339,68 +3339,68 @@ Come on! There you go. Good squirrel.
 
 750
 01:06:30,875 --> 01:06:32,675
-<i>With a kiss and a wink
-we will waken our souls</i>
+With a kiss and a wink
+we will waken our souls
 
 751
 01:06:32,743 --> 01:06:36,338
-<i>While always their safety we'll keep</i>
+While always their safety we'll keep
 
 752
 01:06:36,447 --> 01:06:40,247
-<i>And then, then we'll dance
-through the night</i>
+And then, then we'll dance
+through the night
 
 753
 01:06:40,384 --> 01:06:44,582
-<i>Till the sunbeams sparkle at dawn</i>
+Till the sunbeams sparkle at dawn
 
 754
 01:06:44,689 --> 01:06:49,092
-<i>And away we will go
-Like last winter's snow</i>
+And away we will go
+Like last winter's snow
 
 755
 01:06:49,193 --> 01:06:52,754
-<i>Soon our work will be done</i>
+Soon our work will be done
 
 756
 01:06:52,864 --> 01:06:56,663
-<i>Oh gather ye now one and all</i>
+Oh gather ye now one and all
 
 757
 01:06:56,766 --> 01:07:00,725
-<i>No matter what all ye may do</i>
+No matter what all ye may do
 
 758
 01:07:00,837 --> 01:07:05,331
-<i>Let the stars fill your soul
-when the moon cradles all</i>
+Let the stars fill your soul
+when the moon cradles all
 
 759
 01:07:07,510 --> 01:07:11,708
-<i>So to yourself be true</i>
+So to yourself be true
 
 760
 01:07:25,161 --> 01:07:29,120
-<i>Oh gather ye now one and all</i>
+Oh gather ye now one and all
 
 761
 01:07:29,232 --> 01:07:33,259
-<i>No matter what all ye may do</i>
+No matter what all ye may do
 
 762
 01:07:33,370 --> 01:07:38,000
-<i>Let the stars fill your soul
-when the moon cradles all</i>
+Let the stars fill your soul
+when the moon cradles all
 
 763
 01:07:38,108 --> 01:07:42,511
-<i>So to yourself be true</i>
+So to yourself be true
 
 764
 01:07:49,152 --> 01:07:56,080
-<i>So to yourself be true</i>
+So to yourself be true
 
 765
 01:09:52,572 --> 01:09:54,802
@@ -3413,12 +3413,12 @@ What is it, darling?
 
 767
 01:10:03,950 --> 01:10:05,781
-<i>A fairy's work is
-much more than,</i>
+A fairy's work is
+much more than,
 
 768
 01:10:05,886 --> 01:10:06,944
-<i>at first, it might appear.</i>
+at first, it might appear.
 
 769
 01:10:07,054 --> 01:10:08,419
@@ -3426,142 +3426,141 @@ You did it!
 
 770
 01:10:09,322 --> 01:10:12,951
-<i>Suppose your broken clock ticks,
-though it hasn't in a year.</i>
+Suppose your broken clock ticks,
+though it hasn't in a year.
 
 771
 01:10:14,161 --> 01:10:18,621
-<i>Perchance you find a toy you lost,
-or jingling bells you hear.</i>
+Perchance you find a toy you lost,
+or jingling bells you hear.
 
 772
 01:10:21,468 --> 01:10:26,770
-<i>It all means that
-one very special fairy might be near.</i>
+It all means that
+one very special fairy might be near.
 
 773
 01:10:43,589 --> 01:10:47,787
-<i>(SINGING) Watch all the flowers
-dance with the wind</i>
+(SINGING) Watch all the flowers
+dance with the wind
 
 774
 01:10:47,893 --> 01:10:52,262
-<i>Listen to snowflakes
-whisper your name</i>
+Listen to snowflakes
+whisper your name
 
 775
 01:10:52,364 --> 01:10:55,891
-<i>Feel all the wonder lifting your dreams</i>
+Feel all the wonder lifting your dreams
 
 776
 01:10:56,001 --> 01:11:00,870
-<i>You can fly</i>
+You can fly
 
 777
 01:11:00,973 --> 01:11:05,137
-<i>Fly to who you are</i>
+Fly to who you are
 
 778
 01:11:05,244 --> 01:11:09,305
-<i>Climb upon your star</i>
+Climb upon your star
 
 779
 01:11:09,415 --> 01:11:13,749
-<i>You believe you'll find your wings</i>
+You believe you'll find your wings
 
 780
 01:11:13,853 --> 01:11:20,782
-<i>Fly to your heart</i>
+Fly to your heart
 
 781
 01:11:22,561 --> 01:11:26,588
-<i>Touch every rainbow painting the sky</i>
+Touch every rainbow painting the sky
 
 782
 01:11:26,699 --> 01:11:30,829
-<i>Look at the magic glide
-through your life</i>
+Look at the magic glide
+through your life
 
 783
 01:11:30,936 --> 01:11:34,599
-<i>A sprinkle of pixie dust circles the night</i>
+A sprinkle of pixie dust circles the night
 
 784
 01:11:34,707 --> 01:11:39,542
-<i>You can fly</i>
+You can fly
 
 785
 01:11:39,645 --> 01:11:43,944
-<i>Fly to who you are</i>
+Fly to who you are
 
 786
 01:11:44,048 --> 01:11:48,075
-<i>Climb upon your star</i>
+Climb upon your star
 
 787
 01:11:48,186 --> 01:11:52,555
-<i>When you believe
-you'll find your wings</i>
+When you believe
+you'll find your wings
 
 788
 01:11:52,657 --> 01:11:56,218
-<i>Fly</i>
+Fly
 
 789
 01:11:56,327 --> 01:12:00,423
-<i>You can fly</i>
+You can fly
 
 790
 01:12:00,532 --> 01:12:04,730
-<i>To your heart</i>
+To your heart
 
 791
 01:12:07,639 --> 01:12:13,805
-<i>Rise to the heights of all you can be</i>
+Rise to the heights of all you can be
 
 792
 01:12:16,314 --> 01:12:22,549
-<i>Soar on the hope of marvelous things</i>
+Soar on the hope of marvelous things
 
 793
 01:12:22,654 --> 01:12:27,023
-<i>Fly to who you are</i>
+Fly to who you are
 
 794
 01:12:27,125 --> 01:12:31,186
-<i>Climb upon your star</i>
+Climb upon your star
 
 795
 01:12:31,296 --> 01:12:35,562
-<i>When you believe
-you'll find your wings</i>
+When you believe
+you'll find your wings
 
 796
 01:12:35,667 --> 01:12:39,864
-<i>Fly</i>
+Fly
 
 797
 01:12:39,970 --> 01:12:44,066
-<i>Everywhere you go</i>
+Everywhere you go
 
 798
 01:12:44,174 --> 01:12:48,508
-<i>Your soul will find a home</i>
+Your soul will find a home
 
 799
 01:12:48,612 --> 01:12:54,787
-<i>You'll be free
-to spread your wings</i>
+You'll be free
+to spread your wings
 
 800
 01:12:54,985 --> 01:12:58,546
-<i>Fly</i>
+Fly
 
 801
 01:12:58,655 --> 01:13:05,618
-<i>You can fly</i>
+You can fly
 
 802
 01:13:05,729 --> 01:13:10,063
-<i>To your heart</i>
-
+To your heart

@@ -1,153 +1,153 @@
-﻿1
+1
 00:00:48,258 --> 00:00:51,469
-<i>My name's Ralph, and I'm a bad guy.</i>
+My name's Ralph, and I'm a bad guy.
 
 2
 00:00:55,723 --> 00:00:57,976
-<i>Let's see. I'm nine feet tall.
-I weigh 643 pounds.</i>
+Let's see. I'm nine feet tall.
+I weigh 643 pounds.
 
 3
 00:00:58,476 --> 00:01:00,144
-<i>Got a little bit of a temper on me.</i>
+Got a little bit of a temper on me.
 
 4
 00:01:03,815 --> 00:01:05,942
-<i>My passion bubbles
-very near the surface,</i>
+My passion bubbles
+very near the surface,
 
 5
 00:01:06,109 --> 00:01:07,986
-<i>I guess, not gonna lie.</i>
+I guess, not gonna lie.
 
 6
 00:01:09,612 --> 00:01:11,990
-<i>Anyhoo, what else? Uh...</i>
+Anyhoo, what else? Uh...
 
 7
 00:01:12,699 --> 00:01:15,785
-<i>I'm a wrecker. I wreck things.
-Professionally.</i>
+I'm a wrecker. I wreck things.
+Professionally.
 
 8
 00:01:17,287 --> 00:01:20,456
-<i>I'm very good at what I do.
-Probably the best I know.</i>
+I'm very good at what I do.
+Probably the best I know.
 
 9
 00:01:21,666 --> 00:01:24,586
-<i>The thing is, fixing
-is the name of the game.</i>
+The thing is, fixing
+is the name of the game.
 
 10
 00:01:24,669 --> 00:01:26,337
-<i>Literally,</i> Fix-It Felix, Jr.
+Literally, Fix-It Felix, Jr.
 
 11
 00:01:26,462 --> 00:01:27,505
-<i>Fix it, Felix!</i>
+Fix it, Felix!
 
 12
 00:01:29,841 --> 00:01:31,175
-<i>So, yeah, naturally,</i>
+So, yeah, naturally,
 
 13
 00:01:31,426 --> 00:01:34,012
-<i>the guy with the name
-Fix-It Felix is the good guy.</i>
+the guy with the name
+Fix-It Felix is the good guy.
 
 14
 00:01:34,095 --> 00:01:35,972
-<i>He's nice enough as good guys go.</i>
+He's nice enough as good guys go.
 
 15
 00:01:36,180 --> 00:01:37,974
-<i>Definitely fixes stuff really well.</i>
+Definitely fixes stuff really well.
 
 16
 00:01:39,350 --> 00:01:42,186
-<i>But, uh, if you've got a magic hammer
-from your father,</i>
+But, uh, if you've got a magic hammer
+from your father,
 
 17
 00:01:42,270 --> 00:01:43,855
-<i>how hard can it be?</i>
+how hard can it be?
 
 18
 00:01:44,606 --> 00:01:47,191
-<i>If he was a regular contractor
-carpenter guy,</i>
+If he was a regular contractor
+carpenter guy,
 
 19
 00:01:47,734 --> 00:01:49,736
-<i>I guarantee you would not be able</i>
+I guarantee you would not be able
 
 20
 00:01:49,902 --> 00:01:51,863
-<i>to fix the damage that I do as quickly.</i>
+to fix the damage that I do as quickly.
 
 21
 00:01:53,698 --> 00:01:55,867
-<i>And when Felix does
-a good job, he gets a medal.</i>
+And when Felix does
+a good job, he gets a medal.
 
 22
 00:01:56,701 --> 00:02:00,079
-<i>But are there medals for
-wrecking stuff really well?</i>
+But are there medals for
+wrecking stuff really well?
 
 23
 00:02:00,163 --> 00:02:02,040
-<i>To that I say, "Ha!"</i>
+To that I say, "Ha!"
 
 24
 00:02:04,042 --> 00:02:05,752
-<i>And, no, there aren't.</i>
+And, no, there aren't.
 
 25
 00:02:09,339 --> 00:02:11,049
-<i>Thirty years I've been doing this</i>
+Thirty years I've been doing this
 
 26
 00:02:11,215 --> 00:02:13,926
-<i>and I've seen a lot of
-other games come and go.</i>
+and I've seen a lot of
+other games come and go.
 
 27
 00:02:14,093 --> 00:02:17,180
-<i>Kind of sad. I think about
-all those guys from</i> Asteroids.
+Kind of sad. I think about
+all those guys from Asteroids.
 
 28
 00:02:17,347 --> 00:02:19,641
-<i>Boom! Gone.</i> Centipede?
+Boom! Gone. Centipede?
 
 29
 00:02:19,724 --> 00:02:21,559
-<i>Who knows where
-that guy is, you know?</i>
+Who knows where
+that guy is, you know?
 
 30
 00:02:22,268 --> 00:02:24,646
-<i>Look, a steady arcade gig
-is nothing to sneeze at.</i>
+Look, a steady arcade gig
+is nothing to sneeze at.
 
 31
 00:02:24,729 --> 00:02:25,855
-<i>I'm very lucky.</i>
+I'm very lucky.
 
 32
 00:02:27,315 --> 00:02:29,317
-<i>It's just, I got to say,</i>
+It's just, I got to say,
 
 33
 00:02:29,651 --> 00:02:31,944
-<i>it becomes kind of hard to love your job</i>
+it becomes kind of hard to love your job
 
 34
 00:02:32,028 --> 00:02:34,280
-<i>when no one seems to
-like you for doing it.</i>
+when no one seems to
+like you for doing it.
 
 35
 00:02:37,992 --> 00:02:40,536
@@ -172,19 +172,19 @@ Quitting time!
 
 40
 00:03:05,103 --> 00:03:06,688
-<i>I don't know.</i>
+I don't know.
 
 41
 00:03:06,771 --> 00:03:08,314
-<i>Maybe I wouldn't be feeling this way</i>
+Maybe I wouldn't be feeling this way
 
 42
 00:03:08,439 --> 00:03:10,441
-<i>if things were different after work.</i>
+if things were different after work.
 
 43
 00:03:11,150 --> 00:03:12,944
-<i>But it is what it is.</i>
+But it is what it is.
 
 44
 00:03:12,985 --> 00:03:14,112
@@ -192,80 +192,80 @@ Good job, everyone!
 
 45
 00:03:14,153 --> 00:03:15,655
-<i>Felix and the Nicelanders</i>
+Felix and the Nicelanders
 
 46
 00:03:15,780 --> 00:03:17,615
-<i>go hang out in their homes</i>
+go hang out in their homes
 
 47
 00:03:17,699 --> 00:03:20,284
-<i>which he's just fixed,
-and everyone, you know...</i>
+which he's just fixed,
+and everyone, you know...
 
 48
 00:03:22,537 --> 00:03:25,164
-<i>They go to their homes, I go to mine</i>
+They go to their homes, I go to mine
 
 49
 00:03:25,331 --> 00:03:28,126
-<i>which happens to be a dump.</i>
+which happens to be a dump.
 
 50
 00:03:28,292 --> 00:03:29,877
-<i>And when I say "a dump,"</i>
+And when I say "a dump,"
 
 51
 00:03:29,961 --> 00:03:31,295
-<i>I don't mean like a shabby place.</i>
+I don't mean like a shabby place.
 
 52
 00:03:31,379 --> 00:03:33,881
-<i>I mean an actual dump,</i>
+I mean an actual dump,
 
 53
 00:03:34,048 --> 00:03:36,134
-<i>where the garbage goes</i>
+where the garbage goes
 
 54
 00:03:36,217 --> 00:03:39,512
-<i>and a bunch of bricks
-and smashed building parts...</i>
+and a bunch of bricks
+and smashed building parts...
 
 55
 00:03:40,638 --> 00:03:42,181
-<i>That's what I call home.</i>
+That's what I call home.
 
 56
 00:03:42,974 --> 00:03:44,475
-<i>I guess I can't bellyache too much.</i>
+I guess I can't bellyache too much.
 
 57
 00:03:45,143 --> 00:03:47,145
-<i>I got my bricks, I got my stump.</i>
+I got my bricks, I got my stump.
 
 58
 00:03:50,231 --> 00:03:54,235
-<i>It looks uncomfortable.
-It's actually fine. I'm good.</i>
+It looks uncomfortable.
+It's actually fine. I'm good.
 
 59
 00:03:57,822 --> 00:04:02,493
-<i>But if I'm really honest with myself...</i>
+But if I'm really honest with myself...
 
 60
 00:04:02,994 --> 00:04:07,331
-<i>I see Felix up there
-getting patted on the back,</i>
+I see Felix up there
+getting patted on the back,
 
 61
 00:04:07,498 --> 00:04:11,502
-<i>people are giving him pie
-and thanking him</i>
+people are giving him pie
+and thanking him
 
 62
 00:04:11,669 --> 00:04:14,672
-<i>and so happy to see him all the time.</i>
+and so happy to see him all the time.
 
 63
 00:04:14,839 --> 00:04:16,924
@@ -563,7 +563,7 @@ And where are you coming from?
 
 130
 00:08:13,661 --> 00:08:15,079
-Uh<i>... Pac-Man.</i>
+Uh... Pac-Man.
 
 131
 00:08:15,121 --> 00:08:16,580
@@ -579,7 +579,7 @@ Okay, then. Where are you heading?
 
 134
 00:08:19,625 --> 00:08:20,668
-<i>Fix-It Felix Jr.</i>
+Fix-It Felix Jr.
 
 135
 00:08:20,751 --> 00:08:22,586
@@ -596,28 +596,28 @@ Bad guy coming!
 
 138
 00:08:32,304 --> 00:08:33,931
-<i>If you leave your game,</i>
+If you leave your game,
 
 139
 00:08:33,973 --> 00:08:35,933
-<i>stay safe, stay alert,</i>
+stay safe, stay alert,
 
 140
 00:08:36,017 --> 00:08:38,394
-<i>and whatever you do, don't die.</i>
+and whatever you do, don't die.
 
 141
 00:08:38,477 --> 00:08:40,646
-<i>Because if you die
-outside your own game</i>
+Because if you die
+outside your own game
 
 142
 00:08:40,771 --> 00:08:42,273
-<i>you don't regenerate.</i>
+you don't regenerate.
 
 143
 00:08:42,356 --> 00:08:44,108
-<i>Ever. Game over.</i>
+Ever. Game over.
 
 144
 00:08:53,993 --> 00:08:55,327
@@ -637,8 +637,8 @@ Name?
 
 148
 00:09:12,720 --> 00:09:16,348
-<i>Celebrate good times
-Come on!</i>
+Celebrate good times
+Come on!
 
 149
 00:09:38,204 --> 00:09:40,831
@@ -1310,15 +1310,15 @@ We are humanity's last hope.
 
 306
 00:16:36,538 --> 00:16:37,581
-<i>Attention!</i>
+Attention!
 
 307
 00:16:37,664 --> 00:16:40,292
-<i>The arcade will open in five minutes.</i>
+The arcade will open in five minutes.
 
 308
 00:16:40,375 --> 00:16:42,294
-<i>Please report to your games.</i>
+Please report to your games.
 
 309
 00:16:43,504 --> 00:16:47,007
@@ -1340,7 +1340,7 @@ Hero's something.
 
 313
 00:16:56,767 --> 00:16:57,976
-<i>Duty. Hero's Duty.</i>
+Duty. Hero's Duty.
 
 314
 00:16:58,143 --> 00:16:59,269
@@ -1373,11 +1373,11 @@ Good to see you. You, too, little fella.
 
 321
 00:17:31,760 --> 00:17:33,845
-<i>Quarter alert! Quarter alert!</i>
+Quarter alert! Quarter alert!
 
 322
 00:17:33,929 --> 00:17:34,930
-<i>This is not a drill.</i>
+This is not a drill.
 
 323
 00:17:35,013 --> 00:17:37,766
@@ -1385,16 +1385,16 @@ Ooh! Sweet golden medal!
 
 324
 00:17:43,522 --> 00:17:45,315
-<i>On a planet with no name</i>
+On a planet with no name
 
 325
 00:17:45,399 --> 00:17:48,485
-<i>a top-secret experiment
-has gone horribly wrong.</i>
+a top-secret experiment
+has gone horribly wrong.
 
 326
 00:17:49,444 --> 00:17:52,614
-<i>You are humanity's last hope.</i>
+You are humanity's last hope.
 
 327
 00:17:54,825 --> 00:17:57,119
@@ -1449,15 +1449,15 @@ Boop, boop, boop.
 
 339
 00:18:19,016 --> 00:18:22,060
-<i>Game play in three, two, one.</i>
+Game play in three, two, one.
 
 340
 00:18:24,187 --> 00:18:26,064
-<i>We are humanity's last hope.</i>
+We are humanity's last hope.
 
 341
 00:18:26,148 --> 00:18:27,149
-<i>Our mission?</i>
+Our mission?
 
 342
 00:18:27,941 --> 00:18:30,068
@@ -1506,21 +1506,21 @@ Something's coming out of their bottom!
 
 353
 00:19:16,198 --> 00:19:18,200
-<i>- Oh, gross!
-- Markowski!</i>
+- Oh, gross!
+- Markowski!
 
 354
 00:19:18,283 --> 00:19:19,868
-<i>Get back in formation!</i>
+Get back in formation!
 
 355
 00:19:20,661 --> 00:19:21,828
-<i>All right, ladies,</i>
+All right, ladies,
 
 356
 00:19:21,912 --> 00:19:24,456
-<i>the kitten whispers
-and tickle fights stop now.</i>
+the kitten whispers
+and tickle fights stop now.
 
 357
 00:19:24,539 --> 00:19:26,291
@@ -1539,7 +1539,7 @@ Oh! Sanctuary! Sanctuary!
 360
 00:19:33,590 --> 00:19:35,217
 I thought this was going
-to be like <i>Centipede!</i>
+to be like Centipede!
 
 361
 00:19:35,759 --> 00:19:38,428
@@ -1548,7 +1548,7 @@ become so violent and scary?
 
 362
 00:19:38,887 --> 00:19:40,806
-<i>Please, get me out of here!</i>
+Please, get me out of here!
 
 363
 00:19:42,432 --> 00:19:43,517
@@ -1572,12 +1572,12 @@ Cease fire! Cease fire!
 
 368
 00:20:09,584 --> 00:20:12,170
-<i>Attention!
-Return to start positions.</i>
+Attention!
+Return to start positions.
 
 369
 00:20:12,337 --> 00:20:14,005
-<i>Return to start positions.</i>
+Return to start positions.
 
 370
 00:20:15,674 --> 00:20:18,385
@@ -1598,7 +1598,7 @@ Whoa! Oh, yeah, me. I'm Markowski. Ah!
 
 374
 00:20:26,143 --> 00:20:27,978
-What's the first rule of <i>Hero's Duty?</i>
+What's the first rule of Hero's Duty?
 
 375
 00:20:28,353 --> 00:20:30,605
@@ -1628,8 +1628,8 @@ Right. Right. Aye, aye.
 
 381
 00:20:43,618 --> 00:20:45,245
-<i>Quarter alert!
-Quarter alert!</i>
+Quarter alert!
+Quarter alert!
 
 382
 00:20:45,328 --> 00:20:48,081
@@ -1690,7 +1690,7 @@ Shh! Stick with the program.
 
 395
 00:21:35,212 --> 00:21:36,880
-<i>Fix it, Felix!</i>
+Fix it, Felix!
 
 396
 00:21:45,138 --> 00:21:48,225
@@ -1735,7 +1735,7 @@ The game's busted.
 
 406
 00:22:20,799 --> 00:22:23,760
-<i>I can fix it! I can fix it!</i>
+I can fix it! I can fix it!
 
 407
 00:22:23,844 --> 00:22:24,886
@@ -1829,8 +1829,8 @@ Shiny.
 
 428
 00:23:59,564 --> 00:24:02,400
-<i>Attention!
-The arcade is now closed.</i>
+Attention!
+The arcade is now closed.
 
 429
 00:24:02,484 --> 00:24:03,902
@@ -1858,7 +1858,7 @@ I'm Fix-It Felix, Jr., ma'am.
 
 435
 00:24:30,095 --> 00:24:32,639
-From the game <i>Fix-It Felix, Jr.</i>
+From the game Fix-It Felix, Jr.
 
 436
 00:24:34,099 --> 00:24:36,059
@@ -1912,15 +1912,15 @@ Okay. That was easy.
 
 448
 00:25:31,406 --> 00:25:32,949
-<i>Congratulations, soldier.</i>
+Congratulations, soldier.
 
 449
 00:25:33,116 --> 00:25:35,243
-<i>It is my honor to bestow upon you</i>
+It is my honor to bestow upon you
 
 450
 00:25:35,827 --> 00:25:37,412
-<i>the Medal of Heroes.</i>
+the Medal of Heroes.
 
 451
 00:25:38,580 --> 00:25:40,165
@@ -1932,7 +1932,7 @@ No way!
 
 453
 00:25:55,805 --> 00:25:56,806
-<i>Ten-hut!</i>
+Ten-hut!
 
 454
 00:25:57,849 --> 00:25:59,517
@@ -1940,8 +1940,8 @@ Wow!
 
 455
 00:26:02,103 --> 00:26:04,856
-<i>History will long revere
-your courage and sacrifice.</i>
+History will long revere
+your courage and sacrifice.
 
 456
 00:26:05,065 --> 00:26:06,066
@@ -1949,11 +1949,11 @@ Well, thank you!
 
 457
 00:26:06,149 --> 00:26:07,984
-<i>You have etched in the rock of virtue</i>
+You have etched in the rock of virtue
 
 458
 00:26:08,068 --> 00:26:09,903
-<i>a legacy beyond compare.</i>
+a legacy beyond compare.
 
 459
 00:26:10,278 --> 00:26:12,530
@@ -1961,7 +1961,7 @@ Thanks, guys. At ease!
 
 460
 00:26:12,906 --> 00:26:15,575
-<i>You are the universe's greatest hero.</i>
+You are the universe's greatest hero.
 
 461
 00:26:15,700 --> 00:26:16,785
@@ -1969,8 +1969,8 @@ Oops!
 
 462
 00:26:19,579 --> 00:26:22,165
-<i>The living embodiment of
-all this corps represents.</i>
+The living embodiment of
+all this corps represents.
 
 463
 00:26:22,457 --> 00:26:23,666
@@ -1978,16 +1978,16 @@ Oh.
 
 464
 00:26:24,125 --> 00:26:27,796
-<i>Bravery. Integrity.
-Grace under pressure.</i>
+Bravery. Integrity.
+Grace under pressure.
 
 465
 00:26:28,630 --> 00:26:30,590
-<i>And above all, dignity.</i>
+And above all, dignity.
 
 466
 00:26:30,673 --> 00:26:32,717
-<i>Escape pod activated.</i>
+Escape pod activated.
 
 467
 00:26:36,137 --> 00:26:37,305
@@ -2016,7 +2016,7 @@ Huh?
 
 473
 00:27:45,957 --> 00:27:47,750
-<i>Sayonara,</i> sucker!
+Sayonara, sucker!
 
 474
 00:27:51,754 --> 00:27:52,797
@@ -2329,7 +2329,7 @@ like a crazy person.
 
 546
 00:31:20,004 --> 00:31:21,672
-<i>"Sugar Rush."</i>
+"Sugar Rush."
 
 547
 00:31:22,048 --> 00:31:23,758
@@ -2375,7 +2375,7 @@ Without a beacon to stop them,
 
 557
 00:31:45,738 --> 00:31:47,657
-they'll consume <i>Sugar Rush.</i>
+they'll consume Sugar Rush.
 
 558
 00:31:47,824 --> 00:31:48,991
@@ -2393,7 +2393,7 @@ Viruses do not stop!
 561
 00:31:53,704 --> 00:31:56,249
 Once those Cy-Bugs
-finish off <i>Sugar Rush,</i>
+finish off Sugar Rush,
 
 562
 00:31:56,416 --> 00:31:59,419
@@ -2429,7 +2429,7 @@ a perimeter check...
 
 569
 00:32:21,941 --> 00:32:23,776
-<i>Her wedding day.</i>
+Her wedding day.
 
 570
 00:32:38,791 --> 00:32:41,502
@@ -2468,7 +2468,7 @@ I am coming along with you.
 
 578
 00:33:37,808 --> 00:33:40,770
-<i>Citizens of Sugar Rush...</i>
+Citizens of Sugar Rush...
 
 579
 00:33:41,312 --> 00:33:42,647
@@ -2476,54 +2476,54 @@ Just in time.
 
 580
 00:33:43,606 --> 00:33:48,277
-<i>...all hail our rightful ruler, King Candy.</i>
+...all hail our rightful ruler, King Candy.
 
 581
 00:33:48,611 --> 00:33:51,656
-<i>Hello, my royal subjects!</i>
+Hello, my royal subjects!
 
 582
 00:33:51,739 --> 00:33:54,116
-<i>Ha-ha! Have some candy!</i>
+Ha-ha! Have some candy!
 
 583
 00:33:56,285 --> 00:33:59,872
-<i>Thank you for that
-stirring introduction, Sour Bill.</i>
+Thank you for that
+stirring introduction, Sour Bill.
 
 584
 00:33:59,956 --> 00:34:00,998
-<i>Mmm-hmm.</i>
+Mmm-hmm.
 
 585
 00:34:01,082 --> 00:34:03,876
-<i>And thank you to today's avatars.</i>
+And thank you to today's avatars.
 
 586
 00:34:04,126 --> 00:34:06,921
-<i>It was a wonderful day of racing. It was.</i>
+It was a wonderful day of racing. It was.
 
 587
 00:34:07,004 --> 00:34:08,714
-<i>But now the arcade is closed,</i>
+But now the arcade is closed,
 
 588
 00:34:08,798 --> 00:34:11,050
-<i>so it's time to wipe the slate clean</i>
+so it's time to wipe the slate clean
 
 589
 00:34:11,133 --> 00:34:13,636
-<i>and race to decide our new roster.</i>
+and race to decide our new roster.
 
 590
 00:34:15,638 --> 00:34:17,139
-<i>The first nine racers
-across that finish line</i>
+The first nine racers
+across that finish line
 
 591
 00:34:18,724 --> 00:34:22,895
-<i>will represent Sugar Rush
-as tomorrow's avatars!</i>
+will represent Sugar Rush
+as tomorrow's avatars!
 
 592
 00:34:23,020 --> 00:34:24,355
@@ -2531,36 +2531,36 @@ Race! Race! Race!
 
 593
 00:34:24,981 --> 00:34:26,816
-<i>Okay, calm down.</i>
+Okay, calm down.
 
 594
 00:34:27,108 --> 00:34:30,820
-<i>Listen! This event is pay-to-play.
-We all know this.</i>
+Listen! This event is pay-to-play.
+We all know this.
 
 595
 00:34:31,028 --> 00:34:33,489
-<i>The fee to compete is one gold coin</i>
+The fee to compete is one gold coin
 
 596
 00:34:33,614 --> 00:34:35,616
-<i>from your previous winnings,</i>
+from your previous winnings,
 
 597
 00:34:35,783 --> 00:34:38,452
-<i>if you've ever won, which I have.</i>
+if you've ever won, which I have.
 
 598
 00:34:38,995 --> 00:34:40,371
-<i>Let me go first!</i>
+Let me go first!
 
 599
 00:34:46,085 --> 00:34:47,461
-<i>King Candy!</i>
+King Candy!
 
 600
 00:34:55,678 --> 00:34:56,846
-<i>Taffyta Muttonfudge!</i>
+Taffyta Muttonfudge!
 
 601
 00:34:56,929 --> 00:34:58,014
@@ -2568,11 +2568,11 @@ Stay sweet!
 
 602
 00:34:59,557 --> 00:35:01,684
-<i>Adorabeezle Winterpop.</i>
+Adorabeezle Winterpop.
 
 603
 00:35:02,685 --> 00:35:04,270
-<i>Gloyd Orangeboar!</i>
+Gloyd Orangeboar!
 
 604
 00:35:06,188 --> 00:35:10,026
@@ -2581,21 +2581,21 @@ Wait till I catch that brat.
 
 605
 00:35:10,151 --> 00:35:13,362
-<i>Minty Zaki.
-Snowanna Rainbeau.</i>
+Minty Zaki.
+Snowanna Rainbeau.
 
 606
 00:35:13,946 --> 00:35:17,283
-<i>Rancis Fluggerbutter.
-Jubileena Bing-Bing.</i>
+Rancis Fluggerbutter.
+Jubileena Bing-Bing.
 
 607
 00:35:18,659 --> 00:35:20,077
-<i>Swizzle Malarkey.</i>
+Swizzle Malarkey.
 
 608
 00:35:21,287 --> 00:35:22,580
-<i>Candlehead.</i>
+Candlehead.
 
 609
 00:35:30,463 --> 00:35:32,423
@@ -2603,7 +2603,7 @@ Sour Bill, who's that last one?
 
 610
 00:35:36,135 --> 00:35:38,179
-<i>Vanellope von Schweetz!</i>
+Vanellope von Schweetz!
 
 611
 00:35:38,346 --> 00:35:40,431
@@ -2611,7 +2611,7 @@ Yippee! I'm in the race!
 
 612
 00:35:40,556 --> 00:35:41,599
-<i>Vanellope?</i>
+Vanellope?
 
 613
 00:35:42,850 --> 00:35:44,477
@@ -2619,11 +2619,11 @@ The Glitch!
 
 614
 00:35:46,020 --> 00:35:48,272
-<i>Now, now!</i>
+Now, now!
 
 615
 00:35:48,397 --> 00:35:51,859
-<i>Everything is all right! Security!</i>
+Everything is all right! Security!
 
 616
 00:35:52,193 --> 00:35:53,194
@@ -2653,7 +2653,7 @@ You! Give me back my medal right now!
 
 622
 00:36:10,461 --> 00:36:11,545
-<i>What is that?</i>
+What is that?
 
 623
 00:36:11,754 --> 00:36:13,464
@@ -2661,7 +2661,7 @@ Come on! Go! Roll!
 
 624
 00:36:25,810 --> 00:36:28,229
-<i>Careful! What are you doing?</i>
+Careful! What are you doing?
 
 625
 00:36:33,693 --> 00:36:34,735
@@ -2694,24 +2694,24 @@ Ow! What are you doing?
 
 632
 00:36:50,084 --> 00:36:51,544
-<i>Okay, folks.</i>
+Okay, folks.
 
 633
 00:36:51,919 --> 00:36:54,505
-<i>Calm down! Everything's all right.</i>
+Calm down! Everything's all right.
 
 634
 00:36:54,797 --> 00:36:56,716
-<i>The monster's been caught!</i>
+The monster's been caught!
 
 635
 00:36:57,007 --> 00:36:58,801
-<i>We'll repair all the damage.</i>
+We'll repair all the damage.
 
 636
 00:36:59,927 --> 00:37:02,638
-<i>Don't worry. We will have our race
-before the arcade opens.</i>
+Don't worry. We will have our race
+before the arcade opens.
 
 637
 00:37:03,389 --> 00:37:06,434
@@ -2741,12 +2741,12 @@ Guys! She took...
 
 643
 00:37:29,999 --> 00:37:33,377
-<i>Or-e-oh
-Oreo!</i>
+Or-e-oh
+Oreo!
 
 644
 00:37:34,295 --> 00:37:35,504
-<i>Or-e-oh</i>
+Or-e-oh
 
 645
 00:37:46,849 --> 00:37:49,810
@@ -2811,7 +2811,7 @@ Well, this one did.
 
 659
 00:38:24,345 --> 00:38:26,222
-I earned it over in <i>Hero's Duty.</i>
+I earned it over in Hero's Duty.
 
 660
 00:38:26,347 --> 00:38:27,389
@@ -3193,11 +3193,11 @@ I can't. I didn't win it in my game.
 
 747
 00:42:57,659 --> 00:42:59,328
-I won it in <i>Hero's Duty.</i>
+I won it in Hero's Duty.
 
 748
 00:43:00,037 --> 00:43:01,497
-<i>Hero's Doodie?</i>
+Hero's Doodie?
 
 749
 00:43:03,832 --> 00:43:05,542
@@ -3210,7 +3210,7 @@ where you step
 
 751
 00:43:07,836 --> 00:43:10,047
-in a game called <i>Hero's Doodie!</i>
+in a game called Hero's Doodie!
 
 752
 00:43:11,507 --> 00:43:13,717
@@ -3241,7 +3241,7 @@ Because it was his doodie!
 
 758
 00:43:27,940 --> 00:43:29,608
-How dare you insult <i>Hero's Duty?</i>
+How dare you insult Hero's Duty?
 
 759
 00:43:29,691 --> 00:43:30,859
@@ -3448,26 +3448,26 @@ first opened,
 
 807
 00:45:41,448 --> 00:45:44,284
-Turbo Time <i>was by far
-the most popular game.</i>
+Turbo Time was by far
+the most popular game.
 
 808
 00:45:44,326 --> 00:45:46,787
-<i>- And Turbo...
-- Turbo-tastic!</i>
+- And Turbo...
+- Turbo-tastic!
 
 809
 00:45:46,954 --> 00:45:49,498
-<i>- He loved the attention.
-- Turbo-tastic!</i>
+- He loved the attention.
+- Turbo-tastic!
 
 810
 00:45:49,623 --> 00:45:52,542
-<i>So, when</i> RoadBlasters <i>got plugged in</i>
+So, when RoadBlasters got plugged in
 
 811
 00:45:52,668 --> 00:45:54,127
-<i>and stole Turbo's thunder...</i>
+and stole Turbo's thunder...
 
 812
 00:45:54,169 --> 00:45:55,671
@@ -3475,16 +3475,16 @@ New game. All right!
 
 813
 00:45:55,837 --> 00:45:57,673
-<i>Boy, was he jealous.</i>
+Boy, was he jealous.
 
 814
 00:45:58,840 --> 00:46:02,177
-<i>So jealous that
-he abandoned his game</i>
+So jealous that
+he abandoned his game
 
 815
 00:46:02,302 --> 00:46:03,845
-<i>and tried to take over the new one.</i>
+and tried to take over the new one.
 
 816
 00:46:03,971 --> 00:46:06,139
@@ -3493,7 +3493,7 @@ the greatest graphics I've ever seen!
 
 817
 00:46:06,348 --> 00:46:07,349
-<i>Turbo-tastic!</i>
+Turbo-tastic!
 
 818
 00:46:08,350 --> 00:46:11,186
@@ -3511,12 +3511,12 @@ Mr. Litwak!
 
 821
 00:46:16,817 --> 00:46:20,654
-<i>Turbo ended up
-putting both games and himself</i>
+Turbo ended up
+putting both games and himself
 
 822
 00:46:20,737 --> 00:46:24,032
-<i>out of order, for good.</i>
+out of order, for good.
 
 823
 00:46:24,491 --> 00:46:27,244
@@ -3736,8 +3736,8 @@ Ooh, this is a good one!
 
 874
 00:49:28,842 --> 00:49:32,304
-<i>Welcome to the bakery!
-Let's bake a kart!</i>
+Welcome to the bakery!
+Let's bake a kart!
 
 875
 00:49:32,554 --> 00:49:33,972
@@ -3750,7 +3750,7 @@ it's a mini-game.
 
 877
 00:49:35,724 --> 00:49:37,017
-<i>You have one minute to win it.</i>
+You have one minute to win it.
 
 878
 00:49:37,184 --> 00:49:38,477
@@ -3759,15 +3759,15 @@ it's a mini-game.
 
 879
 00:49:38,852 --> 00:49:40,395
-<i>Go! Mixing.</i>
+Go! Mixing.
 
 880
 00:49:40,520 --> 00:49:42,147
-<i>Put the ingredients in the bowl</i>
+Put the ingredients in the bowl
 
 881
 00:49:42,230 --> 00:49:43,690
-<i>and throw away the trash.</i>
+and throw away the trash.
 
 882
 00:49:43,857 --> 00:49:45,025
@@ -3795,7 +3795,7 @@ Gross. Milk. Yes, yes, yes. Oh!
 
 888
 00:49:58,038 --> 00:49:59,039
-<i>Batter up!</i>
+Batter up!
 
 889
 00:49:59,080 --> 00:50:00,081
@@ -3808,11 +3808,11 @@ No sleeping on the job!
 
 891
 00:50:07,589 --> 00:50:09,508
-<i>Baking! Pump up the heat</i>
+Baking! Pump up the heat
 
 892
 00:50:09,591 --> 00:50:11,551
-<i>and hold the perfect temperature.</i>
+and hold the perfect temperature.
 
 893
 00:50:11,718 --> 00:50:13,220
@@ -3842,7 +3842,7 @@ Fifteen seconds!
 
 899
 00:50:31,029 --> 00:50:32,697
-<i>- Decorating!</i>
+- Decorating!
 - Wheels first.
 
 900
@@ -3868,12 +3868,12 @@ Oh.
 
 905
 00:50:52,217 --> 00:50:55,303
-<i>Time's up!
-Congratulations.</i>
+Time's up!
+Congratulations.
 
 906
 00:50:55,470 --> 00:50:58,348
-<i>You did it, and here's your cart!</i>
+You did it, and here's your cart!
 
 907
 00:51:08,400 --> 00:51:12,571
@@ -4353,12 +4353,12 @@ Okay, good. Let's try that again.
 
 1017
 00:57:09,969 --> 00:57:12,347
-<i>I've been looking
-for a driver who's qualified</i>
+I've been looking
+for a driver who's qualified
 
 1018
 00:57:12,472 --> 00:57:14,223
-<i>So if you think that you're the one</i>
+So if you think that you're the one
 
 1019
 00:57:14,307 --> 00:57:15,350
@@ -4366,12 +4366,12 @@ Ow!
 
 1020
 00:57:15,391 --> 00:57:16,684
-<i>To step into my ride</i>
+To step into my ride
 
 1021
 00:57:16,726 --> 00:57:18,478
-<i>I'm a fine-tuned supersonic
-speed machine</i>
+I'm a fine-tuned supersonic
+speed machine
 
 1022
 00:57:18,603 --> 00:57:19,604
@@ -4379,7 +4379,7 @@ Ow!
 
 1023
 00:57:19,896 --> 00:57:21,731
-<i>With a sunroof top and a gangster lean</i>
+With a sunroof top and a gangster lean
 
 1024
 00:57:21,814 --> 00:57:22,857
@@ -4387,8 +4387,8 @@ Ow!
 
 1025
 00:57:24,275 --> 00:57:27,487
-<i>So if you feel me
-let me know, know, know</i>
+So if you feel me
+let me know, know, know
 
 1026
 00:57:27,570 --> 00:57:28,613
@@ -4396,22 +4396,22 @@ Ow!
 
 1027
 00:57:28,738 --> 00:57:31,449
-<i>So start me up
-and watch me go, go, go, go</i>
+So start me up
+and watch me go, go, go, go
 
 1028
 00:57:31,532 --> 00:57:34,077
-<i>Get you where you wanna go
-If you know what I mean</i>
+Get you where you wanna go
+If you know what I mean
 
 1029
 00:57:34,911 --> 00:57:37,872
-<i>Got a ride that's smoother
-than a limousine</i>
+Got a ride that's smoother
+than a limousine
 
 1030
 00:57:38,081 --> 00:57:40,083
-<i>'Cause I'm 0 to 60 in three point five</i>
+'Cause I'm 0 to 60 in three point five
 
 1031
 00:57:40,166 --> 00:57:41,209
@@ -4419,7 +4419,7 @@ Now shift it.
 
 1032
 00:57:41,668 --> 00:57:43,378
-<i>Baby you got the keys</i>
+Baby you got the keys
 
 1033
 00:57:43,419 --> 00:57:45,338
@@ -4427,8 +4427,8 @@ That's good. Keep going! Shift it again!
 
 1034
 00:57:45,380 --> 00:57:48,675
-<i>Now shut up and drive
-Drive, drive, drive</i>
+Now shut up and drive
+Drive, drive, drive
 
 1035
 00:57:50,593 --> 00:57:53,680
@@ -4436,8 +4436,8 @@ I told you, racing's in my code!
 
 1036
 00:57:53,721 --> 00:57:55,390
-<i>So if you feel me
-let me know, know, know</i>
+So if you feel me
+let me know, know, know
 
 1037
 00:57:56,641 --> 00:57:58,226
@@ -4449,13 +4449,13 @@ Hey, Ralphie, watch this!
 
 1039
 00:58:00,603 --> 00:58:03,147
-<i>Get you where you wanna go
-if you know what I mean</i>
+Get you where you wanna go
+if you know what I mean
 
 1040
 00:58:03,272 --> 00:58:05,900
-<i>Got a ride that's smoother
-than a limousine</i>
+Got a ride that's smoother
+than a limousine
 
 1041
 00:58:05,942 --> 00:58:07,527
@@ -4463,11 +4463,11 @@ Whoo-hoo!
 
 1042
 00:58:07,986 --> 00:58:10,488
-<i>Cause I'm zero to 60 in three point five</i>
+Cause I'm zero to 60 in three point five
 
 1043
 00:58:11,364 --> 00:58:14,117
-<i>Baby you got the keys</i>
+Baby you got the keys
 
 1044
 00:58:14,659 --> 00:58:15,994
@@ -4476,7 +4476,7 @@ Whoo-hoo!
 
 1045
 00:58:19,914 --> 00:58:21,332
-<i>Shut up and drive</i>
+Shut up and drive
 
 1046
 00:58:21,416 --> 00:58:22,417
@@ -4488,7 +4488,7 @@ Hot cola!
 
 1048
 00:58:30,883 --> 00:58:32,719
-<i>Now shut up and drive</i>
+Now shut up and drive
 
 1049
 00:58:32,885 --> 00:58:33,928
@@ -4676,7 +4676,7 @@ Oh.
 1092
 01:01:47,288 --> 01:01:51,500
 I'm Fix-It Felix Jr., sir,
-from the game <i>Fix-It Felix Jr.</i>
+from the game Fix-It Felix Jr.
 
 1093
 01:01:51,918 --> 01:01:53,252
@@ -4706,8 +4706,8 @@ the same mistake with you.
 
 1099
 01:02:08,142 --> 01:02:10,478
-<i>Hurry, hurry!
-Let's go. Time's a-wastin'.</i>
+Hurry, hurry!
+Let's go. Time's a-wastin'.
 
 1100
 01:02:10,603 --> 01:02:11,687
@@ -4949,37 +4949,37 @@ If Vanellope wins that race
 
 1154
 01:04:26,280 --> 01:04:28,449
-<i>she'll be added to the race roster.</i>
+she'll be added to the race roster.
 
 1155
 01:04:28,824 --> 01:04:31,994
-<i>Then gamers can choose her
-as their avatar.</i>
+Then gamers can choose her
+as their avatar.
 
 1156
 01:04:33,120 --> 01:04:34,914
-<i>And when they see her glitching</i>
+And when they see her glitching
 
 1157
 01:04:34,955 --> 01:04:37,666
-<i>and twitching and just being herself,</i>
+and twitching and just being herself,
 
 1158
 01:04:37,792 --> 01:04:39,585
-<i>they'll think our game is broken.</i>
+they'll think our game is broken.
 
 1159
 01:04:41,796 --> 01:04:42,797
-<i>We'll be put out of order for good.</i>
+We'll be put out of order for good.
 
 1160
 01:04:44,173 --> 01:04:46,634
-<i>All my subjects will be homeless.</i>
+All my subjects will be homeless.
 
 1161
 01:04:48,636 --> 01:04:52,640
-<i>But there's one who cannot
-escape because she's a glitch.</i>
+But there's one who cannot
+escape because she's a glitch.
 
 1162
 01:04:52,765 --> 01:04:55,351
@@ -4987,8 +4987,8 @@ Help! Somebody, help! Help!
 
 1163
 01:04:55,476 --> 01:04:57,937
-<i>And when
-the game's plug is pulled...</i>
+And when
+the game's plug is pulled...
 
 1164
 01:04:57,978 --> 01:04:59,313
@@ -5477,12 +5477,12 @@ tried to delete her code!
 
 1278
 01:12:22,506 --> 01:12:24,508
-<i>Tried to delete her code?</i>
+Tried to delete her code?
 
 1279
 01:12:24,591 --> 01:12:27,594
-<i>So that's why she's a glitch!
-Why is he doing this to her?</i>
+So that's why she's a glitch!
+Why is he doing this to her?
 
 1280
 01:12:27,928 --> 01:12:28,971
@@ -5498,15 +5498,15 @@ No, no, no! I swear I don't know!
 
 1283
 01:12:32,599 --> 01:12:35,143
-<i>He literally locked up our memories</i>
+He literally locked up our memories
 
 1284
 01:12:35,269 --> 01:12:36,436
-<i>and I cannot remember!</i>
+and I cannot remember!
 
 1285
 01:12:36,603 --> 01:12:37,813
-<i>Nobody can!</i>
+Nobody can!
 
 1286
 01:12:38,272 --> 01:12:39,648
@@ -5748,26 +5748,26 @@ The stinkiest brain ever.
 
 1341
 01:16:17,991 --> 01:16:19,409
-<i>My sweet subjects,</i>
+My sweet subjects,
 
 1342
 01:16:20,077 --> 01:16:23,330
-<i>I can without a pinch
-of hesitation assure you</i>
+I can without a pinch
+of hesitation assure you
 
 1343
 01:16:23,497 --> 01:16:26,458
-<i>that I have never been
-so happy in all my life</i>
+that I have never been
+so happy in all my life
 
 1344
 01:16:26,666 --> 01:16:28,835
-<i>to say the following words,</i>
+to say the following words,
 
 1345
 01:16:29,169 --> 01:16:32,255
-<i>let the Random Roster Race
-commence!</i>
+let the Random Roster Race
+commence!
 
 1346
 01:16:49,189 --> 01:16:52,359
@@ -5817,7 +5817,7 @@ Light them up, Candlehead.
 
 1357
 01:18:22,449 --> 01:18:24,367
-<i>What's this? Cherry bombs!</i>
+What's this? Cherry bombs!
 
 1358
 01:18:31,833 --> 01:18:34,628
@@ -6329,7 +6329,7 @@ Now I remember.
 1480
 01:28:20,296 --> 01:28:24,592
 All hail the rightful ruler
-of <i>Sugar Rush...</i>
+of Sugar Rush...
 
 1481
 01:28:24,801 --> 01:28:26,385
@@ -6541,7 +6541,7 @@ See you later, President Fart Feathers.
 
 1530
 01:30:34,013 --> 01:30:36,974
-<i>Au revoir,</i> Admiral Underpants.
+Au revoir, Admiral Underpants.
 
 1531
 01:30:37,350 --> 01:30:40,353
@@ -6553,7 +6553,7 @@ Goodbye, Major Body Odor!
 
 1533
 01:30:43,022 --> 01:30:45,232
-<i>- Hasta la vista,</i> you...
+- Hasta la vista, you...
 - Ralph!
 
 1534
@@ -6567,7 +6567,7 @@ Hooray!
 
 1536
 01:31:01,958 --> 01:31:03,125
-<i>I'm gonna wreck it!</i>
+I'm gonna wreck it!
 
 1537
 01:31:05,044 --> 01:31:08,214
@@ -6592,53 +6592,53 @@ All right! Yeah, Ralph!
 
 1542
 01:31:19,517 --> 01:31:21,018
-<i>Of course,
-the job hasn't changed.</i>
+Of course,
+the job hasn't changed.
 
 1543
 01:31:22,061 --> 01:31:25,773
-<i>But, news flash,
-the Nicelanders are being nice to me!</i>
+But, news flash,
+the Nicelanders are being nice to me!
 
 1544
 01:31:26,941 --> 01:31:30,194
-<i>And that got me thinking about
-those poor guys left without a game.</i>
+And that got me thinking about
+those poor guys left without a game.
 
 1545
 01:31:30,778 --> 01:31:32,780
-<i>- So here's what we did.
-- We're gonna wreck it!</i>
+- So here's what we did.
+- We're gonna wreck it!
 
 1546
 01:31:32,947 --> 01:31:35,157
-<i>We asked them to help us out
-on the bonus levels.</i>
+We asked them to help us out
+on the bonus levels.
 
 1547
 01:31:36,117 --> 01:31:37,284
-<i>We can fix it!</i>
+We can fix it!
 
 1548
 01:31:38,035 --> 01:31:39,036
-<i>I'm telling you, guys,</i>
+I'm telling you, guys,
 
 1549
 01:31:39,078 --> 01:31:40,913
-<i>we haven't been this popular in years.</i>
+we haven't been this popular in years.
 
 1550
 01:31:41,080 --> 01:31:42,289
-<i>- It's crazy.</i>
+- It's crazy.
 - Wow!
 
 1551
 01:31:43,124 --> 01:31:44,917
-<i>The gamers say we're "retro,"</i>
+The gamers say we're "retro,"
 
 1552
 01:31:44,959 --> 01:31:47,837
-<i>which I think means "old but cool."</i>
+which I think means "old but cool."
 
 1553
 01:31:47,962 --> 01:31:49,422
@@ -6647,419 +6647,418 @@ we never noticed this game?
 
 1554
 01:31:49,505 --> 01:31:51,424
-<i>Oh, and I decided
-that living in the dump</i>
+Oh, and I decided
+that living in the dump
 
 1555
 01:31:51,465 --> 01:31:53,092
-<i>wasn't making me feel very good,</i>
+wasn't making me feel very good,
 
 1556
 01:31:54,510 --> 01:31:55,761
-<i>so I cleaned it up,
-built myself a little shack</i>
+so I cleaned it up,
+built myself a little shack
 
 1557
 01:31:55,845 --> 01:31:57,513
-<i>and a couple for the new guys, too.</i>
+and a couple for the new guys, too.
 
 1558
 01:31:58,764 --> 01:32:01,934
-<i>Well, with a little help from Felix. Oh!</i>
+Well, with a little help from Felix. Oh!
 
 1559
 01:32:02,268 --> 01:32:04,395
-<i>And guess who was the best man
-at his and Calhoun's wedding.</i>
+And guess who was the best man
+at his and Calhoun's wedding.
 
 1560
 01:32:05,104 --> 01:32:07,690
-<i>That's right, my friends,
-old Ham Hands himself.</i>
+That's right, my friends,
+old Ham Hands himself.
 
 1561
 01:32:08,441 --> 01:32:10,359
-<i>Very elegant affair.
-You should've seen it.</i>
+Very elegant affair.
+You should've seen it.
 
 1562
 01:32:10,443 --> 01:32:11,944
-<i>Lot of grandeur.</i>
+Lot of grandeur.
 
 1563
 01:32:11,986 --> 01:32:13,446
-<i>And not a single bug.</i>
+And not a single bug.
 
 1564
 01:32:17,324 --> 01:32:20,870
-<i>Let's just say, some tears were shed.</i>
+Let's just say, some tears were shed.
 
 1565
 01:32:22,621 --> 01:32:26,125
-<i>But I got to say, the best part of my day</i>
+But I got to say, the best part of my day
 
 1566
 01:32:26,292 --> 01:32:28,044
-<i>is when I get thrown off the roof.</i>
+is when I get thrown off the roof.
 
 1567
 01:32:29,837 --> 01:32:31,672
-<i>Because when the Nicelanders
-lift me up,</i>
+Because when the Nicelanders
+lift me up,
 
 1568
 01:32:32,965 --> 01:32:35,217
-<i>I get a perfect view of</i> Sugar Rush.
+I get a perfect view of Sugar Rush.
 
 1569
 01:32:35,801 --> 01:32:37,303
-<i>And I can see Vanellope racing.</i>
+And I can see Vanellope racing.
 
 1570
 01:32:40,139 --> 01:32:41,140
-<i>Yes!</i>
+Yes!
 
 1571
 01:32:42,141 --> 01:32:43,517
-<i>The kid's a natural.</i>
+The kid's a natural.
 
 1572
 01:32:44,477 --> 01:32:46,645
-<i>And the players love her, glitch and all.</i>
+And the players love her, glitch and all.
 
 1573
 01:32:47,313 --> 01:32:48,814
-<i>Just like I knew they would.</i>
+Just like I knew they would.
 
 1574
 01:32:50,691 --> 01:32:53,527
-<i>Turns out I don't need a medal
-to tell me I'm a good guy.</i>
+Turns out I don't need a medal
+to tell me I'm a good guy.
 
 1575
 01:32:55,321 --> 01:32:57,323
-<i>'Cause if that little kid likes me...</i>
+'Cause if that little kid likes me...
 
 1576
 01:33:00,910 --> 01:33:02,411
-<i>How bad can I be?</i>
+How bad can I be?
 
 1577
 01:33:19,178 --> 01:33:22,765
-<i>Switch on the sky
-and the stars glow for you</i>
+Switch on the sky
+and the stars glow for you
 
 1578
 01:33:22,973 --> 01:33:26,560
-<i>Go see the world
-'cause it's all so brand new</i>
+Go see the world
+'cause it's all so brand new
 
 1579
 01:33:26,685 --> 01:33:30,689
-<i>Don't close your eyes
-'cause your future's ready to shine</i>
+Don't close your eyes
+'cause your future's ready to shine
 
 1580
 01:33:30,773 --> 01:33:34,443
-<i>It's just a matter of time
-before we learn how to fly</i>
+It's just a matter of time
+before we learn how to fly
 
 1581
 01:33:35,736 --> 01:33:39,115
-<i>Welcome to the rhythm of the night</i>
+Welcome to the rhythm of the night
 
 1582
 01:33:39,198 --> 01:33:42,785
-<i>There's something in the air
-you can't deny</i>
+There's something in the air
+you can't deny
 
 1583
 01:33:47,998 --> 01:33:50,960
-<i>It's been fun but now I've got to go</i>
+It's been fun but now I've got to go
 
 1584
 01:33:51,627 --> 01:33:54,338
-<i>Life is way too short to take it slow</i>
+Life is way too short to take it slow
 
 1585
 01:33:55,422 --> 01:33:58,384
-<i>But before I go and hit the road</i>
+But before I go and hit the road
 
 1586
 01:33:59,385 --> 01:34:04,140
-<i>I gotta know, 'til then
-when can we do this again?</i>
+I gotta know, 'til then
+when can we do this again?
 
 1587
 01:34:06,225 --> 01:34:08,269
-<i>When can I see you again?</i>
+When can I see you again?
 
 1588
 01:34:09,937 --> 01:34:12,148
-<i>When can we do this again?</i>
+When can we do this again?
 
 1589
 01:34:14,775 --> 01:34:19,363
-<i>I gotta know
-when can I see you again?</i>
+I gotta know
+when can I see you again?
 
 1590
 01:34:23,242 --> 01:34:26,662
-<i>Joined at the hip
-your sidekick needs you</i>
+Joined at the hip
+your sidekick needs you
 
 1591
 01:34:27,079 --> 01:34:30,291
-<i>Life is a trip down
-the road that leads you</i>
+Life is a trip down
+the road that leads you
 
 1592
 01:34:30,749 --> 01:34:34,461
-<i>Look all around at the mountains
-you haven't climbed</i>
+Look all around at the mountains
+you haven't climbed
 
 1593
 01:34:34,628 --> 01:34:38,132
-<i>It's just a matter of time
-before we learn how to fly</i>
+It's just a matter of time
+before we learn how to fly
 
 1594
 01:34:39,633 --> 01:34:42,887
-<i>Welcome to the rhythm of the night</i>
+Welcome to the rhythm of the night
 
 1595
 01:34:43,262 --> 01:34:46,348
-<i>There's something in the air
-you can't deny</i>
+There's something in the air
+you can't deny
 
 1596
 01:34:51,937 --> 01:34:54,607
-<i>It's been fun but now I've got to go</i>
+It's been fun but now I've got to go
 
 1597
 01:34:55,274 --> 01:34:58,068
-<i>Life is way too short to take it slow</i>
+Life is way too short to take it slow
 
 1598
 01:34:59,236 --> 01:35:02,156
-<i>But before I go and hit the road</i>
+But before I go and hit the road
 
 1599
 01:35:03,782 --> 01:35:07,953
-<i>I gotta know, 'til then
-when can we do this again?</i>
+I gotta know, 'til then
+when can we do this again?
 
 1600
 01:35:10,122 --> 01:35:11,916
-<i>When can I see you again?</i>
+When can I see you again?
 
 1601
 01:35:13,792 --> 01:35:15,920
-<i>When can we do this again?</i>
+When can we do this again?
 
 1602
 01:35:18,547 --> 01:35:23,636
-<i>I gotta know
-When can I see you again?</i>
+I gotta know
+When can I see you again?
 
 1603
 01:35:30,768 --> 01:35:34,438
-<i>Don't close your eyes
-'cause your future's ready to shine</i>
+Don't close your eyes
+'cause your future's ready to shine
 
 1604
 01:35:34,521 --> 01:35:38,025
-<i>It's just a matter of time
-before we learn how to fly</i>
+It's just a matter of time
+before we learn how to fly
 
 1605
 01:35:39,610 --> 01:35:42,905
-<i>Welcome to the rhythm of the night</i>
+Welcome to the rhythm of the night
 
 1606
 01:35:43,364 --> 01:35:46,575
-<i>There's something in the air
-you can't deny</i>
+There's something in the air
+you can't deny
 
 1607
 01:35:47,826 --> 01:35:50,746
-<i>So let me know before I wave goodbye</i>
+So let me know before I wave goodbye
 
 1608
 01:35:50,871 --> 01:35:53,374
-<i>When can I see you again?</i>
+When can I see you again?
 
 1609
 01:35:55,292 --> 01:35:58,629
-<i>When can we do this again?</i>
+When can we do this again?
 
 1610
 01:35:58,796 --> 01:36:01,632
-<i>When can I see you again?</i>
+When can I see you again?
 
 1611
 01:36:02,591 --> 01:36:05,302
-<i>When can we do this again?</i>
+When can we do this again?
 
 1612
 01:36:06,428 --> 01:36:09,348
-<i>Yeah, it's been fun
-but now I've got to go</i>
+Yeah, it's been fun
+but now I've got to go
 
 1613
 01:36:10,349 --> 01:36:13,269
-<i>Life is way too short
-to take it slow</i>
+Life is way too short
+to take it slow
 
 1614
 01:36:13,769 --> 01:36:19,400
-<i>But before I go and hit the road
-Tell me when</i>
+But before I go and hit the road
+Tell me when
 
 1615
 01:36:21,068 --> 01:36:24,154
-<i>When can I see you again?</i>
+When can I see you again?
 
 1616
 01:36:24,863 --> 01:36:27,700
-<i>When can I see you again?</i>
+When can I see you again?
 
 1617
 01:36:28,909 --> 01:36:31,245
-<i>When can I see you again?</i>
+When can I see you again?
 
 1618
 01:39:11,864 --> 01:39:14,700
-<i>Wreck-It Ralph is a giant of a man</i>
+Wreck-It Ralph is a giant of a man
 
 1619
 01:39:14,783 --> 01:39:17,953
-<i>Nine feet tall with really big hands</i>
+Nine feet tall with really big hands
 
 1620
 01:39:18,036 --> 01:39:21,081
-<i>Living in a stump on his very own land</i>
+Living in a stump on his very own land
 
 1621
 01:39:21,165 --> 01:39:24,418
-<i>Until his world went crazy</i>
+Until his world went crazy
 
 1622
 01:39:24,501 --> 01:39:27,963
-<i>He was minding his own business
-on the day they came</i>
+He was minding his own business
+on the day they came
 
 1623
 01:39:28,046 --> 01:39:31,383
-<i>They showed a piece of paper
-saying "eminent domain"</i>
+They showed a piece of paper
+saying "eminent domain"
 
 1624
 01:39:31,425 --> 01:39:34,678
-<i>They built an apartment building
-saying progress was to blame</i>
+They built an apartment building
+saying progress was to blame
 
 1625
 01:39:34,720 --> 01:39:38,182
-<i>So he got mad
-And he turned bad</i>
+So he got mad
+And he turned bad
 
 1626
 01:39:38,223 --> 01:39:41,518
-<i>Brick by brick
-he's gonna take his land back</i>
+Brick by brick
+he's gonna take his land back
 
 1627
 01:39:41,560 --> 01:39:44,730
-<i>Wreck it, Wreck-It Ralph
-As fast as you can</i>
+Wreck it, Wreck-It Ralph
+As fast as you can
 
 1628
 01:39:44,771 --> 01:39:47,983
-<i>You know you can do it
-with your colossal hands</i>
+You know you can do it
+with your colossal hands
 
 1629
 01:39:48,066 --> 01:39:51,236
-<i>So don't let Fix-It Felix
-and that building stand</i>
+So don't let Fix-It Felix
+and that building stand
 
 1630
 01:39:51,320 --> 01:39:54,656
-<i>I wreck it
-I fix it</i>
+I wreck it
+I fix it
 
 1631
 01:39:54,740 --> 01:39:58,160
-<i>I wreck it
-I fix it</i>
+I wreck it
+I fix it
 
 1632
 01:40:00,412 --> 01:40:01,663
-<i>You fixed it!</i>
+You fixed it!
 
 1633
 01:40:08,629 --> 01:40:11,507
-<i>Fix-It Felix is a really great guy</i>
+Fix-It Felix is a really great guy
 
 1634
 01:40:11,590 --> 01:40:14,676
-<i>Watch him get all turbocharged
-when he eats a pie</i>
+Watch him get all turbocharged
+when he eats a pie
 
 1635
 01:40:14,760 --> 01:40:18,096
-<i>Not just a superintendent
-He's a super super guy</i>
+Not just a superintendent
+He's a super super guy
 
 1636
 01:40:18,180 --> 01:40:21,183
-<i>And everybody loves him</i>
+And everybody loves him
 
 1637
 01:40:21,517 --> 01:40:24,853
-<i>With his trusty tool belt
-and steel-toed shoes</i>
+With his trusty tool belt
+and steel-toed shoes
 
 1638
 01:40:24,937 --> 01:40:28,106
-<i>Nicelanders believe
-that Felix just can't lose</i>
+Nicelanders believe
+that Felix just can't lose
 
 1639
 01:40:28,148 --> 01:40:31,401
-<i>So when Wreck-It Ralph
-starts to come unglued</i>
+So when Wreck-It Ralph
+starts to come unglued
 
 1640
 01:40:31,443 --> 01:40:34,571
-<i>He doesn't get mad
-'Cause he's so rad</i>
+He doesn't get mad
+'Cause he's so rad
 
 1641
 01:40:34,863 --> 01:40:38,200
-<i>Brick by brick he's gonna build it back</i>
+Brick by brick he's gonna build it back
 
 1642
 01:40:38,283 --> 01:40:41,245
-<i>Fix it, Fix-It Felix, as fast as you can</i>
+Fix it, Fix-It Felix, as fast as you can
 
 1643
 01:40:41,286 --> 01:40:44,623
-<i>Use the magic hammer
-you got from your old man</i>
+Use the magic hammer
+you got from your old man
 
 1644
 01:40:44,706 --> 01:40:48,126
-<i>'Cause you know Wreck-It Ralph
-won't let that building stand</i>
+'Cause you know Wreck-It Ralph
+won't let that building stand
 
 1645
 01:40:48,168 --> 01:40:54,758
-<i>I wreck it
-I fix it</i>
+I wreck it
+I fix it
 
 1646
 01:40:57,010 --> 01:40:58,220
-<i>You fixed it!</i>
-
+You fixed it!

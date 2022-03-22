@@ -1,138 +1,138 @@
-﻿1
+1
 00:00:42,139 --> 00:00:54,139
-<font color="#ffff80"><b>Fixed & Synced by bozxphd. Enjoy The Flick</b></font>
+Fixed & Synced by bozxphd. Enjoy The Flick
 
 2
 00:00:55,140 --> 00:00:56,683
-<i>In the beginning...</i>
+In the beginning...
 
 3
 00:00:56,850 --> 00:00:59,686
-<i>there was only ocean...</i>
+there was only ocean...
 
 4
 00:00:59,853 --> 00:01:03,815
-<i>until the mother island emerged.</i>
+until the mother island emerged.
 
 5
 00:01:03,982 --> 00:01:05,817
-<i>Te Fiti.</i>
+Te Fiti.
 
 6
 00:01:06,443 --> 00:01:10,196
-<i>Her heart held the greatest power
-ever known.</i>
+Her heart held the greatest power
+ever known.
 
 7
 00:01:10,363 --> 00:01:13,324
-<i>It could create life itself.</i>
+It could create life itself.
 
 8
 00:01:13,491 --> 00:01:17,704
-<i>And Te Fiti shared it with the world.</i>
+And Te Fiti shared it with the world.
 
 9
 00:01:20,165 --> 00:01:21,374
-<i>But in time...</i>
+But in time...
 
 10
 00:01:21,541 --> 00:01:24,544
-<i>some began to seek Te Fiti's heart.</i>
+some began to seek Te Fiti's heart.
 
 11
 00:01:24,711 --> 00:01:26,838
-<i>They believed
-if they could possess it...</i>
+They believed
+if they could possess it...
 
 12
 00:01:27,005 --> 00:01:30,633
-<i>the great power of creation
-would be theirs.</i>
+the great power of creation
+would be theirs.
 
 13
 00:01:30,800 --> 00:01:33,178
-<i>And one day...</i>
+And one day...
 
 14
 00:01:33,720 --> 00:01:36,306
-<i>the most daring of them all...</i>
+the most daring of them all...
 
 15
 00:01:36,473 --> 00:01:40,852
-<i>voyaged across the vast ocean
-to take it.</i>
+voyaged across the vast ocean
+to take it.
 
 16
 00:01:42,145 --> 00:01:47,025
-<i>He was a demigod of the wind and sea.</i>
+He was a demigod of the wind and sea.
 
 17
 00:01:48,485 --> 00:01:50,069
-<i>He was a warrior.</i>
+He was a warrior.
 
 18
 00:01:51,196 --> 00:01:52,572
-<i>A trickster.</i>
+A trickster.
 
 19
 00:01:55,033 --> 00:01:57,243
-<i>A shapeshifter who
-could change form...</i>
+A shapeshifter who
+could change form...
 
 20
 00:01:58,286 --> 00:02:01,039
-<i>with the power of his magical fish hook.</i>
+with the power of his magical fish hook.
 
 21
 00:02:02,874 --> 00:02:04,375
-<i>And his name...</i>
+And his name...
 
 22
 00:02:05,210 --> 00:02:07,420
-<i>was Maui.</i>
+was Maui.
 
 23
 00:02:16,888 --> 00:02:21,392
-<i>But without her heart,
-Te Fiti began to crumble...</i>
+But without her heart,
+Te Fiti began to crumble...
 
 24
 00:02:21,559 --> 00:02:24,312
-<i>giving birth to a terrible darkness.</i>
+giving birth to a terrible darkness.
 
 25
 00:02:42,747 --> 00:02:44,374
-<i>Maui tried to escape...</i>
+Maui tried to escape...
 
 26
 00:02:44,916 --> 00:02:47,919
-<i>but was confronted by another
-who sought the heart.</i>
+but was confronted by another
+who sought the heart.
 
 27
 00:02:50,755 --> 00:02:52,423
-<i>Te Kā!</i>
+Te Kā!
 
 28
 00:02:52,590 --> 00:02:55,593
-<i>A demon of earth and fire.</i>
+A demon of earth and fire.
 
 29
 00:03:03,226 --> 00:03:06,104
-<i>Maui was struck from the sky...</i>
+Maui was struck from the sky...
 
 30
 00:03:07,355 --> 00:03:09,691
-<i>never to be seen again.</i>
+never to be seen again.
 
 31
 00:03:10,275 --> 00:03:14,946
-<i>And his magical fish hook
-and the heart of Te Fiti...</i>
+And his magical fish hook
+and the heart of Te Fiti...
 
 32
 00:03:15,113 --> 00:03:17,907
-<i>were lost to the sea.</i>
+were lost to the sea.
 
 33
 00:03:18,616 --> 00:03:20,243
@@ -324,202 +324,202 @@ Moana
 
 77
 00:07:59,480 --> 00:08:01,858
-<i>Make way, make way</i>
+Make way, make way
 
 78
 00:08:02,024 --> 00:08:03,901
-<i>Moana, it's time you knew</i>
+Moana, it's time you knew
 
 79
 00:08:04,068 --> 00:08:07,822
-<i>The village of Motunui is all you need</i>
+The village of Motunui is all you need
 
 80
 00:08:07,989 --> 00:08:10,074
-<i>The dancers are practicing</i>
+The dancers are practicing
 
 81
 00:08:10,283 --> 00:08:12,577
-<i>They dance to an ancient song</i>
+They dance to an ancient song
 
 82
 00:08:12,743 --> 00:08:15,580
-<i>Who needs a new song
-This old one's all we need</i>
+Who needs a new song
+This old one's all we need
 
 83
 00:08:15,746 --> 00:08:17,665
-<i>This tradition is our mission</i>
+This tradition is our mission
 
 84
 00:08:17,790 --> 00:08:20,418
-<i>And Moana, there's so much to do</i>
+And Moana, there's so much to do
 
 85
 00:08:20,585 --> 00:08:21,961
-<i>Don't trip on the taro root</i>
+Don't trip on the taro root
 
 86
 00:08:22,128 --> 00:08:24,255
-<i>That's all you need</i>
+That's all you need
 
 87
 00:08:24,422 --> 00:08:26,382
-<i>We share everything we make</i>
+We share everything we make
 
 88
 00:08:26,549 --> 00:08:28,426
-<i>We joke and we weave our baskets</i>
+We joke and we weave our baskets
 
 89
 00:08:28,593 --> 00:08:30,887
-<i>The fishermen come back from the sea</i>
+The fishermen come back from the sea
 
 90
 00:08:31,053 --> 00:08:32,555
-<i>I wanna see</i>
+I wanna see
 
 91
 00:08:32,722 --> 00:08:34,473
-<i>Don't walk away</i>
+Don't walk away
 
 92
 00:08:34,640 --> 00:08:36,559
-<i>Moana, stay on the ground now</i>
+Moana, stay on the ground now
 
 93
 00:08:36,726 --> 00:08:38,603
-<i>Our people will need a chief</i>
+Our people will need a chief
 
 94
 00:08:38,769 --> 00:08:40,688
-<i>- And there you are
-- There you are</i>
+- And there you are
+- There you are
 
 95
 00:08:40,855 --> 00:08:42,732
-<i>There comes a day</i>
+There comes a day
 
 96
 00:08:42,899 --> 00:08:46,611
-<i>When you're gonna look around
-And realize happiness is</i>
+When you're gonna look around
+And realize happiness is
 
 97
 00:08:46,777 --> 00:08:48,613
-<i>Where you are</i>
+Where you are
 
 98
 00:08:48,863 --> 00:08:50,364
-<i>Consider the coconut</i>
+Consider the coconut
 
 99
 00:08:50,573 --> 00:08:52,742
-<i>- The what
-- Consider its tree</i>
+- The what
+- Consider its tree
 
 100
 00:08:52,909 --> 00:08:56,287
-<i>We use each part of the coconut
-It's all we need</i>
+We use each part of the coconut
+It's all we need
 
 101
 00:08:56,954 --> 00:08:58,915
-<i>We make our nets from the fibers</i>
+We make our nets from the fibers
 
 102
 00:08:59,081 --> 00:09:00,917
-<i>The water is sweet inside</i>
+The water is sweet inside
 
 103
 00:09:01,083 --> 00:09:05,213
-<i>We use the leaves to build fires
-We cook up the meat inside</i>
+We use the leaves to build fires
+We cook up the meat inside
 
 104
 00:09:05,379 --> 00:09:07,131
-<i>Consider the coconuts</i>
+Consider the coconuts
 
 105
 00:09:07,298 --> 00:09:09,050
-<i>The trunks and the leaves</i>
+The trunks and the leaves
 
 106
 00:09:09,217 --> 00:09:11,719
-<i>The island gives us what we need</i>
+The island gives us what we need
 
 107
 00:09:11,886 --> 00:09:13,638
-<i>And no one leaves</i>
+And no one leaves
 
 108
 00:09:13,804 --> 00:09:15,264
-<i>That's right, we stay</i>
+That's right, we stay
 
 109
 00:09:15,431 --> 00:09:17,058
-<i>We're safe and we're well-provided</i>
+We're safe and we're well-provided
 
 110
 00:09:17,225 --> 00:09:19,143
-<i>And when we look to the future</i>
+And when we look to the future
 
 111
 00:09:19,310 --> 00:09:20,811
-<i>There you are</i>
+There you are
 
 112
 00:09:21,437 --> 00:09:23,648
-<i>You'll be okay</i>
+You'll be okay
 
 113
 00:09:23,814 --> 00:09:25,608
-<i>In time you'll learn just as I did</i>
+In time you'll learn just as I did
 
 114
 00:09:25,775 --> 00:09:29,487
-<i>You must find happiness
-right where you are</i>
+You must find happiness
+right where you are
 
 115
 00:09:35,785 --> 00:09:39,997
-<i>I like to dance with the water
-The undertow and the waves</i>
+I like to dance with the water
+The undertow and the waves
 
 116
 00:09:40,164 --> 00:09:44,168
-<i>The water is mischievous
-Ha! I like how it misbehaves</i>
+The water is mischievous
+Ha! I like how it misbehaves
 
 117
 00:09:44,335 --> 00:09:48,256
-<i>The village may think I'm crazy
-Or say that I drift too far</i>
+The village may think I'm crazy
+Or say that I drift too far
 
 118
 00:09:48,422 --> 00:09:52,927
-<i>But once you know what you like
-Well, there you are</i>
+But once you know what you like
+Well, there you are
 
 119
 00:09:54,845 --> 00:09:58,975
-<i>You are your father's daughter
-Stubbornness and pride</i>
+You are your father's daughter
+Stubbornness and pride
 
 120
 00:09:59,141 --> 00:10:03,437
-<i>Mind what he says but remember
-You may hear a voice inside</i>
+Mind what he says but remember
+You may hear a voice inside
 
 121
 00:10:03,604 --> 00:10:07,775
-<i>And if the voice starts to whisper
-To follow the farthest star</i>
+And if the voice starts to whisper
+To follow the farthest star
 
 122
 00:10:07,942 --> 00:10:11,445
-<i>Moana, that voice inside
-is who you are</i>
+Moana, that voice inside
+is who you are
 
 123
 00:10:14,573 --> 00:10:16,534
@@ -597,89 +597,89 @@ It's time to be who they need you to be.
 
 140
 00:11:13,299 --> 00:11:15,509
-<i>- We make our nets from the fibers
-- We weave our nets from the fibers</i>
+- We make our nets from the fibers
+- We weave our nets from the fibers
 
 141
 00:11:15,593 --> 00:11:17,678
-<i>- The water is sweet inside
-- A real tasty treat inside</i>
+- The water is sweet inside
+- A real tasty treat inside
 
 142
 00:11:17,803 --> 00:11:20,014
-<i>- We use the leaves to build fires
-- We sing these songs in our choirs</i>
+- We use the leaves to build fires
+- We sing these songs in our choirs
 
 143
 00:11:20,097 --> 00:11:21,932
-<i>- To cook up the meat inside
-- We have mouths to feed inside</i>
+- To cook up the meat inside
+- We have mouths to feed inside
 
 144
 00:11:22,099 --> 00:11:23,934
-<i>- The village believes in us
-- That's right</i>
+- The village believes in us
+- That's right
 
 145
 00:11:24,101 --> 00:11:25,603
-<i>The village believes</i>
+The village believes
 
 146
 00:11:25,770 --> 00:11:27,938
-<i>The island gives us what we need</i>
+The island gives us what we need
 
 147
 00:11:28,105 --> 00:11:30,107
-<i>And no one leaves</i>
+And no one leaves
 
 148
 00:11:30,274 --> 00:11:31,609
-<i>So here I'll stay</i>
+So here I'll stay
 
 149
 00:11:31,942 --> 00:11:35,613
-<i>My home, my people beside me
-And when I think of tomorrow</i>
+My home, my people beside me
+And when I think of tomorrow
 
 150
 00:11:35,780 --> 00:11:37,823
-<i>There we are</i>
+There we are
 
 151
 00:11:38,240 --> 00:11:39,784
-<i>I'll lead the way</i>
+I'll lead the way
 
 152
 00:11:40,117 --> 00:11:41,952
-<i>I'll have my people to guide me</i>
+I'll have my people to guide me
 
 153
 00:11:42,119 --> 00:11:43,746
-<i>We'll build our future together</i>
+We'll build our future together
 
 154
 00:11:43,913 --> 00:11:45,956
-<i>Where we are</i>
+Where we are
 
 155
 00:11:46,290 --> 00:11:47,833
-<i>'Cause every path leads ya back to</i>
+'Cause every path leads ya back to
 
 156
 00:11:48,250 --> 00:11:49,460
-<i>Where you are</i>
+Where you are
 
 157
 00:11:50,044 --> 00:11:51,921
-<i>You can find happiness right</i>
+You can find happiness right
 
 158
 00:11:52,338 --> 00:11:53,964
-<i>Where you are</i>
+Where you are
 
 159
 00:11:54,298 --> 00:11:57,134
-<i>Where you are</i>
+Where you are
 
 160
 00:12:00,930 --> 00:12:04,475
@@ -947,32 +947,32 @@ Drawn to the ocean.
 
 221
 00:15:28,804 --> 00:15:30,180
-<i>Down by the shore.</i>
+Down by the shore.
 
 222
 00:15:31,265 --> 00:15:32,975
-<i>He took a canoe, Moana.</i>
+He took a canoe, Moana.
 
 223
 00:15:33,350 --> 00:15:34,602
-<i>He crossed the reef...</i>
+He crossed the reef...
 
 224
 00:15:35,561 --> 00:15:37,855
-<i>and found an unforgiving sea.</i>
+and found an unforgiving sea.
 
 225
 00:15:38,314 --> 00:15:40,065
-<i>Waves like mountains.</i>
+Waves like mountains.
 
 226
 00:15:41,108 --> 00:15:44,361
-<i>His best friend begged
-to be on that boat.</i>
+His best friend begged
+to be on that boat.
 
 227
 00:15:44,862 --> 00:15:47,114
-<i>Your dad couldn't save him.</i>
+Your dad couldn't save him.
 
 228
 00:15:49,241 --> 00:15:52,536
@@ -993,183 +993,183 @@ it's just not meant to be.
 
 232
 00:16:17,144 --> 00:16:21,398
-<i>I've been staring
-at the edge of the water</i>
+I've been staring
+at the edge of the water
 
 233
 00:16:21,565 --> 00:16:24,735
-<i>Long as I can remember</i>
+Long as I can remember
 
 234
 00:16:25,069 --> 00:16:27,821
-<i>Never really knowing why</i>
+Never really knowing why
 
 235
 00:16:29,239 --> 00:16:33,577
-<i>I wish I could be the perfect daughter</i>
+I wish I could be the perfect daughter
 
 236
 00:16:33,744 --> 00:16:36,580
-<i>But I come back to the water</i>
+But I come back to the water
 
 237
 00:16:36,747 --> 00:16:38,957
-<i>No matter how hard I try</i>
+No matter how hard I try
 
 238
 00:16:40,751 --> 00:16:44,004
-<i>Every turn I take
-Every trail I track</i>
+Every turn I take
+Every trail I track
 
 239
 00:16:44,505 --> 00:16:47,049
-<i>Every path I make
-Every road leads back</i>
+Every path I make
+Every road leads back
 
 240
 00:16:47,424 --> 00:16:49,760
-<i>To the place I know
-Where I cannot go</i>
+To the place I know
+Where I cannot go
 
 241
 00:16:49,927 --> 00:16:52,346
-<i>Where I long to be</i>
+Where I long to be
 
 242
 00:16:52,513 --> 00:16:55,015
-<i>See the line where the
-sky meets the sea</i>
+See the line where the
+sky meets the sea
 
 243
 00:16:55,391 --> 00:16:57,434
-<i>It calls me</i>
+It calls me
 
 244
 00:16:57,601 --> 00:17:00,437
-<i>And no one knows</i>
+And no one knows
 
 245
 00:17:00,938 --> 00:17:03,440
-<i>How far it goes</i>
+How far it goes
 
 246
 00:17:03,941 --> 00:17:08,737
-<i>If the wind in my sail on the sea
-Stays behind me</i>
+If the wind in my sail on the sea
+Stays behind me
 
 247
 00:17:08,821 --> 00:17:12,449
-<i>One day I'll know</i>
+One day I'll know
 
 248
 00:17:12,616 --> 00:17:16,829
-<i>If I go, there's just no telling
-how far I'll go</i>
+If I go, there's just no telling
+how far I'll go
 
 249
 00:17:17,162 --> 00:17:20,040
-<i>I know everybody on this island</i>
+I know everybody on this island
 
 250
 00:17:20,374 --> 00:17:22,793
-<i>Seems so happy on this island</i>
+Seems so happy on this island
 
 251
 00:17:22,960 --> 00:17:25,504
-<i>Everything is by design</i>
+Everything is by design
 
 252
 00:17:27,506 --> 00:17:31,009
-<i>I know everybody on this island</i>
+I know everybody on this island
 
 253
 00:17:31,385 --> 00:17:34,221
-<i>Has a role on this island</i>
+Has a role on this island
 
 254
 00:17:34,596 --> 00:17:36,974
-<i>So maybe I can roll with mine</i>
+So maybe I can roll with mine
 
 255
 00:17:38,308 --> 00:17:41,186
-<i>I can lead with pride
-I can make us strong</i>
+I can lead with pride
+I can make us strong
 
 256
 00:17:41,520 --> 00:17:43,897
-<i>I'll be satisfied
-If I play along</i>
+I'll be satisfied
+If I play along
 
 257
 00:17:44,064 --> 00:17:47,317
-<i>But the voice inside
-Sings a different song</i>
+But the voice inside
+Sings a different song
 
 258
 00:17:47,693 --> 00:17:49,361
-<i>What is wrong with me</i>
+What is wrong with me
 
 259
 00:17:52,531 --> 00:17:55,117
-<i>See the light as it shines on the sea</i>
+See the light as it shines on the sea
 
 260
 00:17:55,284 --> 00:17:57,995
-<i>It's blinding</i>
+It's blinding
 
 261
 00:17:58,328 --> 00:18:00,205
-<i>But no one knows</i>
+But no one knows
 
 262
 00:18:00,622 --> 00:18:03,834
-<i>How deep it goes</i>
+How deep it goes
 
 263
 00:18:04,001 --> 00:18:06,086
-<i>And it seems like it's calling out to me</i>
+And it seems like it's calling out to me
 
 264
 00:18:06,462 --> 00:18:09,047
-<i>So come find me</i>
+So come find me
 
 265
 00:18:09,423 --> 00:18:11,759
-<i>And let me know</i>
+And let me know
 
 266
 00:18:12,468 --> 00:18:15,387
-<i>What's beyond that line
-Will I cross that line</i>
+What's beyond that line
+Will I cross that line
 
 267
 00:18:15,763 --> 00:18:17,598
-<i>The line where the sky meets the sea</i>
+The line where the sky meets the sea
 
 268
 00:18:17,973 --> 00:18:20,517
-<i>It calls me</i>
+It calls me
 
 269
 00:18:20,684 --> 00:18:23,312
-<i>And no one knows</i>
+And no one knows
 
 270
 00:18:23,479 --> 00:18:26,815
-<i>How far it goes</i>
+How far it goes
 
 271
 00:18:27,149 --> 00:18:31,695
-<i>If the wind in my sail on the sea
-stays behind me</i>
+If the wind in my sail on the sea
+stays behind me
 
 272
 00:18:31,862 --> 00:18:34,531
-<i>One day I'll know</i>
+One day I'll know
 
 273
 00:18:34,698 --> 00:18:39,995
-<i>How far I'll go</i>
+How far I'll go
 
 274
 00:18:42,706 --> 00:18:43,707
@@ -1325,15 +1325,15 @@ Who are you meant to be?
 
 310
 00:22:08,912 --> 00:22:10,664
-<i>Go inside...</i>
+Go inside...
 
 311
 00:22:10,831 --> 00:22:12,416
-<i>bang the drum...</i>
+bang the drum...
 
 312
 00:22:12,916 --> 00:22:14,876
-<i>and find out.</i>
+and find out.
 
 313
 00:22:44,156 --> 00:22:45,157
@@ -1349,66 +1349,66 @@ Bang the drum.
 
 316
 00:24:56,746 --> 00:24:59,624
-<i>We read the wind and the sky</i>
+We read the wind and the sky
 
 317
 00:25:00,000 --> 00:25:01,626
-<i>When the sun is high</i>
+When the sun is high
 
 318
 00:25:01,793 --> 00:25:04,588
-<i>We sail the length of the seas</i>
+We sail the length of the seas
 
 319
 00:25:05,130 --> 00:25:06,423
-<i>On the ocean breeze</i>
+On the ocean breeze
 
 320
 00:25:06,923 --> 00:25:09,134
-<i>At night we name every star</i>
+At night we name every star
 
 321
 00:25:09,467 --> 00:25:11,428
-<i>We know where we are</i>
+We know where we are
 
 322
 00:25:11,845 --> 00:25:15,807
-<i>We know who we are
-Who we are</i>
+We know who we are
+Who we are
 
 323
 00:25:18,810 --> 00:25:20,770
-<i>We set a course to find</i>
+We set a course to find
 
 324
 00:25:21,188 --> 00:25:25,483
-<i>A brand new island
-everywhere we roam</i>
+A brand new island
+everywhere we roam
 
 325
 00:25:28,361 --> 00:25:30,238
-<i>We keep our island in our mind</i>
+We keep our island in our mind
 
 326
 00:25:30,947 --> 00:25:33,408
-<i>And when it's time to find home</i>
+And when it's time to find home
 
 327
 00:25:33,575 --> 00:25:35,452
-<i>We know the way</i>
+We know the way
 
 328
 00:25:37,120 --> 00:25:40,457
-<i>We are explorers reading every sign</i>
+We are explorers reading every sign
 
 329
 00:25:40,832 --> 00:25:45,629
-<i>We tell the stories of our elders
-In a never-ending chain</i>
+We tell the stories of our elders
+In a never-ending chain
 
 330
 00:25:52,969 --> 00:25:55,847
-<i>We know the way</i>
+We know the way
 
 331
 00:26:01,645 --> 00:26:03,438
@@ -1436,22 +1436,22 @@ Maui.
 
 337
 00:26:17,410 --> 00:26:20,997
-<i>When he stole from the mother island,
-darkness fell.</i>
+When he stole from the mother island,
+darkness fell.
 
 338
 00:26:21,706 --> 00:26:23,500
-<i>Te Kā awoke.</i>
+Te Kā awoke.
 
 339
 00:26:24,167 --> 00:26:27,420
-<i>Monsters lurked
-and boats stopped coming back.</i>
+Monsters lurked
+and boats stopped coming back.
 
 340
 00:26:28,171 --> 00:26:31,841
-<i>To protect our people,
-the ancient chiefs forbid voyaging...</i>
+To protect our people,
+the ancient chiefs forbid voyaging...
 
 341
 00:26:31,925 --> 00:26:35,845
@@ -1708,81 +1708,81 @@ Go!
 
 401
 00:30:47,639 --> 00:30:50,391
-<i>There's a line
-where the sky meets the sea</i>
+There's a line
+where the sky meets the sea
 
 402
 00:30:50,767 --> 00:30:52,393
-<i>And it calls me</i>
+And it calls me
 
 403
 00:30:53,144 --> 00:30:55,480
-<i>But no one knows</i>
+But no one knows
 
 404
 00:30:55,647 --> 00:30:59,317
-<i>How far it goes</i>
+How far it goes
 
 405
 00:30:59,776 --> 00:31:04,447
-<i>All that time wondering where I need
-to be is behind me</i>
+All that time wondering where I need
+to be is behind me
 
 406
 00:31:04,864 --> 00:31:07,575
-<i>I'm on my own</i>
+I'm on my own
 
 407
 00:31:08,201 --> 00:31:10,620
-<i>To worlds unknown</i>
+To worlds unknown
 
 408
 00:31:10,995 --> 00:31:13,831
-<i>Every turn I take
-Every trail I track</i>
+Every turn I take
+Every trail I track
 
 409
 00:31:14,165 --> 00:31:15,708
-<i>Is a choice I make</i>
+Is a choice I make
 
 410
 00:31:15,792 --> 00:31:18,461
-<i>Now I can't turn back
-from the great unknown</i>
+Now I can't turn back
+from the great unknown
 
 411
 00:31:18,836 --> 00:31:22,048
-<i>Where I go alone
-Where I long to be</i>
+Where I go alone
+Where I long to be
 
 412
 00:31:31,599 --> 00:31:33,810
-<i>See her light up the night in the sea</i>
+See her light up the night in the sea
 
 413
 00:31:34,185 --> 00:31:36,646
-<i>She calls me</i>
+She calls me
 
 414
 00:31:37,021 --> 00:31:39,440
-<i>And yes, I know</i>
+And yes, I know
 
 415
 00:31:39,816 --> 00:31:42,068
-<i>That I can go</i>
+That I can go
 
 416
 00:31:43,736 --> 00:31:47,240
-<i>There's a moon in the sky
-And the wind is behind me</i>
+There's a moon in the sky
+And the wind is behind me
 
 417
 00:31:48,700 --> 00:31:50,785
-<i>Soon I'll know</i>
+Soon I'll know
 
 418
 00:31:51,202 --> 00:31:53,413
-<i>How far I'll go</i>
+How far I'll go
 
 419
 00:32:13,224 --> 00:32:17,729
@@ -2143,282 +2143,282 @@ Okay, okay.
 
 505
 00:38:31,060 --> 00:38:34,438
-<i>I see what's happening
-Yeah</i>
+I see what's happening
+Yeah
 
 506
 00:38:34,605 --> 00:38:37,566
-<i>You're face to face with greatness
-and it's strange</i>
+You're face to face with greatness
+and it's strange
 
 507
 00:38:37,733 --> 00:38:39,318
-<i>You don't even know how you feel</i>
+You don't even know how you feel
 
 508
 00:38:39,610 --> 00:38:41,112
-<i>It's adorable</i>
+It's adorable
 
 509
 00:38:41,404 --> 00:38:44,156
-<i>Well it's nice to see that humans
-never change</i>
+Well it's nice to see that humans
+never change
 
 510
 00:38:44,323 --> 00:38:47,576
-<i>Open your eyes
-Let's begin</i>
+Open your eyes
+Let's begin
 
 511
 00:38:47,743 --> 00:38:48,786
-<i>Yes, it's really me</i>
+Yes, it's really me
 
 512
 00:38:48,953 --> 00:38:50,913
-<i>It's Maui
-Breathe it in</i>
+It's Maui
+Breathe it in
 
 513
 00:38:51,122 --> 00:38:52,748
-<i>I know it's a lot</i>
+I know it's a lot
 
 514
 00:38:52,915 --> 00:38:54,834
-<i>The hair
-The bod</i>
+The hair
+The bod
 
 515
 00:38:55,418 --> 00:38:57,753
-<i>When you're staring at a demigod</i>
+When you're staring at a demigod
 
 516
 00:38:58,421 --> 00:39:00,589
-<i>What can I say except</i>
+What can I say except
 
 517
 00:39:00,756 --> 00:39:01,757
-<i>You're welcome</i>
+You're welcome
 
 518
 00:39:02,591 --> 00:39:05,261
-<i>For the tides, the sun, the sky</i>
+For the tides, the sun, the sky
 
 519
 00:39:05,678 --> 00:39:07,763
-<i>Hey, it's okay, it's okay</i>
+Hey, it's okay, it's okay
 
 520
 00:39:07,930 --> 00:39:09,598
-<i>You're welcome</i>
+You're welcome
 
 521
 00:39:09,765 --> 00:39:12,643
-<i>I'm just an ordinary demiguy
-Hey!</i>
+I'm just an ordinary demiguy
+Hey!
 
 522
 00:39:12,810 --> 00:39:15,938
-<i>What has two thumbs
-and pulled up the sky</i>
+What has two thumbs
+and pulled up the sky
 
 523
 00:39:16,105 --> 00:39:17,940
-<i>When you were waddling yay high?</i>
+When you were waddling yay high?
 
 524
 00:39:18,107 --> 00:39:19,233
-<i>This guy</i>
+This guy
 
 525
 00:39:19,400 --> 00:39:23,738
-<i>When the nights got cold
-Who stole you fire from down below?</i>
+When the nights got cold
+Who stole you fire from down below?
 
 526
 00:39:24,238 --> 00:39:26,115
-<i>You're looking at him yo</i>
+You're looking at him yo
 
 527
 00:39:26,282 --> 00:39:29,952
-<i>Oh also I lassoed the sun</i>
+Oh also I lassoed the sun
 
 528
 00:39:30,411 --> 00:39:31,412
-<i>You're welcome</i>
+You're welcome
 
 529
 00:39:31,620 --> 00:39:33,956
-<i>To stretch your days and bring you fun</i>
+To stretch your days and bring you fun
 
 530
 00:39:34,123 --> 00:39:36,917
-<i>Also I harnessed the breeze</i>
+Also I harnessed the breeze
 
 531
 00:39:37,334 --> 00:39:38,335
-<i>You're welcome</i>
+You're welcome
 
 532
 00:39:38,502 --> 00:39:40,796
-<i>To fill your sails and shake your trees</i>
+To fill your sails and shake your trees
 
 533
 00:39:41,255 --> 00:39:44,925
-<i>So what can I say except
-You're welcome</i>
+So what can I say except
+You're welcome
 
 534
 00:39:45,092 --> 00:39:47,553
-<i>For the islands I pulled from the sea</i>
+For the islands I pulled from the sea
 
 535
 00:39:48,137 --> 00:39:50,347
-<i>There's no need to pray
-It's okay</i>
+There's no need to pray
+It's okay
 
 536
 00:39:50,514 --> 00:39:51,849
-<i>You're welcome</i>
+You're welcome
 
 537
 00:39:51,974 --> 00:39:55,811
-<i>Ha
-I guess it's just my way of being me</i>
+Ha
+I guess it's just my way of being me
 
 538
 00:39:55,978 --> 00:39:56,979
-<i>You're welcome</i>
+You're welcome
 
 539
 00:39:57,646 --> 00:39:59,273
-<i>You're welcome</i>
+You're welcome
 
 540
 00:39:59,815 --> 00:40:00,983
-<i>Well come to think of it</i>
+Well come to think of it
 
 541
 00:40:01,650 --> 00:40:03,235
-<i>Kid, honestly I could go on and on</i>
+Kid, honestly I could go on and on
 
 542
 00:40:03,652 --> 00:40:05,071
-<i>I could explain every
-natural phenomenon</i>
+I could explain every
+natural phenomenon
 
 543
 00:40:05,488 --> 00:40:08,491
-<i>The tide, the grass, the ground
-Oh that was Maui just messing around</i>
+The tide, the grass, the ground
+Oh that was Maui just messing around
 
 544
 00:40:08,949 --> 00:40:10,493
-<i>I killed an eel
-I buried its guts</i>
+I killed an eel
+I buried its guts
 
 545
 00:40:10,659 --> 00:40:11,994
-<i>Sprouted a tree
-Now you got coconuts</i>
+Sprouted a tree
+Now you got coconuts
 
 546
 00:40:12,495 --> 00:40:13,954
-<i>What's the lesson?
-What is the take away?</i>
+What's the lesson?
+What is the take away?
 
 547
 00:40:14,205 --> 00:40:15,706
-<i>Don't mess with Maui
-when he's on a breakaway</i>
+Don't mess with Maui
+when he's on a breakaway
 
 548
 00:40:16,165 --> 00:40:19,043
-<i>And the tapestry here on my skin
-Is a map of the victories I win</i>
+And the tapestry here on my skin
+Is a map of the victories I win
 
 549
 00:40:19,502 --> 00:40:21,003
-<i>Look where I've been
-I make everything happen</i>
+Look where I've been
+I make everything happen
 
 550
 00:40:21,378 --> 00:40:23,464
-<i>Look at that
-Mean Mini-Maui just tickety tappin'</i>
+Look at that
+Mean Mini-Maui just tickety tappin'
 
 551
 00:40:23,631 --> 00:40:25,174
-<i>Ha ha
-Ha ha</i>
+Ha ha
+Ha ha
 
 552
 00:40:25,341 --> 00:40:27,218
-<i>Ha ha
-Hey</i>
+Ha ha
+Hey
 
 553
 00:40:27,384 --> 00:40:30,346
-<i>Well anyway let me say
-You're welcome</i>
+Well anyway let me say
+You're welcome
 
 554
 00:40:30,513 --> 00:40:31,680
-<i>You're welcome</i>
+You're welcome
 
 555
 00:40:31,847 --> 00:40:34,475
-<i>For the wonderful world you know</i>
+For the wonderful world you know
 
 556
 00:40:34,642 --> 00:40:37,520
-<i>Hey, it's okay, it's okay
-You're welcome</i>
+Hey, it's okay, it's okay
+You're welcome
 
 557
 00:40:37,686 --> 00:40:38,729
-<i>You're welcome</i>
+You're welcome
 
 558
 00:40:39,063 --> 00:40:41,524
-<i>Well come to think of it
-I gotta go</i>
+Well come to think of it
+I gotta go
 
 559
 00:40:41,690 --> 00:40:44,568
-<i>Hey it's your day to say
-You're welcome</i>
+Hey it's your day to say
+You're welcome
 
 560
 00:40:44,735 --> 00:40:45,861
-<i>You're welcome</i>
+You're welcome
 
 561
 00:40:46,028 --> 00:40:48,531
-<i>'Cause I'm gonna need that boat</i>
+'Cause I'm gonna need that boat
 
 562
 00:40:48,948 --> 00:40:51,784
-<i>I'm sailing away away
-You're welcome</i>
+I'm sailing away away
+You're welcome
 
 563
 00:40:51,867 --> 00:40:52,910
-<i>You're welcome</i>
+You're welcome
 
 564
 00:40:53,244 --> 00:40:55,329
-<i>'Cause Maui can do
-everything but float</i>
+'Cause Maui can do
+everything but float
 
 565
 00:40:55,496 --> 00:40:57,373
-<i>- You're welcome
-- You're welcome</i>
+- You're welcome
+- You're welcome
 
 566
 00:40:57,540 --> 00:40:59,708
-<i>- You're welcome
-- You're welcome</i>
+- You're welcome
+- You're welcome
 
 567
 00:40:59,875 --> 00:41:00,876
@@ -2438,7 +2438,7 @@ Let me out! You lying, slimy son of a...
 
 571
 00:41:09,552 --> 00:41:11,387
-<i>You're welcome</i>
+You're welcome
 
 572
 00:41:13,222 --> 00:41:14,515
@@ -3704,94 +3704,94 @@ In song form!
 
 874
 01:01:29,270 --> 01:01:32,774
-<i>Well, Tamatoa
-hasn't always been this glam</i>
+Well, Tamatoa
+hasn't always been this glam
 
 875
 01:01:32,940 --> 01:01:35,276
-<i>I was a drab little crab once</i>
+I was a drab little crab once
 
 876
 01:01:36,652 --> 01:01:39,364
-<i>Now I know I can be happy as a clam</i>
+Now I know I can be happy as a clam
 
 877
 01:01:39,530 --> 01:01:41,783
-<i>Because I'm beautiful, baby</i>
+Because I'm beautiful, baby
 
 878
 01:01:42,950 --> 01:01:44,118
-<i>And did your granny say</i>
+And did your granny say
 
 879
 01:01:44,285 --> 01:01:45,995
-<i>Listen to your heart</i>
+Listen to your heart
 
 880
 01:01:46,162 --> 01:01:48,956
-<i>Be who you are on the inside</i>
+Be who you are on the inside
 
 881
 01:01:49,123 --> 01:01:52,460
-<i>I need three words
-To tear her argument apart</i>
+I need three words
+To tear her argument apart
 
 882
 01:01:52,627 --> 01:01:53,961
-<i>Your granny lied</i>
+Your granny lied
 
 883
 01:01:54,128 --> 01:01:55,838
-<i>I'd rather be shiny</i>
+I'd rather be shiny
 
 884
 01:01:56,005 --> 01:01:58,883
-<i>Like a treasure
-From a sunken pirate wreck</i>
+Like a treasure
+From a sunken pirate wreck
 
 885
 01:01:59,050 --> 01:02:02,512
-<i>Scrub the deck
-And make it look shiny</i>
+Scrub the deck
+And make it look shiny
 
 886
 01:02:02,678 --> 01:02:05,515
-<i>I will sparkle like a
-Wealthy woman's neck</i>
+I will sparkle like a
+Wealthy woman's neck
 
 887
 01:02:06,015 --> 01:02:08,226
-<i>Just a sec
-Don't ya know</i>
+Just a sec
+Don't ya know
 
 888
 01:02:08,393 --> 01:02:12,230
-<i>Fish are dumb, dumb, dumb
-They chase anything that glitters</i>
+Fish are dumb, dumb, dumb
+They chase anything that glitters
 
 889
 01:02:12,647 --> 01:02:13,856
-<i>Beginners</i>
+Beginners
 
 890
 01:02:14,148 --> 01:02:16,484
-<i>Oh, and here they come, come, come</i>
+Oh, and here they come, come, come
 
 891
 01:02:16,651 --> 01:02:18,694
-<i>To the brightest thing that glitters</i>
+To the brightest thing that glitters
 
 892
 01:02:18,861 --> 01:02:19,862
-<i>Mm, fish dinners</i>
+Mm, fish dinners
 
 893
 01:02:20,029 --> 01:02:22,407
-<i>I just love free food</i>
+I just love free food
 
 894
 01:02:22,990 --> 01:02:25,868
-<i>And you look like seafood</i>
+And you look like seafood
 
 895
 01:02:27,245 --> 01:02:29,080
@@ -3827,152 +3827,152 @@ Well, well, well.
 
 903
 01:02:58,568 --> 01:03:00,862
-<i>Little Maui's having
-trouble with his look</i>
+Little Maui's having
+trouble with his look
 
 904
 01:03:01,737 --> 01:03:03,823
-<i>Ya little semi-demi-mini-god</i>
+Ya little semi-demi-mini-god
 
 905
 01:03:04,365 --> 01:03:06,617
-<i>Ouch
-What a terrible performance</i>
+Ouch
+What a terrible performance
 
 906
 01:03:06,784 --> 01:03:08,202
-<i>Get the hook
-Get it?</i>
+Get the hook
+Get it?
 
 907
 01:03:08,369 --> 01:03:11,080
-<i>You don't swing it
-Like you used to, man</i>
+You don't swing it
+Like you used to, man
 
 908
 01:03:11,747 --> 01:03:14,709
-<i>Yet I have to give you
-Credit for my start</i>
+Yet I have to give you
+Credit for my start
 
 909
 01:03:14,876 --> 01:03:17,837
-<i>And your tattoos on the outside</i>
+And your tattoos on the outside
 
 910
 01:03:18,212 --> 01:03:21,340
-<i>For just like you
-I made myself a work of art</i>
+For just like you
+I made myself a work of art
 
 911
 01:03:21,591 --> 01:03:23,551
-<i>I 'll never hide
-I can't</i>
+I 'll never hide
+I can't
 
 912
 01:03:23,718 --> 01:03:24,760
-<i>I'm too shiny</i>
+I'm too shiny
 
 913
 01:03:24,927 --> 01:03:27,889
-<i>Watch me dazzle
-Like a diamond in the rough</i>
+Watch me dazzle
+Like a diamond in the rough
 
 914
 01:03:28,055 --> 01:03:31,392
-<i>Strut my stuff
-My stuff is so shiny</i>
+Strut my stuff
+My stuff is so shiny
 
 915
 01:03:31,601 --> 01:03:34,061
-<i>Send your armies
-But they'll never be enough</i>
+Send your armies
+But they'll never be enough
 
 916
 01:03:34,395 --> 01:03:36,898
-<i>My shell's too tough
-Maui, man</i>
+My shell's too tough
+Maui, man
 
 917
 01:03:38,065 --> 01:03:40,443
-<i>You can try, try, try
-But you can't expect a demigod</i>
+You can try, try, try
+But you can't expect a demigod
 
 918
 01:03:41,277 --> 01:03:43,446
-<i>To beat a decapod
-Look it up</i>
+To beat a decapod
+Look it up
 
 919
 01:03:43,779 --> 01:03:45,406
-<i>You Will die, die, die</i>
+You Will die, die, die
 
 920
 01:03:45,740 --> 01:03:47,408
-<i>Now it's time for me to take apart</i>
+Now it's time for me to take apart
 
 921
 01:03:48,117 --> 01:03:49,911
-<i>Your achin' heart</i>
+Your achin' heart
 
 922
 01:03:50,244 --> 01:03:54,665
-<i>Far from the ones who abandoned you</i>
+Far from the ones who abandoned you
 
 923
 01:03:55,374 --> 01:03:59,504
-<i>Chasing the love of these humans</i>
+Chasing the love of these humans
 
 924
 01:03:59,587 --> 01:04:02,632
-<i>Who made you feel wanted</i>
+Who made you feel wanted
 
 925
 01:04:02,965 --> 01:04:05,426
-<i>You tried to be tough</i>
+You tried to be tough
 
 926
 01:04:05,593 --> 01:04:09,639
-<i>But your armor's just not hard enough</i>
+But your armor's just not hard enough
 
 927
 01:04:10,389 --> 01:04:13,601
-<i>Maui
-Now it's time to kick your heinie</i>
+Maui
+Now it's time to kick your heinie
 
 928
 01:04:14,435 --> 01:04:17,396
-<i>Ever seen someone so shiny</i>
+Ever seen someone so shiny
 
 929
 01:04:17,772 --> 01:04:20,691
-<i>Soak it in
-'Cause it's the last you'll ever see</i>
+Soak it in
+'Cause it's the last you'll ever see
 
 930
 01:04:21,025 --> 01:04:22,443
-<i>C'est la vie
-Mon ami</i>
+C'est la vie
+Mon ami
 
 931
 01:04:22,652 --> 01:04:24,111
-<i>I'm so shiny</i>
+I'm so shiny
 
 932
 01:04:24,445 --> 01:04:27,073
-<i>Now I eat you so
-prepare your final plea</i>
+Now I eat you so
+prepare your final plea
 
 933
 01:04:27,281 --> 01:04:28,366
-<i>Just for me</i>
+Just for me
 
 934
 01:04:29,784 --> 01:04:32,119
-<i>You'll never be quite as shiny</i>
+You'll never be quite as shiny
 
 935
 01:04:32,620 --> 01:04:36,457
-<i>You wish you were nice and shiny</i>
+You wish you were nice and shiny
 
 936
 01:04:39,168 --> 01:04:40,336
@@ -4170,15 +4170,15 @@ Cursed.
 
 982
 01:06:59,266 --> 01:07:01,435
-<i>What can I say except</i>
+What can I say except
 
 983
 01:07:01,602 --> 01:07:03,437
-<i>We're dead soon</i>
+We're dead soon
 
 984
 01:07:03,646 --> 01:07:05,106
-<i>We're dead soon</i>
+We're dead soon
 
 985
 01:07:06,148 --> 01:07:08,067
@@ -4190,8 +4190,8 @@ Giant hawk.
 
 987
 01:07:15,282 --> 01:07:17,410
-<i>Hey, it's okay, it's okay
-We're dead soon</i>
+Hey, it's okay, it's okay
+We're dead soon
 
 988
 01:07:18,285 --> 01:07:20,204
@@ -4752,69 +4752,69 @@ I don't know.
 
 1122
 01:19:59,546 --> 01:20:01,882
-<i>I know a girl from an island</i>
+I know a girl from an island
 
 1123
 01:20:02,924 --> 01:20:05,594
-<i>She stands apart from the crowd</i>
+She stands apart from the crowd
 
 1124
 01:20:06,052 --> 01:20:09,055
-<i>She loves the sea and her people</i>
+She loves the sea and her people
 
 1125
 01:20:09,556 --> 01:20:11,725
-<i>She makes her whole family proud</i>
+She makes her whole family proud
 
 1126
 01:20:12,893 --> 01:20:15,604
-<i>Sometimes the world
-seems against you</i>
+Sometimes the world
+seems against you
 
 1127
 01:20:16,313 --> 01:20:19,107
-<i>The journey may leave a scar</i>
+The journey may leave a scar
 
 1128
 01:20:19,274 --> 01:20:22,068
-<i>But scars can heal and reveal just</i>
+But scars can heal and reveal just
 
 1129
 01:20:22,235 --> 01:20:24,821
-<i>Where you are</i>
+Where you are
 
 1130
 01:20:25,780 --> 01:20:28,742
-<i>The people you love will change you</i>
+The people you love will change you
 
 1131
 01:20:29,117 --> 01:20:31,995
-<i>The things you have
-learned will guide you</i>
+The things you have
+learned will guide you
 
 1132
 01:20:32,245 --> 01:20:35,582
-<i>And nothing on earth can silence</i>
+And nothing on earth can silence
 
 1133
 01:20:35,749 --> 01:20:38,752
-<i>The quiet voice still inside you</i>
+The quiet voice still inside you
 
 1134
 01:20:39,252 --> 01:20:42,422
-<i>And when that voice starts to whisper</i>
+And when that voice starts to whisper
 
 1135
 01:20:42,589 --> 01:20:45,258
-<i>Moana, you've come so far</i>
+Moana, you've come so far
 
 1136
 01:20:46,009 --> 01:20:47,761
-<i>Moana, listen</i>
+Moana, listen
 
 1137
 01:20:47,928 --> 01:20:52,599
-<i>Do you know who you are?</i>
+Do you know who you are?
 
 1138
 01:20:54,851 --> 01:20:56,269
@@ -4822,99 +4822,99 @@ Who am I?
 
 1139
 01:20:58,313 --> 01:21:01,775
-<i>I am a girl who loves my island</i>
+I am a girl who loves my island
 
 1140
 01:21:02,150 --> 01:21:05,737
-<i>And the girl who loves the sea</i>
+And the girl who loves the sea
 
 1141
 01:21:06,112 --> 01:21:09,199
-<i>It calls me</i>
+It calls me
 
 1142
 01:21:11,284 --> 01:21:14,162
-<i>I am the daughter of the village chief</i>
+I am the daughter of the village chief
 
 1143
 01:21:14,704 --> 01:21:17,582
-<i>We are descended from voyagers</i>
+We are descended from voyagers
 
 1144
 01:21:17,999 --> 01:21:20,335
-<i>Who found their way across the world</i>
+Who found their way across the world
 
 1145
 01:21:20,794 --> 01:21:22,754
-<i>They call me</i>
+They call me
 
 1146
 01:21:24,464 --> 01:21:26,967
-<i>I've delivered us to where we are</i>
+I've delivered us to where we are
 
 1147
 01:21:27,634 --> 01:21:30,303
-<i>I have journeyed farther</i>
+I have journeyed farther
 
 1148
 01:21:30,804 --> 01:21:33,181
-<i>I am everything I've learned and more</i>
+I am everything I've learned and more
 
 1149
 01:21:33,557 --> 01:21:35,350
-<i>Still it calls me</i>
+Still it calls me
 
 1150
 01:21:37,519 --> 01:21:39,813
-<i>And the call isn't out there at all</i>
+And the call isn't out there at all
 
 1151
 01:21:39,980 --> 01:21:42,774
-<i>It's inside me</i>
+It's inside me
 
 1152
 01:21:43,191 --> 01:21:45,151
-<i>It's like the tide</i>
+It's like the tide
 
 1153
 01:21:45,318 --> 01:21:49,573
-<i>Always falling and rising</i>
+Always falling and rising
 
 1154
 01:21:50,031 --> 01:21:52,492
-<i>I will carry you here in my heart</i>
+I will carry you here in my heart
 
 1155
 01:21:52,659 --> 01:21:55,704
-<i>You remind me</i>
+You remind me
 
 1156
 01:21:55,870 --> 01:21:58,832
-<i>That come what may</i>
+That come what may
 
 1157
 01:21:58,999 --> 01:22:02,002
-<i>I know the way</i>
+I know the way
 
 1158
 01:22:02,168 --> 01:22:06,756
-<i>I am Moana</i>
+I am Moana
 
 1159
 01:22:41,207 --> 01:22:43,418
-<i>I am Moana of Motunui.</i>
+I am Moana of Motunui.
 
 1160
 01:22:44,878 --> 01:22:45,879
-<i>Aboard my boat...</i>
+Aboard my boat...
 
 1161
 01:22:46,212 --> 01:22:48,381
-<i>I will sail across the sea...</i>
+I will sail across the sea...
 
 1162
 01:22:48,757 --> 01:22:51,718
-<i>and restore the heart of Te Fiti.</i>
+and restore the heart of Te Fiti.
 
 1163
 01:23:27,921 --> 01:23:29,923
@@ -5038,28 +5038,28 @@ Let her come to me.
 
 1193
 01:28:55,581 --> 01:28:59,085
-<i>I have crossed the horizon to find you</i>
+I have crossed the horizon to find you
 
 1194
 01:29:06,342 --> 01:29:08,720
-<i>I know your name</i>
+I know your name
 
 1195
 01:29:12,515 --> 01:29:16,352
-<i>They have stolen the
-heart from inside you</i>
+They have stolen the
+heart from inside you
 
 1196
 01:29:21,107 --> 01:29:24,193
-<i>But this does not define you</i>
+But this does not define you
 
 1197
 01:29:27,780 --> 01:29:31,784
-<i>This is not who you are</i>
+This is not who you are
 
 1198
 01:29:33,453 --> 01:29:38,708
-<i>You know who you are</i>
+You know who you are
 
 1199
 01:29:45,548 --> 01:29:48,217
@@ -5199,42 +5199,42 @@ Welcome home!
 
 1232
 01:35:34,772 --> 01:35:36,941
-<i>We set a course to find</i>
+We set a course to find
 
 1233
 01:35:37,108 --> 01:35:41,362
-<i>A brand new island
-everywhere we roam</i>
+A brand new island
+everywhere we roam
 
 1234
 01:35:43,656 --> 01:35:46,033
-<i>We keep our island in our mind</i>
+We keep our island in our mind
 
 1235
 01:35:46,575 --> 01:35:50,788
-<i>And when it's time to find home
-We know the way</i>
+And when it's time to find home
+We know the way
 
 1236
 01:35:52,498 --> 01:35:55,501
-<i>We are explorers reading every sign</i>
+We are explorers reading every sign
 
 1237
 01:35:56,127 --> 01:36:00,339
-<i>We tell the stories of our elders
-In a never-ending chain</i>
+We tell the stories of our elders
+In a never-ending chain
 
 1238
 01:36:07,930 --> 01:36:12,601
-<i>We know the way</i>
+We know the way
 
 1239
 01:46:07,529 --> 01:46:08,905
-<i>Shiny</i>
+Shiny
 
 1240
 01:46:09,448 --> 01:46:11,950
-<i>I'm so shiny</i>
+I'm so shiny
 
 1241
 01:46:12,576 --> 01:46:14,369
@@ -5264,4 +5264,3 @@ you'd totally help me.
 1247
 01:46:27,174 --> 01:46:28,800
 You would. You know you would.
-
