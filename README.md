@@ -2,4 +2,4 @@
 Pytorch implementation for “V2C: Visual Voice Cloning”
 
 # Get Dataset
-Please refer to to README.md in 
+Please refer to to README.md in the DataConstruction folder.
