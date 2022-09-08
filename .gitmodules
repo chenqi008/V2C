@@ -1,0 +1,3 @@
+[submodule "pymcd"]
+	path = pymcd
+	url = git@github.com:chenqi008/pymcd.git
