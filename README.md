@@ -32,8 +32,7 @@ As shown in the above image, 5.1 surround sound has 6 sound channels, and so 6 s
 #### 2) data collection
 
 <p align="center">
-<img src="./
-/data_collection.png" alt="example" width="80%">
+<img src="./DataConstruction/images/data_collection.png" alt="example" width="80%">
 </p>
 <p align="center">
 Figure: The process of data collection.
@@ -89,7 +88,7 @@ Note that this code involves the processes 2 and 3 only. Thus, we need to make a
 The organization of V2C-Animation dataset:
 
 <p align="center">
-<img src="./images/V2C-Speaker-v1.jpg" alt="example" width="100%">
+<img src="./DataConstruction/images/V2C-Speaker-v1.jpg" alt="example" width="100%">
 </p>
 <p align="center">
 Figure: Movies with the corresponding speakers/characters on the V2C-Animation dataset.
