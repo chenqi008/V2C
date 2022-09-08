@@ -12,7 +12,7 @@ The overall processes of V2C-Animation dataset can be divided into three parts: 
 #### 1) data pre-processing
 
 <p align="center">
-<img src="./images/data_preprocessing.png" alt="example" width="60%">
+<img src="./DataConstruction/images/data_preprocessing.png" alt="example" width="60%">
 </p>
 <p align="center">
 Figure: The process of data pre-processing.
@@ -32,7 +32,8 @@ As shown in the above image, 5.1 surround sound has 6 sound channels, and so 6 s
 #### 2) data collection
 
 <p align="center">
-<img src="./images/data_collection.png" alt="example" width="80%">
+<img src="./
+/data_collection.png" alt="example" width="80%">
 </p>
 <p align="center">
 Figure: The process of data collection.
@@ -41,7 +42,7 @@ Figure: The process of data collection.
 We search for animated movies with the corresponding subtitles and then select a set of 26 movies of diverse genres. Specifically, we first cut the movies into a series of video clips according to the subtitle files. Here, we use an SRT type subtitle file. In addition to subtitles/texts, the SRT file also contains starting and ending time-stamps to ensure the subtitles match with video and audio, and sequential number of subtitles (e.g., No. 726 and No. 1340 in Figure), which indicates the index of each video clip. Based on the SRT file, we cut the movie into a series of video clips using the FFmpeg toolkit (an automatic audio and video processing toolkit) and then extract the audio from each video clip by FFmpeg as well.
 
 <p align="center">
-<img src="./images/movie_clip_with_subtitle.png" alt="example" width="80%">
+<img src="./DataConstruction/images/movie_clip_with_subtitle.png" alt="example" width="80%">
 </p>
 <p align="center">
 Figure: Examples of how to cut a movie into a series of video clips according to subtitle files. Note that the subtitle files contain both starting and ending time-stamps for each video clip.
@@ -52,7 +53,7 @@ Figure: Examples of how to cut a movie into a series of video clips according to
 
 
 <p align="center">
-<img src="./images/data_organization.png" alt="example" width="70%">
+<img src="./DataConstruction/images/data_organization.png" alt="example" width="70%">
 </p>
 <p align="center">
 Figure: The processes of data annotation and organization.
@@ -61,7 +62,7 @@ Figure: The processes of data annotation and organization.
 Inspired by the organization of LibriSpeech dataset, we categorize the obtained video clips, audios and subtitles into their corresponding characters (i.e., speakers) via a crowd-sourced service. To ensure that the characters appeared in the video clips are the same as the speaking ones, we manually remove the data example that does not satisfy the requirement. Then, following the categories of FER-2013 (a dataset for human facial expression recognition), we divide the collected video/audio clips into 8 types including angry, happy, sad, etc.  In this way, we totally collect a dataset with 10,217 video clips with paired audios and subtitles.  All of the annotations, time-stamps of the mined movie clips and a tool to extract the triplet data will be released.
 
 <p align="center">
-<img src="./images/emotion_distribution.jpg" alt="example" width="50%">
+<img src="./DataConstruction/images/emotion_distribution.jpg" alt="example" width="50%">
 </p>
 <p align="center">
 Figure: Distribution of emotion labels on V2C-Animation.
@@ -70,7 +71,7 @@ Figure: Distribution of emotion labels on V2C-Animation.
 We divide the collected video/audio clips into 8 types (i.e., 0: angry, 1: disgust, 2: fear, 3: happy, 4: neutral, 5: sad, 6: surprise, and 7: others). The corresponding emotion labels for the video clips are in emotions.json.
 
 <p align="center">
-<img src="./images/character_emotion.png" alt="example" width="50%">
+<img src="./DataConstruction/images/character_emotion.png" alt="example" width="50%">
 </p>
 <p align="center">
 Figure: Samples of the character's emotion (e.g., happy and sad) involved in the reference video. Here, we take Elsa (a character in movie Frozen) as an example.
