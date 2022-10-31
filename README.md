@@ -183,3 +183,24 @@ We provide the hyperlink of each animated movies on the V2C-Animation dataset.
 
 [Bossbaby](https://www.microsoft.com/en-au/p/the-boss-baby/8d6kgwxblb9q?activetab=pivot%3aoverviewtab), [Brave](https://www.microsoft.com/en-us/p/brave/8D6KGWZL5W0P/006F?activetab=pivot:overviewtab), [Cloudy](https://www.microsoft.com/en-au/p/cloudy-with-a-chance-of-meatballs/8d6kgwzl62j4?activetab=pivot%3aoverviewtab), [CloudyII](https://www.microsoft.com/en-au/p/cloudy-with-a-chance-of-meatballs-cloudy-with-a-chance-of-meatballs-2/8d6kgwztwz7z?activetab=pivot%3aoverviewtab), [COCO](https://www.microsoft.com/en-us/p/onward-coco-bundle/8d6kgwxn1rqf?activetab=pivot%3aoverviewtab), [Croods](https://www.microsoft.com/en-au/p/the-croods-a-new-age/8d6kgwxn81pl?activetab=pivot%3aoverviewtab), [Dragon](https://www.microsoft.com/en-au/p/how-to-train-your-dragon/8d6kgwzl5w15?activetab=pivot%3aoverviewtab), [DragonII](https://www.microsoft.com/en-au/p/how-to-train-your-dragon-2/8d6kgwzm9xxg?activetab=pivot%3aoverviewtab), [Frozen](https://www.microsoft.com/en-au/p/frozen-2013/8d6kgwzkhjg9?activetab=pivot%3aoverviewtab), [FrozenII](https://www.microsoft.com/en-au/p/frozen-ii/8d6kgwxn0hk0?activetab=pivot%3aoverviewtab), [Incredibles](https://www.microsoft.com/en-us/p/the-incredibles/8d6kgwzl5sxd?activetab=pivot%3aoverviewtab), [IncrediblesII](https://www.microsoft.com/en-us/p/incredibles-2/8d6kgwxn250g?activetab=pivot%3aoverviewtab), [Inside](https://www.microsoft.com/en-us/p/inside-out-bonus/8d6kgx06gplg?activetab=pivot%3aoverviewtab), [Meet](https://www.microsoft.com/en-au/p/meet-the-robinsons/8d6kgwzl58bd?activetab=pivot%3aoverviewtab), [Moana](https://www.microsoft.com/en-au/p/moana/8d6kgx0m8tzw?activetab=pivot%3aoverviewtab), [Ralph](https://www.microsoft.com/en-au/p/ralph-breaks-the-internet-bonus/8d6kgwxn43d7?activetab=pivot%3aoverviewtab), [Tangled](https://www.microsoft.com/en-au/p/tangled/8d6kgwzl596v?activetab=pivot%3aoverviewtab), [Tinker](https://www.microsoft.com/en-au/p/tinker-bell/8d6kgwzl62rs?activetab=pivot%3aoverviewtab), [TinkerII](https://www.microsoft.com/en-us/p/clochette-et-le-tresor-perdu-tinker-bell-and-the-lost-treasure/8d6kgwzl5qp2?activetab=pivot%3aoverviewtab), [TinkerIII](https://www.microsoft.com/en-ie/p/tinker-bell-and-the-great-fairy-rescue/8d6kgwzl5lxr?activetab=pivot%3aoverviewtab), [Toy](https://www.microsoft.com/en-us/p/toy-story-bonus/8d6kgwxmzwvg?activetab=pivot%3aoverviewtab), [ToyII](https://www.microsoft.com/en-us/p/toy-story-2-bonus/8d6kgwxmzwvf?activetab=pivot%3aoverviewtab), [ToyIII](https://www.microsoft.com/en-us/p/toy-story-3-bonus/8d6kgwxmzwvk?activetab=pivot%3aoverviewtab), [Up](https://www.microsoft.com/en-us/p/up/8d6kgwzl5wms?activetab=pivot%3aoverviewtab), [Wreck](https://www.microsoft.com/en-au/p/wreck-it-ralph/8d6kgwzl5pp9?activetab=pivot%3aoverviewtab), [Zootopia](https://www.microsoft.com/en-au/p/zootopia/8d6kgx0cs5hb?activetab=pivot%3aoverviewtab)
 
+
+## Experimental Results
+To investigate the performance of the proposed method, we conduct experiments in two different settings.
+
+#### Setting 1: we compare our method with baselines using the ground-truth intermediate duration, patch and energy values.
+
+| Method | MCD | MCD-DTW | MCD-DTW-SL| Id. Acc.| Emo. Acc. | MOS-naturalness | MOS-similarity |
+| :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+| Ground Truth | 00.00 | 00.00 | 00.00| 90.62|84.38|4.61 ± 0.15 | 4.74 ± 0.12|
+| Fastspeech2 | 12.08 | 10.29 | 10.31 | 59.38 | 53.13 | 3.86 ± 0.07 | 3.75 ± 0.06 |
+| V2C-Net (Ours) | 11.79 | 10.09 | 10.05 | 62.50 | 56.25 | 3.97 ± 0.06 | 3.90 ± 0.06 |
+
+#### Setting 2: we compare our method with baselines using the predicted intermediate duration, patch and energy values.
+
+| Method | MCD | MCD-DTW | MCD-DTW-SL| Id. Acc.| Emo. Acc. | MOS-naturalness | MOS-similarity |
+| :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+| Ground Truth | 00.00 | 00.00 | 00.00| 90.62|84.38|4.61 ± 0.15 | 4.74 ± 0.12|
+| SV2TTS | 21.08 | 12.87 | 49.56 | 33.62 | 37.19 | 2.03 ± 0.22 | 1.92 ± 0.15 |
+| Fastspeech2 | 20.78 | 14.39| 19.41| 21.72| 46.82 | - | - |
+| V2C-Net (Ours) | 20.61 | 14.23 | 19.15| 26.84| 48.41 | - | - |
+
